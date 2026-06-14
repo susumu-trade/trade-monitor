@@ -119,6 +119,18 @@ def stddev(vals):
     m = sum(vals)/len(vals)
     return math.sqrt(sum((v-m)**2 for v in vals)/len(vals))
 
+def atr(highs, lows, closes, n):
+    """ATR(平均真の値幅)。損切り幅の算出に使う。"""
+    trs = []
+    for i in range(1, len(closes)):
+        trs.append(max(highs[i]-lows[i], abs(highs[i]-closes[i-1]), abs(lows[i]-closes[i-1])))
+    if len(trs) < n:
+        return None
+    a = sum(trs[:n])/n
+    for i in range(n, len(trs)):
+        a = (a*(n-1) + trs[i])/n
+    return a
+
 # ---------- 各チェック ----------
 def check_spike(cfg, state):
     sm = cfg["spike_monitor"]
@@ -273,6 +285,7 @@ def check_signals(cfg, state):
         if len(closes) < need:
             continue
         cur = closes[-1]
+        a = atr(highs, lows, closes, s.get("atr_period", 14))
         sigs = []
         if "sma" in sigset:
             ss = sma_series(closes, s["sma_short"]); sl = sma_series(closes, s["sma_long"])
@@ -308,8 +321,21 @@ def check_signals(cfg, state):
                 continue
             arrow = "🟢 買い" if direction == "buy" else "🔴 売り"
             strength = "★" * min(len(reasons), 3)
+            risk_line = ""
+            if a:
+                mult = s.get("atr_stop_mult", 1.5)
+                rr = s.get("rr_ratio", 1.5)
+                if direction == "buy":
+                    stop = cur - mult*a; tgt = cur + mult*a*rr
+                else:
+                    stop = cur + mult*a; tgt = cur - mult*a*rr
+                rk = abs(cur-stop)/cur*100
+                rw = abs(tgt-cur)/cur*100
+                risk_line = (f"\n🛑 損切り目安: {fmt_price(stop)}（{rk:.2f}%）"
+                             f"\n🎯 利確目安: {fmt_price(tgt)}（{rw:.2f}%）"
+                             f"\n※必ず損切りを置く（塩漬け厳禁）")
             tg_send(f"📈 シグナル {name} {strength}\n{arrow}（{s['interval']}足）\n"
-                    + "\n".join("・"+r for r in reasons) + f"\n現在値: {fmt_price(cur)}")
+                    + "\n".join("・"+r for r in reasons) + f"\n現在値: {fmt_price(cur)}" + risk_line)
             cd[key] = now.isoformat()
             print(f"[sig] {name} {direction} <- {reasons}")
 
