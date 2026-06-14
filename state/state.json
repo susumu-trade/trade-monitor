@@ -1,0 +1,902 @@
+{
+ "spike_cd": {},
+ "news_seen": [
+  "https://investinglive.com/stocks/us-major-indices-close-higher-on-the-day-and-on-the-week-20260612/",
+  "https://investinglive.com/news/investinglive-americas-market-news-wrap-spacex-ipo-succeeds-mixed-signals-on-iran-20260612/",
+  "https://investinglive.com/news/iranian-finance-minister-end-of-war-on-all-fronts-will-be-announced-under-interim-deal-20260612/",
+  "https://investinglive.com/Cryptocurrency/bitcoin-trades-to-new-highs-for-the-week-but-backs-off-20260612/",
+  "https://investinglive.com/news/at-least-10-billion-for-iran-to-be-unlocked-in-iran-deal-20260612/",
+  "https://investinglive.com/commodities/gold-is-trying-to-find-traction-as-a-post-war-trade-20260612/",
+  "https://investinglive.com/news/trump-says-post-from-iranian-foreign-minister-is-very-positive-20260612/",
+  "https://investinglive.com/technical-analysis/the-usdcad-comes-off-the-new-highs-for-the-year-but-prior-highs-stall-the-fall-20260612/",
+  "https://investinglive.com/news/starmer-faces-rising-pressure-as-burnham-looms-20260612/",
+  "https://investinglive.com/stocks/spacex-opens-at-150-per-share-20260612/",
+  "https://investinglive.com/news/vp-vance-a-lot-of-fake-information-about-potential-deal-to-reopen-straitend-iran-nuclear-20260612/",
+  "https://investinglive.com/news/iranian-foreign-minister-says-the-memorandum-of-understanding-has-never-been-closer-20260612/",
+  "https://investinglive.com/stock-market-update/tech-stocks-rally-financial-sector-exhibits-steady-growth-amidst-mixed-market-signals-20260612/",
+  "https://investinglive.com/stocks/headlines-say-that-spacex-shares-open-at-172-vs-135-ipo-pricebut-i-dont-think-so-20260612/",
+  "https://investinglive.com/stocks/the-broader-us-stocks-indice-are-lower-what-are-the-technicals-telling-traders-20260612/",
+  "https://investinglive.com/news/june-us-prelim-mich-consumer-sentiment-489-vs-460-expected-20260612/",
+  "https://investinglive.com/stocks/spacex-shares-indicated-to-open-at-171-report-20260612/",
+  "https://investinglive.com/news/trump-says-the-terms-of-the-iran-deal-that-leaked-out-are-fake-upset-about-drone-attacks-20260612/",
+  "https://investinglive.com/technical-analysis/usdchf-off-the-boil-but-buyers-and-seller-are-now-in-neutral-territory-20260612/",
+  "https://investinglive.com/stocks/the-war-is-over-trade-is-competing-with-the-spacex-ipo-today-for-top-billing-20260612/",
+  "https://investinglive.com/technical-analysis/the-usd-is-higher-but-still-neutral-technically-i-will-explain-why-in-this-video-20260612/",
+  "https://investinglive.com/news/investinglive-european-markets-wrap-setting-up-for-that-taco-moment-spacex-debut-up-next-20260612/",
+  "https://investinglive.com/centralbank/how-have-interest-rate-expectations-changed-after-this-weeks-events-20260612/",
+  "https://investinglive.com/news/iran-will-not-restore-strait-of-hormuz-status-to-pre-war-level-irna-20260612/",
+  "https://investinglive.com/stocks/the-countdown-continues-ahead-of-the-wall-street-open-all-eyes-on-spacex-20260612/",
+  "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/u-s-productivity-slows-down-in-fourth-quarter-while-unit-labor-costs-accelerate-3c2b9092?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/beyond-to-buy-rights-to-buy-buy-baby-brand-and-reunite-it-with-bed-bath-beyond-4383c6be?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/trump-asks-supreme-court-to-pause-tiktok-ban-2b724ae6?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/amazon-says-it-had-best-ever-thanksgiving-holiday-week-with-record-sales-and-number-of-items-sold-786e0143?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/u-s-stock-futures-and-bond-yields-drop-on-reports-putin-has-updated-nuclear-doctrine-4b9792c4?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/charter-communications-announces-buyout-deal-for-liberty-broadband-at-terms-above-its-previous-proposal-552f7acd?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/general-motors-unveils-new-all-electric-cadillac-called-the-vistiq-with-300-mile-range-c16fb8a6?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/vestas-wind-systems-stock-slumps-as-company-says-margins-to-be-at-low-end-of-guidance-a33bf5c4?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/burberry-shares-rise-on-report-moncler-could-bid-for-it-9de42b98?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/kazatomprom-reports-17-increase-in-production-during-the-third-quarter-68742d5c?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/anheuser-busch-inbev-shares-slip-as-sales-come-up-shy-of-estimates-508282c4?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/wingstops-stock-slides-12-after-profit-falls-short-of-estimates-1146f0ec?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/novartis-hikes-sales-and-profit-guidance-for-the-year-eed24ebf?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/plus500-says-it-will-meet-expectations-after-quarterly-revenue-climbs-11-b68b5ef1?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/trainline-boosts-guidance-for-the-second-time-this-year-513373f6?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/barclays-reports-18-profit-rise-as-it-lifts-income-guidance-ceef3caf?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/london-stock-exchange-group-says-income-grew-led-by-tradeweb-65d00f97?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/nobel-economics-prize-awarded-to-three-who-studied-wealth-of-nations-b1a391ba?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/nobel-peace-prize-awarded-to-japanese-atomic-bomb-survivors-d14639d7?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/directv-to-acquire-echostars-video-distribution-business-including-dish-tv-and-sling-tv-23349832?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/moodys-places-all-of-boeings-ratings-on-review-for-a-downgrade-be242697?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/microsoft-to-lay-off-650-people-from-videogame-business-wsj-72135ba9?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/arcbest-misses-profit-expectations-as-soft-rate-environment-weighed-on-revenue-4461160b?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/alibaba-stock-climbs-on-report-of-vendor-service-fee-increase-db9d1854?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
+  "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fed-boj-boe-and-rba-decisions-take-center-stage-202606122039",
+  "https://www.fxstreet.com/news/south-korean-won-authorities-step-up-fx-stabilisation-push-societe-generale-202606121957",
+  "https://www.fxstreet.com/news/us-senior-official-iran-accord-secures-hormuz-reopening-nuclear-material-202606121913",
+  "https://www.fxstreet.com/news/united-kingdom-growth-resilience-but-softer-inflation-deutsche-bank-202606121911",
+  "https://www.fxstreet.com/news/gold-clears-4-200-as-optimism-on-middle-east-deal-dents-inflation-woes-202606121850",
+  "https://www.fxstreet.com/news/south-korean-won-supported-by-equities-and-hawkish-bok-bbh-202606121825",
+  "https://www.fxstreet.com/news/usd-cad-price-forecast-rsi-enters-overbought-territory-as-bears-defend-14000-202606121817",
+  "https://www.fxstreet.com/news/japanese-yen-weakness-raises-intervention-concerns-scotiabank-202606121744",
+  "https://www.fxstreet.com/news/euro-holds-steady-against-the-us-dollar-as-markets-await-clarity-on-a-possible-us-iran-peace-deal-202606121720",
+  "https://www.fxstreet.com/news/chinese-yuan-policy-mix-supports-stability-societe-generale-202606121715",
+  "https://www.fxstreet.com/news/dow-jones-industrial-average-takes-pakistans-word-for-it-202606121710",
+  "https://www.fxstreet.com/news/japanese-yen-holds-as-traders-switch-focus-to-boj-hike-and-warshs-first-fed-meeting-202606121639",
+  "https://www.fxstreet.com/news/gold-holds-near-4-200-as-traders-weigh-us-iran-deal-prospects-202606121211",
+  "https://www.fxstreet.com/news/silver-price-firms-on-us-dollar-weakness-amid-easing-us-iran-haven-demand-202606121613",
+  "https://www.fxstreet.com/news/boe-seen-holding-rates-as-economists-split-on-next-move-rtrs-202606121601",
+  "https://www.fxstreet.com/news/british-pound-stalls-as-uk-gdp-shrinks-diplomacy-boosts-risk-mood-202606121548",
+  "https://www.fxstreet.com/news/us-officials-comments-on-iran-negotiations-put-mild-pressure-on-us-dollar-202606121544",
+  "https://www.fxstreet.com/news/british-pound-steady-against-us-dollar-before-key-boe-and-data-scotiabank-202606121503",
+  "https://www.fxstreet.com/news/euro-supported-by-hawkish-ecb-rhetoric-as-british-pound-struggles-after-weak-gdp-202606121454",
+  "https://www.fxstreet.com/news/cee-fx-risk-on-bounce-but-policy-still-key-ing-202606121447",
+  "https://www.fxstreet.com/news/canadian-dollar-overbought-dollar-holds-near-140-ceiling-scotiabank-202606121433",
+  "https://www.fxstreet.com/news/new-zealand-dollar-dips-as-robust-us-sentiment-inflation-data-underpin-us-dollar-202606121425",
+  "https://www.fxstreet.com/news/european-central-bank-hawkish-forecasts-point-to-higher-terminal-rate-nomura-202606121423",
+  "https://www.fxstreet.com/news/bank-of-england-hold-stance-extended-as-inflation-risks-linger-td-securities-202606121407",
+  "https://www.fxstreet.com/news/uom-consumer-sentiment-index-expected-to-remain-depressed-near-historical-lows-in-june-202606121100",
+  "https://www.fxstreet.com/news/british-pound-poised-to-fall-toward-13100-against-us-dollar-bbh-202606121350",
+  "https://www.fxstreet.com/news/federal-reserve-warsh-policy-shift-and-inflation-focus-nbc-202606121338",
+  "https://www.fxstreet.com/news/us-dollar-peace-deal-talk-keeps-support-intact-ing-202606121327",
+  "https://www.fxstreet.com/news/wti-price-forecast-rsi-points-lower-as-prices-remain-below-key-smas-202606121319",
+  "https://www.fxstreet.com/news/indian-rupee-external-shocks-pressure-currency-outlook-commerzbank-202606121312",
+  "https://www.investing.com/news/forex-news/asia-fx-mixed-as-traders-assess-iran-peace-prospects-rupee-top-gainer-4738906",
+  "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-uk-economy-contracts-and-dollar-remains-supported-4739585",
+  "https://www.investing.com/news/forex-news/blackrock-says-oil-fx-risks-loom-over-indias-bond-inflow-push-4739026",
+  "https://www.investing.com/news/forex-news/eurozone-bonds-rise-on-prospects-of-iranus-diplomatic-breakthrough-4739018",
+  "https://www.investing.com/news/forex-news/asia-fx-dollar-steady-amid-fresh-usiran-tensions-fed-rate-caution-4736482",
+  "https://www.investing.com/news/forex-news/euro-dips-as-ecb-raises-rates-93CH-4737892",
+  "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-ecb-hike-fails-to-shake-dollars-grip-4737382",
+  "https://www.investing.com/news/forex-news/bca-sees-korea-fx-opportunity-as-won-detaches-from-fundamentals-93CH-4736740",
+  "https://www.investing.com/news/forex-news/german-twoyear-yield-near-multiweek-high-ahead-of-ecb-decision-4736617",
+  "https://www.investing.com/news/forex-news/asia-fx-dollar-steady-as-usiran-tensions-intensify-cpi-data-ahead-4734323"
+ ],
+ "cal": {
+  "last_digest": "2026-06-14",
+  "sent": [],
+  "cache": [
+   {
+    "title": "BusinessNZ Services Index",
+    "country": "NZD",
+    "date": "2026-06-14T18:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "48.9"
+   },
+   {
+    "title": "Rightmove HPI m/m",
+    "country": "GBP",
+    "date": "2026-06-14T19:01:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1.2%"
+   },
+   {
+    "title": "Tertiary Industry Activity m/m",
+    "country": "JPY",
+    "date": "2026-06-15T00:30:00-04:00",
+    "impact": "Low",
+    "forecast": "0.5%",
+    "previous": "-0.2%"
+   },
+   {
+    "title": "German WPI m/m",
+    "country": "EUR",
+    "date": "2026-06-15T02:00:00-04:00",
+    "impact": "Low",
+    "forecast": "0.8%",
+    "previous": "2.0%"
+   },
+   {
+    "title": "PPI m/m",
+    "country": "CHF",
+    "date": "2026-06-15T02:30:00-04:00",
+    "impact": "Low",
+    "forecast": "0.4%",
+    "previous": "0.8%"
+   },
+   {
+    "title": "SECO Consumer Climate",
+    "country": "CHF",
+    "date": "2026-06-15T03:00:00-04:00",
+    "impact": "Low",
+    "forecast": "-38",
+    "previous": "-40"
+   },
+   {
+    "title": "German Buba President Nagel Speaks",
+    "country": "EUR",
+    "date": "2026-06-15T03:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "date": "2026-06-15T03:15:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Italian Trade Balance",
+    "country": "EUR",
+    "date": "2026-06-15T04:00:00-04:00",
+    "impact": "Low",
+    "forecast": "5.19B",
+    "previous": "4.71B"
+   },
+   {
+    "title": "Industrial Production m/m",
+    "country": "EUR",
+    "date": "2026-06-15T05:00:00-04:00",
+    "impact": "Low",
+    "forecast": "0.2%",
+    "previous": "0.2%"
+   },
+   {
+    "title": "Trade Balance",
+    "country": "EUR",
+    "date": "2026-06-15T05:00:00-04:00",
+    "impact": "Low",
+    "forecast": "7.8B",
+    "previous": "3.5B"
+   },
+   {
+    "title": "Housing Starts",
+    "country": "CAD",
+    "date": "2026-06-15T08:15:00-04:00",
+    "impact": "Low",
+    "forecast": "255K",
+    "previous": "279K"
+   },
+   {
+    "title": "Manufacturing Sales m/m",
+    "country": "CAD",
+    "date": "2026-06-15T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "4.4%",
+    "previous": "3.0%"
+   },
+   {
+    "title": "Wholesale Sales m/m",
+    "country": "CAD",
+    "date": "2026-06-15T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "0.2%",
+    "previous": "1.9%"
+   },
+   {
+    "title": "Empire State Manufacturing Index",
+    "country": "USD",
+    "date": "2026-06-15T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "13.2",
+    "previous": "19.6"
+   },
+   {
+    "title": "Capacity Utilization Rate",
+    "country": "USD",
+    "date": "2026-06-15T09:15:00-04:00",
+    "impact": "Low",
+    "forecast": "76.2%",
+    "previous": "76.1%"
+   },
+   {
+    "title": "Industrial Production m/m",
+    "country": "USD",
+    "date": "2026-06-15T09:15:00-04:00",
+    "impact": "Low",
+    "forecast": "0.3%",
+    "previous": "0.7%"
+   },
+   {
+    "title": "NAHB Housing Market Index",
+    "country": "USD",
+    "date": "2026-06-15T10:00:00-04:00",
+    "impact": "Low",
+    "forecast": "36",
+    "previous": "37"
+   },
+   {
+    "title": "FPI m/m",
+    "country": "NZD",
+    "date": "2026-06-15T18:45:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.0%"
+   },
+   {
+    "title": "New Home Prices m/m",
+    "country": "CNY",
+    "date": "2026-06-15T21:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-0.19%"
+   },
+   {
+    "title": "Fixed Asset Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-06-15T22:00:00-04:00",
+    "impact": "Low",
+    "forecast": "-2.3%",
+    "previous": "-1.6%"
+   },
+   {
+    "title": "Industrial Production y/y",
+    "country": "CNY",
+    "date": "2026-06-15T22:00:00-04:00",
+    "impact": "Low",
+    "forecast": "4.3%",
+    "previous": "4.1%"
+   },
+   {
+    "title": "NBS Press Conference",
+    "country": "CNY",
+    "date": "2026-06-15T22:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Retail Sales y/y",
+    "country": "CNY",
+    "date": "2026-06-15T22:00:00-04:00",
+    "impact": "Low",
+    "forecast": "-0.2%",
+    "previous": "0.2%"
+   },
+   {
+    "title": "Unemployment Rate",
+    "country": "CNY",
+    "date": "2026-06-15T22:00:00-04:00",
+    "impact": "Low",
+    "forecast": "5.2%",
+    "previous": "5.2%"
+   },
+   {
+    "title": "BOJ Policy Rate",
+    "country": "JPY",
+    "date": "2026-06-15T22:30:00-04:00",
+    "impact": "High",
+    "forecast": "<1.00%",
+    "previous": "<0.75%"
+   },
+   {
+    "title": "Monetary Policy Statement",
+    "country": "JPY",
+    "date": "2026-06-15T22:30:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Cash Rate",
+    "country": "AUD",
+    "date": "2026-06-16T00:30:00-04:00",
+    "impact": "High",
+    "forecast": "4.35%",
+    "previous": "4.35%"
+   },
+   {
+    "title": "RBA Rate Statement",
+    "country": "AUD",
+    "date": "2026-06-16T00:30:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "RBA Press Conference",
+    "country": "AUD",
+    "date": "2026-06-16T01:30:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "BOJ Press Conference",
+    "country": "JPY",
+    "date": "2026-06-16T01:30:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "German ZEW Economic Sentiment",
+    "country": "EUR",
+    "date": "2026-06-16T05:00:00-04:00",
+    "impact": "Low",
+    "forecast": "-5.5",
+    "previous": "-10.2"
+   },
+   {
+    "title": "ZEW Economic Sentiment",
+    "country": "EUR",
+    "date": "2026-06-16T05:00:00-04:00",
+    "impact": "Low",
+    "forecast": "-7.6",
+    "previous": "-9.1"
+   },
+   {
+    "title": "10-y Bond Auction",
+    "country": "GBP",
+    "date": "2026-06-16T05:33:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "4.98|3.6"
+   },
+   {
+    "title": "ADP Weekly Employment Change",
+    "country": "USD",
+    "date": "2026-06-16T08:15:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "29.0K"
+   },
+   {
+    "title": "Foreign Securities Purchases",
+    "country": "CAD",
+    "date": "2026-06-16T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "11.28B",
+    "previous": "4.62B"
+   },
+   {
+    "title": "Building Permits",
+    "country": "USD",
+    "date": "2026-06-16T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "1.42M",
+    "previous": "1.44M"
+   },
+   {
+    "title": "Housing Starts",
+    "country": "USD",
+    "date": "2026-06-16T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "1.42M",
+    "previous": "1.47M"
+   },
+   {
+    "title": "Import Prices m/m",
+    "country": "USD",
+    "date": "2026-06-16T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "0.9%",
+    "previous": "1.9%"
+   },
+   {
+    "title": "GDT Price Index",
+    "country": "NZD",
+    "date": "2026-06-16T10:50:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-0.6%"
+   },
+   {
+    "title": "API Weekly Statistical Bulletin",
+    "country": "USD",
+    "date": "2026-06-16T16:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Westpac Consumer Sentiment",
+    "country": "NZD",
+    "date": "2026-06-16T17:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Current Account",
+    "country": "NZD",
+    "date": "2026-06-16T18:45:00-04:00",
+    "impact": "Low",
+    "forecast": "-1.19B",
+    "previous": "-5.98B"
+   },
+   {
+    "title": "Core Machinery Orders m/m",
+    "country": "JPY",
+    "date": "2026-06-16T19:50:00-04:00",
+    "impact": "Low",
+    "forecast": "4.1%",
+    "previous": "-9.4%"
+   },
+   {
+    "title": "Trade Balance",
+    "country": "JPY",
+    "date": "2026-06-16T19:50:00-04:00",
+    "impact": "Low",
+    "forecast": "-0.21T",
+    "previous": "0.24T"
+   },
+   {
+    "title": "MI Leading Index m/m",
+    "country": "AUD",
+    "date": "2026-06-16T20:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.0%"
+   },
+   {
+    "title": "RBA Assist Gov Jones Speaks",
+    "country": "AUD",
+    "date": "2026-06-16T21:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "CPI y/y",
+    "country": "GBP",
+    "date": "2026-06-17T02:00:00-04:00",
+    "impact": "High",
+    "forecast": "3.0%",
+    "previous": "2.8%"
+   },
+   {
+    "title": "Core CPI y/y",
+    "country": "GBP",
+    "date": "2026-06-17T02:00:00-04:00",
+    "impact": "Low",
+    "forecast": "2.7%",
+    "previous": "2.5%"
+   },
+   {
+    "title": "PPI Input m/m",
+    "country": "GBP",
+    "date": "2026-06-17T02:00:00-04:00",
+    "impact": "Low",
+    "forecast": "0.5%",
+    "previous": "2.4%"
+   },
+   {
+    "title": "PPI Output m/m",
+    "country": "GBP",
+    "date": "2026-06-17T02:00:00-04:00",
+    "impact": "Low",
+    "forecast": "0.5%",
+    "previous": "1.4%"
+   },
+   {
+    "title": "RPI y/y",
+    "country": "GBP",
+    "date": "2026-06-17T02:00:00-04:00",
+    "impact": "Low",
+    "forecast": "3.3%",
+    "previous": "3.0%"
+   },
+   {
+    "title": "HPI y/y",
+    "country": "GBP",
+    "date": "2026-06-17T04:30:00-04:00",
+    "impact": "Low",
+    "forecast": "2.8%",
+    "previous": "0.0%"
+   },
+   {
+    "title": "Final Core CPI y/y",
+    "country": "EUR",
+    "date": "2026-06-17T05:00:00-04:00",
+    "impact": "Low",
+    "forecast": "2.5%",
+    "previous": "2.5%"
+   },
+   {
+    "title": "Final CPI y/y",
+    "country": "EUR",
+    "date": "2026-06-17T05:00:00-04:00",
+    "impact": "Low",
+    "forecast": "3.2%",
+    "previous": "3.2%"
+   },
+   {
+    "title": "NHPI m/m",
+    "country": "CAD",
+    "date": "2026-06-17T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "-0.1%",
+    "previous": "-0.4%"
+   },
+   {
+    "title": "Core Retail Sales m/m",
+    "country": "USD",
+    "date": "2026-06-17T08:30:00-04:00",
+    "impact": "Medium",
+    "forecast": "0.5%",
+    "previous": "0.7%"
+   },
+   {
+    "title": "Retail Sales m/m",
+    "country": "USD",
+    "date": "2026-06-17T08:30:00-04:00",
+    "impact": "Medium",
+    "forecast": "0.5%",
+    "previous": "0.5%"
+   },
+   {
+    "title": "Business Inventories m/m",
+    "country": "USD",
+    "date": "2026-06-17T10:00:00-04:00",
+    "impact": "Low",
+    "forecast": "0.5%",
+    "previous": "0.9%"
+   },
+   {
+    "title": "Pending Home Sales m/m",
+    "country": "USD",
+    "date": "2026-06-17T10:00:00-04:00",
+    "impact": "Low",
+    "forecast": "1.3%",
+    "previous": "1.4%"
+   },
+   {
+    "title": "Crude Oil Inventories",
+    "country": "USD",
+    "date": "2026-06-17T10:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-7.2M"
+   },
+   {
+    "title": "Federal Funds Rate",
+    "country": "USD",
+    "date": "2026-06-17T14:00:00-04:00",
+    "impact": "High",
+    "forecast": "3.75%",
+    "previous": "3.75%"
+   },
+   {
+    "title": "FOMC Economic Projections",
+    "country": "USD",
+    "date": "2026-06-17T14:00:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "FOMC Statement",
+    "country": "USD",
+    "date": "2026-06-17T14:00:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "FOMC Press Conference",
+    "country": "USD",
+    "date": "2026-06-17T14:30:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "GDP q/q",
+    "country": "NZD",
+    "date": "2026-06-17T18:45:00-04:00",
+    "impact": "High",
+    "forecast": "0.8%",
+    "previous": "0.2%"
+   },
+   {
+    "title": "Claimant Count Change",
+    "country": "GBP",
+    "date": "2026-06-18T02:00:00-04:00",
+    "impact": "High",
+    "forecast": "25.8K",
+    "previous": "26.5K"
+   },
+   {
+    "title": "Average Earnings Index 3m/y",
+    "country": "GBP",
+    "date": "2026-06-18T02:00:00-04:00",
+    "impact": "Medium",
+    "forecast": "4.0%",
+    "previous": "4.1%"
+   },
+   {
+    "title": "Unemployment Rate",
+    "country": "GBP",
+    "date": "2026-06-18T02:00:00-04:00",
+    "impact": "Low",
+    "forecast": "5.0%",
+    "previous": "5.0%"
+   },
+   {
+    "title": "SECO Economic Forecasts",
+    "country": "CHF",
+    "date": "2026-06-18T03:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "German Buba President Nagel Speaks",
+    "country": "EUR",
+    "date": "2026-06-18T03:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "SNB Monetary Policy Assessment",
+    "country": "CHF",
+    "date": "2026-06-18T03:30:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "SNB Policy Rate",
+    "country": "CHF",
+    "date": "2026-06-18T03:30:00-04:00",
+    "impact": "High",
+    "forecast": "0.00%",
+    "previous": "0.00%"
+   },
+   {
+    "title": "SNB Press Conference",
+    "country": "CHF",
+    "date": "2026-06-18T04:00:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Current Account",
+    "country": "EUR",
+    "date": "2026-06-18T04:00:00-04:00",
+    "impact": "Low",
+    "forecast": "18.5B",
+    "previous": "14.9B"
+   },
+   {
+    "title": "Spanish 10-y Bond Auction",
+    "country": "EUR",
+    "date": "2026-06-18T05:03:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "German Buba Monthly Report",
+    "country": "EUR",
+    "date": "2026-06-18T06:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Monetary Policy Summary",
+    "country": "GBP",
+    "date": "2026-06-18T07:00:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "MPC Official Bank Rate Votes",
+    "country": "GBP",
+    "date": "2026-06-18T07:00:00-04:00",
+    "impact": "High",
+    "forecast": "1-0-8",
+    "previous": "1-0-8"
+   },
+   {
+    "title": "Official Bank Rate",
+    "country": "GBP",
+    "date": "2026-06-18T07:00:00-04:00",
+    "impact": "High",
+    "forecast": "3.75%",
+    "previous": "3.75%"
+   },
+   {
+    "title": "IPPI m/m",
+    "country": "CAD",
+    "date": "2026-06-18T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "1.4%",
+    "previous": "2.0%"
+   },
+   {
+    "title": "RMPI m/m",
+    "country": "CAD",
+    "date": "2026-06-18T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "1.8%",
+    "previous": "2.6%"
+   },
+   {
+    "title": "Philly Fed Manufacturing Index",
+    "country": "USD",
+    "date": "2026-06-18T08:30:00-04:00",
+    "impact": "Medium",
+    "forecast": "11.4",
+    "previous": "-0.4"
+   },
+   {
+    "title": "Unemployment Claims",
+    "country": "USD",
+    "date": "2026-06-18T08:30:00-04:00",
+    "impact": "Medium",
+    "forecast": "225K",
+    "previous": "229K"
+   },
+   {
+    "title": "CB Leading Index m/m",
+    "country": "USD",
+    "date": "2026-06-18T10:00:00-04:00",
+    "impact": "Low",
+    "forecast": "0.1%",
+    "previous": "0.1%"
+   },
+   {
+    "title": "Natural Gas Storage",
+    "country": "USD",
+    "date": "2026-06-18T10:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "108B"
+   },
+   {
+    "title": "TIC Long-Term Purchases",
+    "country": "USD",
+    "date": "2026-06-18T16:00:00-04:00",
+    "impact": "Low",
+    "forecast": "72.5B",
+    "previous": "81.3B"
+   },
+   {
+    "title": "Trade Balance",
+    "country": "NZD",
+    "date": "2026-06-18T18:45:00-04:00",
+    "impact": "Low",
+    "forecast": "875M",
+    "previous": "1920M"
+   },
+   {
+    "title": "GfK Consumer Confidence",
+    "country": "GBP",
+    "date": "2026-06-18T19:01:00-04:00",
+    "impact": "Low",
+    "forecast": "-23",
+    "previous": "-23"
+   },
+   {
+    "title": "Bank Holiday",
+    "country": "CNY",
+    "date": "2026-06-18T19:01:00-04:00",
+    "impact": "Holiday",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "National Core CPI y/y",
+    "country": "JPY",
+    "date": "2026-06-18T19:30:00-04:00",
+    "impact": "Low",
+    "forecast": "1.4%",
+    "previous": "1.4%"
+   },
+   {
+    "title": "Monetary Policy Meeting Minutes",
+    "country": "JPY",
+    "date": "2026-06-18T19:50:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "German PPI m/m",
+    "country": "EUR",
+    "date": "2026-06-19T02:00:00-04:00",
+    "impact": "Low",
+    "forecast": "0.8%",
+    "previous": "1.2%"
+   },
+   {
+    "title": "Retail Sales m/m",
+    "country": "GBP",
+    "date": "2026-06-19T02:00:00-04:00",
+    "impact": "Medium",
+    "forecast": "0.5%",
+    "previous": "-1.3%"
+   },
+   {
+    "title": "Public Sector Net Borrowing",
+    "country": "GBP",
+    "date": "2026-06-19T02:00:00-04:00",
+    "impact": "Low",
+    "forecast": "18.9B",
+    "previous": "24.3B"
+   },
+   {
+    "title": "Bank Holiday",
+    "country": "USD",
+    "date": "2026-06-19T08:00:00-04:00",
+    "impact": "Holiday",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Core Retail Sales m/m",
+    "country": "CAD",
+    "date": "2026-06-19T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "0.7%",
+    "previous": "1.4%"
+   },
+   {
+    "title": "Retail Sales m/m",
+    "country": "CAD",
+    "date": "2026-06-19T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "0.6%",
+    "previous": "0.9%"
+   },
+   {
+    "title": "CB Leading Index m/m",
+    "country": "AUD",
+    "date": "2026-06-19T10:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-0.6%"
+   }
+  ],
+  "cache_at": "2026-06-14T21:22:16.320152+09:00"
+ },
+ "signal_cd": {
+  "ドル円:sell": "2026-06-14T21:22:16.800064+09:00"
+ }
+}
