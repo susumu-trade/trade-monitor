@@ -1,0 +1,66 @@
+{
+  "spike_monitor": {
+    "cooldown_minutes": 15,
+    "instruments": [
+      { "name": "ドル円",      "symbol": "USDJPY=X", "window_minutes": 5, "threshold_pct": 0.15 },
+      { "name": "日経225",     "symbol": "^N225",    "window_minutes": 5, "threshold_pct": 0.40 },
+      { "name": "NASDAQ100",  "symbol": "^NDX",     "window_minutes": 5, "threshold_pct": 0.40 },
+      { "name": "WTI原油",     "symbol": "CL=F",     "window_minutes": 5, "threshold_pct": 0.60 },
+      { "name": "天然ガス",     "symbol": "NG=F",     "window_minutes": 5, "threshold_pct": 0.80 },
+      { "name": "金",          "symbol": "GC=F",     "window_minutes": 5, "threshold_pct": 0.40 },
+      { "name": "銀",          "symbol": "SI=F",     "window_minutes": 5, "threshold_pct": 0.60 }
+    ]
+  },
+  "news_monitor": {
+    "translate_to_ja": true,
+    "max_per_cycle": 6,
+    "macro_label": "マクロ",
+    "feeds": [
+      { "name": "ForexLive",  "url": "https://www.forexlive.com/feed/" },
+      { "name": "MarketWatch", "url": "http://feeds.marketwatch.com/marketwatch/marketpulse/" },
+      { "name": "FXStreet",   "url": "https://www.fxstreet.com/rss/news" },
+      { "name": "Investing",  "url": "https://www.investing.com/rss/news_1.rss" }
+    ],
+    "routing": [
+      { "name": "ドル円",     "keywords": ["yen", "usd/jpy", "usdjpy", "dollar-yen", "boj", "bank of japan", "japan "] },
+      { "name": "日経225",    "keywords": ["nikkei", "japan stocks", "japanese stocks", "topix"] },
+      { "name": "NASDAQ100", "keywords": ["nasdaq", "tech stocks", "s&p 500", "wall street", "u.s. stocks"] },
+      { "name": "WTI原油",    "keywords": ["crude", "oil price", " oil ", "wti", "opec", "brent", "petroleum"] },
+      { "name": "天然ガス",    "keywords": ["natural gas", "natgas", "lng"] },
+      { "name": "金",         "keywords": ["gold", "xau", "bullion"] },
+      { "name": "銀",         "keywords": ["silver", "xag"] }
+    ],
+    "macro_keywords": ["fed", "fomc", "powell", "cpi", "inflation", "interest rate", "rate cut", "rate hike", "payroll", "nonfarm", "non-farm", "unemployment", "jobless", "gdp", "pce", "treasury yield", "ecb", "recession", "tariff", "boj"],
+    "calendar": {
+      "feed_url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "watched_currencies": ["USD", "JPY"],
+      "include_title_keywords": ["Crude Oil", "Natural Gas", "Gasoline"],
+      "include_impacts": ["High", "Medium"],
+      "reminder_minutes": 15,
+      "daily_digest_hour_jst": 7,
+      "labels": {
+        "digest_title": "本日の経済指標",
+        "reminder_title": "まもなく指標発表",
+        "forecast": "予想",
+        "previous": "前回",
+        "until": "あと",
+        "minutes": "分",
+        "none_today": "本日の対象指標はありません"
+      }
+    }
+  },
+  "signal_monitor": {
+    "interval": "15m",
+    "range": "1mo",
+    "cooldown_minutes": 90,
+    "rsi_period": 14,
+    "rsi_low": 30,
+    "rsi_high": 70,
+    "sma_short": 9,
+    "sma_long": 21,
+    "bb_period": 20,
+    "bb_std": 2.0,
+    "breakout_lookback": 20,
+    "signals": ["sma", "rsi", "breakout", "bb"]
+  }
+}
