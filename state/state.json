@@ -191,6 +191,7 @@
   "https://www.investing.com/news/forex-news/citi-sees-dollaryen-correction-to-below-155-by-yearend-93CH-4741669",
   "https://www.investing.com/news/forex-news/asia-fx-mixed-as-traders-assess-iran-peace-prospects-rupee-top-gainer-4738906",
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-uk-economy-contracts-and-dollar-remains-supported-4739585",
+  "https://investinglive.com/commodities/barclays-sees-gold-hitting-4900-as-iran-driven-correction-fades-20260615/",
   "https://investinglive.com/centralbank/bank-of-japan-today-preview-set-to-lift-rates-to-31-year-high-as-iran-deal-clouds-path-20260615/",
   "https://investinglive.com/commodities/explosions-heard-in-the-strait-of-hormuz-20260615/",
   "https://investinglive.com/commodities/hormuz-reopening-road-map-mines-insurance-and-stranded-ships-slow-the-path-for-oil-flow-20260615/",
@@ -215,7 +216,6 @@
   "https://investinglive.com/technical-analysis/usdchf-takes-another-step-to-the-downside-on-the-usd-selling-20260615/",
   "https://investinglive.com/news/us-may-industiral-production-01-vs-02-expected-20260615/",
   "https://investinglive.com/news/us-june-empire-fed-57-vs-140-expected-20260615/",
-  "https://investinglive.com/news/canada-april-manufacturing-sales-42-vs-45-expected-20260615/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -286,6 +286,7 @@
   "https://www.investing.com/news/forex-news/citi-sees-dollaryen-correction-to-below-155-by-yearend-93CH-4741669",
   "https://www.investing.com/news/forex-news/asia-fx-mixed-as-traders-assess-iran-peace-prospects-rupee-top-gainer-4738906",
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-uk-economy-contracts-and-dollar-remains-supported-4739585",
+  "https://investinglive.com/commodities/barclays-sees-gold-hitting-4900-as-iran-driven-correction-fades-20260615/",
   "https://investinglive.com/centralbank/bank-of-japan-today-preview-set-to-lift-rates-to-31-year-high-as-iran-deal-clouds-path-20260615/",
   "https://investinglive.com/commodities/explosions-heard-in-the-strait-of-hormuz-20260615/",
   "https://investinglive.com/commodities/hormuz-reopening-road-map-mines-insurance-and-stranded-ships-slow-the-path-for-oil-flow-20260615/",
@@ -310,7 +311,6 @@
   "https://investinglive.com/technical-analysis/usdchf-takes-another-step-to-the-downside-on-the-usd-selling-20260615/",
   "https://investinglive.com/news/us-may-industiral-production-01-vs-02-expected-20260615/",
   "https://investinglive.com/news/us-june-empire-fed-57-vs-140-expected-20260615/",
-  "https://investinglive.com/news/canada-april-manufacturing-sales-42-vs-45-expected-20260615/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1339,7 +1339,7 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-16T06:37:40.616016+09:00"
+  "cache_at": "2026-06-16T07:10:24.242625+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-15T05:54:34.221558+09:00",
