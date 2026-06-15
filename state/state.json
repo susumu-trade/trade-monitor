@@ -381,6 +381,7 @@
   "https://www.investing.com/news/forex-news/euro-dips-as-ecb-raises-rates-93CH-4737892",
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-ecb-hike-fails-to-shake-dollars-grip-4737382",
   "https://www.investing.com/news/forex-news/bca-sees-korea-fx-opportunity-as-won-detaches-from-fundamentals-93CH-4736740",
+  "https://investinglive.com/commodities/gold-perks-up-on-us-iran-optimism-but-technical-hurdle-remains-20260615/",
   "https://investinglive.com/news/euro-area-trade-balance-posts-a-deficit-in-april-due-to-jump-in-energy-imports-20260615/",
   "https://investinglive.com/centralbank/ecb-policymaker-nagel-says-ecb-is-keeping-all-options-open-for-july-meeting-20260615/",
   "https://investinglive.com/Cryptocurrency/bitcoin-analysis-today-as-bulls-raise-their-heads-with-a-2-score-at-investinglivecom-20260615/",
@@ -405,7 +406,6 @@
   "https://investinglive.com/centralbank/reports-that-south-korea-have-liaised-with-us-to-agree-to-support-the-won-20260615/",
   "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-67544-reuters-estimate-20260615/",
   "https://investinglive.com/stock-market-update/another-day-another-south-korea-trading-halt-kospi-futures-5-20260615/",
-  "https://investinglive.com/centralbank/rbnz-hike-path-collides-with-weakest-labour-market-in-ten-years-silk-speaks-today-20260615/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -476,6 +476,7 @@
   "https://www.investing.com/news/forex-news/euro-dips-as-ecb-raises-rates-93CH-4737892",
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-ecb-hike-fails-to-shake-dollars-grip-4737382",
   "https://www.investing.com/news/forex-news/bca-sees-korea-fx-opportunity-as-won-detaches-from-fundamentals-93CH-4736740",
+  "https://investinglive.com/commodities/gold-perks-up-on-us-iran-optimism-but-technical-hurdle-remains-20260615/",
   "https://investinglive.com/news/euro-area-trade-balance-posts-a-deficit-in-april-due-to-jump-in-energy-imports-20260615/",
   "https://investinglive.com/centralbank/ecb-policymaker-nagel-says-ecb-is-keeping-all-options-open-for-july-meeting-20260615/",
   "https://investinglive.com/Cryptocurrency/bitcoin-analysis-today-as-bulls-raise-their-heads-with-a-2-score-at-investinglivecom-20260615/",
@@ -499,8 +500,7 @@
   "https://investinglive.com/stock-market-update/us-equity-index-futures-roll-to-september-today-june-contracts-near-expiry-what-you-need-20260615/",
   "https://investinglive.com/centralbank/reports-that-south-korea-have-liaised-with-us-to-agree-to-support-the-won-20260615/",
   "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-67544-reuters-estimate-20260615/",
-  "https://investinglive.com/stock-market-update/another-day-another-south-korea-trading-halt-kospi-futures-5-20260615/",
-  "https://investinglive.com/centralbank/rbnz-hike-path-collides-with-weakest-labour-market-in-ten-years-silk-speaks-today-20260615/"
+  "https://investinglive.com/stock-market-update/another-day-another-south-korea-trading-halt-kospi-futures-5-20260615/"
  ],
  "cal": {
   "last_digest": "2026-06-15",
@@ -1331,7 +1331,7 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-15T18:32:57.192244+09:00"
+  "cache_at": "2026-06-15T19:05:25.021483+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-15T05:54:34.221558+09:00",
