@@ -371,6 +371,7 @@
   "https://www.fxstreet.com/news/gold-advances-as-us-iran-framework-deal-weaker-dollar-support-rebound-202606151100",
   "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-near-07090-with-bullish-pressure-mounting-202606151056",
   "https://www.fxstreet.com/news/brent-lower-prices-with-key-supports-societe-generale-202606151033",
+  "https://www.investing.com/news/forex-news/canadian-dollar-gains-on-usiran-peace-deal-93CH-4743005",
   "https://www.investing.com/news/forex-news/bank-of-america-recommends-buying-audchf-on-usiran-deal-outlook-93CH-4742901",
   "https://www.investing.com/news/forex-news/td-securities-sees-delayed-intervention-as-dollaryen-nears-165-93CH-4742890",
   "https://www.investing.com/news/forex-news/deutsche-bank-recommends-long-positions-on-four-currencies-93CH-4742771",
@@ -380,7 +381,6 @@
   "https://www.investing.com/news/forex-news/asia-fx-climbs-dollar-dips-on-usiran-truce-key-central-bank-meetings-loom-4741168",
   "https://www.investing.com/news/forex-news/asia-fx-mixed-as-traders-assess-iran-peace-prospects-rupee-top-gainer-4738906",
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-uk-economy-contracts-and-dollar-remains-supported-4739585",
-  "https://www.investing.com/news/forex-news/blackrock-says-oil-fx-risks-loom-over-indias-bond-inflow-push-4739026",
   "https://investinglive.com/news/at-the-close-not-the-best-finish-to-the-day-20260615/",
   "https://investinglive.com/centralbank/economic-and-event-calendar-in-asia-tuesday-june-16-boj-and-rba-double-the-fun-20260615/",
   "https://investinglive.com/stocks/shares-of-spacex-rise-16-as-retail-piles-in-20260615/",
@@ -466,6 +466,7 @@
   "https://www.fxstreet.com/news/gold-advances-as-us-iran-framework-deal-weaker-dollar-support-rebound-202606151100",
   "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-near-07090-with-bullish-pressure-mounting-202606151056",
   "https://www.fxstreet.com/news/brent-lower-prices-with-key-supports-societe-generale-202606151033",
+  "https://www.investing.com/news/forex-news/canadian-dollar-gains-on-usiran-peace-deal-93CH-4743005",
   "https://www.investing.com/news/forex-news/bank-of-america-recommends-buying-audchf-on-usiran-deal-outlook-93CH-4742901",
   "https://www.investing.com/news/forex-news/td-securities-sees-delayed-intervention-as-dollaryen-nears-165-93CH-4742890",
   "https://www.investing.com/news/forex-news/deutsche-bank-recommends-long-positions-on-four-currencies-93CH-4742771",
@@ -475,7 +476,7 @@
   "https://www.investing.com/news/forex-news/asia-fx-climbs-dollar-dips-on-usiran-truce-key-central-bank-meetings-loom-4741168",
   "https://www.investing.com/news/forex-news/asia-fx-mixed-as-traders-assess-iran-peace-prospects-rupee-top-gainer-4738906",
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-uk-economy-contracts-and-dollar-remains-supported-4739585",
-  "https://www.investing.com/news/forex-news/blackrock-says-oil-fx-risks-loom-over-indias-bond-inflow-push-4739026",
+  "https://investinglive.com/news/at-the-close-not-the-best-finish-to-the-day-20260615/",
   "https://investinglive.com/centralbank/economic-and-event-calendar-in-asia-tuesday-june-16-boj-and-rba-double-the-fun-20260615/",
   "https://investinglive.com/stocks/shares-of-spacex-rise-16-as-retail-piles-in-20260615/",
   "https://investinglive.com/technical-analysis/crude-oil-sets-the-topside-risk-with-the-run-lower-today-20260615/",
@@ -499,8 +500,7 @@
   "https://investinglive.com/technical-analysis/the-usd-is-lower-to-start-the-new-week-as-iran-deal-dominates-and-leads-the-markets-20260615/",
   "https://investinglive.com/news/investinglive-european-session-wrap-oil-prices-sink-as-markets-cheer-us-iran-agreement-20260615/",
   "https://investinglive.com/stocks/what-now-after-the-stellar-spacex-debut-on-friday-20260615/",
-  "https://investinglive.com/forex/usdjpy-spikes-lower-on-us-iran-deal-and-consolidates-ahead-of-boj-and-fomc-decisions-20260615/",
-  "https://investinglive.com/commodities/gold-perks-up-on-us-iran-optimism-but-technical-hurdle-remains-20260615/"
+  "https://investinglive.com/forex/usdjpy-spikes-lower-on-us-iran-deal-and-consolidates-ahead-of-boj-and-fomc-decisions-20260615/"
  ],
  "cal": {
   "last_digest": "2026-06-15",
@@ -1339,7 +1339,7 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-16T04:59:26.533958+09:00"
+  "cache_at": "2026-06-16T05:32:11.076459+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-15T05:54:34.221558+09:00",
