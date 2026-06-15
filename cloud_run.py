@@ -10,7 +10,7 @@
 - 設定は cloud_config.json、状態は state/state.json（リポジトリに自動コミット保存）
 - 通知先は Telegram のみ（クラウドにPCは無いため）
 """
-import os, json, re, math, datetime
+import os, json, re, math, datetime, time, subprocess
 import urllib.request, urllib.parse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -339,16 +339,72 @@ def check_signals(cfg, state):
             cd[key] = now.isoformat()
             print(f"[sig] {name} {direction} <- {reasons}")
 
+def run_one(fn, cfg, state):
+    try:
+        fn(cfg, state)
+    except Exception as e:
+        print(f"[{fn.__name__}] 例外: {e}")
+
+def git_commit_push():
+    """状態ファイルをリポジトリに保存(GitHub Actions上でのみ動作)。"""
+    if not (os.environ.get("GITHUB_ACTIONS") or os.path.isdir(os.path.join(HERE, ".git"))):
+        return  # ローカル(非リポジトリ)では何もしない
+    try:
+        subprocess.run(["git", "add", "state"], cwd=HERE, check=False,
+                       capture_output=True, timeout=60)
+        diff = subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=HERE,
+                              check=False, timeout=60)
+        if diff.returncode == 0:
+            return  # 変更なし
+        subprocess.run(["git", "-c", "user.name=trade-bot",
+                        "-c", "user.email=trade-bot@users.noreply.github.com",
+                        "commit", "-m", "update state [skip ci]"],
+                       cwd=HERE, check=False, capture_output=True, timeout=60)
+        subprocess.run(["git", "pull", "--rebase", "--autostash"], cwd=HERE,
+                       check=False, capture_output=True, timeout=60)
+        subprocess.run(["git", "push"], cwd=HERE, check=False,
+                       capture_output=True, timeout=60)
+    except Exception as e:
+        print(f"[git] {e}")
+
 def main():
     cfg = load_json(CONFIG, {})
     state = load_json(STATE, {})
-    for fn in (check_spike, check_news, check_calendar, check_signals):
-        try:
-            fn(cfg, state)
-        except Exception as e:
-            print(f"[{fn.__name__}] 例外: {e}")
-    save_state(state)
-    print("done")
+
+    loop_min = float(os.environ.get("LOOP_MINUTES", "0") or "0")
+    if loop_min <= 0:
+        # 単発実行(手動テスト等)
+        for fn in (check_spike, check_news, check_calendar, check_signals):
+            run_one(fn, cfg, state)
+        save_state(state)
+        print("done (single)")
+        return
+
+    # ループ実行(GitHub Actionsの1起動で長時間回し続ける)
+    poll = int(os.environ.get("POLL_SECONDS", "120"))
+    commit_every = float(os.environ.get("GIT_COMMIT_MINUTES", "10")) * 60
+    news_every = int(os.environ.get("NEWS_EVERY_CYCLES", "2"))     # 急変動より低頻度
+    signal_every = int(os.environ.get("SIGNAL_EVERY_CYCLES", "6")) # 15分足なので低頻度
+    end = time.time() + loop_min * 60
+    last_commit = time.time()
+    cycle = 0
+    print(f"=== loop start: {loop_min:.0f}min, poll {poll}s ===")
+    while time.time() < end:
+        run_one(check_spike, cfg, state)                  # 毎回(急変動)
+        if cycle % news_every == 0:
+            run_one(check_news, cfg, state)
+            run_one(check_calendar, cfg, state)
+        if cycle % signal_every == 0:
+            run_one(check_signals, cfg, state)
+        save_state(state)
+        if time.time() - last_commit >= commit_every:
+            git_commit_push()
+            last_commit = time.time()
+        cycle += 1
+        if time.time() < end:
+            time.sleep(poll)
+    git_commit_push()
+    print("done (loop)")
 
 if __name__ == "__main__":
     main()
