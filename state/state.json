@@ -381,6 +381,7 @@
   "https://www.investing.com/news/forex-news/euro-dips-as-ecb-raises-rates-93CH-4737892",
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-ecb-hike-fails-to-shake-dollars-grip-4737382",
   "https://www.investing.com/news/forex-news/bca-sees-korea-fx-opportunity-as-won-detaches-from-fundamentals-93CH-4736740",
+  "https://investinglive.com/forex/the-indian-rupee-rallies-strongly-as-markets-celebrate-the-us-iran-deal-whats-next-20260615/",
   "https://investinglive.com/forex/market-outlook-for-the-week-of-15th-19th-june-20260615/",
   "https://investinglive.com/news/us-iran-reportedly-to-hold-preparatory-talks-in-doha-before-signing-mou-deal-20260615/",
   "https://investinglive.com/centralbank/ecb-policymaker-kazaks-says-the-ecb-is-ready-to-act-again-if-needed-20260615/",
@@ -405,7 +406,6 @@
   "https://investinglive.com/news/trump-is-already-threatening-to-resume-strikes-on-iran-20260614/",
   "https://investinglive.com/commodities/uk-france-germany-and-italy-welcome-deal-but-demand-unconditional-hormuz-access-20260614/",
   "https://investinglive.com/commodities/fourteen-article-mou-sets-30-day-hormuz-deadline-and-excludes-iran-missile-program-20260614/",
-  "https://investinglive.com/commodities/trump-says-hormuz-will-not-be-open-until-friday-upon-signing-of-ceasefire-deal-20260614/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -476,6 +476,8 @@
   "https://www.investing.com/news/forex-news/euro-dips-as-ecb-raises-rates-93CH-4737892",
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-ecb-hike-fails-to-shake-dollars-grip-4737382",
   "https://www.investing.com/news/forex-news/bca-sees-korea-fx-opportunity-as-won-detaches-from-fundamentals-93CH-4736740",
+  "https://investinglive.com/forex/the-indian-rupee-rallies-strongly-as-markets-celebrate-the-us-iran-deal-whats-next-20260615/",
+  "https://investinglive.com/forex/market-outlook-for-the-week-of-15th-19th-june-20260615/",
   "https://investinglive.com/news/us-iran-reportedly-to-hold-preparatory-talks-in-doha-before-signing-mou-deal-20260615/",
   "https://investinglive.com/centralbank/ecb-policymaker-kazaks-says-the-ecb-is-ready-to-act-again-if-needed-20260615/",
   "https://investinglive.com/news/what-are-the-main-events-for-today-20260615/",
@@ -498,9 +500,7 @@
   "https://investinglive.com/centralbank/rbnz-hike-path-collides-with-weakest-labour-market-in-ten-years-silk-speaks-today-20260615/",
   "https://investinglive.com/news/trump-is-already-threatening-to-resume-strikes-on-iran-20260614/",
   "https://investinglive.com/commodities/uk-france-germany-and-italy-welcome-deal-but-demand-unconditional-hormuz-access-20260614/",
-  "https://investinglive.com/commodities/fourteen-article-mou-sets-30-day-hormuz-deadline-and-excludes-iran-missile-program-20260614/",
-  "https://investinglive.com/commodities/trump-says-hormuz-will-not-be-open-until-friday-upon-signing-of-ceasefire-deal-20260614/",
-  "https://investinglive.com/commodities/iran-confirms-ceasefire-mou-with-us-but-warns-finger-stays-on-the-trigger-20260614/"
+  "https://investinglive.com/commodities/fourteen-article-mou-sets-30-day-hormuz-deadline-and-excludes-iran-missile-program-20260614/"
  ],
  "cal": {
   "last_digest": "2026-06-15",
@@ -1331,7 +1331,7 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-15T16:55:38.476223+09:00"
+  "cache_at": "2026-06-15T17:28:02.839801+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-15T05:54:34.221558+09:00",
