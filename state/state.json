@@ -3,6 +3,8 @@
   "日経225": "2026-06-16T09:21:29.044667+09:00"
  },
  "news_seen": [
+  "https://investinglive.com/commodities/oil-price-path-to-the-60s-pre-war-levels-could-take-years-despite-hormuz-deal-analysts-20260616/",
+  "https://investinglive.com/centralbank/pboc-sets-usd-cny-mid-point-today-at-68108-vs-estimate-at-67605-20260616/",
   "https://investinglive.com/centralbank/jgbs-steady-nikkei-eases-from-record-high-as-boj-rate-decision-looms-20260616/",
   "https://investinglive.com/news/gm-in-talks-with-lockheed-to-make-weapons-parts-as-pentagon-seeks-to-restock-20260616/",
   "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-67605-reuters-estimate-20260616/",
@@ -26,8 +28,6 @@
   "https://investinglive.com/news/trumpus-senior-official-and-trump-strait-of-hormuz-will-be-fully-open-on-friday-20260615/",
   "https://investinglive.com/technical-analysis/the-audusd-is-the-strongest-of-the-major-currencies-vs-the-us-but-the-nzd-is-the-weakest-20260615/",
   "https://investinglive.com/commodities/the-copper-market-is-tighter-than-you-think-scotia-20260615/",
-  "https://investinglive.com/technical-analysis/stocks-are-sharply-higher-but-what-did-the-gains-so-for-the-technicals-for-spnasdaq-20260615/",
-  "https://investinglive.com/stock-market-update/semiconductor-surge-major-tech-rallies-while-energy-stocks-stumble-20260615/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -98,6 +98,8 @@
   "https://www.investing.com/news/forex-news/citi-sees-dollaryen-correction-to-below-155-by-yearend-93CH-4741669",
   "https://www.investing.com/news/forex-news/asia-fx-mixed-as-traders-assess-iran-peace-prospects-rupee-top-gainer-4738906",
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-uk-economy-contracts-and-dollar-remains-supported-4739585",
+  "https://investinglive.com/commodities/oil-price-path-to-the-60s-pre-war-levels-could-take-years-despite-hormuz-deal-analysts-20260616/",
+  "https://investinglive.com/centralbank/pboc-sets-usd-cny-mid-point-today-at-68108-vs-estimate-at-67605-20260616/",
   "https://investinglive.com/centralbank/jgbs-steady-nikkei-eases-from-record-high-as-boj-rate-decision-looms-20260616/",
   "https://investinglive.com/news/gm-in-talks-with-lockheed-to-make-weapons-parts-as-pentagon-seeks-to-restock-20260616/",
   "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-67605-reuters-estimate-20260616/",
@@ -121,8 +123,6 @@
   "https://investinglive.com/news/trumpus-senior-official-and-trump-strait-of-hormuz-will-be-fully-open-on-friday-20260615/",
   "https://investinglive.com/technical-analysis/the-audusd-is-the-strongest-of-the-major-currencies-vs-the-us-but-the-nzd-is-the-weakest-20260615/",
   "https://investinglive.com/commodities/the-copper-market-is-tighter-than-you-think-scotia-20260615/",
-  "https://investinglive.com/technical-analysis/stocks-are-sharply-higher-but-what-did-the-gains-so-for-the-technicals-for-spnasdaq-20260615/",
-  "https://investinglive.com/stock-market-update/semiconductor-surge-major-tech-rallies-while-energy-stocks-stumble-20260615/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -193,6 +193,7 @@
   "https://www.investing.com/news/forex-news/citi-sees-dollaryen-correction-to-below-155-by-yearend-93CH-4741669",
   "https://www.investing.com/news/forex-news/asia-fx-mixed-as-traders-assess-iran-peace-prospects-rupee-top-gainer-4738906",
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-uk-economy-contracts-and-dollar-remains-supported-4739585",
+  "https://investinglive.com/centralbank/pboc-sets-usd-cny-mid-point-today-at-68108-vs-estimate-at-67605-20260616/",
   "https://investinglive.com/centralbank/jgbs-steady-nikkei-eases-from-record-high-as-boj-rate-decision-looms-20260616/",
   "https://investinglive.com/news/gm-in-talks-with-lockheed-to-make-weapons-parts-as-pentagon-seeks-to-restock-20260616/",
   "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-67605-reuters-estimate-20260616/",
@@ -217,7 +218,6 @@
   "https://investinglive.com/technical-analysis/the-audusd-is-the-strongest-of-the-major-currencies-vs-the-us-but-the-nzd-is-the-weakest-20260615/",
   "https://investinglive.com/commodities/the-copper-market-is-tighter-than-you-think-scotia-20260615/",
   "https://investinglive.com/technical-analysis/stocks-are-sharply-higher-but-what-did-the-gains-so-for-the-technicals-for-spnasdaq-20260615/",
-  "https://investinglive.com/stock-market-update/semiconductor-surge-major-tech-rallies-while-energy-stocks-stumble-20260615/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1341,17 +1341,17 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-16T09:54:16.912122+09:00"
+  "cache_at": "2026-06-16T10:27:02.073309+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-16T09:41:59.642246+09:00",
   "日経225:sell": "2026-06-15T14:50:00.526749+09:00",
-  "銀:buy": "2026-06-16T07:38:59.183503+09:00",
+  "銀:buy": "2026-06-16T10:18:49.702044+09:00",
   "金:sell": "2026-06-15T15:14:15.676938+09:00",
   "ドル円:buy": "2026-06-16T09:41:59.642246+09:00",
   "WTI原油:sell": "2026-06-15T16:51:34.187358+09:00",
   "天然ガス:sell": "2026-06-15T17:03:43.922958+09:00",
   "天然ガス:buy": "2026-06-15T17:40:16.497491+09:00",
-  "金:buy": "2026-06-15T17:40:16.497491+09:00"
+  "金:buy": "2026-06-16T10:18:49.702044+09:00"
  }
 }
