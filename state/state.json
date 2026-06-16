@@ -153,6 +153,7 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/usd-jpy-price-forecast-tests-16050-as-rsi-backs-rally-intervention-risks-loom-202606162054",
   "https://www.fxstreet.com/news/usd-chf-price-forecast-bullish-despite-dropping-towards-200-day-sma-202606162000",
   "https://www.fxstreet.com/news/forex-today-us-dollar-stays-neutral-as-markets-await-warshs-first-fed-decision-202606161950",
   "https://www.fxstreet.com/news/gold-climbs-as-oil-rout-softens-fed-hike-bets-202606161918",
@@ -182,7 +183,6 @@
   "https://www.fxstreet.com/news/australian-dollar-deeper-pullback-risk-below-07140-societe-generale-202606161152",
   "https://www.fxstreet.com/news/usd-chf-price-forecast-bears-gain-momentum-with-07930-support-in-focus-202606161144",
   "https://www.fxstreet.com/news/japanese-yen-sideways-trade-within-tight-band-uob-202606161140",
-  "https://www.fxstreet.com/news/south-african-rand-usd-zar-rally-selling-strategy-stays-in-focus-societe-generale-202606161138",
   "https://www.investing.com/news/forex-news/asia-fx-steady-amid-iran-peace-hopes-boj-hikes-rates-to-31yr-high-rba-on-tap-4743824",
   "https://www.investing.com/news/forex-news/world-bank-approves-2-billion-loan-package-for-argentina-4745640",
   "https://www.investing.com/news/forex-news/large-fx-options-set-to-expire-wednesday-across-major-currency-pairs-93CH-4745582",
@@ -248,6 +248,7 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/usd-jpy-price-forecast-tests-16050-as-rsi-backs-rally-intervention-risks-loom-202606162054",
   "https://www.fxstreet.com/news/usd-chf-price-forecast-bullish-despite-dropping-towards-200-day-sma-202606162000",
   "https://www.fxstreet.com/news/forex-today-us-dollar-stays-neutral-as-markets-await-warshs-first-fed-decision-202606161950",
   "https://www.fxstreet.com/news/gold-climbs-as-oil-rout-softens-fed-hike-bets-202606161918",
@@ -277,7 +278,6 @@
   "https://www.fxstreet.com/news/australian-dollar-deeper-pullback-risk-below-07140-societe-generale-202606161152",
   "https://www.fxstreet.com/news/usd-chf-price-forecast-bears-gain-momentum-with-07930-support-in-focus-202606161144",
   "https://www.fxstreet.com/news/japanese-yen-sideways-trade-within-tight-band-uob-202606161140",
-  "https://www.fxstreet.com/news/south-african-rand-usd-zar-rally-selling-strategy-stays-in-focus-societe-generale-202606161138",
   "https://www.investing.com/news/forex-news/asia-fx-steady-amid-iran-peace-hopes-boj-hikes-rates-to-31yr-high-rba-on-tap-4743824",
   "https://www.investing.com/news/forex-news/world-bank-approves-2-billion-loan-package-for-argentina-4745640",
   "https://www.investing.com/news/forex-news/large-fx-options-set-to-expire-wednesday-across-major-currency-pairs-93CH-4745582",
@@ -343,6 +343,7 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/usd-jpy-price-forecast-tests-16050-as-rsi-backs-rally-intervention-risks-loom-202606162054",
   "https://www.fxstreet.com/news/usd-chf-price-forecast-bullish-despite-dropping-towards-200-day-sma-202606162000",
   "https://www.fxstreet.com/news/forex-today-us-dollar-stays-neutral-as-markets-await-warshs-first-fed-decision-202606161950",
   "https://www.fxstreet.com/news/gold-climbs-as-oil-rout-softens-fed-hike-bets-202606161918",
@@ -372,7 +373,6 @@
   "https://www.fxstreet.com/news/australian-dollar-deeper-pullback-risk-below-07140-societe-generale-202606161152",
   "https://www.fxstreet.com/news/usd-chf-price-forecast-bears-gain-momentum-with-07930-support-in-focus-202606161144",
   "https://www.fxstreet.com/news/japanese-yen-sideways-trade-within-tight-band-uob-202606161140",
-  "https://www.fxstreet.com/news/south-african-rand-usd-zar-rally-selling-strategy-stays-in-focus-societe-generale-202606161138",
   "https://www.investing.com/news/forex-news/asia-fx-steady-amid-iran-peace-hopes-boj-hikes-rates-to-31yr-high-rba-on-tap-4743824",
   "https://www.investing.com/news/forex-news/world-bank-approves-2-billion-loan-package-for-argentina-4745640",
   "https://www.investing.com/news/forex-news/large-fx-options-set-to-expire-wednesday-across-major-currency-pairs-93CH-4745582",
@@ -1341,7 +1341,7 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-17T05:55:09.066607+09:00"
+  "cache_at": "2026-06-17T06:27:34.151850+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-16T09:41:59.642246+09:00",
