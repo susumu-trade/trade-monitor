@@ -193,6 +193,7 @@
   "https://www.investing.com/news/forex-news/asia-fx-climbs-dollar-dips-on-usiran-truce-key-central-bank-meetings-loom-4741168",
   "https://www.investing.com/news/forex-news/canadian-dollar-gains-on-usiran-peace-deal-93CH-4743005",
   "https://www.investing.com/news/forex-news/bank-of-america-recommends-buying-audchf-on-usiran-deal-outlook-93CH-4742901",
+  "https://investinglive.com/news/singapore-may-exports-surge-384-biggest-jump-in-20-years-on-ai-demand-20260617/",
   "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-67659-reuters-estimate-20260617/",
   "https://investinglive.com/news/japan-april-core-machinery-orders-surge-exports-beat-also-20260616/",
   "https://investinglive.com/stocks/openai-burned-37-billion-in-first-quarter-of-2026-20260616/",
@@ -217,7 +218,6 @@
   "https://investinglive.com/commodities/oil-falls-further-on-a-report-that-iran-could-be-allowed-to-immediately-sell-oil-20260616/",
   "https://investinglive.com/technical-analysis/crude-oil-down-sharply-and-tests-a-swing-area-target-20260616/",
   "https://investinglive.com/stocks/nasdaq-falls-as-some-of-the-momentum-names-reverse-spacex-gives-back-some-gains-20260616/",
-  "https://investinglive.com/stock-market-update/semiconductors-struggle-as-financial-and-consumer-sectors-shine-20260616/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -288,6 +288,7 @@
   "https://www.investing.com/news/forex-news/asia-fx-climbs-dollar-dips-on-usiran-truce-key-central-bank-meetings-loom-4741168",
   "https://www.investing.com/news/forex-news/canadian-dollar-gains-on-usiran-peace-deal-93CH-4743005",
   "https://www.investing.com/news/forex-news/bank-of-america-recommends-buying-audchf-on-usiran-deal-outlook-93CH-4742901",
+  "https://investinglive.com/news/singapore-may-exports-surge-384-biggest-jump-in-20-years-on-ai-demand-20260617/",
   "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-67659-reuters-estimate-20260617/",
   "https://investinglive.com/news/japan-april-core-machinery-orders-surge-exports-beat-also-20260616/",
   "https://investinglive.com/stocks/openai-burned-37-billion-in-first-quarter-of-2026-20260616/",
@@ -312,7 +313,6 @@
   "https://investinglive.com/commodities/oil-falls-further-on-a-report-that-iran-could-be-allowed-to-immediately-sell-oil-20260616/",
   "https://investinglive.com/technical-analysis/crude-oil-down-sharply-and-tests-a-swing-area-target-20260616/",
   "https://investinglive.com/stocks/nasdaq-falls-as-some-of-the-momentum-names-reverse-spacex-gives-back-some-gains-20260616/",
-  "https://investinglive.com/stock-market-update/semiconductors-struggle-as-financial-and-consumer-sectors-shine-20260616/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -383,6 +383,7 @@
   "https://www.investing.com/news/forex-news/asia-fx-climbs-dollar-dips-on-usiran-truce-key-central-bank-meetings-loom-4741168",
   "https://www.investing.com/news/forex-news/canadian-dollar-gains-on-usiran-peace-deal-93CH-4743005",
   "https://www.investing.com/news/forex-news/bank-of-america-recommends-buying-audchf-on-usiran-deal-outlook-93CH-4742901",
+  "https://investinglive.com/news/singapore-may-exports-surge-384-biggest-jump-in-20-years-on-ai-demand-20260617/",
   "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-67659-reuters-estimate-20260617/",
   "https://investinglive.com/news/japan-april-core-machinery-orders-surge-exports-beat-also-20260616/",
   "https://investinglive.com/stocks/openai-burned-37-billion-in-first-quarter-of-2026-20260616/",
@@ -407,7 +408,6 @@
   "https://investinglive.com/commodities/oil-falls-further-on-a-report-that-iran-could-be-allowed-to-immediately-sell-oil-20260616/",
   "https://investinglive.com/technical-analysis/crude-oil-down-sharply-and-tests-a-swing-area-target-20260616/",
   "https://investinglive.com/stocks/nasdaq-falls-as-some-of-the-momentum-names-reverse-spacex-gives-back-some-gains-20260616/",
-  "https://investinglive.com/stock-market-update/semiconductors-struggle-as-financial-and-consumer-sectors-shine-20260616/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1341,7 +1341,7 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-17T09:17:45.908063+09:00"
+  "cache_at": "2026-06-17T09:50:32.469887+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-16T09:41:59.642246+09:00",
@@ -1354,7 +1354,7 @@
   "天然ガス:buy": "2026-06-15T17:40:16.497491+09:00",
   "金:buy": "2026-06-17T02:16:20.163306+09:00",
   "WTI原油:buy": "2026-06-17T01:03:18.846340+09:00",
-  "NASDAQ100:buy": "2026-06-17T08:12:07.794336+09:00",
+  "NASDAQ100:buy": "2026-06-17T09:50:32.470074+09:00",
   "銀:sell": "2026-06-17T05:42:57.462118+09:00"
  }
 }
