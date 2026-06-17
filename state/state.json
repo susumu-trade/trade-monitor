@@ -478,6 +478,7 @@
   "https://www.investing.com/news/forex-news/large-fx-options-set-to-expire-wednesday-across-major-currency-pairs-93CH-4745582",
   "https://www.investing.com/news/forex-news/exclusivebinance-set-to-lose-eu-licence-bid-permission-to-offer-services-in-the-bloc-sources-say-4745091",
   "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-dollar-shrugs-off-oil-selloff-ahead-of-fomc-4744764",
+  "https://investinglive.com/technical-analysis/the-usdcads-story-remains-the-same-technically-but-it-is-important-to-know-it-20260617/",
   "https://investinglive.com/centralbank/ecbs-sleijpen-a-repeat-of-2022-inflation-appears-less-likely-but-cant-be-excluded-20260617/",
   "https://investinglive.com/news/us-may-advance-retail-sales-09-vs-05-expected-20260617/",
   "https://investinglive.com/news/canada-new-housing-price-index-for-may-03-versus-04-last-month-20260617/",
@@ -501,8 +502,7 @@
   "https://investinglive.com/centralbank/pboc-governor-pan-gongsheng-signals-slower-credit-growth-and-offshore-fx-push-20260617/",
   "https://investinglive.com/news/china-to-issue-cny-300bln-bonds-to-boost-bank-capital-as-local-debt-tackled-20260617/",
   "https://investinglive.com/commodities/goldman-holds-ttf-gas-forecasts-flags-upside-risk-and-delayed-lng-recovery-20260617/",
-  "https://investinglive.com/news/china-financial-regulator-vows-to-tackle-property-local-debt-and-small-bank-risks-20260617/",
-  "https://investinglive.com/commodities/us-defense-production-act-floated-to-force-us-insurer-to-cover-hormuz-passage-navy-escort-20260617/"
+  "https://investinglive.com/news/china-financial-regulator-vows-to-tackle-property-local-debt-and-small-bank-risks-20260617/"
  ],
  "cal": {
   "last_digest": "2026-06-17",
@@ -1343,7 +1343,7 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-17T22:03:03.003784+09:00"
+  "cache_at": "2026-06-17T22:35:42.420691+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-16T09:41:59.642246+09:00",
@@ -1353,11 +1353,11 @@
   "ドル円:buy": "2026-06-16T09:41:59.642246+09:00",
   "WTI原油:sell": "2026-06-17T13:07:45.439257+09:00",
   "天然ガス:sell": "2026-06-17T13:07:45.439257+09:00",
-  "天然ガス:buy": "2026-06-17T12:18:32.800440+09:00",
+  "天然ガス:buy": "2026-06-17T22:39:45.402234+09:00",
   "金:buy": "2026-06-17T10:02:51.042925+09:00",
   "WTI原油:buy": "2026-06-17T13:07:45.439257+09:00",
   "NASDAQ100:buy": "2026-06-17T22:03:03.003982+09:00",
-  "銀:sell": "2026-06-17T13:32:27.509307+09:00",
+  "銀:sell": "2026-06-17T22:39:45.402234+09:00",
   "日経225:buy": "2026-06-17T11:04:35.814717+09:00"
  }
 }
