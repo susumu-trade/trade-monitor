@@ -438,6 +438,9 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/eur-jpy-price-forecast-could-rebound-toward-18650-as-bullish-bias-prevails-202606170253",
+  "https://www.fxstreet.com/news/us-dollar-index-weakens-to-near-9950-on-us-iran-peace-deal-optimism-ahead-of-fed-rate-decision-202606170229",
+  "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-7050-as-interest-rate-concerns-ease-202606170214",
   "https://www.fxstreet.com/news/chinas-financial-regulator-vows-to-intensify-regulatory-collaboration-in-new-sectors-202606170205",
   "https://www.fxstreet.com/news/new-zealand-dollar-sticks-to-positive-bias-as-iran-peace-deal-undermines-usd-ahead-of-fomc-202606170157",
   "https://www.fxstreet.com/news/canadian-dollar-steadies-despite-lower-oil-prices-202606170136",
@@ -465,9 +468,6 @@
   "https://www.fxstreet.com/news/gold-extends-recovery-above-4-300-with-fed-decision-us-iran-deal-in-focus-202606161208",
   "https://www.fxstreet.com/news/dow-jones-industrial-average-races-to-records-as-warsh-eyes-the-punch-bowl-202606161521",
   "https://www.fxstreet.com/news/british-pound-holds-13400-as-feds-decision-looms-202606161500",
-  "https://www.fxstreet.com/news/australian-dollar-gains-after-hawkish-rba-hold-as-focus-shifts-to-federal-reserve-202606161452",
-  "https://www.fxstreet.com/news/silver-rises-on-us-dollar-weakness-as-markets-eye-fed-decision-202606161406",
-  "https://www.fxstreet.com/news/euro-limited-upside-versus-dollar-nbc-202606161329",
   "https://www.investing.com/news/forex-news/world-bank-approves-2-billion-loan-package-for-argentina-4745640",
   "https://www.investing.com/news/forex-news/asia-fx-steady-amid-iran-peace-hopes-boj-hikes-rates-to-31yr-high-rba-on-tap-4743824",
   "https://www.investing.com/news/forex-news/large-fx-options-set-to-expire-wednesday-across-major-currency-pairs-93CH-4745582",
@@ -1341,13 +1341,13 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-17T12:02:07.779078+09:00"
+  "cache_at": "2026-06-17T12:35:00.465182+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-16T09:41:59.642246+09:00",
   "日経225:sell": "2026-06-17T09:38:14.492846+09:00",
   "銀:buy": "2026-06-17T10:15:11.739268+09:00",
-  "金:sell": "2026-06-17T10:27:35.818321+09:00",
+  "金:sell": "2026-06-17T12:30:52.669665+09:00",
   "ドル円:buy": "2026-06-16T09:41:59.642246+09:00",
   "WTI原油:sell": "2026-06-17T09:13:37.482424+09:00",
   "天然ガス:sell": "2026-06-17T09:38:14.492846+09:00",
