@@ -1,7 +1,7 @@
 {
  "spike_cd": {
   "日経225": "2026-06-17T09:38:11.044625+09:00",
-  "NASDAQ100": "2026-06-17T23:47:40.684992+09:00",
+  "NASDAQ100": "2026-06-18T03:02:42.298615+09:00",
   "WTI原油": "2026-06-17T23:57:56.235606+09:00",
   "銀": "2026-06-17T23:57:56.235606+09:00"
  },
@@ -291,6 +291,7 @@
   "https://www.investing.com/news/forex-news/large-fx-options-set-to-expire-wednesday-across-major-currency-pairs-93CH-4745582",
   "https://www.investing.com/news/forex-news/exclusivebinance-set-to-lose-eu-licence-bid-permission-to-offer-services-in-the-bloc-sources-say-4745091",
   "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-dollar-shrugs-off-oil-selloff-ahead-of-fomc-4744764",
+  "https://investinglive.com/centralbank/for-reference-the-fomc-statement-from-the-april-28-29-meeting-20260617/",
   "https://investinglive.com/Education/fair-valuation-who-really-cares-anymore-20260617/",
   "https://investinglive.com/news/us-releases-the-formal-text-of-the-iran-agreement-which-has-already-been-signed-20260617/",
   "https://investinglive.com/Education/arizet-labs-launches-the-desk-after-6000-traders-and-3b-traded-20260617/",
@@ -315,7 +316,6 @@
   "https://investinglive.com/centralbank/fed-preview-warsh-is-the-noise-the-board-is-the-signal-20260617/",
   "https://investinglive.com/news/eurozone-may-final-cpi-32-vs-32-yy-prelim-20260617/",
   "https://investinglive.com/news/iea-sees-significant-overhang-in-oil-market-next-year-20260617/",
-  "https://investinglive.com/forex/usdjpy-consolidates-around-16000-as-traders-turn-their-focus-to-the-fomc-decision-20260617/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -386,6 +386,8 @@
   "https://www.investing.com/news/forex-news/large-fx-options-set-to-expire-wednesday-across-major-currency-pairs-93CH-4745582",
   "https://www.investing.com/news/forex-news/exclusivebinance-set-to-lose-eu-licence-bid-permission-to-offer-services-in-the-bloc-sources-say-4745091",
   "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-dollar-shrugs-off-oil-selloff-ahead-of-fomc-4744764",
+  "https://investinglive.com/centralbank/for-reference-the-fomc-statement-from-the-april-28-29-meeting-20260617/",
+  "https://investinglive.com/Education/fair-valuation-who-really-cares-anymore-20260617/",
   "https://investinglive.com/news/us-releases-the-formal-text-of-the-iran-agreement-which-has-already-been-signed-20260617/",
   "https://investinglive.com/Education/arizet-labs-launches-the-desk-after-6000-traders-and-3b-traded-20260617/",
   "https://investinglive.com/centralbank/fomc-preview-why-this-is-one-for-the-headline-traders-20260617/",
@@ -409,8 +411,6 @@
   "https://investinglive.com/centralbank/fed-preview-warsh-is-the-noise-the-board-is-the-signal-20260617/",
   "https://investinglive.com/news/eurozone-may-final-cpi-32-vs-32-yy-prelim-20260617/",
   "https://investinglive.com/news/iea-sees-significant-overhang-in-oil-market-next-year-20260617/",
-  "https://investinglive.com/forex/usdjpy-consolidates-around-16000-as-traders-turn-their-focus-to-the-fomc-decision-20260617/",
-  "https://investinglive.com/centralbank/ecb-policymaker-simkus-sees-at-least-one-more-rate-hike-ahead-20260617/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -481,6 +481,7 @@
   "https://www.investing.com/news/forex-news/large-fx-options-set-to-expire-wednesday-across-major-currency-pairs-93CH-4745582",
   "https://www.investing.com/news/forex-news/exclusivebinance-set-to-lose-eu-licence-bid-permission-to-offer-services-in-the-bloc-sources-say-4745091",
   "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-dollar-shrugs-off-oil-selloff-ahead-of-fomc-4744764",
+  "https://investinglive.com/Education/fair-valuation-who-really-cares-anymore-20260617/",
   "https://investinglive.com/news/us-releases-the-formal-text-of-the-iran-agreement-which-has-already-been-signed-20260617/",
   "https://investinglive.com/Education/arizet-labs-launches-the-desk-after-6000-traders-and-3b-traded-20260617/",
   "https://investinglive.com/centralbank/fomc-preview-why-this-is-one-for-the-headline-traders-20260617/",
@@ -504,8 +505,7 @@
   "https://investinglive.com/centralbank/fed-preview-warsh-is-the-noise-the-board-is-the-signal-20260617/",
   "https://investinglive.com/news/eurozone-may-final-cpi-32-vs-32-yy-prelim-20260617/",
   "https://investinglive.com/news/iea-sees-significant-overhang-in-oil-market-next-year-20260617/",
-  "https://investinglive.com/forex/usdjpy-consolidates-around-16000-as-traders-turn-their-focus-to-the-fomc-decision-20260617/",
-  "https://investinglive.com/centralbank/ecb-policymaker-simkus-sees-at-least-one-more-rate-hike-ahead-20260617/"
+  "https://investinglive.com/forex/usdjpy-consolidates-around-16000-as-traders-turn-their-focus-to-the-fomc-decision-20260617/"
  ],
  "cal": {
   "last_digest": "2026-06-17",
@@ -1349,14 +1349,14 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-18T02:27:47.241890+09:00"
+  "cache_at": "2026-06-18T03:00:39.266289+09:00"
  },
  "signal_cd": {
-  "ドル円:sell": "2026-06-17T23:29:07.947086+09:00",
+  "ドル円:sell": "2026-06-18T03:00:39.266523+09:00",
   "日経225:sell": "2026-06-17T09:38:14.492846+09:00",
   "銀:buy": "2026-06-17T10:15:11.739268+09:00",
   "金:sell": "2026-06-18T01:33:42.467969+09:00",
-  "ドル円:buy": "2026-06-16T09:41:59.642246+09:00",
+  "ドル円:buy": "2026-06-18T03:00:39.266523+09:00",
   "WTI原油:sell": "2026-06-18T01:58:50.756895+09:00",
   "天然ガス:sell": "2026-06-17T13:07:45.439257+09:00",
   "天然ガス:buy": "2026-06-18T02:48:21.340886+09:00",
