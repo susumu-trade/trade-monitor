@@ -2,7 +2,7 @@
  "spike_cd": {
   "日経225": "2026-06-18T10:27:07.667832+09:00",
   "NASDAQ100": "2026-06-18T23:30:36.497077+09:00",
-  "WTI原油": "2026-06-17T23:57:56.235606+09:00",
+  "WTI原油": "2026-06-19T00:41:38.291685+09:00",
   "銀": "2026-06-18T10:12:57.755972+09:00",
   "ドル円": "2026-06-18T03:04:45.628033+09:00",
   "金": "2026-06-18T03:11:03.906082+09:00",
@@ -349,6 +349,7 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/bank-of-england-steady-policy-path-deutsche-bank-202606181501",
   "https://www.fxstreet.com/news/euro-set-for-weakness-as-boe-snb-norges-bank-and-riksbank-leave-the-ecb-hiking-alone-202606181405",
   "https://www.fxstreet.com/news/can-the-us-dollar-extend-its-fed-driven-rally-202606181402",
   "https://www.fxstreet.com/news/japanese-yen-trades-near-multi-year-low-on-fed-hawkish-bias-japan-intervention-risk-202606181351",
@@ -378,7 +379,6 @@
   "https://www.fxstreet.com/news/euro-range-floor-holds-into-ecb-decisions-ing-202606180914",
   "https://www.fxstreet.com/news/australian-dollar-remains-in-positive-territory-after-paring-recent-gains-202606180904",
   "https://www.fxstreet.com/news/gold-retakes-4-300-as-us-iran-peace-deal-weighs-on-usd-after-hawkish-fed-202606180345",
-  "https://www.fxstreet.com/news/indian-rupee-advances-as-fading-risk-aversion-weighs-on-us-dollar-202606180440",
   "https://www.investing.com/news/forex-news/sterling-today-pound-hits-lowest-since-april-as-boe-hold-hawkish-fed-lift-dollar-4749935",
   "https://www.investing.com/news/forex-news/feds-ratehike-fears-meet-iran-peace-dividend-in-global-bond-split-4749078",
   "https://www.investing.com/news/forex-news/major-currency-option-expiries-set-for-new-york-cut-today-93CH-4749834",
@@ -444,6 +444,7 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/bank-of-england-steady-policy-path-deutsche-bank-202606181501",
   "https://www.fxstreet.com/news/euro-set-for-weakness-as-boe-snb-norges-bank-and-riksbank-leave-the-ecb-hiking-alone-202606181405",
   "https://www.fxstreet.com/news/can-the-us-dollar-extend-its-fed-driven-rally-202606181402",
   "https://www.fxstreet.com/news/japanese-yen-trades-near-multi-year-low-on-fed-hawkish-bias-japan-intervention-risk-202606181351",
@@ -473,7 +474,6 @@
   "https://www.fxstreet.com/news/euro-range-floor-holds-into-ecb-decisions-ing-202606180914",
   "https://www.fxstreet.com/news/australian-dollar-remains-in-positive-territory-after-paring-recent-gains-202606180904",
   "https://www.fxstreet.com/news/gold-retakes-4-300-as-us-iran-peace-deal-weighs-on-usd-after-hawkish-fed-202606180345",
-  "https://www.fxstreet.com/news/indian-rupee-advances-as-fading-risk-aversion-weighs-on-us-dollar-202606180440",
   "https://www.investing.com/news/forex-news/sterling-today-pound-hits-lowest-since-april-as-boe-hold-hawkish-fed-lift-dollar-4749935",
   "https://www.investing.com/news/forex-news/feds-ratehike-fears-meet-iran-peace-dividend-in-global-bond-split-4749078",
   "https://www.investing.com/news/forex-news/major-currency-option-expiries-set-for-new-york-cut-today-93CH-4749834",
@@ -484,6 +484,7 @@
   "https://www.investing.com/news/forex-news/asia-fx-dollar-muted-ahead-of-fed-decision-iran-truce-details-eyed-4746467",
   "https://www.investing.com/news/forex-news/canadian-dollar-falls-to-sevenmonth-low-on-fed-hawkish-shift-4748153",
   "https://www.investing.com/news/forex-news/sterling-today-pound-holds-above-134-as-dollar-firms-before-fed-verdict-4747284",
+  "https://investinglive.com/technical-analysis/audusd-fell-shortly-but-buyers-sellers-are-battling-it-out-in-up-and-down-trading-today-20260618/",
   "https://investinglive.com/stock-market-update/tech-breakthrough-semiconductors-surge-energy-struggles-20260618/",
   "https://investinglive.com/news/trump-iran-not-a-threat-oil-lower-stocks-higher-prices-dropping-20260618/",
   "https://investinglive.com/technical-analysis/usdcad-stretches-to-key-resistance-target-area-and-finding-some-sellers-20260618/",
@@ -507,8 +508,7 @@
   "https://investinglive.com/news/what-are-the-main-events-for-today-20260618/",
   "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-us-iran-memorandum-of-understanding-signed-20260618/",
   "https://investinglive.com/centralbank/warsh-leaves-markets-guessing-as-fed-framework-overhaul-raises-more-questions-than-answers-20260618/",
-  "https://investinglive.com/news/china-rolls-out-third-trade-in-fund-tranche-as-weak-retail-data-keeps-stimulus-pressure-on-20260618/",
-  "https://investinglive.com/news/japans-kihara-flags-weak-yen-household-burden-but-offers-no-fresh-intervention-signal-20260618/"
+  "https://investinglive.com/news/china-rolls-out-third-trade-in-fund-tranche-as-weak-retail-data-keeps-stimulus-pressure-on-20260618/"
  ],
  "cal": {
   "last_digest": "2026-06-18",
