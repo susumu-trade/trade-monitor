@@ -1,7 +1,7 @@
 {
  "spike_cd": {
   "日経225": "2026-06-18T10:27:07.667832+09:00",
-  "NASDAQ100": "2026-06-18T03:02:42.298615+09:00",
+  "NASDAQ100": "2026-06-18T22:37:57.335945+09:00",
   "WTI原油": "2026-06-17T23:57:56.235606+09:00",
   "銀": "2026-06-18T10:12:57.755972+09:00",
   "ドル円": "2026-06-18T03:04:45.628033+09:00",
@@ -253,6 +253,11 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/canadian-dollar-range-bound-trading-bias-outlined-nbc-202606181308",
+  "https://www.fxstreet.com/news/norwegian-krone-august-hike-prospects-rise-nomura-202606181258",
+  "https://www.fxstreet.com/news/ecbs-lane-says-further-rate-hikes-remain-justified-even-under-milder-outlook-202606181246",
+  "https://www.fxstreet.com/news/united-states-initial-jobless-claims-dropped-to-226k-last-week-202606181234",
+  "https://www.fxstreet.com/news/canadian-dollar-dips-as-fed-hawkish-outlook-weaker-oil-pressure-cad-202606181232",
   "https://www.fxstreet.com/news/swiss-franc-snb-steady-with-fx-intervention-option-nomura-202606181159",
   "https://www.fxstreet.com/news/euro-rallies-against-the-british-pound-as-boe-leaves-rates-unchanged-202606181154",
   "https://www.fxstreet.com/news/boe-steady-policy-path-with-active-hold-deutsche-bank-202606181153",
@@ -278,11 +283,6 @@
   "https://www.fxstreet.com/news/british-pound-boe-caution-weighs-on-sterling-ing-202606180845",
   "https://www.fxstreet.com/news/united-states-dollar-fed-story-supports-modest-gains-ing-202606180838",
   "https://www.fxstreet.com/news/bi-increases-rates-by-25-basis-points-in-june-202606180734",
-  "https://www.fxstreet.com/news/usd-jpy-price-forecast-consolidates-above-16050-two-year-high-amid-intervention-risks-202606180828",
-  "https://www.fxstreet.com/news/swiss-national-banks-tschudin-economic-activity-in-switzerland-is-resilient-202606180821",
-  "https://www.fxstreet.com/news/swiss-national-banks-martin-anticipates-inflation-to-remain-elevated-over-coming-quarters-202606180811",
-  "https://www.fxstreet.com/news/swiss-franc-edges-lower-after-snb-leaves-rates-unchanged-as-expected-202606180810",
-  "https://www.fxstreet.com/news/swiss-national-banks-schlegel-risk-of-strong-upward-pressure-on-the-franc-persists-202606180806",
   "https://www.investing.com/news/forex-news/sterling-today-pound-hits-lowest-since-april-as-boe-hold-hawkish-fed-lift-dollar-4749935",
   "https://www.investing.com/news/forex-news/feds-ratehike-fears-meet-iran-peace-dividend-in-global-bond-split-4749078",
   "https://www.investing.com/news/forex-news/major-currency-option-expiries-set-for-new-york-cut-today-93CH-4749834",
@@ -348,6 +348,11 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/canadian-dollar-range-bound-trading-bias-outlined-nbc-202606181308",
+  "https://www.fxstreet.com/news/norwegian-krone-august-hike-prospects-rise-nomura-202606181258",
+  "https://www.fxstreet.com/news/ecbs-lane-says-further-rate-hikes-remain-justified-even-under-milder-outlook-202606181246",
+  "https://www.fxstreet.com/news/united-states-initial-jobless-claims-dropped-to-226k-last-week-202606181234",
+  "https://www.fxstreet.com/news/canadian-dollar-dips-as-fed-hawkish-outlook-weaker-oil-pressure-cad-202606181232",
   "https://www.fxstreet.com/news/swiss-franc-snb-steady-with-fx-intervention-option-nomura-202606181159",
   "https://www.fxstreet.com/news/euro-rallies-against-the-british-pound-as-boe-leaves-rates-unchanged-202606181154",
   "https://www.fxstreet.com/news/boe-steady-policy-path-with-active-hold-deutsche-bank-202606181153",
@@ -373,11 +378,6 @@
   "https://www.fxstreet.com/news/british-pound-boe-caution-weighs-on-sterling-ing-202606180845",
   "https://www.fxstreet.com/news/united-states-dollar-fed-story-supports-modest-gains-ing-202606180838",
   "https://www.fxstreet.com/news/bi-increases-rates-by-25-basis-points-in-june-202606180734",
-  "https://www.fxstreet.com/news/usd-jpy-price-forecast-consolidates-above-16050-two-year-high-amid-intervention-risks-202606180828",
-  "https://www.fxstreet.com/news/swiss-national-banks-tschudin-economic-activity-in-switzerland-is-resilient-202606180821",
-  "https://www.fxstreet.com/news/swiss-national-banks-martin-anticipates-inflation-to-remain-elevated-over-coming-quarters-202606180811",
-  "https://www.fxstreet.com/news/swiss-franc-edges-lower-after-snb-leaves-rates-unchanged-as-expected-202606180810",
-  "https://www.fxstreet.com/news/swiss-national-banks-schlegel-risk-of-strong-upward-pressure-on-the-franc-persists-202606180806",
   "https://www.investing.com/news/forex-news/sterling-today-pound-hits-lowest-since-april-as-boe-hold-hawkish-fed-lift-dollar-4749935",
   "https://www.investing.com/news/forex-news/feds-ratehike-fears-meet-iran-peace-dividend-in-global-bond-split-4749078",
   "https://www.investing.com/news/forex-news/major-currency-option-expiries-set-for-new-york-cut-today-93CH-4749834",
@@ -1352,7 +1352,7 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-18T22:05:26.015387+09:00"
+  "cache_at": "2026-06-18T22:37:59.340518+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-18T12:08:29.170475+09:00",
