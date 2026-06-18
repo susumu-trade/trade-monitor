@@ -294,6 +294,7 @@
   "https://www.investing.com/news/forex-news/asia-fx-dollar-muted-ahead-of-fed-decision-iran-truce-details-eyed-4746467",
   "https://www.investing.com/news/forex-news/canadian-dollar-falls-to-sevenmonth-low-on-fed-hawkish-shift-4748153",
   "https://www.investing.com/news/forex-news/sterling-today-pound-holds-above-134-as-dollar-firms-before-fed-verdict-4747284",
+  "https://investinglive.com/news/us-list-blockade-of-maritime-traffic-entering-and-exiting-the-straits-of-hormuz-20260618/",
   "https://investinglive.com/news/key-points-from-the-mou-between-the-us-and-iran-20260618/",
   "https://investinglive.com/stocks/major-european-indices-close-mixed-with-a-bigger-tilt-to-the-upside-20260618/",
   "https://investinglive.com/stocks/vp-vance-we-will-manage-flare-ups-through-diplomacy-20260618/",
@@ -318,7 +319,6 @@
   "https://investinglive.com/Cryptocurrency/bitcoin-price-forecast-why-the-61775-level-matters-now-20260618/",
   "https://investinglive.com/news/uk-april-ilo-unemployment-rate-49-vs-50-expected-20260618/",
   "https://investinglive.com/Orders/fx-option-expiries-for-18-june-10am-new-york-cut-20260618/",
-  "https://investinglive.com/news/what-are-the-main-events-for-today-20260618/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -389,6 +389,7 @@
   "https://www.investing.com/news/forex-news/asia-fx-dollar-muted-ahead-of-fed-decision-iran-truce-details-eyed-4746467",
   "https://www.investing.com/news/forex-news/canadian-dollar-falls-to-sevenmonth-low-on-fed-hawkish-shift-4748153",
   "https://www.investing.com/news/forex-news/sterling-today-pound-holds-above-134-as-dollar-firms-before-fed-verdict-4747284",
+  "https://investinglive.com/news/us-list-blockade-of-maritime-traffic-entering-and-exiting-the-straits-of-hormuz-20260618/",
   "https://investinglive.com/news/key-points-from-the-mou-between-the-us-and-iran-20260618/",
   "https://investinglive.com/stocks/major-european-indices-close-mixed-with-a-bigger-tilt-to-the-upside-20260618/",
   "https://investinglive.com/stocks/vp-vance-we-will-manage-flare-ups-through-diplomacy-20260618/",
@@ -413,7 +414,6 @@
   "https://investinglive.com/Cryptocurrency/bitcoin-price-forecast-why-the-61775-level-matters-now-20260618/",
   "https://investinglive.com/news/uk-april-ilo-unemployment-rate-49-vs-50-expected-20260618/",
   "https://investinglive.com/Orders/fx-option-expiries-for-18-june-10am-new-york-cut-20260618/",
-  "https://investinglive.com/news/what-are-the-main-events-for-today-20260618/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1353,7 +1353,7 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-19T01:52:37.289789+09:00"
+  "cache_at": "2026-06-19T02:24:59.303275+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-19T00:59:52.523840+09:00",
