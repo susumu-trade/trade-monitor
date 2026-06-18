@@ -104,6 +104,7 @@
   "https://www.investing.com/news/forex-news/citi-says-buy-usdnok-on-hawkish-fed-falling-oil-prices-93CH-4749231",
   "https://www.investing.com/news/forex-news/asia-fx-dollar-muted-ahead-of-fed-decision-iran-truce-details-eyed-4746467",
   "https://www.investing.com/news/forex-news/canadian-dollar-falls-to-sevenmonth-low-on-fed-hawkish-shift-4748153",
+  "https://investinglive.com/news/japan-may-inflation-data-headline-15-yy-expected-15-core-14-expected-14-20260618/",
   "https://investinglive.com/news/uk-consumer-confidence-masks-growing-cracks-beneath-steady-headline-20260618/",
   "https://investinglive.com/news/new-zealand-may-2026-trade-data-exports-and-imports-both-up-from-april-20260618/",
   "https://investinglive.com/forex/usdjpy-mystery-sell-off-from-16180-leaves-traders-hunting-for-answers-20260618/",
@@ -128,7 +129,6 @@
   "https://investinglive.com/news/trump-iran-not-a-threat-oil-lower-stocks-higher-prices-dropping-20260618/",
   "https://investinglive.com/technical-analysis/usdcad-stretches-to-key-resistance-target-area-and-finding-some-sellers-20260618/",
   "https://investinglive.com/news/bloomberg-reports-that-kuwait-is-boosting-oil-output-crude-oil-looks-to-test-200-day-ma-20260618/",
-  "https://investinglive.com/stocks/nasdaq-erasing-declines-from-yesterday-in-premarket-trading-20260618/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -199,6 +199,7 @@
   "https://www.investing.com/news/forex-news/citi-says-buy-usdnok-on-hawkish-fed-falling-oil-prices-93CH-4749231",
   "https://www.investing.com/news/forex-news/asia-fx-dollar-muted-ahead-of-fed-decision-iran-truce-details-eyed-4746467",
   "https://www.investing.com/news/forex-news/canadian-dollar-falls-to-sevenmonth-low-on-fed-hawkish-shift-4748153",
+  "https://investinglive.com/news/japan-may-inflation-data-headline-15-yy-expected-15-core-14-expected-14-20260618/",
   "https://investinglive.com/news/uk-consumer-confidence-masks-growing-cracks-beneath-steady-headline-20260618/",
   "https://investinglive.com/news/new-zealand-may-2026-trade-data-exports-and-imports-both-up-from-april-20260618/",
   "https://investinglive.com/forex/usdjpy-mystery-sell-off-from-16180-leaves-traders-hunting-for-answers-20260618/",
@@ -223,7 +224,6 @@
   "https://investinglive.com/news/trump-iran-not-a-threat-oil-lower-stocks-higher-prices-dropping-20260618/",
   "https://investinglive.com/technical-analysis/usdcad-stretches-to-key-resistance-target-area-and-finding-some-sellers-20260618/",
   "https://investinglive.com/news/bloomberg-reports-that-kuwait-is-boosting-oil-output-crude-oil-looks-to-test-200-day-ma-20260618/",
-  "https://investinglive.com/stocks/nasdaq-erasing-declines-from-yesterday-in-premarket-trading-20260618/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1353,7 +1353,7 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-19T08:03:38.863275+09:00"
+  "cache_at": "2026-06-19T08:36:02.917823+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-19T08:19:49.686474+09:00",
