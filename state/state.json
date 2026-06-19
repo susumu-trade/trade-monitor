@@ -254,6 +254,8 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/euro-drifts-higher-above-11450-as-us-iran-sign-initial-agreement-to-end-war-202606190053",
+  "https://www.fxstreet.com/news/bojs-himino-central-bank-likely-to-keep-hiking-rates-based-on-economic-price-financial-trends-202606190032",
   "https://www.fxstreet.com/news/boj-minutes-members-want-more-time-to-assess-middle-east-impact-on-japans-economy-prices-202606182353",
   "https://www.fxstreet.com/news/us-ends-naval-blockade-as-irans-supreme-leader-says-trump-made-deal-out-of-desperation-202606182342",
   "https://www.fxstreet.com/news/japans-national-cpi-rises-15-yoy-in-may-core-cpi-climbs-as-expected-202606182331",
@@ -282,8 +284,6 @@
   "https://www.fxstreet.com/news/ecbs-lane-says-further-rate-hikes-remain-justified-even-under-milder-outlook-202606181246",
   "https://www.fxstreet.com/news/united-states-initial-jobless-claims-dropped-to-226k-last-week-202606181234",
   "https://www.fxstreet.com/news/canadian-dollar-dips-as-fed-hawkish-outlook-weaker-oil-pressure-cad-202606181232",
-  "https://www.fxstreet.com/news/swiss-franc-snb-steady-with-fx-intervention-option-nomura-202606181159",
-  "https://www.fxstreet.com/news/euro-rallies-against-the-british-pound-as-boe-leaves-rates-unchanged-202606181154",
   "https://www.investing.com/news/forex-news/asia-fx-steadies-after-sliding-on-fed-hawkish-shift-iran-peace-deal-in-focus-4748968",
   "https://www.investing.com/news/forex-news/canadian-dollar-falls-to-14month-low-on-fed-rate-outlook-93CH-4750520",
   "https://www.investing.com/news/forex-news/sterling-today-pound-hits-lowest-since-april-as-boe-hold-hawkish-fed-lift-dollar-4749935",
@@ -349,6 +349,8 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/euro-drifts-higher-above-11450-as-us-iran-sign-initial-agreement-to-end-war-202606190053",
+  "https://www.fxstreet.com/news/bojs-himino-central-bank-likely-to-keep-hiking-rates-based-on-economic-price-financial-trends-202606190032",
   "https://www.fxstreet.com/news/boj-minutes-members-want-more-time-to-assess-middle-east-impact-on-japans-economy-prices-202606182353",
   "https://www.fxstreet.com/news/us-ends-naval-blockade-as-irans-supreme-leader-says-trump-made-deal-out-of-desperation-202606182342",
   "https://www.fxstreet.com/news/japans-national-cpi-rises-15-yoy-in-may-core-cpi-climbs-as-expected-202606182331",
@@ -377,8 +379,6 @@
   "https://www.fxstreet.com/news/ecbs-lane-says-further-rate-hikes-remain-justified-even-under-milder-outlook-202606181246",
   "https://www.fxstreet.com/news/united-states-initial-jobless-claims-dropped-to-226k-last-week-202606181234",
   "https://www.fxstreet.com/news/canadian-dollar-dips-as-fed-hawkish-outlook-weaker-oil-pressure-cad-202606181232",
-  "https://www.fxstreet.com/news/swiss-franc-snb-steady-with-fx-intervention-option-nomura-202606181159",
-  "https://www.fxstreet.com/news/euro-rallies-against-the-british-pound-as-boe-leaves-rates-unchanged-202606181154",
   "https://www.investing.com/news/forex-news/asia-fx-steadies-after-sliding-on-fed-hawkish-shift-iran-peace-deal-in-focus-4748968",
   "https://www.investing.com/news/forex-news/canadian-dollar-falls-to-14month-low-on-fed-rate-outlook-93CH-4750520",
   "https://www.investing.com/news/forex-news/sterling-today-pound-hits-lowest-since-april-as-boe-hold-hawkish-fed-lift-dollar-4749935",
@@ -444,6 +444,8 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/euro-drifts-higher-above-11450-as-us-iran-sign-initial-agreement-to-end-war-202606190053",
+  "https://www.fxstreet.com/news/bojs-himino-central-bank-likely-to-keep-hiking-rates-based-on-economic-price-financial-trends-202606190032",
   "https://www.fxstreet.com/news/boj-minutes-members-want-more-time-to-assess-middle-east-impact-on-japans-economy-prices-202606182353",
   "https://www.fxstreet.com/news/us-ends-naval-blockade-as-irans-supreme-leader-says-trump-made-deal-out-of-desperation-202606182342",
   "https://www.fxstreet.com/news/japans-national-cpi-rises-15-yoy-in-may-core-cpi-climbs-as-expected-202606182331",
@@ -472,8 +474,6 @@
   "https://www.fxstreet.com/news/ecbs-lane-says-further-rate-hikes-remain-justified-even-under-milder-outlook-202606181246",
   "https://www.fxstreet.com/news/united-states-initial-jobless-claims-dropped-to-226k-last-week-202606181234",
   "https://www.fxstreet.com/news/canadian-dollar-dips-as-fed-hawkish-outlook-weaker-oil-pressure-cad-202606181232",
-  "https://www.fxstreet.com/news/swiss-franc-snb-steady-with-fx-intervention-option-nomura-202606181159",
-  "https://www.fxstreet.com/news/euro-rallies-against-the-british-pound-as-boe-leaves-rates-unchanged-202606181154",
   "https://www.investing.com/news/forex-news/asia-fx-steadies-after-sliding-on-fed-hawkish-shift-iran-peace-deal-in-focus-4748968",
   "https://www.investing.com/news/forex-news/canadian-dollar-falls-to-14month-low-on-fed-rate-outlook-93CH-4750520",
   "https://www.investing.com/news/forex-news/sterling-today-pound-hits-lowest-since-april-as-boe-hold-hawkish-fed-lift-dollar-4749935",
@@ -484,6 +484,7 @@
   "https://www.investing.com/news/forex-news/citi-says-buy-usdnok-on-hawkish-fed-falling-oil-prices-93CH-4749231",
   "https://www.investing.com/news/forex-news/asia-fx-dollar-muted-ahead-of-fed-decision-iran-truce-details-eyed-4746467",
   "https://www.investing.com/news/forex-news/canadian-dollar-falls-to-sevenmonth-low-on-fed-hawkish-shift-4748153",
+  "https://investinglive.com/forex/japan-finmin-says-prepared-to-take-decisive-action-on-speculative-fx-moves-20260619/",
   "https://investinglive.com/centralbank/bojs-deputy-governor-warns-yen-moves-now-carry-bigger-inflation-punch-than-in-the-past-20260619/",
   "https://investinglive.com/news/china-says-australian-beef-imports-hit-100-of-quota-on-june-18th-20260619/",
   "https://investinglive.com/centralbank/boj-april-minutes-three-members-wanted-to-move-in-april-the-rest-caught-up-by-june-20260618/",
@@ -507,8 +508,7 @@
   "https://investinglive.com/news/key-points-from-the-mou-between-the-us-and-iran-20260618/",
   "https://investinglive.com/stocks/major-european-indices-close-mixed-with-a-bigger-tilt-to-the-upside-20260618/",
   "https://investinglive.com/stocks/vp-vance-we-will-manage-flare-ups-through-diplomacy-20260618/",
-  "https://investinglive.com/technical-analysis/audusd-fell-shortly-but-buyers-sellers-are-battling-it-out-in-up-and-down-trading-today-20260618/",
-  "https://investinglive.com/stock-market-update/tech-breakthrough-semiconductors-surge-energy-struggles-20260618/"
+  "https://investinglive.com/technical-analysis/audusd-fell-shortly-but-buyers-sellers-are-battling-it-out-in-up-and-down-trading-today-20260618/"
  ],
  "cal": {
   "last_digest": "2026-06-19",
@@ -1353,7 +1353,7 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-19T09:40:56.326815+09:00"
+  "cache_at": "2026-06-19T10:13:20.292987+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-19T08:19:49.686474+09:00",
