@@ -1,6 +1,6 @@
 {
  "spike_cd": {
-  "日経225": "2026-06-20T06:46:05.928766+09:00",
+  "日経225": "2026-06-20T07:02:16.965847+09:00",
   "NASDAQ100": "2026-06-18T23:30:36.497077+09:00",
   "WTI原油": "2026-06-19T00:41:38.291685+09:00",
   "銀": "2026-06-18T10:12:57.755972+09:00",
@@ -64,6 +64,8 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/gold-answers-to-the-fed-not-the-fear-202606192156",
+  "https://www.fxstreet.com/news/the-us-dollar-remembers-how-to-rally-202606192154",
   "https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-dollar-loses-momentum-ahead-of-key-us-inflation-data-202606192043",
   "https://www.fxstreet.com/news/silver-price-forecast-xag-slides-below-200-day-sma-bears-target-61-202606192012",
   "https://www.fxstreet.com/news/usd-cad-price-forecast-uptrend-intact-as-bulls-eye-14200-202606191830",
@@ -92,8 +94,6 @@
   "https://www.fxstreet.com/news/japanese-yen-intervention-risks-rise-on-fresh-highs-dbs-202606191228",
   "https://www.fxstreet.com/news/japanese-yen-intervention-risks-rise-on-fed-stance-uob-202606191225",
   "https://www.fxstreet.com/news/us-dollar-index-upside-case-from-flows-and-yields-bbh-202606191222",
-  "https://www.fxstreet.com/news/singapore-dollar-neer-strength-caps-upside-for-usd-sgd-uob-202606191221",
-  "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-nears-4-100-as-fed-tightening-bets-rise-202606191140",
   "https://www.investing.com/news/forex-news/uk-runs-much-bigger-than-expected-budget-deficit-in-may-4751341",
   "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-near-twomonth-low-as-political-risks-mount-4751501",
   "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-holds-13mth-peak-on-fed-outlook-yen-near-40ye-low-4751322",
@@ -159,6 +159,8 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/gold-answers-to-the-fed-not-the-fear-202606192156",
+  "https://www.fxstreet.com/news/the-us-dollar-remembers-how-to-rally-202606192154",
   "https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-dollar-loses-momentum-ahead-of-key-us-inflation-data-202606192043",
   "https://www.fxstreet.com/news/silver-price-forecast-xag-slides-below-200-day-sma-bears-target-61-202606192012",
   "https://www.fxstreet.com/news/usd-cad-price-forecast-uptrend-intact-as-bulls-eye-14200-202606191830",
@@ -187,8 +189,6 @@
   "https://www.fxstreet.com/news/japanese-yen-intervention-risks-rise-on-fresh-highs-dbs-202606191228",
   "https://www.fxstreet.com/news/japanese-yen-intervention-risks-rise-on-fed-stance-uob-202606191225",
   "https://www.fxstreet.com/news/us-dollar-index-upside-case-from-flows-and-yields-bbh-202606191222",
-  "https://www.fxstreet.com/news/singapore-dollar-neer-strength-caps-upside-for-usd-sgd-uob-202606191221",
-  "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-nears-4-100-as-fed-tightening-bets-rise-202606191140",
   "https://www.investing.com/news/forex-news/uk-runs-much-bigger-than-expected-budget-deficit-in-may-4751341",
   "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-near-twomonth-low-as-political-risks-mount-4751501",
   "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-holds-13mth-peak-on-fed-outlook-yen-near-40ye-low-4751322",
@@ -254,6 +254,8 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/gold-answers-to-the-fed-not-the-fear-202606192156",
+  "https://www.fxstreet.com/news/the-us-dollar-remembers-how-to-rally-202606192154",
   "https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-dollar-loses-momentum-ahead-of-key-us-inflation-data-202606192043",
   "https://www.fxstreet.com/news/silver-price-forecast-xag-slides-below-200-day-sma-bears-target-61-202606192012",
   "https://www.fxstreet.com/news/usd-cad-price-forecast-uptrend-intact-as-bulls-eye-14200-202606191830",
@@ -282,8 +284,6 @@
   "https://www.fxstreet.com/news/japanese-yen-intervention-risks-rise-on-fresh-highs-dbs-202606191228",
   "https://www.fxstreet.com/news/japanese-yen-intervention-risks-rise-on-fed-stance-uob-202606191225",
   "https://www.fxstreet.com/news/us-dollar-index-upside-case-from-flows-and-yields-bbh-202606191222",
-  "https://www.fxstreet.com/news/singapore-dollar-neer-strength-caps-upside-for-usd-sgd-uob-202606191221",
-  "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-nears-4-100-as-fed-tightening-bets-rise-202606191140",
   "https://www.investing.com/news/forex-news/uk-runs-much-bigger-than-expected-budget-deficit-in-may-4751341",
   "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-near-twomonth-low-as-political-risks-mount-4751501",
   "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-holds-13mth-peak-on-fed-outlook-yen-near-40ye-low-4751322",
@@ -511,7 +511,7 @@
   "https://investinglive.com/centralbank/boj-deputy-governor-says-delaying-on-price-risks-could-cause-long-term-economic-damage-20260619/"
  ],
  "cal": {
-  "last_digest": "2026-06-19",
+  "last_digest": "2026-06-20",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -1353,21 +1353,21 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-20T06:29:57.980188+09:00"
+  "cache_at": "2026-06-20T07:02:18.459311+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-19T08:19:49.686474+09:00",
   "日経225:sell": "2026-06-19T09:20:40.745295+09:00",
-  "銀:buy": "2026-06-20T05:25:12.410120+09:00",
-  "金:sell": "2026-06-20T05:25:12.410120+09:00",
+  "銀:buy": "2026-06-20T07:02:18.909134+09:00",
+  "金:sell": "2026-06-20T07:02:18.909134+09:00",
   "ドル円:buy": "2026-06-19T23:50:31.309504+09:00",
   "WTI原油:sell": "2026-06-19T08:31:58.531504+09:00",
   "天然ガス:sell": "2026-06-19T12:35:02.865388+09:00",
   "天然ガス:buy": "2026-06-19T12:47:11.737978+09:00",
-  "金:buy": "2026-06-20T05:25:12.410120+09:00",
+  "金:buy": "2026-06-20T07:02:18.909134+09:00",
   "WTI原油:buy": "2026-06-19T11:22:11.496363+09:00",
   "NASDAQ100:buy": "2026-06-18T23:46:58.174089+09:00",
-  "銀:sell": "2026-06-20T05:25:12.410120+09:00",
+  "銀:sell": "2026-06-20T07:02:18.909134+09:00",
   "日経225:buy": "2026-06-18T09:18:12.880374+09:00",
   "NASDAQ100:sell": "2026-06-18T01:21:15.272416+09:00"
  }
