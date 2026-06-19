@@ -389,6 +389,7 @@
   "https://www.investing.com/news/forex-news/citi-says-buy-usdnok-on-hawkish-fed-falling-oil-prices-93CH-4749231",
   "https://www.investing.com/news/forex-news/asia-fx-dollar-muted-ahead-of-fed-decision-iran-truce-details-eyed-4746467",
   "https://www.investing.com/news/forex-news/canadian-dollar-falls-to-sevenmonth-low-on-fed-hawkish-shift-4748153",
+  "https://investinglive.com/news/oil-and-us-dollar-rising-on-news-that-vance-cancelled-his-trip-to-negotiate-with-iran-20260619/",
   "https://investinglive.com/centralbank/boj-deputy-governor-says-delaying-on-price-risks-could-cause-long-term-economic-damage-20260619/",
   "https://investinglive.com/commodities/vance-cancels-his-trip-to-switzerland-20260619/",
   "https://investinglive.com/forex/japan-finmin-says-prepared-to-take-decisive-action-on-speculative-fx-moves-20260619/",
@@ -413,7 +414,6 @@
   "https://investinglive.com/technical-analysis/bitcoin-price-action-is-spelling-t-r-o-u-b-l-e-for-the-buyers-20260618/",
   "https://investinglive.com/news/us-list-blockade-of-maritime-traffic-entering-and-exiting-the-straits-of-hormuz-20260618/",
   "https://investinglive.com/news/key-points-from-the-mou-between-the-us-and-iran-20260618/",
-  "https://investinglive.com/stocks/major-european-indices-close-mixed-with-a-bigger-tilt-to-the-upside-20260618/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -484,6 +484,7 @@
   "https://www.investing.com/news/forex-news/citi-says-buy-usdnok-on-hawkish-fed-falling-oil-prices-93CH-4749231",
   "https://www.investing.com/news/forex-news/asia-fx-dollar-muted-ahead-of-fed-decision-iran-truce-details-eyed-4746467",
   "https://www.investing.com/news/forex-news/canadian-dollar-falls-to-sevenmonth-low-on-fed-hawkish-shift-4748153",
+  "https://investinglive.com/news/oil-and-us-dollar-rising-on-news-that-vance-cancelled-his-trip-to-negotiate-with-iran-20260619/",
   "https://investinglive.com/centralbank/boj-deputy-governor-says-delaying-on-price-risks-could-cause-long-term-economic-damage-20260619/",
   "https://investinglive.com/commodities/vance-cancels-his-trip-to-switzerland-20260619/",
   "https://investinglive.com/forex/japan-finmin-says-prepared-to-take-decisive-action-on-speculative-fx-moves-20260619/",
@@ -507,8 +508,7 @@
   "https://investinglive.com/news/iran-supreme-leader-responds-to-us-mou-with-caution-20260618/",
   "https://investinglive.com/technical-analysis/bitcoin-price-action-is-spelling-t-r-o-u-b-l-e-for-the-buyers-20260618/",
   "https://investinglive.com/news/us-list-blockade-of-maritime-traffic-entering-and-exiting-the-straits-of-hormuz-20260618/",
-  "https://investinglive.com/news/key-points-from-the-mou-between-the-us-and-iran-20260618/",
-  "https://investinglive.com/stocks/major-european-indices-close-mixed-with-a-bigger-tilt-to-the-upside-20260618/"
+  "https://investinglive.com/news/key-points-from-the-mou-between-the-us-and-iran-20260618/"
  ],
  "cal": {
   "last_digest": "2026-06-19",
@@ -1353,7 +1353,7 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-19T10:45:43.617411+09:00"
+  "cache_at": "2026-06-19T11:18:09.290424+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-19T08:19:49.686474+09:00",
@@ -1365,7 +1365,7 @@
   "天然ガス:sell": "2026-06-19T07:31:13.654745+09:00",
   "天然ガス:buy": "2026-06-19T11:10:03.340835+09:00",
   "金:buy": "2026-06-18T09:06:04.665190+09:00",
-  "WTI原油:buy": "2026-06-19T02:00:42.311283+09:00",
+  "WTI原油:buy": "2026-06-19T11:22:11.496363+09:00",
   "NASDAQ100:buy": "2026-06-18T23:46:58.174089+09:00",
   "銀:sell": "2026-06-17T22:39:45.402234+09:00",
   "日経225:buy": "2026-06-18T09:18:12.880374+09:00",
