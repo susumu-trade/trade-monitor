@@ -1,6 +1,6 @@
 {
  "spike_cd": {
-  "日経225": "2026-06-19T22:33:33.161364+09:00",
+  "日経225": "2026-06-19T22:49:43.965597+09:00",
   "NASDAQ100": "2026-06-18T23:30:36.497077+09:00",
   "WTI原油": "2026-06-19T00:41:38.291685+09:00",
   "銀": "2026-06-18T10:12:57.755972+09:00",
@@ -9,6 +9,7 @@
   "天然ガス": "2026-06-18T23:42:50.124102+09:00"
  },
  "news_seen": [
+  "https://investinglive.com/news/multiple-cabinet-ministers-will-tell-starmer-to-set-out-a-timeline-for-leaving-report-20260619/",
   "https://investinglive.com/news/israel-and-hezbollah-have-agreed-to-a-ceasefire-to-start-almost-immediately-20260619/",
   "https://investinglive.com/news/canada-april-retail-sales-05-vs-06-expected-20260619/",
   "https://investinglive.com/news/investinglive-european-fx-news-wrap-markets-consolidate-on-us-juneteenth-20260619/",
@@ -33,7 +34,6 @@
   "https://investinglive.com/news/uk-consumer-confidence-masks-growing-cracks-beneath-steady-headline-20260618/",
   "https://investinglive.com/news/new-zealand-may-2026-trade-data-exports-and-imports-both-up-from-april-20260618/",
   "https://investinglive.com/forex/usdjpy-mystery-sell-off-from-16180-leaves-traders-hunting-for-answers-20260618/",
-  "https://investinglive.com/commodities/citi-sees-oil-at-60-65-by-q1-2027-as-hormuz-flows-normalise-20260618/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
