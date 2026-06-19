@@ -1,6 +1,6 @@
 {
  "spike_cd": {
-  "日経225": "2026-06-20T02:36:42.984682+09:00",
+  "日経225": "2026-06-20T02:52:52.554132+09:00",
   "NASDAQ100": "2026-06-18T23:30:36.497077+09:00",
   "WTI原油": "2026-06-19T00:41:38.291685+09:00",
   "銀": "2026-06-18T10:12:57.755972+09:00",
@@ -9,6 +9,7 @@
   "天然ガス": "2026-06-18T23:42:50.124102+09:00"
  },
  "news_seen": [
+  "https://investinglive.com/news/two-killed-in-drone-strike-in-southern-lebanon-after-ceasefire-20260619/",
   "https://investinglive.com/news/questions-are-creeping-in-about-ai-usefulness-and-spend-20260619/",
   "https://investinglive.com/news/uk-pm-starmer-to-weigh-future-over-the-weekend-report-20260619/",
   "https://investinglive.com/stocks/mixed-day-for-european-stock-markets-as-they-wrap-up-a-strong-week-20260619/",
@@ -33,7 +34,6 @@
   "https://investinglive.com/centralbank/boj-deputy-governor-says-delaying-on-price-risks-could-cause-long-term-economic-damage-20260619/",
   "https://investinglive.com/commodities/vance-cancels-his-trip-to-switzerland-20260619/",
   "https://investinglive.com/forex/japan-finmin-says-prepared-to-take-decisive-action-on-speculative-fx-moves-20260619/",
-  "https://investinglive.com/centralbank/bojs-deputy-governor-warns-yen-moves-now-carry-bigger-inflation-punch-than-in-the-past-20260619/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1353,21 +1353,21 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-20T02:20:29.444120+09:00"
+  "cache_at": "2026-06-20T02:52:54.409422+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-19T08:19:49.686474+09:00",
   "日経225:sell": "2026-06-19T09:20:40.745295+09:00",
-  "銀:buy": "2026-06-20T01:15:42.649210+09:00",
-  "金:sell": "2026-06-20T01:15:42.649210+09:00",
+  "銀:buy": "2026-06-20T02:52:54.409652+09:00",
+  "金:sell": "2026-06-20T02:52:54.409652+09:00",
   "ドル円:buy": "2026-06-19T23:50:31.309504+09:00",
   "WTI原油:sell": "2026-06-19T08:31:58.531504+09:00",
   "天然ガス:sell": "2026-06-19T12:35:02.865388+09:00",
   "天然ガス:buy": "2026-06-19T12:47:11.737978+09:00",
-  "金:buy": "2026-06-20T01:15:42.649210+09:00",
+  "金:buy": "2026-06-20T02:52:54.409652+09:00",
   "WTI原油:buy": "2026-06-19T11:22:11.496363+09:00",
   "NASDAQ100:buy": "2026-06-18T23:46:58.174089+09:00",
-  "銀:sell": "2026-06-20T01:15:42.649210+09:00",
+  "銀:sell": "2026-06-20T02:52:54.409652+09:00",
   "日経225:buy": "2026-06-18T09:18:12.880374+09:00",
   "NASDAQ100:sell": "2026-06-18T01:21:15.272416+09:00"
  }
