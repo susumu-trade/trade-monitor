@@ -9,6 +9,7 @@
   "天然ガス": "2026-06-18T23:42:50.124102+09:00"
  },
  "news_seen": [
+  "https://investinglive.com/centralbank/japan-cpi-stays-muted-in-may-as-subsidies-mask-building-inflation-pressure-20260619/",
   "https://investinglive.com/news/oil-and-us-dollar-rising-on-news-that-vance-cancelled-his-trip-to-negotiate-with-iran-20260619/",
   "https://investinglive.com/centralbank/boj-deputy-governor-says-delaying-on-price-risks-could-cause-long-term-economic-damage-20260619/",
   "https://investinglive.com/commodities/vance-cancels-his-trip-to-switzerland-20260619/",
@@ -33,7 +34,6 @@
   "https://investinglive.com/news/iran-supreme-leader-responds-to-us-mou-with-caution-20260618/",
   "https://investinglive.com/technical-analysis/bitcoin-price-action-is-spelling-t-r-o-u-b-l-e-for-the-buyers-20260618/",
   "https://investinglive.com/news/us-list-blockade-of-maritime-traffic-entering-and-exiting-the-straits-of-hormuz-20260618/",
-  "https://investinglive.com/news/key-points-from-the-mou-between-the-us-and-iran-20260618/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -104,6 +104,7 @@
   "https://www.investing.com/news/forex-news/citi-says-buy-usdnok-on-hawkish-fed-falling-oil-prices-93CH-4749231",
   "https://www.investing.com/news/forex-news/asia-fx-dollar-muted-ahead-of-fed-decision-iran-truce-details-eyed-4746467",
   "https://www.investing.com/news/forex-news/canadian-dollar-falls-to-sevenmonth-low-on-fed-hawkish-shift-4748153",
+  "https://investinglive.com/centralbank/japan-cpi-stays-muted-in-may-as-subsidies-mask-building-inflation-pressure-20260619/",
   "https://investinglive.com/news/oil-and-us-dollar-rising-on-news-that-vance-cancelled-his-trip-to-negotiate-with-iran-20260619/",
   "https://investinglive.com/centralbank/boj-deputy-governor-says-delaying-on-price-risks-could-cause-long-term-economic-damage-20260619/",
   "https://investinglive.com/commodities/vance-cancels-his-trip-to-switzerland-20260619/",
@@ -128,7 +129,6 @@
   "https://investinglive.com/news/iran-supreme-leader-responds-to-us-mou-with-caution-20260618/",
   "https://investinglive.com/technical-analysis/bitcoin-price-action-is-spelling-t-r-o-u-b-l-e-for-the-buyers-20260618/",
   "https://investinglive.com/news/us-list-blockade-of-maritime-traffic-entering-and-exiting-the-straits-of-hormuz-20260618/",
-  "https://investinglive.com/news/key-points-from-the-mou-between-the-us-and-iran-20260618/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1353,7 +1353,7 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-19T11:18:09.290424+09:00"
+  "cache_at": "2026-06-19T11:50:30.953871+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-19T08:19:49.686474+09:00",
