@@ -1,6 +1,6 @@
 {
  "spike_cd": {
-  "日経225": "2026-06-20T00:59:26.503002+09:00",
+  "日経225": "2026-06-20T01:15:40.929651+09:00",
   "NASDAQ100": "2026-06-18T23:30:36.497077+09:00",
   "WTI原油": "2026-06-19T00:41:38.291685+09:00",
   "銀": "2026-06-18T10:12:57.755972+09:00",
@@ -444,6 +444,11 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/new-zealand-dollar-extends-decline-as-fed-tightening-expectations-support-us-dollar-202606191537",
+  "https://www.fxstreet.com/news/british-pound-rebounds-as-holiday-thinned-trade-slows-usd-bulls-202606191529",
+  "https://www.fxstreet.com/news/euro-steadies-as-the-us-dollar-eases-but-hawkish-fed-bets-limit-upside-202606191529",
+  "https://www.fxstreet.com/news/crude-oil-has-the-right-glut-on-the-wrong-calendar-202606191528",
+  "https://www.fxstreet.com/news/iran-confirms-switzerland-meeting-with-us-was-postponed-but-mou-was-signed-digitally-202606191524",
   "https://www.fxstreet.com/news/euro-limited-upside-as-policy-diverges-nordea-202606191453",
   "https://www.fxstreet.com/news/gold-heads-for-third-weekly-loss-as-hawkish-fed-overshadows-us-iran-initial-peace-deal-202606191237",
   "https://www.fxstreet.com/news/japanese-yen-yield-spreads-keep-pair-elevated-nordea-202606191425",
@@ -469,11 +474,6 @@
   "https://www.fxstreet.com/news/swiss-franc-limited-downside-as-snb-stays-cautious-mufg-202606191052",
   "https://www.fxstreet.com/news/euro-higher-year-end-target-on-softer-dollar-view-ing-202606191051",
   "https://www.fxstreet.com/news/euro-edges-up-from-three-month-lows-as-us-dollar-buyers-take-a-breather-202606191033",
-  "https://www.fxstreet.com/news/japanese-yen-within-touch-of-forty-year-lows-as-intervention-talk-heats-up-202606191006",
-  "https://www.fxstreet.com/news/japanese-yen-lower-oil-eases-pressure-on-yen-bbh-202606191001",
-  "https://www.fxstreet.com/news/bank-of-england-active-hold-stance-supports-restrictive-convergence-rabobank-202606190959",
-  "https://www.fxstreet.com/news/british-pound-political-risks-cap-recovery-bbh-202606190957",
-  "https://www.fxstreet.com/news/wti-pauses-its-decline-as-crude-shipments-resume-through-the-strait-of-hormuz-202606190951",
   "https://www.investing.com/news/forex-news/uk-runs-much-bigger-than-expected-budget-deficit-in-may-4751341",
   "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-near-twomonth-low-as-political-risks-mount-4751501",
   "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-holds-13mth-peak-on-fed-outlook-yen-near-40ye-low-4751322",
@@ -1353,21 +1353,21 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-20T00:43:17.691890+09:00"
+  "cache_at": "2026-06-20T01:15:42.649012+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-19T08:19:49.686474+09:00",
   "日経225:sell": "2026-06-19T09:20:40.745295+09:00",
-  "銀:buy": "2026-06-19T23:38:21.957722+09:00",
-  "金:sell": "2026-06-19T23:38:21.957722+09:00",
+  "銀:buy": "2026-06-20T01:15:42.649210+09:00",
+  "金:sell": "2026-06-20T01:15:42.649210+09:00",
   "ドル円:buy": "2026-06-19T23:50:31.309504+09:00",
   "WTI原油:sell": "2026-06-19T08:31:58.531504+09:00",
   "天然ガス:sell": "2026-06-19T12:35:02.865388+09:00",
   "天然ガス:buy": "2026-06-19T12:47:11.737978+09:00",
-  "金:buy": "2026-06-19T23:38:21.957722+09:00",
+  "金:buy": "2026-06-20T01:15:42.649210+09:00",
   "WTI原油:buy": "2026-06-19T11:22:11.496363+09:00",
   "NASDAQ100:buy": "2026-06-18T23:46:58.174089+09:00",
-  "銀:sell": "2026-06-19T23:38:21.957722+09:00",
+  "銀:sell": "2026-06-20T01:15:42.649210+09:00",
   "日経225:buy": "2026-06-18T09:18:12.880374+09:00",
   "NASDAQ100:sell": "2026-06-18T01:21:15.272416+09:00"
  }
