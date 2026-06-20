@@ -9,6 +9,7 @@
   "天然ガス": "2026-06-18T23:42:50.124102+09:00"
  },
  "news_seen": [
+  "https://investinglive.com/news/iran-military-command-says-its-closing-the-strait-of-hormuz-due-to-ceasefire-violations-20260620/",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-israel-and-hezbollah-agree-to-shaky-ceasefire-20260619/",
   "https://investinglive.com/forex/usdjpy-set-for-highest-weekly-close-since-1986-20260619/",
   "https://investinglive.com/news/two-killed-in-drone-strike-in-southern-lebanon-after-ceasefire-20260619/",
@@ -33,7 +34,6 @@
   "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-vance-cancels-trip-for-iran-talks-20260619/",
   "https://investinglive.com/centralbank/japan-cpi-stays-muted-in-may-as-subsidies-mask-building-inflation-pressure-20260619/",
   "https://investinglive.com/news/oil-and-us-dollar-rising-on-news-that-vance-cancelled-his-trip-to-negotiate-with-iran-20260619/",
-  "https://investinglive.com/centralbank/boj-deputy-governor-says-delaying-on-price-risks-could-cause-long-term-economic-damage-20260619/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -104,6 +104,7 @@
   "https://www.investing.com/news/forex-news/feds-ratehike-fears-meet-iran-peace-dividend-in-global-bond-split-4749078",
   "https://www.investing.com/news/forex-news/major-currency-option-expiries-set-for-new-york-cut-today-93CH-4749834",
   "https://www.investing.com/news/forex-news/analysischinas-african-tariff-removals-trade-surge-spur-yuan-adoption-4749060",
+  "https://investinglive.com/news/iran-military-command-says-its-closing-the-strait-of-hormuz-due-to-ceasefire-violations-20260620/",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-israel-and-hezbollah-agree-to-shaky-ceasefire-20260619/",
   "https://investinglive.com/forex/usdjpy-set-for-highest-weekly-close-since-1986-20260619/",
   "https://investinglive.com/news/two-killed-in-drone-strike-in-southern-lebanon-after-ceasefire-20260619/",
@@ -128,7 +129,6 @@
   "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-vance-cancels-trip-for-iran-talks-20260619/",
   "https://investinglive.com/centralbank/japan-cpi-stays-muted-in-may-as-subsidies-mask-building-inflation-pressure-20260619/",
   "https://investinglive.com/news/oil-and-us-dollar-rising-on-news-that-vance-cancelled-his-trip-to-negotiate-with-iran-20260619/",
-  "https://investinglive.com/centralbank/boj-deputy-governor-says-delaying-on-price-risks-could-cause-long-term-economic-damage-20260619/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1353,7 +1353,7 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-20T21:55:19.705490+09:00"
+  "cache_at": "2026-06-20T22:28:00.092894+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-19T08:19:49.686474+09:00",
