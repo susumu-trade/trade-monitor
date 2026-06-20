@@ -64,6 +64,7 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/breaking-iran-closes-the-strait-of-hormuz-amid-ceasefire-deal-violation-202606201419",
   "https://www.fxstreet.com/news/brent-at-80-did-the-market-buy-the-iran-deal-twice-202606192209",
   "https://www.fxstreet.com/news/the-canadian-dollar-ditches-crude-oil-for-gold-202606192203",
   "https://www.fxstreet.com/news/the-euro-sinks-on-its-own-rate-hike-202606192201",
@@ -93,7 +94,6 @@
   "https://www.fxstreet.com/news/silver-extends-losses-as-hawkish-fed-ceasefire-curb-demand-202606191409",
   "https://www.fxstreet.com/news/british-pound-political-transition-seen-as-upside-risk-to-eur-gbp-ing-202606191357",
   "https://www.fxstreet.com/news/israel-and-hezbollah-agree-to-a-ceasefire-senior-us-official-tells-reuters-202606191311",
-  "https://www.fxstreet.com/news/oil-strait-of-hormuz-reopening-steadies-crude-prices-uob-202606191246",
   "https://www.investing.com/news/forex-news/uk-runs-much-bigger-than-expected-budget-deficit-in-may-4751341",
   "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-near-twomonth-low-as-political-risks-mount-4751501",
   "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-holds-13mth-peak-on-fed-outlook-yen-near-40ye-low-4751322",
@@ -349,6 +349,7 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/breaking-iran-closes-the-strait-of-hormuz-amid-ceasefire-deal-violation-202606201419",
   "https://www.fxstreet.com/news/brent-at-80-did-the-market-buy-the-iran-deal-twice-202606192209",
   "https://www.fxstreet.com/news/the-canadian-dollar-ditches-crude-oil-for-gold-202606192203",
   "https://www.fxstreet.com/news/the-euro-sinks-on-its-own-rate-hike-202606192201",
@@ -378,7 +379,6 @@
   "https://www.fxstreet.com/news/silver-extends-losses-as-hawkish-fed-ceasefire-curb-demand-202606191409",
   "https://www.fxstreet.com/news/british-pound-political-transition-seen-as-upside-risk-to-eur-gbp-ing-202606191357",
   "https://www.fxstreet.com/news/israel-and-hezbollah-agree-to-a-ceasefire-senior-us-official-tells-reuters-202606191311",
-  "https://www.fxstreet.com/news/oil-strait-of-hormuz-reopening-steadies-crude-prices-uob-202606191246",
   "https://www.investing.com/news/forex-news/uk-runs-much-bigger-than-expected-budget-deficit-in-may-4751341",
   "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-near-twomonth-low-as-political-risks-mount-4751501",
   "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-holds-13mth-peak-on-fed-outlook-yen-near-40ye-low-4751322",
@@ -1353,7 +1353,7 @@
     "previous": "-0.6%"
    }
   ],
-  "cache_at": "2026-06-20T23:33:19.163623+09:00"
+  "cache_at": "2026-06-21T00:05:57.712358+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-19T08:19:49.686474+09:00",
