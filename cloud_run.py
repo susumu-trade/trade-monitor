@@ -73,14 +73,24 @@ def yahoo_chart(symbol, rng, interval):
     data = json.loads(http_get(url).decode("utf-8"))
     res = data["chart"]["result"][0]
     q = res["indicators"]["quote"][0]
+    ts = res.get("timestamp") or []
     closes, highs, lows = [], [], []
-    for c, h, l in zip(q.get("close") or [], q.get("high") or [], q.get("low") or []):
+    last_ts = None
+    for t, c, h, l in zip(ts, q.get("close") or [], q.get("high") or [], q.get("low") or []):
         if c is None:
             continue
         closes.append(c)
         highs.append(h if h is not None else c)
         lows.append(l if l is not None else c)
-    return closes, highs, lows
+        last_ts = t
+    return closes, highs, lows, last_ts
+
+# 最新足がこの秒数より古ければ「市場が閉まっている=データ凍結」とみなしスキップ
+SPIKE_STALE_SEC = 20 * 60     # 急変動(1分足)
+SIGNAL_STALE_SEC = 90 * 60    # シグナル(15分足)
+
+def is_stale(last_ts, max_age_sec):
+    return last_ts is None or (time.time() - last_ts) > max_age_sec
 
 def fmt_price(p):
     if p is None:
@@ -140,9 +150,11 @@ def check_spike(cfg, state):
     for inst in sm["instruments"]:
         name, sym = inst["name"], inst["symbol"]
         try:
-            closes, _, _ = yahoo_chart(sym, "1d", "1m")
+            closes, _, _, last_ts = yahoo_chart(sym, "1d", "1m")
         except Exception as e:
             print(f"[spike] {name}: {e}"); continue
+        if is_stale(last_ts, SPIKE_STALE_SEC):
+            print(f"[spike] {name}: データ古い(休場)スキップ"); continue
         win = inst["window_minutes"]
         if len(closes) < win + 1:
             continue
@@ -253,10 +265,10 @@ def check_calendar(cfg, state):
             for e in todays:
                 lines.append(f"{e['jst']:%H:%M} [{e['impact']}] {e['country']} {e['title']}")
             tg_send(f"📰 {lbl['digest_title']}\n" + "\n".join(lines))
+            print("[cal] digest sent")
         else:
-            tg_send(f"📰 {lbl['digest_title']}\n{lbl['none_today']}")
-        cst["last_digest"] = today
-        print("[cal] digest sent")
+            print("[cal] 本日対象なし(送信せず)")
+        cst["last_digest"] = today   # 対象が無くても日付は記録し、再送を防ぐ
     # 直前リマインダー
     for e in events:
         if e["id"] in cst["sent"]:
@@ -278,9 +290,11 @@ def check_signals(cfg, state):
     for inst in cfg["spike_monitor"]["instruments"]:
         name, sym = inst["name"], inst["symbol"]
         try:
-            closes, highs, lows = yahoo_chart(sym, s["range"], s["interval"])
+            closes, highs, lows, last_ts = yahoo_chart(sym, s["range"], s["interval"])
         except Exception as e:
             print(f"[sig] {name}: {e}"); continue
+        if is_stale(last_ts, SIGNAL_STALE_SEC):
+            print(f"[sig] {name}: データ古い(休場)スキップ"); continue
         need = max(s["sma_long"], s["bb_period"], s["breakout_lookback"], s["rsi_period"]) + 2
         if len(closes) < need:
             continue
