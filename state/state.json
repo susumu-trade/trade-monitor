@@ -389,6 +389,7 @@
   "https://www.investing.com/news/forex-news/feds-ratehike-fears-meet-iran-peace-dividend-in-global-bond-split-4749078",
   "https://www.investing.com/news/forex-news/major-currency-option-expiries-set-for-new-york-cut-today-93CH-4749834",
   "https://www.investing.com/news/forex-news/analysischinas-african-tariff-removals-trade-surge-spur-yuan-adoption-4749060",
+  "https://investinglive.com/commodities/qatar-moves-to-contain-ras-laffan-blast-as-questions-linger-over-cause-20260621/",
   "https://investinglive.com/news/economic-and-event-calendar-in-asia-monday-june-22-2026-is-a-light-one-20260621/",
   "https://investinglive.com/commodities/axios-report-that-us-and-iran-make-headway-on-hormuz-access-ahead-of-technical-level-talks-20260621/",
   "https://investinglive.com/forex/monday-open-indicative-forex-prices-22-june-2026-20260621/",
@@ -413,7 +414,6 @@
   "https://investinglive.com/centralbank/ecb-policymaker-wunsch-says-upside-surprises-in-inflation-would-justify-further-tightening-20260619/",
   "https://investinglive.com/centralbank/ecb-policymaker-lane-sees-the-current-inflation-shock-as-mid-sized-defends-rate-hike-20260619/",
   "https://investinglive.com/forex/usdjpy-is-near-the-highest-level-since-1986-as-divergence-with-the-fed-intensifies-20260619/",
-  "https://investinglive.com/news/uk-may-retail-sales-12-vs-05-mm-expected-20260619/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -484,6 +484,8 @@
   "https://www.investing.com/news/forex-news/feds-ratehike-fears-meet-iran-peace-dividend-in-global-bond-split-4749078",
   "https://www.investing.com/news/forex-news/major-currency-option-expiries-set-for-new-york-cut-today-93CH-4749834",
   "https://www.investing.com/news/forex-news/analysischinas-african-tariff-removals-trade-surge-spur-yuan-adoption-4749060",
+  "https://investinglive.com/commodities/qatar-moves-to-contain-ras-laffan-blast-as-questions-linger-over-cause-20260621/",
+  "https://investinglive.com/news/economic-and-event-calendar-in-asia-monday-june-22-2026-is-a-light-one-20260621/",
   "https://investinglive.com/commodities/axios-report-that-us-and-iran-make-headway-on-hormuz-access-ahead-of-technical-level-talks-20260621/",
   "https://investinglive.com/forex/monday-open-indicative-forex-prices-22-june-2026-20260621/",
   "https://investinglive.com/news/jd-vance-these-kinds-of-ceasefires-are-awlays-a-littel-bit-messy-20260621/",
@@ -506,9 +508,7 @@
   "https://investinglive.com/centralbank/how-have-interest-rate-expectations-changed-after-this-weeks-events-20260619/",
   "https://investinglive.com/centralbank/ecb-policymaker-wunsch-says-upside-surprises-in-inflation-would-justify-further-tightening-20260619/",
   "https://investinglive.com/centralbank/ecb-policymaker-lane-sees-the-current-inflation-shock-as-mid-sized-defends-rate-hike-20260619/",
-  "https://investinglive.com/forex/usdjpy-is-near-the-highest-level-since-1986-as-divergence-with-the-fed-intensifies-20260619/",
-  "https://investinglive.com/news/uk-may-retail-sales-12-vs-05-mm-expected-20260619/",
-  "https://investinglive.com/Orders/fx-option-expiries-for-19-june-10am-new-york-cut-20260619/"
+  "https://investinglive.com/forex/usdjpy-is-near-the-highest-level-since-1986-as-divergence-with-the-fed-intensifies-20260619/"
  ],
  "cal": {
   "last_digest": "2026-06-21",
@@ -1201,7 +1201,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-22T05:46:14.081133+09:00"
+  "cache_at": "2026-06-22T06:18:37.888933+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-19T08:19:49.686474+09:00",
