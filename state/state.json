@@ -389,6 +389,7 @@
   "https://www.investing.com/news/forex-news/european-bonds-gain-as-mideast-diplomacy-sparks-relief-ecb-in-focus-4751754",
   "https://www.investing.com/news/forex-news/uk-runs-much-bigger-than-expected-budget-deficit-in-may-4751341",
   "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-near-twomonth-low-as-political-risks-mount-4751501",
+  "https://investinglive.com/forex/japan-finance-minister-held-emergency-call-with-bessent-as-yen-nears-40-year-low-20260622/",
   "https://investinglive.com/stocks/fatal-texas-tesla-crash-puts-full-self-driving-technology-under-federal-scrutiny-20260622/",
   "https://investinglive.com/centralbank/feds-goolsbee-says-inflation-is-well-above-target-and-is-going-the-wrong-way-20260622/",
   "https://investinglive.com/centralbank/warshs-first-humphrey-hawkins-testimony-will-test-his-inflation-resolve-with-lawmakers-20260622/",
@@ -413,7 +414,6 @@
   "https://investinglive.com/commodities/oil-reverses-earlier-gains-sinks-below-75-20260622/",
   "https://investinglive.com/news/qatar-says-the-lng-plant-explosion-was-an-accident-not-aggression-20260622/",
   "https://investinglive.com/technical-analysis/usdcad-moves-to-a-new-low-for-the-day-cpi-comes-in-hotter-than-expectations-20260622/",
-  "https://investinglive.com/news/why-investors-are-turning-to-silver-in-2026-20260622/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -444,6 +444,10 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/new-zealand-dollar-grinds-lower-as-the-iran-truce-frays-202606222147",
+  "https://www.fxstreet.com/news/new-zealand-falls-as-a-stronger-us-dollar-weighs-on-risk-sensitive-currencies-202606222140",
+  "https://www.fxstreet.com/news/trump-and-iran-cannot-agree-on-what-they-just-signed-202606222123",
+  "https://www.fxstreet.com/news/forex-today-us-dollar-surges-near-recent-highs-as-markets-watch-pce-inflation-and-middle-east-202606222103",
   "https://www.fxstreet.com/news/swiss-franc-weakens-vs-dollar-euro-as-snb-gets-relief-202606221941",
   "https://www.fxstreet.com/news/malaysian-ringgit-stays-pressured-against-us-dollar-as-trades-cautiously-ocbc-202606221917",
   "https://www.fxstreet.com/news/united-states-dollar-index-rises-remains-supported-near-10100-202606221915",
@@ -470,10 +474,6 @@
   "https://www.fxstreet.com/news/fed-hawkish-hold-extends-through-2027-td-securities-202606221429",
   "https://www.fxstreet.com/news/british-pound-focus-shifts-to-leadership-and-fiscal-risks-deutsche-bank-202606221418",
   "https://www.fxstreet.com/news/gold-climbs-as-us-iran-talks-make-progress-fed-rate-hike-bets-cap-upside-202606221238",
-  "https://www.fxstreet.com/news/canadian-dollar-inflation-driven-by-energy-rbc-202606221406",
-  "https://www.fxstreet.com/news/canadian-dollar-struggles-to-gain-traction-despite-stronger-inflation-data-202606221359",
-  "https://www.fxstreet.com/news/oil-tight-summer-balances-support-higher-prices-td-securities-202606221351",
-  "https://www.fxstreet.com/news/ecbs-lagarde-no-evidence-yet-of-inflation-de-anchoring-that-would-warrant-stronger-ecb-action-202606221338",
   "https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772",
   "https://www.investing.com/news/forex-news/colombia-peso-hits-fiveyear-high-as-stocks-fall-after-vote-93CH-4753961",
   "https://www.investing.com/news/forex-news/lagarde-calls-for-global-talks-on-chinese-currency-valuation-93CH-4753497",
@@ -484,6 +484,7 @@
   "https://www.investing.com/news/forex-news/european-bonds-gain-as-mideast-diplomacy-sparks-relief-ecb-in-focus-4751754",
   "https://www.investing.com/news/forex-news/uk-runs-much-bigger-than-expected-budget-deficit-in-may-4751341",
   "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-near-twomonth-low-as-political-risks-mount-4751501",
+  "https://investinglive.com/forex/japan-finance-minister-held-emergency-call-with-bessent-as-yen-nears-40-year-low-20260622/",
   "https://investinglive.com/stocks/fatal-texas-tesla-crash-puts-full-self-driving-technology-under-federal-scrutiny-20260622/",
   "https://investinglive.com/centralbank/feds-goolsbee-says-inflation-is-well-above-target-and-is-going-the-wrong-way-20260622/",
   "https://investinglive.com/centralbank/warshs-first-humphrey-hawkins-testimony-will-test-his-inflation-resolve-with-lawmakers-20260622/",
@@ -507,8 +508,7 @@
   "https://investinglive.com/technical-analysis/usdchf-buyers-continue-to-hold-full-control-20260622/",
   "https://investinglive.com/commodities/oil-reverses-earlier-gains-sinks-below-75-20260622/",
   "https://investinglive.com/news/qatar-says-the-lng-plant-explosion-was-an-accident-not-aggression-20260622/",
-  "https://investinglive.com/technical-analysis/usdcad-moves-to-a-new-low-for-the-day-cpi-comes-in-hotter-than-expectations-20260622/",
-  "https://investinglive.com/news/why-investors-are-turning-to-silver-in-2026-20260622/"
+  "https://investinglive.com/technical-analysis/usdcad-moves-to-a-new-low-for-the-day-cpi-comes-in-hotter-than-expectations-20260622/"
  ],
  "cal": {
   "last_digest": "2026-06-23",
@@ -1217,7 +1217,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-23T06:44:09.103260+09:00"
+  "cache_at": "2026-06-23T07:16:38.302967+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-22T07:59:09.186728+09:00",
