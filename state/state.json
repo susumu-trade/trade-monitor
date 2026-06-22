@@ -6,7 +6,7 @@
   "銀": "2026-06-22T10:43:40.060642+09:00",
   "ドル円": "2026-06-18T03:04:45.628033+09:00",
   "金": "2026-06-18T03:11:03.906082+09:00",
-  "天然ガス": "2026-06-22T10:53:48.367990+09:00"
+  "天然ガス": "2026-06-22T11:18:14.105258+09:00"
  },
  "news_seen": [
   "https://investinglive.com/centralbank/recap-japan-pm-takaichi-urges-policy-restraint-after-hawkish-boj-testimony-on-price-risks-20260622/",
@@ -294,6 +294,7 @@
   "https://www.investing.com/news/forex-news/feds-ratehike-fears-meet-iran-peace-dividend-in-global-bond-split-4749078",
   "https://www.investing.com/news/forex-news/major-currency-option-expiries-set-for-new-york-cut-today-93CH-4749834",
   "https://www.investing.com/news/forex-news/analysischinas-african-tariff-removals-trade-surge-spur-yuan-adoption-4749060",
+  "https://investinglive.com/centralbank/recap-japan-pm-takaichi-urges-policy-restraint-after-hawkish-boj-testimony-on-price-risks-20260622/",
   "https://investinglive.com/commodities/mediators-map-out-60-day-roadmap-for-final-us-iran-deal-after-breakthrough-talks-20260622/",
   "https://investinglive.com/centralbank/pboc-sets-usd-cny-reference-rate-for-today-at-68150-vs-estimate-at-67733-20260622/",
   "https://investinglive.com/commodities/hormuz-maritime-security-mechanism-agreed-by-iran-in-switzerland-breakthrough-20260622/",
@@ -318,7 +319,6 @@
   "https://investinglive.com/forex/usdjpy-set-for-highest-weekly-close-since-1986-20260619/",
   "https://investinglive.com/news/two-killed-in-drone-strike-in-southern-lebanon-after-ceasefire-20260619/",
   "https://investinglive.com/news/questions-are-creeping-in-about-ai-usefulness-and-spend-20260619/",
-  "https://investinglive.com/news/uk-pm-starmer-to-weigh-future-over-the-weekend-report-20260619/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -389,6 +389,7 @@
   "https://www.investing.com/news/forex-news/feds-ratehike-fears-meet-iran-peace-dividend-in-global-bond-split-4749078",
   "https://www.investing.com/news/forex-news/major-currency-option-expiries-set-for-new-york-cut-today-93CH-4749834",
   "https://www.investing.com/news/forex-news/analysischinas-african-tariff-removals-trade-surge-spur-yuan-adoption-4749060",
+  "https://investinglive.com/centralbank/recap-japan-pm-takaichi-urges-policy-restraint-after-hawkish-boj-testimony-on-price-risks-20260622/",
   "https://investinglive.com/commodities/mediators-map-out-60-day-roadmap-for-final-us-iran-deal-after-breakthrough-talks-20260622/",
   "https://investinglive.com/centralbank/pboc-sets-usd-cny-reference-rate-for-today-at-68150-vs-estimate-at-67733-20260622/",
   "https://investinglive.com/commodities/hormuz-maritime-security-mechanism-agreed-by-iran-in-switzerland-breakthrough-20260622/",
@@ -413,7 +414,6 @@
   "https://investinglive.com/forex/usdjpy-set-for-highest-weekly-close-since-1986-20260619/",
   "https://investinglive.com/news/two-killed-in-drone-strike-in-southern-lebanon-after-ceasefire-20260619/",
   "https://investinglive.com/news/questions-are-creeping-in-about-ai-usefulness-and-spend-20260619/",
-  "https://investinglive.com/news/uk-pm-starmer-to-weigh-future-over-the-weekend-report-20260619/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -484,6 +484,7 @@
   "https://www.investing.com/news/forex-news/feds-ratehike-fears-meet-iran-peace-dividend-in-global-bond-split-4749078",
   "https://www.investing.com/news/forex-news/major-currency-option-expiries-set-for-new-york-cut-today-93CH-4749834",
   "https://www.investing.com/news/forex-news/analysischinas-african-tariff-removals-trade-surge-spur-yuan-adoption-4749060",
+  "https://investinglive.com/centralbank/recap-japan-pm-takaichi-urges-policy-restraint-after-hawkish-boj-testimony-on-price-risks-20260622/",
   "https://investinglive.com/commodities/mediators-map-out-60-day-roadmap-for-final-us-iran-deal-after-breakthrough-talks-20260622/",
   "https://investinglive.com/centralbank/pboc-sets-usd-cny-reference-rate-for-today-at-68150-vs-estimate-at-67733-20260622/",
   "https://investinglive.com/commodities/hormuz-maritime-security-mechanism-agreed-by-iran-in-switzerland-breakthrough-20260622/",
@@ -507,8 +508,7 @@
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-israel-and-hezbollah-agree-to-shaky-ceasefire-20260619/",
   "https://investinglive.com/forex/usdjpy-set-for-highest-weekly-close-since-1986-20260619/",
   "https://investinglive.com/news/two-killed-in-drone-strike-in-southern-lebanon-after-ceasefire-20260619/",
-  "https://investinglive.com/news/questions-are-creeping-in-about-ai-usefulness-and-spend-20260619/",
-  "https://investinglive.com/news/uk-pm-starmer-to-weigh-future-over-the-weekend-report-20260619/"
+  "https://investinglive.com/news/questions-are-creeping-in-about-ai-usefulness-and-spend-20260619/"
  ],
  "cal": {
   "last_digest": "2026-06-22",
