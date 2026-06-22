@@ -294,6 +294,7 @@
   "https://www.investing.com/news/forex-news/european-bonds-gain-as-mideast-diplomacy-sparks-relief-ecb-in-focus-4751754",
   "https://www.investing.com/news/forex-news/uk-runs-much-bigger-than-expected-budget-deficit-in-may-4751341",
   "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-near-twomonth-low-as-political-risks-mount-4751501",
+  "https://investinglive.com/commodities/danske-bank-sees-brent-at-80-this-year-rules-out-return-to-pre-war-lows-20260622/",
   "https://investinglive.com/forex/japan-finance-minister-held-emergency-call-with-bessent-as-yen-nears-40-year-low-20260622/",
   "https://investinglive.com/stocks/fatal-texas-tesla-crash-puts-full-self-driving-technology-under-federal-scrutiny-20260622/",
   "https://investinglive.com/centralbank/feds-goolsbee-says-inflation-is-well-above-target-and-is-going-the-wrong-way-20260622/",
@@ -318,7 +319,6 @@
   "https://investinglive.com/technical-analysis/usdchf-buyers-continue-to-hold-full-control-20260622/",
   "https://investinglive.com/commodities/oil-reverses-earlier-gains-sinks-below-75-20260622/",
   "https://investinglive.com/news/qatar-says-the-lng-plant-explosion-was-an-accident-not-aggression-20260622/",
-  "https://investinglive.com/technical-analysis/usdcad-moves-to-a-new-low-for-the-day-cpi-comes-in-hotter-than-expectations-20260622/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -389,6 +389,7 @@
   "https://www.investing.com/news/forex-news/european-bonds-gain-as-mideast-diplomacy-sparks-relief-ecb-in-focus-4751754",
   "https://www.investing.com/news/forex-news/uk-runs-much-bigger-than-expected-budget-deficit-in-may-4751341",
   "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-near-twomonth-low-as-political-risks-mount-4751501",
+  "https://investinglive.com/commodities/danske-bank-sees-brent-at-80-this-year-rules-out-return-to-pre-war-lows-20260622/",
   "https://investinglive.com/forex/japan-finance-minister-held-emergency-call-with-bessent-as-yen-nears-40-year-low-20260622/",
   "https://investinglive.com/stocks/fatal-texas-tesla-crash-puts-full-self-driving-technology-under-federal-scrutiny-20260622/",
   "https://investinglive.com/centralbank/feds-goolsbee-says-inflation-is-well-above-target-and-is-going-the-wrong-way-20260622/",
@@ -413,7 +414,6 @@
   "https://investinglive.com/technical-analysis/usdchf-buyers-continue-to-hold-full-control-20260622/",
   "https://investinglive.com/commodities/oil-reverses-earlier-gains-sinks-below-75-20260622/",
   "https://investinglive.com/news/qatar-says-the-lng-plant-explosion-was-an-accident-not-aggression-20260622/",
-  "https://investinglive.com/technical-analysis/usdcad-moves-to-a-new-low-for-the-day-cpi-comes-in-hotter-than-expectations-20260622/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1217,10 +1217,10 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-23T07:16:38.302967+09:00"
+  "cache_at": "2026-06-23T07:49:03.517323+09:00"
  },
  "signal_cd": {
-  "ドル円:sell": "2026-06-22T07:59:09.186728+09:00",
+  "ドル円:sell": "2026-06-23T07:49:03.517473+09:00",
   "日経225:sell": "2026-06-22T09:48:54.909842+09:00",
   "銀:buy": "2026-06-23T06:23:50.266993+09:00",
   "金:sell": "2026-06-23T06:23:50.266993+09:00",
