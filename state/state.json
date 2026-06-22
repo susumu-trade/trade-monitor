@@ -94,6 +94,8 @@
   "https://www.fxstreet.com/news/canada-cpi-expected-to-show-rising-inflation-in-may-202606220800",
   "https://www.fxstreet.com/news/sp-500-limited-relief-rally-after-us-iran-deal-deutsche-bank-202606221235",
   "https://www.fxstreet.com/news/mexican-peso-bearish-against-us-dollar-as-banxico-looms-societe-generale-202606221223",
+  "https://www.investing.com/news/forex-news/lagarde-calls-for-global-talks-on-chinese-currency-valuation-93CH-4753497",
+  "https://www.investing.com/news/forex-news/canadian-dollar-falls-to-14month-low-on-us-dollar-strength-93CH-4753493",
   "https://www.investing.com/news/forex-news/south-african-rand-rises-on-usiran-peace-talk-progress-93CH-4753391",
   "https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772",
   "https://www.investing.com/news/forex-news/rbi-sold-894-billion-in-forex-market-in-april-to-support-rupee-93CH-4753106",
@@ -102,8 +104,6 @@
   "https://www.investing.com/news/forex-news/uk-runs-much-bigger-than-expected-budget-deficit-in-may-4751341",
   "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-near-twomonth-low-as-political-risks-mount-4751501",
   "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-holds-13mth-peak-on-fed-outlook-yen-near-40ye-low-4751322",
-  "https://www.investing.com/news/forex-news/euro-zone-yields-gain-as-us-cancels-iran-talks-triggers-oil-uptick-4751388",
-  "https://www.investing.com/news/forex-news/asia-fx-steadies-after-sliding-on-fed-hawkish-shift-iran-peace-deal-in-focus-4748968",
   "https://investinglive.com/stocks/some-of-the-biggest-names-are-leading-the-market-lower-today-on-concerning-price-action-20260622/",
   "https://investinglive.com/stocks/netflix-shares-are-beginning-to-price-in-disruption-20260622/",
   "https://investinglive.com/technical-analysis/crude-oil-trades-above-and-below-its-key-200-day-ma-at-7363-20260622/",
@@ -389,6 +389,7 @@
   "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-holds-13mth-peak-on-fed-outlook-yen-near-40ye-low-4751322",
   "https://www.investing.com/news/forex-news/euro-zone-yields-gain-as-us-cancels-iran-talks-triggers-oil-uptick-4751388",
   "https://www.investing.com/news/forex-news/asia-fx-steadies-after-sliding-on-fed-hawkish-shift-iran-peace-deal-in-focus-4748968",
+  "https://investinglive.com/stocks/some-of-the-biggest-names-are-leading-the-market-lower-today-on-concerning-price-action-20260622/",
   "https://investinglive.com/stocks/netflix-shares-are-beginning-to-price-in-disruption-20260622/",
   "https://investinglive.com/technical-analysis/crude-oil-trades-above-and-below-its-key-200-day-ma-at-7363-20260622/",
   "https://investinglive.com/technical-analysis/eurusd-trades-to-a-new-session-low-20260622/",
@@ -413,7 +414,6 @@
   "https://investinglive.com/forex/the-pound-will-not-like-burnham-as-uk-prime-minister-credit-agricole-20260622/",
   "https://investinglive.com/news/uk-politics-streeting-folds-decides-to-back-burnham-for-prime-minister-bid-20260622/",
   "https://investinglive.com/news/bofa-now-expects-fed-to-hike-interest-rates-three-times-this-year-20260622/",
-  "https://investinglive.com/commodities/gold-maintains-the-bearish-bias-following-the-hawkish-fed-decision-focus-shifts-to-data-20260622/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -484,6 +484,7 @@
   "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-holds-13mth-peak-on-fed-outlook-yen-near-40ye-low-4751322",
   "https://www.investing.com/news/forex-news/euro-zone-yields-gain-as-us-cancels-iran-talks-triggers-oil-uptick-4751388",
   "https://www.investing.com/news/forex-news/asia-fx-steadies-after-sliding-on-fed-hawkish-shift-iran-peace-deal-in-focus-4748968",
+  "https://investinglive.com/stocks/some-of-the-biggest-names-are-leading-the-market-lower-today-on-concerning-price-action-20260622/",
   "https://investinglive.com/stocks/netflix-shares-are-beginning-to-price-in-disruption-20260622/",
   "https://investinglive.com/technical-analysis/crude-oil-trades-above-and-below-its-key-200-day-ma-at-7363-20260622/",
   "https://investinglive.com/technical-analysis/eurusd-trades-to-a-new-session-low-20260622/",
@@ -507,8 +508,7 @@
   "https://investinglive.com/news/long-semiconductors-is-the-most-crowded-trade-on-record-spain-favoured-to-win-world-cup-20260622/",
   "https://investinglive.com/forex/the-pound-will-not-like-burnham-as-uk-prime-minister-credit-agricole-20260622/",
   "https://investinglive.com/news/uk-politics-streeting-folds-decides-to-back-burnham-for-prime-minister-bid-20260622/",
-  "https://investinglive.com/news/bofa-now-expects-fed-to-hike-interest-rates-three-times-this-year-20260622/",
-  "https://investinglive.com/commodities/gold-maintains-the-bearish-bias-following-the-hawkish-fed-decision-focus-shifts-to-data-20260622/"
+  "https://investinglive.com/news/bofa-now-expects-fed-to-hike-interest-rates-three-times-this-year-20260622/"
  ],
  "cal": {
   "last_digest": "2026-06-22",
@@ -1217,7 +1217,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-23T02:56:47.151933+09:00"
+  "cache_at": "2026-06-23T03:29:11.733179+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-22T07:59:09.186728+09:00",
