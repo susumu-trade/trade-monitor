@@ -6,7 +6,7 @@
   "銀": "2026-06-20T18:38:31.349273+09:00",
   "ドル円": "2026-06-18T03:04:45.628033+09:00",
   "金": "2026-06-18T03:11:03.906082+09:00",
-  "天然ガス": "2026-06-22T09:08:22.186329+09:00"
+  "天然ガス": "2026-06-22T09:32:39.929690+09:00"
  },
  "news_seen": [
   "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-67733-reuters-estimate-20260622/",
@@ -199,6 +199,7 @@
   "https://www.investing.com/news/forex-news/feds-ratehike-fears-meet-iran-peace-dividend-in-global-bond-split-4749078",
   "https://www.investing.com/news/forex-news/major-currency-option-expiries-set-for-new-york-cut-today-93CH-4749834",
   "https://www.investing.com/news/forex-news/analysischinas-african-tariff-removals-trade-surge-spur-yuan-adoption-4749060",
+  "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-67733-reuters-estimate-20260622/",
   "https://investinglive.com/centralbank/bank-of-japan-deputy-governor-himono-to-speak-imminently-20260621/",
   "https://investinglive.com/commodities/hormuz-traffic-plunges-to-five-ships-as-iran-reasserts-closure-threat-20260621/",
   "https://investinglive.com/news/uk-media-guardian-reports-starmer-set-to-confirm-autumn-departure-on-monday-uk-time-20260621/",
@@ -223,7 +224,6 @@
   "https://investinglive.com/commodities/gold-finds-itself-in-a-worse-place-if-you-trust-kevin-warsh-20260619/",
   "https://investinglive.com/forex/usdcad-continues-to-run-after-breaking-the-november-high-20260619/",
   "https://investinglive.com/news/iran-foreign-min-says-plans-underway-for-future-meeting-with-us-20260619/",
-  "https://investinglive.com/news/multiple-cabinet-ministers-will-tell-starmer-to-set-out-a-timeline-for-leaving-report-20260619/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -294,6 +294,7 @@
   "https://www.investing.com/news/forex-news/feds-ratehike-fears-meet-iran-peace-dividend-in-global-bond-split-4749078",
   "https://www.investing.com/news/forex-news/major-currency-option-expiries-set-for-new-york-cut-today-93CH-4749834",
   "https://www.investing.com/news/forex-news/analysischinas-african-tariff-removals-trade-surge-spur-yuan-adoption-4749060",
+  "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-67733-reuters-estimate-20260622/",
   "https://investinglive.com/centralbank/bank-of-japan-deputy-governor-himono-to-speak-imminently-20260621/",
   "https://investinglive.com/commodities/hormuz-traffic-plunges-to-five-ships-as-iran-reasserts-closure-threat-20260621/",
   "https://investinglive.com/news/uk-media-guardian-reports-starmer-set-to-confirm-autumn-departure-on-monday-uk-time-20260621/",
@@ -318,7 +319,6 @@
   "https://investinglive.com/commodities/gold-finds-itself-in-a-worse-place-if-you-trust-kevin-warsh-20260619/",
   "https://investinglive.com/forex/usdcad-continues-to-run-after-breaking-the-november-high-20260619/",
   "https://investinglive.com/news/iran-foreign-min-says-plans-underway-for-future-meeting-with-us-20260619/",
-  "https://investinglive.com/news/multiple-cabinet-ministers-will-tell-starmer-to-set-out-a-timeline-for-leaving-report-20260619/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1201,7 +1201,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-22T09:00:17.258399+09:00"
+  "cache_at": "2026-06-22T09:32:41.774917+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-22T07:59:09.186728+09:00",
