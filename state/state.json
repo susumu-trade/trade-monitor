@@ -199,6 +199,7 @@
   "https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772",
   "https://www.investing.com/news/forex-news/colombia-peso-hits-fiveyear-high-as-stocks-fall-after-vote-93CH-4753961",
   "https://www.investing.com/news/forex-news/lagarde-calls-for-global-talks-on-chinese-currency-valuation-93CH-4753497",
+  "https://investinglive.com/stock-market-update/mixed-market-signals-tech-stocks-tumble-while-consumer-sectors-gain-ground-20260623/",
   "https://investinglive.com/centralbank/ecbs-vujcic-we-do-not-want-to-give-forward-guidance-every-meeting-is-live-20260623/",
   "https://investinglive.com/technical-analysis/the-sp-and-nasdaq-indices-gap-lower-shifting-the-short-term-bias-back-in-sellers-control-20260623/",
   "https://investinglive.com/news/us-richmond-fed-composite-index-4-vs-13-prior-20260623/",
@@ -223,7 +224,6 @@
   "https://investinglive.com/news/france-june-flash-services-pmi-474-vs-460-expected-20260623/",
   "https://investinglive.com/news/france-june-business-confidence-94-vs-95-expected-20260623/",
   "https://investinglive.com/news/what-are-the-main-events-for-today-20260623/",
-  "https://investinglive.com/stocks/us-futures-hold-lower-as-tech-shares-lead-the-drop-again-20260623/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -294,6 +294,7 @@
   "https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772",
   "https://www.investing.com/news/forex-news/colombia-peso-hits-fiveyear-high-as-stocks-fall-after-vote-93CH-4753961",
   "https://www.investing.com/news/forex-news/lagarde-calls-for-global-talks-on-chinese-currency-valuation-93CH-4753497",
+  "https://investinglive.com/stock-market-update/mixed-market-signals-tech-stocks-tumble-while-consumer-sectors-gain-ground-20260623/",
   "https://investinglive.com/centralbank/ecbs-vujcic-we-do-not-want-to-give-forward-guidance-every-meeting-is-live-20260623/",
   "https://investinglive.com/technical-analysis/the-sp-and-nasdaq-indices-gap-lower-shifting-the-short-term-bias-back-in-sellers-control-20260623/",
   "https://investinglive.com/news/us-richmond-fed-composite-index-4-vs-13-prior-20260623/",
@@ -318,7 +319,6 @@
   "https://investinglive.com/news/france-june-flash-services-pmi-474-vs-460-expected-20260623/",
   "https://investinglive.com/news/france-june-business-confidence-94-vs-95-expected-20260623/",
   "https://investinglive.com/news/what-are-the-main-events-for-today-20260623/",
-  "https://investinglive.com/stocks/us-futures-hold-lower-as-tech-shares-lead-the-drop-again-20260623/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -389,6 +389,7 @@
   "https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772",
   "https://www.investing.com/news/forex-news/colombia-peso-hits-fiveyear-high-as-stocks-fall-after-vote-93CH-4753961",
   "https://www.investing.com/news/forex-news/lagarde-calls-for-global-talks-on-chinese-currency-valuation-93CH-4753497",
+  "https://investinglive.com/stock-market-update/mixed-market-signals-tech-stocks-tumble-while-consumer-sectors-gain-ground-20260623/",
   "https://investinglive.com/centralbank/ecbs-vujcic-we-do-not-want-to-give-forward-guidance-every-meeting-is-live-20260623/",
   "https://investinglive.com/technical-analysis/the-sp-and-nasdaq-indices-gap-lower-shifting-the-short-term-bias-back-in-sellers-control-20260623/",
   "https://investinglive.com/news/us-richmond-fed-composite-index-4-vs-13-prior-20260623/",
@@ -413,7 +414,6 @@
   "https://investinglive.com/news/france-june-flash-services-pmi-474-vs-460-expected-20260623/",
   "https://investinglive.com/news/france-june-business-confidence-94-vs-95-expected-20260623/",
   "https://investinglive.com/news/what-are-the-main-events-for-today-20260623/",
-  "https://investinglive.com/stocks/us-futures-hold-lower-as-tech-shares-lead-the-drop-again-20260623/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -959,7 +959,7 @@
     "country": "USD",
     "date": "2026-06-24T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "-5.1M",
+    "forecast": "-3.3M",
     "previous": "-8.3M"
    },
    {
@@ -1219,7 +1219,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-23T23:25:08.409291+09:00"
+  "cache_at": "2026-06-23T23:57:37.987041+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-23T20:42:44.579552+09:00",
