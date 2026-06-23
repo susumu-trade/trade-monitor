@@ -9,6 +9,7 @@
   "天然ガス": "2026-06-23T05:04:39.762584+09:00"
  },
  "news_seen": [
+  "https://investinglive.com/commodities/gold-faces-3800-risk-if-fed-pivots-to-hikes-deutsche-bank-warns-20260623/",
   "https://investinglive.com/stock-market-update/retail-investors-chase-ai-upside-as-pros-stay-cautious-and-nasdaq-longs-pile-up-20260623/",
   "https://investinglive.com/commodities/un-shipping-agency-begins-evacuating-hundreds-of-ships-stranded-in-gulf-via-hormuz-20260623/",
   "https://investinglive.com/stock-market-update/alphabet-will-replace-verizon-in-the-dow-jones-industrial-average-20260623/",
@@ -33,7 +34,6 @@
   "https://investinglive.com/centralbank/ecbs-vujcic-we-do-not-want-to-give-forward-guidance-every-meeting-is-live-20260623/",
   "https://investinglive.com/technical-analysis/the-sp-and-nasdaq-indices-gap-lower-shifting-the-short-term-bias-back-in-sellers-control-20260623/",
   "https://investinglive.com/news/us-richmond-fed-composite-index-4-vs-13-prior-20260623/",
-  "https://investinglive.com/news/us-june-sp-global-flash-services-pmi-513-vs-510-20260623/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -64,6 +64,7 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/australia-cpi-set-to-show-inflation-accelerated-again-in-may-202606232230",
   "https://www.fxstreet.com/news/british-pound-sterling-bounces-into-an-empty-week-202606232141",
   "https://www.fxstreet.com/news/canadian-dollar-falls-as-usd-strength-oil-weakness-bite-202606232139",
   "https://www.fxstreet.com/news/forex-today-us-dollar-surges-to-13-month-high-as-traders-assess-global-flash-pmis-202606232001",
@@ -93,7 +94,6 @@
   "https://www.fxstreet.com/news/us-sp-global-pmi-expected-to-show-steady-business-growth-in-june-202606230900",
   "https://www.fxstreet.com/news/canadian-dollar-remains-soft-as-usd-trend-extends-scotiabank-202606231348",
   "https://www.fxstreet.com/news/oil-sanctions-waiver-pressures-prices-ing-202606231330",
-  "https://www.fxstreet.com/news/silver-price-forecast-can-bulls-defend-60-as-the-us-dollar-climbs-to-one-year-highs-202606231324",
   "https://www.investing.com/news/forex-news/dollar-near-1yr-high-with-more-rate-cues-in-focus-yen-in-intervention-zone-4754621",
   "https://www.investing.com/news/forex-news/barclays-sees-new-zealand-dollar-gains-ahead-on-rate-hikes-93CH-4756259",
   "https://www.investing.com/news/forex-news/barclays-maintains-bullish-view-on-australian-dollar-93CH-4756235",
@@ -1227,7 +1227,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-24T07:37:42.296084+09:00"
+  "cache_at": "2026-06-24T08:10:06.376759+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-24T06:00:27.995070+09:00",
