@@ -379,12 +379,12 @@
   "https://www.fxstreet.com/news/united-kingdom-flash-sp-global-services-pmi-unexpectedly-arrives-lower-at-487-in-june-vs-500-estimates-202606230835",
   "https://www.fxstreet.com/news/gold-weakens-back-below-4-150-amid-iran-uncertainty-fed-hike-bets-bullish-usd-202606230353",
   "https://www.fxstreet.com/news/the-canadian-dollar-hits-14-month-lows-why-higher-inflation-is-unlikely-to-support-the-loonie-for-now-202606230830",
+  "https://www.investing.com/news/forex-news/japanese-yen-nears-weakest-level-in-40-years-govt-intervention-in-focus-4754582",
   "https://www.investing.com/news/forex-news/eurozone-yields-dip-following-ecb-comments-hormuz-easing-4754649",
   "https://www.investing.com/news/forex-news/european-central-bank-gets-parliamentary-backing-for-digital-euro-93CH-4755011",
   "https://www.investing.com/news/forex-news/dollar-near-1yr-high-with-more-rate-cues-in-focus-yen-in-intervention-zone-4754621",
   "https://www.investing.com/news/forex-news/citi-sets-eurjpy-fair-value-amid-intervention-impact-93CH-4754799",
   "https://www.investing.com/news/forex-news/deutsche-bank-sees-limited-pound-impact-from-burnham-premiership-93CH-4754798",
-  "https://www.investing.com/news/forex-news/japanese-yen-nears-weakest-level-in-40-years-govt-intervention-in-focus-4754582",
   "https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772",
   "https://www.investing.com/news/forex-news/colombia-peso-hits-fiveyear-high-as-stocks-fall-after-vote-93CH-4753961",
   "https://www.investing.com/news/forex-news/lagarde-calls-for-global-talks-on-chinese-currency-valuation-93CH-4753497",
@@ -474,12 +474,12 @@
   "https://www.fxstreet.com/news/united-kingdom-flash-sp-global-services-pmi-unexpectedly-arrives-lower-at-487-in-june-vs-500-estimates-202606230835",
   "https://www.fxstreet.com/news/gold-weakens-back-below-4-150-amid-iran-uncertainty-fed-hike-bets-bullish-usd-202606230353",
   "https://www.fxstreet.com/news/the-canadian-dollar-hits-14-month-lows-why-higher-inflation-is-unlikely-to-support-the-loonie-for-now-202606230830",
+  "https://www.investing.com/news/forex-news/japanese-yen-nears-weakest-level-in-40-years-govt-intervention-in-focus-4754582",
   "https://www.investing.com/news/forex-news/eurozone-yields-dip-following-ecb-comments-hormuz-easing-4754649",
   "https://www.investing.com/news/forex-news/european-central-bank-gets-parliamentary-backing-for-digital-euro-93CH-4755011",
   "https://www.investing.com/news/forex-news/dollar-near-1yr-high-with-more-rate-cues-in-focus-yen-in-intervention-zone-4754621",
   "https://www.investing.com/news/forex-news/citi-sets-eurjpy-fair-value-amid-intervention-impact-93CH-4754799",
   "https://www.investing.com/news/forex-news/deutsche-bank-sees-limited-pound-impact-from-burnham-premiership-93CH-4754798",
-  "https://www.investing.com/news/forex-news/japanese-yen-nears-weakest-level-in-40-years-govt-intervention-in-focus-4754582",
   "https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772",
   "https://www.investing.com/news/forex-news/colombia-peso-hits-fiveyear-high-as-stocks-fall-after-vote-93CH-4753961",
   "https://www.investing.com/news/forex-news/lagarde-calls-for-global-talks-on-chinese-currency-valuation-93CH-4753497",
@@ -1217,7 +1217,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-23T21:15:14.882882+09:00"
+  "cache_at": "2026-06-23T21:47:37.380998+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-23T20:42:44.579552+09:00",
