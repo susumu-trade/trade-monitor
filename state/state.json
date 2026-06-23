@@ -159,6 +159,10 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6300-as-bearish-bias-persists-202606230354",
+  "https://www.fxstreet.com/news/gold-weakens-back-below-4-150-amid-iran-uncertainty-fed-hike-bets-bullish-usd-202606230353",
+  "https://www.fxstreet.com/news/swiss-franc-holds-onto-losses-below-08100-amid-firm-fed-interest-rate-hike-bets-202606230325",
+  "https://www.fxstreet.com/news/australian-dollar-falls-despite-improved-sp-global-pmi-data-202606230318",
   "https://www.fxstreet.com/news/101-united-states-dollar-index-remains-close-to-13-month-highs-202606230243",
   "https://www.fxstreet.com/news/new-zealand-softens-to-near-05700-despite-us-iran-peace-progress-202606230225",
   "https://www.fxstreet.com/news/japans-kihara-says-will-take-appropriate-action-against-fx-moves-if-needed-202606230219",
@@ -185,10 +189,6 @@
   "https://www.fxstreet.com/news/united-states-dollar-index-rises-remains-supported-near-10100-202606221915",
   "https://www.fxstreet.com/news/mexican-peso-weakens-as-fed-repricing-lifts-usd-ahead-of-banxico-202606221832",
   "https://www.fxstreet.com/news/aud-jpy-price-forecast-bears-defend-50-day-sma-as-intervention-risks-linger-202606221830",
-  "https://www.fxstreet.com/news/chinese-yuan-testing-68000-within-broader-range-against-us-dollar-uob-202606221828",
-  "https://www.fxstreet.com/news/for-the-canadian-dollar-the-trade-war-beats-the-data-202606221812",
-  "https://www.fxstreet.com/news/the-japanese-yen-makes-british-political-chaos-look-orderly-202606221812",
-  "https://www.fxstreet.com/news/singapore-dollar-pressured-against-us-dollar-as-mas-tightening-eyed-ocbc-202606221751",
   "https://www.investing.com/news/forex-news/japanese-yen-nears-weakest-level-in-40-years-govt-intervention-in-focus-4754582",
   "https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772",
   "https://www.investing.com/news/forex-news/colombia-peso-hits-fiveyear-high-as-stocks-fall-after-vote-93CH-4753961",
@@ -254,6 +254,10 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6300-as-bearish-bias-persists-202606230354",
+  "https://www.fxstreet.com/news/gold-weakens-back-below-4-150-amid-iran-uncertainty-fed-hike-bets-bullish-usd-202606230353",
+  "https://www.fxstreet.com/news/swiss-franc-holds-onto-losses-below-08100-amid-firm-fed-interest-rate-hike-bets-202606230325",
+  "https://www.fxstreet.com/news/australian-dollar-falls-despite-improved-sp-global-pmi-data-202606230318",
   "https://www.fxstreet.com/news/101-united-states-dollar-index-remains-close-to-13-month-highs-202606230243",
   "https://www.fxstreet.com/news/new-zealand-softens-to-near-05700-despite-us-iran-peace-progress-202606230225",
   "https://www.fxstreet.com/news/japans-kihara-says-will-take-appropriate-action-against-fx-moves-if-needed-202606230219",
@@ -280,10 +284,6 @@
   "https://www.fxstreet.com/news/united-states-dollar-index-rises-remains-supported-near-10100-202606221915",
   "https://www.fxstreet.com/news/mexican-peso-weakens-as-fed-repricing-lifts-usd-ahead-of-banxico-202606221832",
   "https://www.fxstreet.com/news/aud-jpy-price-forecast-bears-defend-50-day-sma-as-intervention-risks-linger-202606221830",
-  "https://www.fxstreet.com/news/chinese-yuan-testing-68000-within-broader-range-against-us-dollar-uob-202606221828",
-  "https://www.fxstreet.com/news/for-the-canadian-dollar-the-trade-war-beats-the-data-202606221812",
-  "https://www.fxstreet.com/news/the-japanese-yen-makes-british-political-chaos-look-orderly-202606221812",
-  "https://www.fxstreet.com/news/singapore-dollar-pressured-against-us-dollar-as-mas-tightening-eyed-ocbc-202606221751",
   "https://www.investing.com/news/forex-news/japanese-yen-nears-weakest-level-in-40-years-govt-intervention-in-focus-4754582",
   "https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772",
   "https://www.investing.com/news/forex-news/colombia-peso-hits-fiveyear-high-as-stocks-fall-after-vote-93CH-4753961",
@@ -1217,7 +1217,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-23T12:41:28.936944+09:00"
+  "cache_at": "2026-06-23T13:13:54.700408+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-23T10:19:49.373608+09:00",
