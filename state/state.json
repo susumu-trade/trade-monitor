@@ -1,6 +1,6 @@
 {
  "spike_cd": {
-  "日経225": "2026-06-22T09:52:58.032595+09:00",
+  "日経225": "2026-06-23T12:45:29.439998+09:00",
   "NASDAQ100": "2026-06-18T23:30:36.497077+09:00",
   "WTI原油": "2026-06-23T06:07:34.867242+09:00",
   "銀": "2026-06-23T05:18:54.202339+09:00",
@@ -104,6 +104,7 @@
   "https://www.investing.com/news/forex-news/fx-options-set-to-expire-today-for-major-currency-pairs-93CH-4753064",
   "https://www.investing.com/news/forex-news/european-bonds-gain-as-mideast-diplomacy-sparks-relief-ecb-in-focus-4751754",
   "https://www.investing.com/news/forex-news/uk-runs-much-bigger-than-expected-budget-deficit-in-may-4751341",
+  "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-verbal-support-for-yen-does-little-20260623/",
   "https://investinglive.com/forex/yuan-devaluation-claims-ring-hollow-as-currency-nears-28-month-high-reuters-says-20260623/",
   "https://investinglive.com/forex/south-koreas-finance-minister-koo-yun-cheol-said-usdkrw-mid-1500-is-excessive-20260623/",
   "https://investinglive.com/news/australia-may-cpi-preview-fuel-drag-to-mask-sticky-underlying-inflation-20260623/",
@@ -128,7 +129,6 @@
   "https://investinglive.com/news/trump-strait-of-hormuz-is-totally-open-20260622/",
   "https://investinglive.com/technical-analysis/nzdusd-trades-to-new-lows-stretches-toward-lows-for-the-year-20260622/",
   "https://investinglive.com/technical-analysis/gold-sellers-stay-in-control-below-mas-on-the-hourly-and-daily-charts-20260622/",
-  "https://investinglive.com/stocks/some-of-the-biggest-names-are-leading-the-market-lower-today-on-concerning-price-action-20260622/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -199,6 +199,7 @@
   "https://www.investing.com/news/forex-news/fx-options-set-to-expire-today-for-major-currency-pairs-93CH-4753064",
   "https://www.investing.com/news/forex-news/european-bonds-gain-as-mideast-diplomacy-sparks-relief-ecb-in-focus-4751754",
   "https://www.investing.com/news/forex-news/uk-runs-much-bigger-than-expected-budget-deficit-in-may-4751341",
+  "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-verbal-support-for-yen-does-little-20260623/",
   "https://investinglive.com/forex/yuan-devaluation-claims-ring-hollow-as-currency-nears-28-month-high-reuters-says-20260623/",
   "https://investinglive.com/forex/south-koreas-finance-minister-koo-yun-cheol-said-usdkrw-mid-1500-is-excessive-20260623/",
   "https://investinglive.com/news/australia-may-cpi-preview-fuel-drag-to-mask-sticky-underlying-inflation-20260623/",
@@ -223,7 +224,6 @@
   "https://investinglive.com/news/trump-strait-of-hormuz-is-totally-open-20260622/",
   "https://investinglive.com/technical-analysis/nzdusd-trades-to-new-lows-stretches-toward-lows-for-the-year-20260622/",
   "https://investinglive.com/technical-analysis/gold-sellers-stay-in-control-below-mas-on-the-hourly-and-daily-charts-20260622/",
-  "https://investinglive.com/stocks/some-of-the-biggest-names-are-leading-the-market-lower-today-on-concerning-price-action-20260622/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -294,6 +294,7 @@
   "https://www.investing.com/news/forex-news/fx-options-set-to-expire-today-for-major-currency-pairs-93CH-4753064",
   "https://www.investing.com/news/forex-news/european-bonds-gain-as-mideast-diplomacy-sparks-relief-ecb-in-focus-4751754",
   "https://www.investing.com/news/forex-news/uk-runs-much-bigger-than-expected-budget-deficit-in-may-4751341",
+  "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-verbal-support-for-yen-does-little-20260623/",
   "https://investinglive.com/forex/yuan-devaluation-claims-ring-hollow-as-currency-nears-28-month-high-reuters-says-20260623/",
   "https://investinglive.com/forex/south-koreas-finance-minister-koo-yun-cheol-said-usdkrw-mid-1500-is-excessive-20260623/",
   "https://investinglive.com/news/australia-may-cpi-preview-fuel-drag-to-mask-sticky-underlying-inflation-20260623/",
@@ -318,7 +319,6 @@
   "https://investinglive.com/news/trump-strait-of-hormuz-is-totally-open-20260622/",
   "https://investinglive.com/technical-analysis/nzdusd-trades-to-new-lows-stretches-toward-lows-for-the-year-20260622/",
   "https://investinglive.com/technical-analysis/gold-sellers-stay-in-control-below-mas-on-the-hourly-and-daily-charts-20260622/",
-  "https://investinglive.com/stocks/some-of-the-biggest-names-are-leading-the-market-lower-today-on-concerning-price-action-20260622/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1217,11 +1217,11 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-23T12:09:05.815419+09:00"
+  "cache_at": "2026-06-23T12:41:28.936944+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-23T10:19:49.373608+09:00",
-  "日経225:sell": "2026-06-22T09:48:54.909842+09:00",
+  "日経225:sell": "2026-06-23T12:45:31.069331+09:00",
   "銀:buy": "2026-06-23T10:56:17.922063+09:00",
   "金:sell": "2026-06-23T09:43:22.203876+09:00",
   "ドル円:buy": "2026-06-23T04:09:45.594410+09:00",
@@ -1232,7 +1232,7 @@
   "WTI原油:buy": "2026-06-23T12:21:13.887152+09:00",
   "NASDAQ100:buy": "2026-06-18T23:46:58.174089+09:00",
   "銀:sell": "2026-06-22T10:01:05.030141+09:00",
-  "日経225:buy": "2026-06-23T09:43:22.203876+09:00",
+  "日経225:buy": "2026-06-23T12:45:31.069331+09:00",
   "NASDAQ100:sell": "2026-06-18T01:21:15.272416+09:00"
  }
 }
