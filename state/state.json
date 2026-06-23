@@ -294,6 +294,7 @@
   "https://www.investing.com/news/forex-news/citi-sets-eurjpy-fair-value-amid-intervention-impact-93CH-4754799",
   "https://www.investing.com/news/forex-news/deutsche-bank-sees-limited-pound-impact-from-burnham-premiership-93CH-4754798",
   "https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772",
+  "https://investinglive.com/technical-analysis/the-audusd-trades-to-new-session-lows-and-tests-channel-trend-line-support-20260623/",
   "https://investinglive.com/centralbank/bocs-macklem-so-far-we-are-not-seeing-much-spreading-of-higher-oil-prices-20260623/",
   "https://investinglive.com/technical-analysis/eurusd-sellers-make-a-push-to-new-lows-and-below-a-key-floor-area-20260623/",
   "https://investinglive.com/stock-market-update/mixed-market-signals-tech-stocks-tumble-while-consumer-sectors-gain-ground-20260623/",
@@ -318,7 +319,6 @@
   "https://investinglive.com/news/iran-says-it-has-no-plans-to-let-iaea-inspectors-to-visit-nuclear-sites-20260623/",
   "https://investinglive.com/Education/why-spreads-are-your-biggest-hidden-cost-and-how-primexbt-cuts-them-20260623/",
   "https://investinglive.com/news/germany-june-flash-manufacturing-pmi-500-vs-504-expected-20260623/",
-  "https://investinglive.com/news/france-june-flash-services-pmi-474-vs-460-expected-20260623/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -380,6 +380,8 @@
   "https://www.fxstreet.com/news/hungarian-forint-huf-strength-supports-easing-path-societe-generale-202606231110",
   "https://www.fxstreet.com/news/indian-rupee-grinds-between-firm-us-dollar-and-lower-oil-prices-202606230523",
   "https://www.investing.com/news/forex-news/dollar-near-1yr-high-with-more-rate-cues-in-focus-yen-in-intervention-zone-4754621",
+  "https://www.investing.com/news/forex-news/russian-rouble-weakens-as-fuel-queues-grow-amid-refinery-attacks-93CH-4756041",
+  "https://www.investing.com/news/forex-news/south-african-rand-weakens-as-dollar-strengthens-on-fed-outlook-93CH-4756030",
   "https://www.investing.com/news/forex-news/sterling-today-pound-under-pressure-after-weak-uk-pmi-print-4755501",
   "https://www.investing.com/news/forex-news/japanese-yen-nears-weakest-level-in-40-years-govt-intervention-in-focus-4754582",
   "https://www.investing.com/news/forex-news/eurozone-yields-dip-following-ecb-comments-hormuz-easing-4754649",
@@ -387,8 +389,7 @@
   "https://www.investing.com/news/forex-news/citi-sets-eurjpy-fair-value-amid-intervention-impact-93CH-4754799",
   "https://www.investing.com/news/forex-news/deutsche-bank-sees-limited-pound-impact-from-burnham-premiership-93CH-4754798",
   "https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772",
-  "https://www.investing.com/news/forex-news/colombia-peso-hits-fiveyear-high-as-stocks-fall-after-vote-93CH-4753961",
-  "https://www.investing.com/news/forex-news/lagarde-calls-for-global-talks-on-chinese-currency-valuation-93CH-4753497",
+  "https://investinglive.com/technical-analysis/the-audusd-trades-to-new-session-lows-and-tests-channel-trend-line-support-20260623/",
   "https://investinglive.com/centralbank/bocs-macklem-so-far-we-are-not-seeing-much-spreading-of-higher-oil-prices-20260623/",
   "https://investinglive.com/technical-analysis/eurusd-sellers-make-a-push-to-new-lows-and-below-a-key-floor-area-20260623/",
   "https://investinglive.com/stock-market-update/mixed-market-signals-tech-stocks-tumble-while-consumer-sectors-gain-ground-20260623/",
@@ -413,7 +414,6 @@
   "https://investinglive.com/news/iran-says-it-has-no-plans-to-let-iaea-inspectors-to-visit-nuclear-sites-20260623/",
   "https://investinglive.com/Education/why-spreads-are-your-biggest-hidden-cost-and-how-primexbt-cuts-them-20260623/",
   "https://investinglive.com/news/germany-june-flash-manufacturing-pmi-500-vs-504-expected-20260623/",
-  "https://investinglive.com/news/france-june-flash-services-pmi-474-vs-460-expected-20260623/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -475,6 +475,8 @@
   "https://www.fxstreet.com/news/hungarian-forint-huf-strength-supports-easing-path-societe-generale-202606231110",
   "https://www.fxstreet.com/news/indian-rupee-grinds-between-firm-us-dollar-and-lower-oil-prices-202606230523",
   "https://www.investing.com/news/forex-news/dollar-near-1yr-high-with-more-rate-cues-in-focus-yen-in-intervention-zone-4754621",
+  "https://www.investing.com/news/forex-news/russian-rouble-weakens-as-fuel-queues-grow-amid-refinery-attacks-93CH-4756041",
+  "https://www.investing.com/news/forex-news/south-african-rand-weakens-as-dollar-strengthens-on-fed-outlook-93CH-4756030",
   "https://www.investing.com/news/forex-news/sterling-today-pound-under-pressure-after-weak-uk-pmi-print-4755501",
   "https://www.investing.com/news/forex-news/japanese-yen-nears-weakest-level-in-40-years-govt-intervention-in-focus-4754582",
   "https://www.investing.com/news/forex-news/eurozone-yields-dip-following-ecb-comments-hormuz-easing-4754649",
@@ -482,8 +484,7 @@
   "https://www.investing.com/news/forex-news/citi-sets-eurjpy-fair-value-amid-intervention-impact-93CH-4754799",
   "https://www.investing.com/news/forex-news/deutsche-bank-sees-limited-pound-impact-from-burnham-premiership-93CH-4754798",
   "https://www.investing.com/news/forex-news/dollar-steady-near-multimonth-highs-with-focus-on-iran-talks-pce-data-4751772",
-  "https://www.investing.com/news/forex-news/colombia-peso-hits-fiveyear-high-as-stocks-fall-after-vote-93CH-4753961",
-  "https://www.investing.com/news/forex-news/lagarde-calls-for-global-talks-on-chinese-currency-valuation-93CH-4753497",
+  "https://investinglive.com/technical-analysis/the-audusd-trades-to-new-session-lows-and-tests-channel-trend-line-support-20260623/",
   "https://investinglive.com/centralbank/bocs-macklem-so-far-we-are-not-seeing-much-spreading-of-higher-oil-prices-20260623/",
   "https://investinglive.com/technical-analysis/eurusd-sellers-make-a-push-to-new-lows-and-below-a-key-floor-area-20260623/",
   "https://investinglive.com/stock-market-update/mixed-market-signals-tech-stocks-tumble-while-consumer-sectors-gain-ground-20260623/",
@@ -507,8 +508,7 @@
   "https://investinglive.com/news/eurozone-june-flash-services-pmi-489-vs-486-expected-20260623/",
   "https://investinglive.com/news/iran-says-it-has-no-plans-to-let-iaea-inspectors-to-visit-nuclear-sites-20260623/",
   "https://investinglive.com/Education/why-spreads-are-your-biggest-hidden-cost-and-how-primexbt-cuts-them-20260623/",
-  "https://investinglive.com/news/germany-june-flash-manufacturing-pmi-500-vs-504-expected-20260623/",
-  "https://investinglive.com/news/france-june-flash-services-pmi-474-vs-460-expected-20260623/"
+  "https://investinglive.com/news/germany-june-flash-manufacturing-pmi-500-vs-504-expected-20260623/"
  ],
  "cal": {
   "last_digest": "2026-06-23",
@@ -807,6 +807,14 @@
     "country": "GBP",
     "date": "2026-06-23T13:30:00-04:00",
     "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "date": "2026-06-23T14:05:00-04:00",
+    "impact": "Medium",
     "forecast": "",
     "previous": ""
    },
@@ -1219,7 +1227,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-24T00:30:07.984844+09:00"
+  "cache_at": "2026-06-24T01:02:34.982694+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-23T20:42:44.579552+09:00",
@@ -1233,7 +1241,7 @@
   "金:buy": "2026-06-23T23:21:03.380256+09:00",
   "WTI原油:buy": "2026-06-23T23:21:03.380256+09:00",
   "NASDAQ100:buy": "2026-06-23T22:32:19.705897+09:00",
-  "銀:sell": "2026-06-23T13:09:49.088756+09:00",
+  "銀:sell": "2026-06-24T00:58:31.319957+09:00",
   "日経225:buy": "2026-06-23T12:45:31.069331+09:00",
   "NASDAQ100:sell": "2026-06-18T01:21:15.272416+09:00"
  }
