@@ -389,6 +389,7 @@
   "https://www.investing.com/news/forex-news/barclays-upgrades-dollar-forecasts-on-us-data-and-fed-stance-93CH-4756188",
   "https://www.investing.com/news/forex-news/barclays-sees-dollar-rebound-ahead-after-euro-gains-93CH-4756187",
   "https://www.investing.com/news/forex-news/russian-rouble-weakens-as-fuel-queues-grow-amid-refinery-attacks-93CH-4756041",
+  "https://investinglive.com/news/trump-calls-on-doj-to-look-into-oil-companies-for-not-dropping-prices-at-the-pump-20260624/",
   "https://investinglive.com/news/qatar-says-lng-production-to-resume-within-a-few-weeks-eyes-strait-of-hormuz-reopening-20260624/",
   "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-boj-june-summary-flag-hikes-ahead-toward-175-20260624/",
   "https://investinglive.com/centralbank/westpac-warns-of-middle-east-second-round-cpi-effects-still-forecast-an-august-rba-hike-20260624/",
@@ -413,7 +414,6 @@
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-23-jun-stocks-tumble-as-usd-extends-gain-oil-lower-20260623/",
   "https://investinglive.com/commodities/private-survey-inventory-shows-a-headline-crude-oil-draw-20260623/",
   "https://investinglive.com/news/economic-and-event-calendar-in-asia-australian-inflation-data-boj-opinions-20260623/",
-  "https://investinglive.com/stocks/chip-stocks-battered-as-the-market-looks-towards-micron-earnings-wednesday-20260623/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -484,6 +484,7 @@
   "https://www.investing.com/news/forex-news/barclays-upgrades-dollar-forecasts-on-us-data-and-fed-stance-93CH-4756188",
   "https://www.investing.com/news/forex-news/barclays-sees-dollar-rebound-ahead-after-euro-gains-93CH-4756187",
   "https://www.investing.com/news/forex-news/russian-rouble-weakens-as-fuel-queues-grow-amid-refinery-attacks-93CH-4756041",
+  "https://investinglive.com/news/trump-calls-on-doj-to-look-into-oil-companies-for-not-dropping-prices-at-the-pump-20260624/",
   "https://investinglive.com/news/qatar-says-lng-production-to-resume-within-a-few-weeks-eyes-strait-of-hormuz-reopening-20260624/",
   "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-boj-june-summary-flag-hikes-ahead-toward-175-20260624/",
   "https://investinglive.com/centralbank/westpac-warns-of-middle-east-second-round-cpi-effects-still-forecast-an-august-rba-hike-20260624/",
@@ -507,8 +508,7 @@
   "https://investinglive.com/news/morgan-stanley-north-haven-fund-pays-out-less-than-half-of-q2-investor-withdrawal-requests-20260623/",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-23-jun-stocks-tumble-as-usd-extends-gain-oil-lower-20260623/",
   "https://investinglive.com/commodities/private-survey-inventory-shows-a-headline-crude-oil-draw-20260623/",
-  "https://investinglive.com/news/economic-and-event-calendar-in-asia-australian-inflation-data-boj-opinions-20260623/",
-  "https://investinglive.com/stocks/chip-stocks-battered-as-the-market-looks-towards-micron-earnings-wednesday-20260623/"
+  "https://investinglive.com/news/economic-and-event-calendar-in-asia-australian-inflation-data-boj-opinions-20260623/"
  ],
  "cal": {
   "last_digest": "2026-06-24",
@@ -1242,7 +1242,7 @@
   "WTI原油:buy": "2026-06-24T12:03:24.547586+09:00",
   "NASDAQ100:buy": "2026-06-23T22:32:19.705897+09:00",
   "銀:sell": "2026-06-24T00:58:31.319957+09:00",
-  "日経225:buy": "2026-06-23T12:45:31.069331+09:00",
+  "日経225:buy": "2026-06-24T13:52:33.617958+09:00",
   "NASDAQ100:sell": "2026-06-18T01:21:15.272416+09:00"
  }
 }
