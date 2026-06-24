@@ -9,6 +9,7 @@
   "天然ガス": "2026-06-23T05:04:39.762584+09:00"
  },
  "news_seen": [
+  "https://investinglive.com/news/mufg-says-intervention-threat-slowing-yen-slide-as-boj-hike-fails-to-shift-usdjpy-trend-20260624/",
   "https://investinglive.com/stock-market-update/jp-morgan-lifts-sp-500-target-to-7800-but-warns-of-flash-crash-risk-in-crowded-ai-trades-20260624/",
   "https://investinglive.com/commodities/jp-morgan-cuts-brent-forecast-to-78-year-end-as-demand-miss-and-inventory-lag-bite-20260624/",
   "https://investinglive.com/news/australia-may-jobs-preview-banks-tip-30-45k-rebound-as-easter-distortion-fades-20260624/",
@@ -33,7 +34,6 @@
   "https://investinglive.com/technical-analysis/the-sp-buyers-are-trying-to-hold-support-nasdaq-sellers-are-more-in-control-20260624/",
   "https://investinglive.com/commodities/the-fall-below-70-oil-is-one-of-the-most-confounding-market-moves-ever-20260624/",
   "https://investinglive.com/technical-analysis/lifes-guarantees-death-taxes-and-the-usdcad-moving-higher-20260624/",
-  "https://investinglive.com/commodities/gold-breaks-4000-for-the-first-time-since-november-20260624/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -104,6 +104,7 @@
   "https://www.investing.com/news/forex-news/barclays-forecasts-modest-swedish-krona-rebound-on-growth-signs-93CH-4758681",
   "https://www.investing.com/news/forex-news/barclays-sees-norway-krone-consolidation-before-modest-rebound-93CH-4758663",
   "https://www.investing.com/news/forex-news/barclays-sees-slower-yuan-gains-on-pboc-pushback-export-risks-93CH-4758650",
+  "https://investinglive.com/news/mufg-says-intervention-threat-slowing-yen-slide-as-boj-hike-fails-to-shift-usdjpy-trend-20260624/",
   "https://investinglive.com/stock-market-update/jp-morgan-lifts-sp-500-target-to-7800-but-warns-of-flash-crash-risk-in-crowded-ai-trades-20260624/",
   "https://investinglive.com/commodities/jp-morgan-cuts-brent-forecast-to-78-year-end-as-demand-miss-and-inventory-lag-bite-20260624/",
   "https://investinglive.com/news/australia-may-jobs-preview-banks-tip-30-45k-rebound-as-easter-distortion-fades-20260624/",
@@ -128,7 +129,6 @@
   "https://investinglive.com/technical-analysis/the-sp-buyers-are-trying-to-hold-support-nasdaq-sellers-are-more-in-control-20260624/",
   "https://investinglive.com/commodities/the-fall-below-70-oil-is-one-of-the-most-confounding-market-moves-ever-20260624/",
   "https://investinglive.com/technical-analysis/lifes-guarantees-death-taxes-and-the-usdcad-moving-higher-20260624/",
-  "https://investinglive.com/commodities/gold-breaks-4000-for-the-first-time-since-november-20260624/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1235,7 +1235,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-25T07:15:42.401420+09:00"
+  "cache_at": "2026-06-25T07:48:02.595417+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-25T06:23:01.243553+09:00",
