@@ -9,6 +9,7 @@
   "天然ガス": "2026-06-23T05:04:39.762584+09:00"
  },
  "news_seen": [
+  "https://investinglive.com/commodities/the-fall-below-70-oil-is-one-of-the-most-confounding-market-moves-ever-20260624/",
   "https://investinglive.com/technical-analysis/lifes-guarantees-death-taxes-and-the-usdcad-moving-higher-20260624/",
   "https://investinglive.com/commodities/gold-breaks-4000-for-the-first-time-since-november-20260624/",
   "https://investinglive.com/news/us-q1-current-account-2268-vs-215-billion-expected-20260624/",
@@ -33,7 +34,6 @@
   "https://investinglive.com/news/qatar-says-lng-production-to-resume-within-a-few-weeks-eyes-strait-of-hormuz-reopening-20260624/",
   "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-boj-june-summary-flag-hikes-ahead-toward-175-20260624/",
   "https://investinglive.com/centralbank/westpac-warns-of-middle-east-second-round-cpi-effects-still-forecast-an-august-rba-hike-20260624/",
-  "https://investinglive.com/centralbank/boj-june-summary-flags-faster-hike-calls-as-markets-price-another-move-by-year-end-recap-20260624/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1003,6 +1003,14 @@
     "previous": ""
    },
    {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "date": "2026-06-24T20:30:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+   },
+   {
     "title": "Employment Change",
     "country": "AUD",
     "date": "2026-06-24T21:30:00-04:00",
@@ -1227,22 +1235,22 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-24T22:16:02.312522+09:00"
+  "cache_at": "2026-06-24T22:48:38.002686+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-24T11:51:17.286695+09:00",
   "日経225:sell": "2026-06-23T12:45:31.069331+09:00",
   "銀:buy": "2026-06-24T10:14:09.205991+09:00",
   "金:sell": "2026-06-23T13:09:49.088756+09:00",
-  "ドル円:buy": "2026-06-24T06:00:27.995070+09:00",
+  "ドル円:buy": "2026-06-24T22:48:38.002850+09:00",
   "WTI原油:sell": "2026-06-24T07:49:51.492206+09:00",
   "天然ガス:sell": "2026-06-24T21:10:34.787674+09:00",
   "天然ガス:buy": "2026-06-24T12:51:59.454687+09:00",
   "金:buy": "2026-06-24T21:35:13.977510+09:00",
   "WTI原油:buy": "2026-06-24T22:24:11.049843+09:00",
-  "NASDAQ100:buy": "2026-06-23T22:32:19.705897+09:00",
+  "NASDAQ100:buy": "2026-06-24T22:48:38.002850+09:00",
   "銀:sell": "2026-06-24T00:58:31.319957+09:00",
   "日経225:buy": "2026-06-24T13:52:33.617958+09:00",
-  "NASDAQ100:sell": "2026-06-18T01:21:15.272416+09:00"
+  "NASDAQ100:sell": "2026-06-24T22:48:38.002850+09:00"
  }
 }
