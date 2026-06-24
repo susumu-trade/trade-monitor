@@ -9,6 +9,8 @@
   "天然ガス": "2026-06-23T05:04:39.762584+09:00"
  },
  "news_seen": [
+  "https://investinglive.com/news/magnitude-71-quake-topples-caracas-buildings-as-usgs-warns-of-high-venezuela-casualties-20260624/",
+  "https://investinglive.com/news/uk-car-output-snaps-four-month-slide-in-may-but-us-surge-masks-deeper-industry-stress-20260624/",
   "https://investinglive.com/centralbank/ny-feds-marchioni-calls-new-fomc-reserves-language-cleanup-not-a-warsh-policy-shift-20260624/",
   "https://investinglive.com/news/mufg-says-intervention-threat-slowing-yen-slide-as-boj-hike-fails-to-shift-usdjpy-trend-20260624/",
   "https://investinglive.com/stock-market-update/jp-morgan-lifts-sp-500-target-to-7800-but-warns-of-flash-crash-risk-in-crowded-ai-trades-20260624/",
@@ -32,8 +34,6 @@
   "https://investinglive.com/stock-market-update/communication-services-soar-a-glimpse-into-todays-market-dynamics-20260624/",
   "https://investinglive.com/commodities/us-eia-weekly-crude-oil-inventories-6088k-vs-4461k-expected-20260624/",
   "https://investinglive.com/news/us-may-new-home-sales-580k-vs-639k-expected-20260624/",
-  "https://investinglive.com/technical-analysis/the-sp-buyers-are-trying-to-hold-support-nasdaq-sellers-are-more-in-control-20260624/",
-  "https://investinglive.com/commodities/the-fall-below-70-oil-is-one-of-the-most-confounding-market-moves-ever-20260624/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -104,6 +104,7 @@
   "https://www.investing.com/news/forex-news/barclays-forecasts-modest-swedish-krona-rebound-on-growth-signs-93CH-4758681",
   "https://www.investing.com/news/forex-news/barclays-sees-norway-krone-consolidation-before-modest-rebound-93CH-4758663",
   "https://www.investing.com/news/forex-news/barclays-sees-slower-yuan-gains-on-pboc-pushback-export-risks-93CH-4758650",
+  "https://investinglive.com/news/uk-car-output-snaps-four-month-slide-in-may-but-us-surge-masks-deeper-industry-stress-20260624/",
   "https://investinglive.com/centralbank/ny-feds-marchioni-calls-new-fomc-reserves-language-cleanup-not-a-warsh-policy-shift-20260624/",
   "https://investinglive.com/news/mufg-says-intervention-threat-slowing-yen-slide-as-boj-hike-fails-to-shift-usdjpy-trend-20260624/",
   "https://investinglive.com/stock-market-update/jp-morgan-lifts-sp-500-target-to-7800-but-warns-of-flash-crash-risk-in-crowded-ai-trades-20260624/",
@@ -128,7 +129,6 @@
   "https://investinglive.com/commodities/us-eia-weekly-crude-oil-inventories-6088k-vs-4461k-expected-20260624/",
   "https://investinglive.com/news/us-may-new-home-sales-580k-vs-639k-expected-20260624/",
   "https://investinglive.com/technical-analysis/the-sp-buyers-are-trying-to-hold-support-nasdaq-sellers-are-more-in-control-20260624/",
-  "https://investinglive.com/commodities/the-fall-below-70-oil-is-one-of-the-most-confounding-market-moves-ever-20260624/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1235,13 +1235,13 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-25T08:20:44.203927+09:00"
+  "cache_at": "2026-06-25T08:53:05.512379+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-25T06:23:01.243553+09:00",
   "日経225:sell": "2026-06-23T12:45:31.069331+09:00",
   "銀:buy": "2026-06-25T07:35:53.626824+09:00",
-  "金:sell": "2026-06-25T02:28:59.413957+09:00",
+  "金:sell": "2026-06-25T08:48:59.101274+09:00",
   "ドル円:buy": "2026-06-24T22:48:38.002850+09:00",
   "WTI原油:sell": "2026-06-24T07:49:51.492206+09:00",
   "天然ガス:sell": "2026-06-24T23:49:52.145150+09:00",
