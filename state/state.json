@@ -444,6 +444,12 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-onto-losses-below-4-000-ahead-of-us-pce-inflation-data-202606251107",
+  "https://www.fxstreet.com/news/gold-consolidates-near-seven-month-low-ahead-of-us-pce-report-202606251104",
+  "https://www.fxstreet.com/news/us-core-pce-inflation-expected-to-rise-in-may-as-fed-rate-hike-bets-increase-202606250600",
+  "https://www.fxstreet.com/news/oman-rules-out-fears-of-toll-on-hormuz-202606251054",
+  "https://www.fxstreet.com/news/australian-dollar-languishes-around-06900-with-us-inflation-data-in-the-spotlight-202606251036",
+  "https://www.fxstreet.com/news/usd-jpy-ambitions-for-fresh-all-time-high-near-16200-amid-firm-us-dollar-202606251016",
   "https://www.fxstreet.com/news/euro-energy-prices-and-yen-flows-influence-outlook-abn-amro-202606251003",
   "https://www.fxstreet.com/news/mexican-peso-banxico-stance-and-fed-risks-drive-mxn-societe-generale-202606250957",
   "https://www.fxstreet.com/news/us-dollar-strong-services-keep-inflation-firm-td-securities-202606250947",
@@ -456,7 +462,6 @@
   "https://www.fxstreet.com/news/japanese-yen-seen-weaker-against-us-dollar-uob-202606250908",
   "https://www.fxstreet.com/news/indian-rupee-opens-strongly-as-oil-prices-return-to-pre-war-levels-202606250513",
   "https://www.fxstreet.com/news/wti-falls-to-near-6900-amid-rising-oil-supply-odds-from-middle-east-202606250906",
-  "https://www.fxstreet.com/news/us-core-pce-inflation-expected-to-rise-in-may-as-fed-rate-hike-bets-increase-202606250600",
   "https://www.fxstreet.com/news/oil-bearish-setup-as-supplies-normalise-danske-bank-202606250859",
   "https://www.fxstreet.com/news/usd-chf-price-forecast-aims-to-extend-rally-towards-one-year-high-at-around-08170-202606250854",
   "https://www.fxstreet.com/news/gold-slide-below-4-000-tests-key-supports-societe-generale-202606250850",
@@ -469,11 +474,6 @@
   "https://www.fxstreet.com/news/uks-reeves-andy-burnham-will-be-the-next-prime-minister-202606250830",
   "https://www.fxstreet.com/news/japanese-yen-pce-shocks-drive-intraday-moves-against-us-dollar-mufg-202606250823",
   "https://www.fxstreet.com/news/us-dollar-consumer-resilience-and-gdp-under-scrutiny-ubs-202606250813",
-  "https://www.fxstreet.com/news/us-secretary-of-state-rubio-hormuz-doesnt-belong-to-any-nation-state-202606250807",
-  "https://www.fxstreet.com/news/equities-tech-rebound-lifts-futures-deutsche-bank-202606250804",
-  "https://www.fxstreet.com/news/dow-jones-futures-rise-on-tech-rally-us-pce-inflation-awaited-202606250759",
-  "https://www.fxstreet.com/news/australian-dollar-oversold-but-vulnerable-against-us-dollar-uob-202606250756",
-  "https://www.fxstreet.com/news/canadian-dollar-languishes-at-14-month-lows-amid-fed-hiking-bets-lower-oil-prices-202606250754",
   "https://www.investing.com/news/forex-news/asian-fx-recover-as-dollar-eases-from-peak-aussie-steady-after-jobs-data-4759717",
   "https://www.investing.com/news/forex-news/euro-yields-pause-downtick-as-markets-rework-inflationary-fallout-4759769",
   "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-hits-13mth-high-yen-yuan-remain-under-pressure-4757332",
@@ -484,6 +484,7 @@
   "https://www.investing.com/news/forex-news/exclusivebinance-vows-to-stay-in-europe-despite-licence-setback-4757836",
   "https://www.investing.com/news/forex-news/barclays-sees-limited-philippine-peso-gains-despite-iran-deal-93CH-4758699",
   "https://www.investing.com/news/forex-news/barclays-forecasts-modest-swedish-krona-rebound-on-growth-signs-93CH-4758681",
+  "https://investinglive.com/news/oman-reaffirms-that-future-arrangements-for-strait-of-hormuz-do-not-involve-tolls-20260625/",
   "https://investinglive.com/stocks/the-sp-500-remains-under-pressure-as-fed-tightening-risk-caps-the-upside-data-in-focus-20260625/",
   "https://investinglive.com/stocks/us-futures-hold-higher-as-tech-shares-lead-the-charge-after-micron-earnings-ease-ai-fears-20260625/",
   "https://investinglive.com/forex/usdjpy-struggles-near-the-highest-levels-since-1986-amid-intervention-fears-20260625/",
@@ -507,8 +508,7 @@
   "https://investinglive.com/centralbank/boj-tamura-says-neutral-rate-around2-and-its-important-to-get-closer-sooner-20260625/",
   "https://investinglive.com/stock-market-update/jpmorgan-says-non-us-stocks-at-25-discount-but-cheap-alone-wont-shift-flows-20260625/",
   "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-68045-reuters-estimate-20260625/",
-  "https://investinglive.com/news/south-korea-equities-surging-at-the-open-kospi-up-more-than-5-20260625/",
-  "https://investinglive.com/news/magnitude-71-quake-topples-caracas-buildings-as-usgs-warns-of-high-venezuela-casualties-20260624/"
+  "https://investinglive.com/news/south-korea-equities-surging-at-the-open-kospi-up-more-than-5-20260625/"
  ],
  "cal": {
   "last_digest": "2026-06-25",
@@ -1236,7 +1236,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-25T20:01:40.304892+09:00"
+  "cache_at": "2026-06-25T20:34:05.156662+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-25T06:23:01.243553+09:00",
