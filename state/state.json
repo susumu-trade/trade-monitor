@@ -199,6 +199,7 @@
   "https://www.investing.com/news/forex-news/barclays-forecasts-modest-swedish-krona-rebound-on-growth-signs-93CH-4758681",
   "https://www.investing.com/news/forex-news/barclays-sees-norway-krone-consolidation-before-modest-rebound-93CH-4758663",
   "https://www.investing.com/news/forex-news/barclays-sees-slower-yuan-gains-on-pboc-pushback-export-risks-93CH-4758650",
+  "https://investinglive.com/centralbank/bessent-greenspan-tap-the-brakes-remark-read-as-green-light-for-warsh-hike-in-september-20260625/",
   "https://investinglive.com/news/australian-may-unemployment-rate-44-expected-44-prior-45-20260625/",
   "https://investinglive.com/commodities/irans-irgc-warns-ships-face-action-for-using-hormuz-routes-not-cleared-with-tehran-20260625/",
   "https://investinglive.com/centralbank/pboc-sets-usd-cny-reference-rate-for-today-at-68209-vs-estimate-at-68048-20260625/",
@@ -223,7 +224,6 @@
   "https://investinglive.com/Cryptocurrency/bitcoin-breaks-60000-and-falls-to-a-20-month-low-20260624/",
   "https://investinglive.com/stocks/us-stocks-give-up-the-gains-as-memory-and-chip-names-slide-20260624/",
   "https://investinglive.com/centralbank/boc-minutes-members-agreed-the-economy-was-weak-20260624/",
-  "https://investinglive.com/stocks/micron-earnings-after-the-close-with-price-up-721-from-a-year-ago-is-it-priced-right-20260624/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -294,6 +294,7 @@
   "https://www.investing.com/news/forex-news/barclays-forecasts-modest-swedish-krona-rebound-on-growth-signs-93CH-4758681",
   "https://www.investing.com/news/forex-news/barclays-sees-norway-krone-consolidation-before-modest-rebound-93CH-4758663",
   "https://www.investing.com/news/forex-news/barclays-sees-slower-yuan-gains-on-pboc-pushback-export-risks-93CH-4758650",
+  "https://investinglive.com/centralbank/bessent-greenspan-tap-the-brakes-remark-read-as-green-light-for-warsh-hike-in-september-20260625/",
   "https://investinglive.com/news/australian-may-unemployment-rate-44-expected-44-prior-45-20260625/",
   "https://investinglive.com/commodities/irans-irgc-warns-ships-face-action-for-using-hormuz-routes-not-cleared-with-tehran-20260625/",
   "https://investinglive.com/centralbank/pboc-sets-usd-cny-reference-rate-for-today-at-68209-vs-estimate-at-68048-20260625/",
@@ -318,7 +319,6 @@
   "https://investinglive.com/Cryptocurrency/bitcoin-breaks-60000-and-falls-to-a-20-month-low-20260624/",
   "https://investinglive.com/stocks/us-stocks-give-up-the-gains-as-memory-and-chip-names-slide-20260624/",
   "https://investinglive.com/centralbank/boc-minutes-members-agreed-the-economy-was-weak-20260624/",
-  "https://investinglive.com/stocks/micron-earnings-after-the-close-with-price-up-721-from-a-year-ago-is-it-priced-right-20260624/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1038,7 +1038,7 @@
    {
     "title": "NAB Quarterly Business Confidence",
     "country": "AUD",
-    "date": "2026-06-24T21:35:00-04:00",
+    "date": "2026-06-24T21:59:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": "-4"
@@ -1236,7 +1236,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-25T10:30:16.780823+09:00"
+  "cache_at": "2026-06-25T11:02:36.739770+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-25T06:23:01.243553+09:00",
@@ -1248,7 +1248,7 @@
   "天然ガス:sell": "2026-06-25T09:49:43.774385+09:00",
   "天然ガス:buy": "2026-06-25T00:14:18.223355+09:00",
   "金:buy": "2026-06-25T07:11:36.618709+09:00",
-  "WTI原油:buy": "2026-06-25T09:25:28.033583+09:00",
+  "WTI原油:buy": "2026-06-25T11:02:36.739983+09:00",
   "NASDAQ100:buy": "2026-06-25T02:16:41.777967+09:00",
   "銀:sell": "2026-06-25T10:26:12.555394+09:00",
   "日経225:buy": "2026-06-25T10:38:21.760281+09:00",
