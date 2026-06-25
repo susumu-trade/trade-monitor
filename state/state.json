@@ -1,7 +1,7 @@
 {
  "spike_cd": {
   "日経225": "2026-06-25T10:09:57.024334+09:00",
-  "NASDAQ100": "2026-06-25T23:04:18.040253+09:00",
+  "NASDAQ100": "2026-06-25T23:52:55.849339+09:00",
   "WTI原油": "2026-06-24T22:13:58.250464+09:00",
   "銀": "2026-06-25T23:38:45.202796+09:00",
   "ドル円": "2026-06-18T03:04:45.628033+09:00",
@@ -9,6 +9,8 @@
   "天然ガス": "2026-06-25T23:40:46.237820+09:00"
  },
  "news_seen": [
+  "https://investinglive.com/stock-market-update/tech-tumbles-bright-spots-for-banks-and-healthcare-20260625/",
+  "https://investinglive.com/news/israel-lebanon-meeting-hits-dead-end-as-israel-insists-on-occupation-20260625/",
   "https://investinglive.com/technical-analysis/usdcad-is-trading-down-on-the-day-with-help-from-a-double-top-can-sellers-push-further-20260625/",
   "https://investinglive.com/stocks/meta-is-the-signal-and-micron-is-the-noise-20260625/",
   "https://investinglive.com/news/micron-kicks-off-a-strong-opening-for-us-stocks-20260625/",
@@ -32,8 +34,6 @@
   "https://investinglive.com/news/frane-june-consumer-confidence-84-vs-83-expected-20260625/",
   "https://investinglive.com/news/what-are-the-main-events-for-today-20260625/",
   "https://investinglive.com/news/germany-july-gfk-consumer-sentiment-292-vs-276-expected-20260625/",
-  "https://investinglive.com/Orders/fx-option-expiries-for-25-june-10am-new-york-cut-20260625/",
-  "https://investinglive.com/centralbank/boj-policymaker-tamura-says-important-for-fx-to-move-in-a-way-reflecting-fundamentals-20260625/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -94,6 +94,7 @@
   "https://www.fxstreet.com/news/euro-energy-prices-and-yen-flows-influence-outlook-abn-amro-202606251003",
   "https://www.fxstreet.com/news/mexican-peso-banxico-stance-and-fed-risks-drive-mxn-societe-generale-202606250957",
   "https://www.fxstreet.com/news/us-dollar-strong-services-keep-inflation-firm-td-securities-202606250947",
+  "https://www.investing.com/news/forex-news/bofa-cuts-euro-forecasts-sees-stronger-dollar-in-second-half-on-hawkish-fed-4760992",
   "https://www.investing.com/news/forex-news/asian-fx-recover-as-dollar-eases-from-peak-aussie-steady-after-jobs-data-4759717",
   "https://www.investing.com/news/forex-news/sterling-today-pound-takes-a-breather-as-risk-sentiment-steadies-4760749",
   "https://www.investing.com/news/forex-news/japan-likely-to-hold-off-on-fresh-yen-intervention-until-usdjpy-nears-160-4760687",
@@ -103,7 +104,8 @@
   "https://www.investing.com/news/forex-news/barclays-sees-taiwan-dollar-stability-amid-tech-boom-cbc-intervention-93CH-4758809",
   "https://www.investing.com/news/forex-news/barclays-sees-thai-baht-trading-in-narrow-range-on-tourism-weakness-93CH-4758804",
   "https://www.investing.com/news/forex-news/barclays-sees-singapore-dollar-strength-on-mas-policy-dollar-weakness-93CH-4758803",
-  "https://www.investing.com/news/forex-news/exclusivebinance-vows-to-stay-in-europe-despite-licence-setback-4757836",
+  "https://investinglive.com/stock-market-update/tech-tumbles-bright-spots-for-banks-and-healthcare-20260625/",
+  "https://investinglive.com/news/israel-lebanon-meeting-hits-dead-end-as-israel-insists-on-occupation-20260625/",
   "https://investinglive.com/technical-analysis/usdcad-is-trading-down-on-the-day-with-help-from-a-double-top-can-sellers-push-further-20260625/",
   "https://investinglive.com/stocks/meta-is-the-signal-and-micron-is-the-noise-20260625/",
   "https://investinglive.com/news/micron-kicks-off-a-strong-opening-for-us-stocks-20260625/",
@@ -127,8 +129,6 @@
   "https://investinglive.com/news/frane-june-consumer-confidence-84-vs-83-expected-20260625/",
   "https://investinglive.com/news/what-are-the-main-events-for-today-20260625/",
   "https://investinglive.com/news/germany-july-gfk-consumer-sentiment-292-vs-276-expected-20260625/",
-  "https://investinglive.com/Orders/fx-option-expiries-for-25-june-10am-new-york-cut-20260625/",
-  "https://investinglive.com/centralbank/boj-policymaker-tamura-says-important-for-fx-to-move-in-a-way-reflecting-fundamentals-20260625/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -189,6 +189,7 @@
   "https://www.fxstreet.com/news/euro-energy-prices-and-yen-flows-influence-outlook-abn-amro-202606251003",
   "https://www.fxstreet.com/news/mexican-peso-banxico-stance-and-fed-risks-drive-mxn-societe-generale-202606250957",
   "https://www.fxstreet.com/news/us-dollar-strong-services-keep-inflation-firm-td-securities-202606250947",
+  "https://www.investing.com/news/forex-news/bofa-cuts-euro-forecasts-sees-stronger-dollar-in-second-half-on-hawkish-fed-4760992",
   "https://www.investing.com/news/forex-news/asian-fx-recover-as-dollar-eases-from-peak-aussie-steady-after-jobs-data-4759717",
   "https://www.investing.com/news/forex-news/sterling-today-pound-takes-a-breather-as-risk-sentiment-steadies-4760749",
   "https://www.investing.com/news/forex-news/japan-likely-to-hold-off-on-fresh-yen-intervention-until-usdjpy-nears-160-4760687",
@@ -198,7 +199,7 @@
   "https://www.investing.com/news/forex-news/barclays-sees-taiwan-dollar-stability-amid-tech-boom-cbc-intervention-93CH-4758809",
   "https://www.investing.com/news/forex-news/barclays-sees-thai-baht-trading-in-narrow-range-on-tourism-weakness-93CH-4758804",
   "https://www.investing.com/news/forex-news/barclays-sees-singapore-dollar-strength-on-mas-policy-dollar-weakness-93CH-4758803",
-  "https://www.investing.com/news/forex-news/exclusivebinance-vows-to-stay-in-europe-despite-licence-setback-4757836",
+  "https://investinglive.com/news/israel-lebanon-meeting-hits-dead-end-as-israel-insists-on-occupation-20260625/",
   "https://investinglive.com/technical-analysis/usdcad-is-trading-down-on-the-day-with-help-from-a-double-top-can-sellers-push-further-20260625/",
   "https://investinglive.com/stocks/meta-is-the-signal-and-micron-is-the-noise-20260625/",
   "https://investinglive.com/news/micron-kicks-off-a-strong-opening-for-us-stocks-20260625/",
@@ -223,7 +224,6 @@
   "https://investinglive.com/news/what-are-the-main-events-for-today-20260625/",
   "https://investinglive.com/news/germany-july-gfk-consumer-sentiment-292-vs-276-expected-20260625/",
   "https://investinglive.com/Orders/fx-option-expiries-for-25-june-10am-new-york-cut-20260625/",
-  "https://investinglive.com/centralbank/boj-policymaker-tamura-says-important-for-fx-to-move-in-a-way-reflecting-fundamentals-20260625/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -284,6 +284,7 @@
   "https://www.fxstreet.com/news/euro-energy-prices-and-yen-flows-influence-outlook-abn-amro-202606251003",
   "https://www.fxstreet.com/news/mexican-peso-banxico-stance-and-fed-risks-drive-mxn-societe-generale-202606250957",
   "https://www.fxstreet.com/news/us-dollar-strong-services-keep-inflation-firm-td-securities-202606250947",
+  "https://www.investing.com/news/forex-news/bofa-cuts-euro-forecasts-sees-stronger-dollar-in-second-half-on-hawkish-fed-4760992",
   "https://www.investing.com/news/forex-news/asian-fx-recover-as-dollar-eases-from-peak-aussie-steady-after-jobs-data-4759717",
   "https://www.investing.com/news/forex-news/sterling-today-pound-takes-a-breather-as-risk-sentiment-steadies-4760749",
   "https://www.investing.com/news/forex-news/japan-likely-to-hold-off-on-fresh-yen-intervention-until-usdjpy-nears-160-4760687",
@@ -293,7 +294,6 @@
   "https://www.investing.com/news/forex-news/barclays-sees-taiwan-dollar-stability-amid-tech-boom-cbc-intervention-93CH-4758809",
   "https://www.investing.com/news/forex-news/barclays-sees-thai-baht-trading-in-narrow-range-on-tourism-weakness-93CH-4758804",
   "https://www.investing.com/news/forex-news/barclays-sees-singapore-dollar-strength-on-mas-policy-dollar-weakness-93CH-4758803",
-  "https://www.investing.com/news/forex-news/exclusivebinance-vows-to-stay-in-europe-despite-licence-setback-4757836",
   "https://investinglive.com/technical-analysis/usdcad-is-trading-down-on-the-day-with-help-from-a-double-top-can-sellers-push-further-20260625/",
   "https://investinglive.com/stocks/meta-is-the-signal-and-micron-is-the-noise-20260625/",
   "https://investinglive.com/news/micron-kicks-off-a-strong-opening-for-us-stocks-20260625/",
@@ -1248,7 +1248,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-25T23:16:31.539547+09:00"
+  "cache_at": "2026-06-25T23:48:55.282522+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-25T22:44:04.473615+09:00",
