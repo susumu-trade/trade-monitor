@@ -9,6 +9,7 @@
   "天然ガス": "2026-06-25T23:40:46.237820+09:00"
  },
  "news_seen": [
+  "https://investinglive.com/centralbank/boj-front-loading-now-in-play-as-ai-demand-and-inflation-risks-build-20260625/",
   "https://investinglive.com/news/wsj-polymarket-paid-creators-to-fake-trades-and-wins-in-covert-us-social-media-campaign-20260625/",
   "https://investinglive.com/commodities/icymi-iran-fires-on-cargo-ship-in-hormuz-strait-un-halts-evacuation-as-oil-price-bounce-20260625/",
   "https://investinglive.com/centralbank/icymi-ny-fed-williams-delays-2-inflation-target-to-2028-sees-policy-well-positioned-20260625/",
@@ -33,7 +34,6 @@
   "https://investinglive.com/news/micron-kicks-off-a-strong-opening-for-us-stocks-20260625/",
   "https://investinglive.com/technical-analysis/yields-move-lower-after-data-dump-dollar-off-highs-stocks-higher-led-by-micron-20260625/",
   "https://investinglive.com/forex/us-dollar-slides-as-inflation-numbers-cool-fed-hike-talk-20260625/",
-  "https://investinglive.com/news/us-gdp-final-q1-21-versus-16-estimate-20260625/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -444,6 +444,9 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/mexican-peso-rises-as-banxicos-hawkish-hold-fuels-peso-rally-202606252203",
+  "https://www.fxstreet.com/news/pound-sterling-buckles-in-a-leadership-vacuum-202606252158",
+  "https://www.fxstreet.com/news/australian-dollar-wins-the-data-and-still-cannot-rally-202606252154",
   "https://www.fxstreet.com/news/silver-catches-a-bid-not-a-bottom-202606252040",
   "https://www.fxstreet.com/news/firm-data-isnt-hot-enough-for-the-us-dollar-202606252036",
   "https://www.fxstreet.com/news/forex-today-us-dollar-eases-after-pce-data-yen-remains-near-intervention-zone-202606252035",
@@ -471,9 +474,6 @@
   "https://www.fxstreet.com/news/australian-dollar-holds-steady-as-us-pce-inflation-reinforces-fed-caution-202606251459",
   "https://www.fxstreet.com/news/japanese-yen-intervention-risk-near-162-against-us-dollar-scotiabank-202606251450",
   "https://www.fxstreet.com/news/canadian-dollar-recovers-as-oil-prices-rebound-us-dollar-eases-after-pce-data-202606251429",
-  "https://www.fxstreet.com/news/united-states-long-run-growth-and-china-challenge-commerzbank-202606251421",
-  "https://www.fxstreet.com/news/euro-stabilizes-near-13-month-lows-against-the-us-dollar-after-in-line-us-inflation-data-202606251350",
-  "https://www.fxstreet.com/news/us-dollar-rally-extends-as-fed-repricing-dominates-abn-amro-202606251350",
   "https://www.investing.com/news/forex-news/asian-fx-recover-as-dollar-eases-from-peak-aussie-steady-after-jobs-data-4759717",
   "https://www.investing.com/news/forex-news/barclays-sees-russian-ruble-weakening-on-lower-oil-stronger-dollar-93CH-4761312",
   "https://www.investing.com/news/forex-news/barclays-cites-oil-imports-and-copper-weakness-for-chile-peso-view-93CH-4761276",
@@ -1240,7 +1240,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-26T07:02:03.070432+09:00"
+  "cache_at": "2026-06-26T07:34:22.912295+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-26T06:33:43.241543+09:00",
@@ -1248,7 +1248,7 @@
   "銀:buy": "2026-06-25T22:07:21.579635+09:00",
   "金:sell": "2026-06-26T05:32:59.069416+09:00",
   "ドル円:buy": "2026-06-26T06:57:58.833499+09:00",
-  "WTI原油:sell": "2026-06-25T23:08:21.901712+09:00",
+  "WTI原油:sell": "2026-06-26T07:34:22.912494+09:00",
   "天然ガス:sell": "2026-06-25T20:42:09.922155+09:00",
   "天然ガス:buy": "2026-06-25T22:56:12.613503+09:00",
   "金:buy": "2026-06-25T21:55:13.692944+09:00",
