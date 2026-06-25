@@ -9,6 +9,7 @@
   "天然ガス": "2026-06-25T23:40:46.237820+09:00"
  },
  "news_seen": [
+  "https://investinglive.com/news/polestar-shut-out-of-us-market-from-2027-as-china-tech-ban-claims-geely-linked-brand-20260625/",
   "https://investinglive.com/centralbank/boj-front-loading-now-in-play-as-ai-demand-and-inflation-risks-build-20260625/",
   "https://investinglive.com/news/wsj-polymarket-paid-creators-to-fake-trades-and-wins-in-covert-us-social-media-campaign-20260625/",
   "https://investinglive.com/commodities/icymi-iran-fires-on-cargo-ship-in-hormuz-strait-un-halts-evacuation-as-oil-price-bounce-20260625/",
@@ -33,7 +34,6 @@
   "https://investinglive.com/stocks/meta-is-the-signal-and-micron-is-the-noise-20260625/",
   "https://investinglive.com/news/micron-kicks-off-a-strong-opening-for-us-stocks-20260625/",
   "https://investinglive.com/technical-analysis/yields-move-lower-after-data-dump-dollar-off-highs-stocks-higher-led-by-micron-20260625/",
-  "https://investinglive.com/forex/us-dollar-slides-as-inflation-numbers-cool-fed-hike-talk-20260625/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -104,6 +104,7 @@
   "https://www.investing.com/news/forex-news/barclays-sees-romania-leu-under-pressure-from-political-uncertainty-93CH-4761232",
   "https://www.investing.com/news/forex-news/south-african-rand-gains-07-as-dollar-weakens-on-us-data-93CH-4761185",
   "https://www.investing.com/news/forex-news/bofa-cuts-euro-forecasts-sees-stronger-dollar-in-second-half-on-hawkish-fed-4760992",
+  "https://investinglive.com/news/polestar-shut-out-of-us-market-from-2027-as-china-tech-ban-claims-geely-linked-brand-20260625/",
   "https://investinglive.com/centralbank/boj-front-loading-now-in-play-as-ai-demand-and-inflation-risks-build-20260625/",
   "https://investinglive.com/news/wsj-polymarket-paid-creators-to-fake-trades-and-wins-in-covert-us-social-media-campaign-20260625/",
   "https://investinglive.com/commodities/icymi-iran-fires-on-cargo-ship-in-hormuz-strait-un-halts-evacuation-as-oil-price-bounce-20260625/",
@@ -128,7 +129,6 @@
   "https://investinglive.com/stocks/meta-is-the-signal-and-micron-is-the-noise-20260625/",
   "https://investinglive.com/news/micron-kicks-off-a-strong-opening-for-us-stocks-20260625/",
   "https://investinglive.com/technical-analysis/yields-move-lower-after-data-dump-dollar-off-highs-stocks-higher-led-by-micron-20260625/",
-  "https://investinglive.com/forex/us-dollar-slides-as-inflation-numbers-cool-fed-hike-talk-20260625/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1240,7 +1240,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-26T07:34:22.912295+09:00"
+  "cache_at": "2026-06-26T08:06:44.180493+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-26T06:33:43.241543+09:00",
