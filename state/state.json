@@ -9,6 +9,7 @@
   "天然ガス": "2026-06-23T05:04:39.762584+09:00"
  },
  "news_seen": [
+  "https://investinglive.com/news/investinglive-european-markets-wrap-oil-precious-metals-drop-equities-surge-on-micron-20260625/",
   "https://investinglive.com/news/oman-reaffirms-that-future-arrangements-for-strait-of-hormuz-do-not-involve-tolls-20260625/",
   "https://investinglive.com/stocks/the-sp-500-remains-under-pressure-as-fed-tightening-risk-caps-the-upside-data-in-focus-20260625/",
   "https://investinglive.com/stocks/us-futures-hold-higher-as-tech-shares-lead-the-charge-after-micron-earnings-ease-ai-fears-20260625/",
@@ -33,7 +34,6 @@
   "https://investinglive.com/centralbank/boj-tamura-says-neutral-rate-around2-and-its-important-to-get-closer-sooner-20260625/",
   "https://investinglive.com/stock-market-update/jpmorgan-says-non-us-stocks-at-25-discount-but-cheap-alone-wont-shift-flows-20260625/",
   "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-68045-reuters-estimate-20260625/",
-  "https://investinglive.com/news/south-korea-equities-surging-at-the-open-kospi-up-more-than-5-20260625/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1132,6 +1132,14 @@
     "previous": "0.5%"
    },
    {
+    "title": "FOMC Member Bowman Speaks",
+    "country": "USD",
+    "date": "2026-06-25T08:45:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
     "title": "CB Leading Index m/m",
     "country": "CNY",
     "date": "2026-06-25T09:00:00-04:00",
@@ -1236,7 +1244,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-25T20:34:05.156662+09:00"
+  "cache_at": "2026-06-25T21:06:24.459109+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-25T06:23:01.243553+09:00",
@@ -1250,7 +1258,7 @@
   "金:buy": "2026-06-25T07:11:36.618709+09:00",
   "WTI原油:buy": "2026-06-25T11:02:36.739983+09:00",
   "NASDAQ100:buy": "2026-06-25T02:16:41.777967+09:00",
-  "銀:sell": "2026-06-25T10:26:12.555394+09:00",
+  "銀:sell": "2026-06-25T21:06:24.459287+09:00",
   "日経225:buy": "2026-06-25T10:38:21.760281+09:00",
   "NASDAQ100:sell": "2026-06-25T02:04:25.907958+09:00"
  }
