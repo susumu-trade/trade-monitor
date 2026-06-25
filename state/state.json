@@ -104,6 +104,7 @@
   "https://www.investing.com/news/forex-news/barclays-sees-taiwan-dollar-stability-amid-tech-boom-cbc-intervention-93CH-4758809",
   "https://www.investing.com/news/forex-news/barclays-sees-thai-baht-trading-in-narrow-range-on-tourism-weakness-93CH-4758804",
   "https://www.investing.com/news/forex-news/barclays-sees-singapore-dollar-strength-on-mas-policy-dollar-weakness-93CH-4758803",
+  "https://investinglive.com/news/dallas-fed-trimmed-mean-pce-price-index-28-vs-24-prior-20260625/",
   "https://investinglive.com/technical-analysis/audusd-dip-buyers-try-push-higher-but-upside-momentum-fades-near-resistance-target-20260625/",
   "https://investinglive.com/stock-market-update/tech-tumbles-bright-spots-for-banks-and-healthcare-20260625/",
   "https://investinglive.com/news/israel-lebanon-meeting-hits-dead-end-as-israel-insists-on-occupation-20260625/",
@@ -128,7 +129,6 @@
   "https://investinglive.com/news/spain-q1-final-gdp-06-vs-06-qq-expected-20260625/",
   "https://investinglive.com/centralbank/ecb-policymaker-schnabel-says-further-rate-hikes-will-likely-be-needed-20260625/",
   "https://investinglive.com/news/frane-june-consumer-confidence-84-vs-83-expected-20260625/",
-  "https://investinglive.com/news/what-are-the-main-events-for-today-20260625/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -199,6 +199,7 @@
   "https://www.investing.com/news/forex-news/barclays-sees-taiwan-dollar-stability-amid-tech-boom-cbc-intervention-93CH-4758809",
   "https://www.investing.com/news/forex-news/barclays-sees-thai-baht-trading-in-narrow-range-on-tourism-weakness-93CH-4758804",
   "https://www.investing.com/news/forex-news/barclays-sees-singapore-dollar-strength-on-mas-policy-dollar-weakness-93CH-4758803",
+  "https://investinglive.com/news/dallas-fed-trimmed-mean-pce-price-index-28-vs-24-prior-20260625/",
   "https://investinglive.com/technical-analysis/audusd-dip-buyers-try-push-higher-but-upside-momentum-fades-near-resistance-target-20260625/",
   "https://investinglive.com/stock-market-update/tech-tumbles-bright-spots-for-banks-and-healthcare-20260625/",
   "https://investinglive.com/news/israel-lebanon-meeting-hits-dead-end-as-israel-insists-on-occupation-20260625/",
@@ -223,7 +224,6 @@
   "https://investinglive.com/news/spain-q1-final-gdp-06-vs-06-qq-expected-20260625/",
   "https://investinglive.com/centralbank/ecb-policymaker-schnabel-says-further-rate-hikes-will-likely-be-needed-20260625/",
   "https://investinglive.com/news/frane-june-consumer-confidence-84-vs-83-expected-20260625/",
-  "https://investinglive.com/news/what-are-the-main-events-for-today-20260625/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -294,6 +294,7 @@
   "https://www.investing.com/news/forex-news/barclays-sees-taiwan-dollar-stability-amid-tech-boom-cbc-intervention-93CH-4758809",
   "https://www.investing.com/news/forex-news/barclays-sees-thai-baht-trading-in-narrow-range-on-tourism-weakness-93CH-4758804",
   "https://www.investing.com/news/forex-news/barclays-sees-singapore-dollar-strength-on-mas-policy-dollar-weakness-93CH-4758803",
+  "https://investinglive.com/news/dallas-fed-trimmed-mean-pce-price-index-28-vs-24-prior-20260625/",
   "https://investinglive.com/technical-analysis/audusd-dip-buyers-try-push-higher-but-upside-momentum-fades-near-resistance-target-20260625/",
   "https://investinglive.com/stock-market-update/tech-tumbles-bright-spots-for-banks-and-healthcare-20260625/",
   "https://investinglive.com/news/israel-lebanon-meeting-hits-dead-end-as-israel-insists-on-occupation-20260625/",
@@ -318,7 +319,6 @@
   "https://investinglive.com/news/spain-q1-final-gdp-06-vs-06-qq-expected-20260625/",
   "https://investinglive.com/centralbank/ecb-policymaker-schnabel-says-further-rate-hikes-will-likely-be-needed-20260625/",
   "https://investinglive.com/news/frane-june-consumer-confidence-84-vs-83-expected-20260625/",
-  "https://investinglive.com/news/what-are-the-main-events-for-today-20260625/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1248,7 +1248,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-26T00:21:25.943688+09:00"
+  "cache_at": "2026-06-26T00:53:48.750519+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-25T22:44:04.473615+09:00",
