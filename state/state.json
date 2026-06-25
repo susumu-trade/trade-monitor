@@ -1,6 +1,6 @@
 {
  "spike_cd": {
-  "日経225": "2026-06-25T09:21:23.594961+09:00",
+  "日経225": "2026-06-25T09:41:37.720320+09:00",
   "NASDAQ100": "2026-06-24T23:47:48.257193+09:00",
   "WTI原油": "2026-06-24T22:13:58.250464+09:00",
   "銀": "2026-06-24T23:00:51.279148+09:00",
@@ -389,6 +389,7 @@
   "https://www.investing.com/news/forex-news/barclays-forecasts-modest-swedish-krona-rebound-on-growth-signs-93CH-4758681",
   "https://www.investing.com/news/forex-news/barclays-sees-norway-krone-consolidation-before-modest-rebound-93CH-4758663",
   "https://www.investing.com/news/forex-news/barclays-sees-slower-yuan-gains-on-pboc-pushback-export-risks-93CH-4758650",
+  "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-68045-reuters-estimate-20260625/",
   "https://investinglive.com/news/south-korea-equities-surging-at-the-open-kospi-up-more-than-5-20260625/",
   "https://investinglive.com/news/magnitude-71-quake-topples-caracas-buildings-as-usgs-warns-of-high-venezuela-casualties-20260624/",
   "https://investinglive.com/news/uk-car-output-snaps-four-month-slide-in-may-but-us-surge-masks-deeper-industry-stress-20260624/",
@@ -413,7 +414,6 @@
   "https://investinglive.com/Education/why-we-are-raising-21-billion-to-build-a-prediction-platform-without-the-bet-20260624/",
   "https://investinglive.com/technical-analysis/the-dollar-rise-continues-vs-the-aud-and-the-nzd-what-are-the-charts-telling-traders-now-20260624/",
   "https://investinglive.com/stock-market-update/communication-services-soar-a-glimpse-into-todays-market-dynamics-20260624/",
-  "https://investinglive.com/commodities/us-eia-weekly-crude-oil-inventories-6088k-vs-4461k-expected-20260624/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -484,6 +484,7 @@
   "https://www.investing.com/news/forex-news/barclays-forecasts-modest-swedish-krona-rebound-on-growth-signs-93CH-4758681",
   "https://www.investing.com/news/forex-news/barclays-sees-norway-krone-consolidation-before-modest-rebound-93CH-4758663",
   "https://www.investing.com/news/forex-news/barclays-sees-slower-yuan-gains-on-pboc-pushback-export-risks-93CH-4758650",
+  "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-68045-reuters-estimate-20260625/",
   "https://investinglive.com/news/south-korea-equities-surging-at-the-open-kospi-up-more-than-5-20260625/",
   "https://investinglive.com/news/magnitude-71-quake-topples-caracas-buildings-as-usgs-warns-of-high-venezuela-casualties-20260624/",
   "https://investinglive.com/news/uk-car-output-snaps-four-month-slide-in-may-but-us-surge-masks-deeper-industry-stress-20260624/",
@@ -507,8 +508,7 @@
   "https://investinglive.com/technical-analysis/silver-and-gold-continues-to-cool-off-both-trade-at-new-2026-lows-20260624/",
   "https://investinglive.com/Education/why-we-are-raising-21-billion-to-build-a-prediction-platform-without-the-bet-20260624/",
   "https://investinglive.com/technical-analysis/the-dollar-rise-continues-vs-the-aud-and-the-nzd-what-are-the-charts-telling-traders-now-20260624/",
-  "https://investinglive.com/stock-market-update/communication-services-soar-a-glimpse-into-todays-market-dynamics-20260624/",
-  "https://investinglive.com/commodities/us-eia-weekly-crude-oil-inventories-6088k-vs-4461k-expected-20260624/"
+  "https://investinglive.com/stock-market-update/communication-services-soar-a-glimpse-into-todays-market-dynamics-20260624/"
  ],
  "cal": {
   "last_digest": "2026-06-25",
