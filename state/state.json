@@ -1,7 +1,7 @@
 {
  "spike_cd": {
   "日経225": "2026-06-26T09:41:46.567536+09:00",
-  "NASDAQ100": "2026-06-26T22:58:58.219627+09:00",
+  "NASDAQ100": "2026-06-27T04:51:32.888238+09:00",
   "WTI原油": "2026-06-26T22:32:20.667950+09:00",
   "銀": "2026-06-26T22:10:02.018371+09:00",
   "ドル円": "2026-06-18T03:04:45.628033+09:00",
@@ -9,6 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "news_seen": [
+  "https://investinglive.com/news/rubio-framework-raises-hopes-for-peace-but-major-obstacles-remain-20260626/",
   "https://investinglive.com/technical-analysis/crude-oil-settles-the-dayweek-at-6923-20260626/",
   "https://investinglive.com/news/hezbollahs-fadlallah-cannot-enforce-washington-agreement-unless-they-go-to-civil-war-20260626/",
   "https://investinglive.com/news/us-israel-and-lebanon-sign-trilateral-agreement-20260626/",
@@ -33,7 +34,6 @@
   "https://investinglive.com/news/us-may-advance-goods-trade-balance-1058-billion-vs-850-billion-expected-20260626/",
   "https://investinglive.com/technical-analysis/the-usd-is-mixed-with-some-late-day-dollar-selling-in-the-major-currency-pair-20260626/",
   "https://investinglive.com/news/investinglive-european-markets-wrap-oil-drops-further-stocks-down-with-eyes-on-big-tech-20260626/",
-  "https://investinglive.com/centralbank/how-have-interest-rate-expectations-changed-after-this-weeks-events-20260626/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1252,7 +1252,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-27T04:15:05.424253+09:00"
+  "cache_at": "2026-06-27T04:47:31.406279+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-26T17:52:21.054075+09:00",
