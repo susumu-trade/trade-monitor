@@ -9,6 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "news_seen": [
+  "https://investinglive.com/news/investinglive-americas-fx-news-wrap-26-jun-greenback-ends-mixed-still-higher-for-week-20260626/",
   "https://investinglive.com/stocks/major-stock-indices-close-modestly-lower-with-the-nasdaq-leading-the-way-20260626/",
   "https://investinglive.com/news/rubio-framework-raises-hopes-for-peace-but-major-obstacles-remain-20260626/",
   "https://investinglive.com/technical-analysis/crude-oil-settles-the-dayweek-at-6923-20260626/",
@@ -33,7 +34,6 @@
   "https://investinglive.com/Education/whatsapp-stock-scam-warning-how-pump-and-dump-schemes-will-try-to-trap-you-20260626/",
   "https://investinglive.com/news/us-may-wholesale-inventories-03-vs-03-expected-20260626/",
   "https://investinglive.com/news/us-may-advance-goods-trade-balance-1058-billion-vs-850-billion-expected-20260626/",
-  "https://investinglive.com/technical-analysis/the-usd-is-mixed-with-some-late-day-dollar-selling-in-the-major-currency-pair-20260626/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -64,6 +64,7 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/south-korea-exports-and-inflation-support-rate-hike-path-dbs-202606262042",
   "https://www.fxstreet.com/news/silver-price-forecast-xag-breaks-below-60-bears-eye-55-202606262000",
   "https://www.fxstreet.com/news/chinese-yuan-weakness-against-us-dollar-seen-as-corrective-ocbc-202606261954",
   "https://www.fxstreet.com/news/gold-price-rebounds-as-falling-us-yields-weigh-on-us-dollar-202606261935",
@@ -93,11 +94,10 @@
   "https://www.fxstreet.com/news/brent-oversold-rebound-risk-for-crude-td-securities-202606261438",
   "https://www.fxstreet.com/news/japanese-yen-boj-normalization-supports-jpy-against-us-dollar-mufg-202606261424",
   "https://www.fxstreet.com/news/malaysia-ai-boom-offsets-energy-shock-risks-hsbc-202606261413",
-  "https://www.fxstreet.com/news/indonesian-rupiah-idr-recovery-versus-bond-outflows-bny-202606261403",
+  "https://www.investing.com/news/forex-news/yen-steadies-near-40year-low-as-dollar-pauses-regional-currencies-mixed-4761997",
   "https://www.investing.com/news/forex-news/imf-economist-says-dollar-still-dominates-despite-trade-shifts-93CH-4763240",
   "https://www.investing.com/news/forex-news/ubs-turns-more-bullish-on-us-dollar-sees-euro-and-yen-weakening-further-4763050",
   "https://www.investing.com/news/forex-news/fx-options-set-to-expire-today-across-major-currency-pairs-93CH-4762980",
-  "https://www.investing.com/news/forex-news/yen-steadies-near-40year-low-as-dollar-pauses-regional-currencies-mixed-4761997",
   "https://www.investing.com/news/forex-news/sterling-today-pound-recovers-as-dollar-rally-loses-steam-4762736",
   "https://www.investing.com/news/forex-news/hungary-targets-euro-adoption-by-around-2030-pm-says-93CH-4762228",
   "https://www.investing.com/news/forex-news/taiwan-dollar-slips-on-foreign-investor-outflows-93CH-4762211",
@@ -159,6 +159,7 @@
   "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+  "https://www.fxstreet.com/news/south-korea-exports-and-inflation-support-rate-hike-path-dbs-202606262042",
   "https://www.fxstreet.com/news/silver-price-forecast-xag-breaks-below-60-bears-eye-55-202606262000",
   "https://www.fxstreet.com/news/chinese-yuan-weakness-against-us-dollar-seen-as-corrective-ocbc-202606261954",
   "https://www.fxstreet.com/news/gold-price-rebounds-as-falling-us-yields-weigh-on-us-dollar-202606261935",
@@ -188,11 +189,10 @@
   "https://www.fxstreet.com/news/brent-oversold-rebound-risk-for-crude-td-securities-202606261438",
   "https://www.fxstreet.com/news/japanese-yen-boj-normalization-supports-jpy-against-us-dollar-mufg-202606261424",
   "https://www.fxstreet.com/news/malaysia-ai-boom-offsets-energy-shock-risks-hsbc-202606261413",
-  "https://www.fxstreet.com/news/indonesian-rupiah-idr-recovery-versus-bond-outflows-bny-202606261403",
+  "https://www.investing.com/news/forex-news/yen-steadies-near-40year-low-as-dollar-pauses-regional-currencies-mixed-4761997",
   "https://www.investing.com/news/forex-news/imf-economist-says-dollar-still-dominates-despite-trade-shifts-93CH-4763240",
   "https://www.investing.com/news/forex-news/ubs-turns-more-bullish-on-us-dollar-sees-euro-and-yen-weakening-further-4763050",
   "https://www.investing.com/news/forex-news/fx-options-set-to-expire-today-across-major-currency-pairs-93CH-4762980",
-  "https://www.investing.com/news/forex-news/yen-steadies-near-40year-low-as-dollar-pauses-regional-currencies-mixed-4761997",
   "https://www.investing.com/news/forex-news/sterling-today-pound-recovers-as-dollar-rally-loses-steam-4762736",
   "https://www.investing.com/news/forex-news/hungary-targets-euro-adoption-by-around-2030-pm-says-93CH-4762228",
   "https://www.investing.com/news/forex-news/taiwan-dollar-slips-on-foreign-investor-outflows-93CH-4762211",
@@ -1252,7 +1252,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-27T05:52:20.990690+09:00"
+  "cache_at": "2026-06-27T06:24:42.826433+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-27T06:00:25.686443+09:00",
