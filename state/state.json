@@ -199,6 +199,7 @@
   "https://www.investing.com/news/forex-news/barclays-sees-romania-leu-under-pressure-from-political-uncertainty-93CH-4761232",
   "https://www.investing.com/news/forex-news/south-african-rand-gains-07-as-dollar-weakens-on-us-data-93CH-4761185",
   "https://www.investing.com/news/forex-news/bofa-cuts-euro-forecasts-sees-stronger-dollar-in-second-half-on-hawkish-fed-4760992",
+  "https://investinglive.com/stock-market-update/kospi-in-focus-as-samsung-plans-648-bln-domestic-push-and-south-korea-caps-fuel-prices-20260625/",
   "https://investinglive.com/news/japan-tokyo-headline-cpi-17-yy-expected-17-prior-14-core-16-16-13-20260625/",
   "https://investinglive.com/centralbank/goolsbee-flags-labour-market-and-warns-fed-credibility-at-risk-from-bad-guidance-20260625/",
   "https://investinglive.com/news/polestar-shut-out-of-us-market-from-2027-as-china-tech-ban-claims-geely-linked-brand-20260625/",
@@ -223,7 +224,6 @@
   "https://investinglive.com/stock-market-update/tech-tumbles-bright-spots-for-banks-and-healthcare-20260625/",
   "https://investinglive.com/news/israel-lebanon-meeting-hits-dead-end-as-israel-insists-on-occupation-20260625/",
   "https://investinglive.com/technical-analysis/usdcad-is-trading-down-on-the-day-with-help-from-a-double-top-can-sellers-push-further-20260625/",
-  "https://investinglive.com/stocks/meta-is-the-signal-and-micron-is-the-noise-20260625/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -294,6 +294,7 @@
   "https://www.investing.com/news/forex-news/barclays-sees-romania-leu-under-pressure-from-political-uncertainty-93CH-4761232",
   "https://www.investing.com/news/forex-news/south-african-rand-gains-07-as-dollar-weakens-on-us-data-93CH-4761185",
   "https://www.investing.com/news/forex-news/bofa-cuts-euro-forecasts-sees-stronger-dollar-in-second-half-on-hawkish-fed-4760992",
+  "https://investinglive.com/stock-market-update/kospi-in-focus-as-samsung-plans-648-bln-domestic-push-and-south-korea-caps-fuel-prices-20260625/",
   "https://investinglive.com/news/japan-tokyo-headline-cpi-17-yy-expected-17-prior-14-core-16-16-13-20260625/",
   "https://investinglive.com/centralbank/goolsbee-flags-labour-market-and-warns-fed-credibility-at-risk-from-bad-guidance-20260625/",
   "https://investinglive.com/news/polestar-shut-out-of-us-market-from-2027-as-china-tech-ban-claims-geely-linked-brand-20260625/",
@@ -318,7 +319,6 @@
   "https://investinglive.com/stock-market-update/tech-tumbles-bright-spots-for-banks-and-healthcare-20260625/",
   "https://investinglive.com/news/israel-lebanon-meeting-hits-dead-end-as-israel-insists-on-occupation-20260625/",
   "https://investinglive.com/technical-analysis/usdcad-is-trading-down-on-the-day-with-help-from-a-double-top-can-sellers-push-further-20260625/",
-  "https://investinglive.com/stocks/meta-is-the-signal-and-micron-is-the-noise-20260625/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -1241,7 +1241,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-26T08:39:09.632344+09:00"
+  "cache_at": "2026-06-26T09:11:27.099501+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-26T06:33:43.241543+09:00",
@@ -1251,7 +1251,7 @@
   "ドル円:buy": "2026-06-26T06:57:58.833499+09:00",
   "WTI原油:sell": "2026-06-26T07:34:22.912494+09:00",
   "天然ガス:sell": "2026-06-25T20:42:09.922155+09:00",
-  "天然ガス:buy": "2026-06-25T22:56:12.613503+09:00",
+  "天然ガス:buy": "2026-06-26T09:11:27.099746+09:00",
   "金:buy": "2026-06-25T21:55:13.692944+09:00",
   "WTI原油:buy": "2026-06-25T11:02:36.739983+09:00",
   "NASDAQ100:buy": "2026-06-25T23:32:40.656619+09:00",
