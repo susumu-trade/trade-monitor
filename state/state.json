@@ -389,6 +389,7 @@
   "https://www.investing.com/news/forex-news/barclays-cites-oil-imports-and-copper-weakness-for-chile-peso-view-93CH-4761276",
   "https://www.investing.com/news/forex-news/barclays-sees-colombia-peso-supported-after-election-outcome-93CH-4761257",
   "https://www.investing.com/news/forex-news/barclays-raises-peru-sol-target-on-fujimori-election-lead-93CH-4761255",
+  "https://investinglive.com/forex/audusd-consolidates-at-a-major-trendline-as-traders-await-fresh-catalysts-20260626/",
   "https://investinglive.com/stocks/us-futures-marked-lower-after-tumultuous-wall-street-session-yesterday-20260626/",
   "https://investinglive.com/Education/fp-markets-expands-its-share-cfd-portfolio-with-landmark-spacex-spcx-listing-20260626/",
   "https://investinglive.com/forex/eurusd-is-retesting-a-key-zone-amid-us-dollar-weakness-on-peak-hawkish-repricing-20260626/",
@@ -413,7 +414,6 @@
   "https://investinglive.com/stock-market-update/kospi-in-focus-as-samsung-plans-648-bln-domestic-push-and-south-korea-caps-fuel-prices-20260625/",
   "https://investinglive.com/news/japan-tokyo-headline-cpi-17-yy-expected-17-prior-14-core-16-16-13-20260625/",
   "https://investinglive.com/centralbank/goolsbee-flags-labour-market-and-warns-fed-credibility-at-risk-from-bad-guidance-20260625/",
-  "https://investinglive.com/news/polestar-shut-out-of-us-market-from-2027-as-china-tech-ban-claims-geely-linked-brand-20260625/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -484,6 +484,7 @@
   "https://www.investing.com/news/forex-news/barclays-cites-oil-imports-and-copper-weakness-for-chile-peso-view-93CH-4761276",
   "https://www.investing.com/news/forex-news/barclays-sees-colombia-peso-supported-after-election-outcome-93CH-4761257",
   "https://www.investing.com/news/forex-news/barclays-raises-peru-sol-target-on-fujimori-election-lead-93CH-4761255",
+  "https://investinglive.com/forex/audusd-consolidates-at-a-major-trendline-as-traders-await-fresh-catalysts-20260626/",
   "https://investinglive.com/stocks/us-futures-marked-lower-after-tumultuous-wall-street-session-yesterday-20260626/",
   "https://investinglive.com/Education/fp-markets-expands-its-share-cfd-portfolio-with-landmark-spacex-spcx-listing-20260626/",
   "https://investinglive.com/forex/eurusd-is-retesting-a-key-zone-amid-us-dollar-weakness-on-peak-hawkish-repricing-20260626/",
@@ -507,8 +508,7 @@
   "https://investinglive.com/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-68015-reuters-estimate-20260626/",
   "https://investinglive.com/stock-market-update/kospi-in-focus-as-samsung-plans-648-bln-domestic-push-and-south-korea-caps-fuel-prices-20260625/",
   "https://investinglive.com/news/japan-tokyo-headline-cpi-17-yy-expected-17-prior-14-core-16-16-13-20260625/",
-  "https://investinglive.com/centralbank/goolsbee-flags-labour-market-and-warns-fed-credibility-at-risk-from-bad-guidance-20260625/",
-  "https://investinglive.com/news/polestar-shut-out-of-us-market-from-2027-as-china-tech-ban-claims-geely-linked-brand-20260625/"
+  "https://investinglive.com/centralbank/goolsbee-flags-labour-market-and-warns-fed-credibility-at-risk-from-bad-guidance-20260625/"
  ],
  "cal": {
   "last_digest": "2026-06-26",
@@ -1241,7 +1241,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-26T19:17:34.696119+09:00"
+  "cache_at": "2026-06-26T19:49:57.798781+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-26T17:52:21.054075+09:00",
