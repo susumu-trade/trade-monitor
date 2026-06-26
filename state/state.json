@@ -294,6 +294,7 @@
   "https://www.investing.com/news/forex-news/bca-cuts-usd-outlook-on-stretched-rally-and-fed-repricing-93CH-4762151",
   "https://www.investing.com/news/forex-news/eurozone-yields-hover-at-threemonth-lows-as-growth-fears-limit-ecb-hawkishness-4762070",
   "https://www.investing.com/news/forex-news/asian-fx-recover-as-dollar-eases-from-peak-aussie-steady-after-jobs-data-4759717",
+  "https://investinglive.com/stocks/major-stock-indices-close-modestly-lower-with-the-nasdaq-leading-the-way-20260626/",
   "https://investinglive.com/news/rubio-framework-raises-hopes-for-peace-but-major-obstacles-remain-20260626/",
   "https://investinglive.com/technical-analysis/crude-oil-settles-the-dayweek-at-6923-20260626/",
   "https://investinglive.com/news/hezbollahs-fadlallah-cannot-enforce-washington-agreement-unless-they-go-to-civil-war-20260626/",
@@ -318,7 +319,6 @@
   "https://investinglive.com/news/us-may-wholesale-inventories-03-vs-03-expected-20260626/",
   "https://investinglive.com/news/us-may-advance-goods-trade-balance-1058-billion-vs-850-billion-expected-20260626/",
   "https://investinglive.com/technical-analysis/the-usd-is-mixed-with-some-late-day-dollar-selling-in-the-major-currency-pair-20260626/",
-  "https://investinglive.com/news/investinglive-european-markets-wrap-oil-drops-further-stocks-down-with-eyes-on-big-tech-20260626/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -389,6 +389,7 @@
   "https://www.investing.com/news/forex-news/bca-cuts-usd-outlook-on-stretched-rally-and-fed-repricing-93CH-4762151",
   "https://www.investing.com/news/forex-news/eurozone-yields-hover-at-threemonth-lows-as-growth-fears-limit-ecb-hawkishness-4762070",
   "https://www.investing.com/news/forex-news/asian-fx-recover-as-dollar-eases-from-peak-aussie-steady-after-jobs-data-4759717",
+  "https://investinglive.com/stocks/major-stock-indices-close-modestly-lower-with-the-nasdaq-leading-the-way-20260626/",
   "https://investinglive.com/news/rubio-framework-raises-hopes-for-peace-but-major-obstacles-remain-20260626/",
   "https://investinglive.com/technical-analysis/crude-oil-settles-the-dayweek-at-6923-20260626/",
   "https://investinglive.com/news/hezbollahs-fadlallah-cannot-enforce-washington-agreement-unless-they-go-to-civil-war-20260626/",
@@ -413,7 +414,6 @@
   "https://investinglive.com/news/us-may-wholesale-inventories-03-vs-03-expected-20260626/",
   "https://investinglive.com/news/us-may-advance-goods-trade-balance-1058-billion-vs-850-billion-expected-20260626/",
   "https://investinglive.com/technical-analysis/the-usd-is-mixed-with-some-late-day-dollar-selling-in-the-major-currency-pair-20260626/",
-  "https://investinglive.com/news/investinglive-european-markets-wrap-oil-drops-further-stocks-down-with-eyes-on-big-tech-20260626/",
   "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
   "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
@@ -484,6 +484,7 @@
   "https://www.investing.com/news/forex-news/bca-cuts-usd-outlook-on-stretched-rally-and-fed-repricing-93CH-4762151",
   "https://www.investing.com/news/forex-news/eurozone-yields-hover-at-threemonth-lows-as-growth-fears-limit-ecb-hawkishness-4762070",
   "https://www.investing.com/news/forex-news/asian-fx-recover-as-dollar-eases-from-peak-aussie-steady-after-jobs-data-4759717",
+  "https://investinglive.com/stocks/major-stock-indices-close-modestly-lower-with-the-nasdaq-leading-the-way-20260626/",
   "https://investinglive.com/news/rubio-framework-raises-hopes-for-peace-but-major-obstacles-remain-20260626/",
   "https://investinglive.com/technical-analysis/crude-oil-settles-the-dayweek-at-6923-20260626/",
   "https://investinglive.com/news/hezbollahs-fadlallah-cannot-enforce-washington-agreement-unless-they-go-to-civil-war-20260626/",
@@ -507,8 +508,7 @@
   "https://investinglive.com/Education/whatsapp-stock-scam-warning-how-pump-and-dump-schemes-will-try-to-trap-you-20260626/",
   "https://investinglive.com/news/us-may-wholesale-inventories-03-vs-03-expected-20260626/",
   "https://investinglive.com/news/us-may-advance-goods-trade-balance-1058-billion-vs-850-billion-expected-20260626/",
-  "https://investinglive.com/technical-analysis/the-usd-is-mixed-with-some-late-day-dollar-selling-in-the-major-currency-pair-20260626/",
-  "https://investinglive.com/news/investinglive-european-markets-wrap-oil-drops-further-stocks-down-with-eyes-on-big-tech-20260626/"
+  "https://investinglive.com/technical-analysis/the-usd-is-mixed-with-some-late-day-dollar-selling-in-the-major-currency-pair-20260626/"
  ],
  "cal": {
   "last_digest": "2026-06-26",
@@ -1252,7 +1252,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-27T05:19:56.956010+09:00"
+  "cache_at": "2026-06-27T05:52:20.990690+09:00"
  },
  "signal_cd": {
   "ドル円:sell": "2026-06-26T17:52:21.054075+09:00",
@@ -1260,7 +1260,7 @@
   "銀:buy": "2026-06-27T05:23:58.657427+09:00",
   "金:sell": "2026-06-27T03:10:16.617735+09:00",
   "ドル円:buy": "2026-06-26T06:57:58.833499+09:00",
-  "WTI原油:sell": "2026-06-26T07:34:22.912494+09:00",
+  "WTI原油:sell": "2026-06-27T05:48:17.800007+09:00",
   "天然ガス:sell": "2026-06-26T22:56:55.443152+09:00",
   "天然ガス:buy": "2026-06-27T03:10:16.617735+09:00",
   "金:buy": "2026-06-25T21:55:13.692944+09:00",
