@@ -2,7 +2,7 @@ name: trade-monitor
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 */3 * * *'    # 3時間ごとに起動(各起動の中で長時間ループする)
   workflow_dispatch:
 
 permissions:
@@ -10,7 +10,7 @@ permissions:
 
 concurrency:
   group: monitor
-  cancel-in-progress: true
+  cancel-in-progress: true    # 新しい起動が古いループを引き継ぐ
 
 jobs:
   run:
@@ -29,4 +29,8 @@ jobs:
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           LOOP_MINUTES: '330'
           POLL_SECONDS: '120'
+          ENABLE_SPIKE: '0'      # 急変動はTradingViewへ移したのでクラウドはOFF
+          ENABLE_SIGNAL: '0'     # 売買シグナルもTradingViewへ移したのでOFF
+          ENABLE_NEWS: '1'       # ニュースはクラウドで担当
+          ENABLE_CALENDAR: '1'   # 経済指標カレンダーもクラウドで担当
         run: python cloud_run.py

@@ -385,11 +385,20 @@ def main():
     cfg = load_json(CONFIG, {})
     state = load_json(STATE, {})
 
+    # 機能ごとのON/OFF(環境変数。既定はON)。急変動・売買シグナルはTradingViewへ移したのでクラウドではOFFにできる。
+    en_spike  = os.environ.get("ENABLE_SPIKE", "1") == "1"
+    en_news   = os.environ.get("ENABLE_NEWS", "1") == "1"
+    en_cal    = os.environ.get("ENABLE_CALENDAR", "1") == "1"
+    en_signal = os.environ.get("ENABLE_SIGNAL", "1") == "1"
+    print(f"modules: spike={en_spike} news={en_news} calendar={en_cal} signal={en_signal}")
+
     loop_min = float(os.environ.get("LOOP_MINUTES", "0") or "0")
     if loop_min <= 0:
         # 単発実行(手動テスト等)
-        for fn in (check_spike, check_news, check_calendar, check_signals):
-            run_one(fn, cfg, state)
+        if en_spike:  run_one(check_spike, cfg, state)
+        if en_news:   run_one(check_news, cfg, state)
+        if en_cal:    run_one(check_calendar, cfg, state)
+        if en_signal: run_one(check_signals, cfg, state)
         save_state(state)
         print("done (single)")
         return
@@ -404,12 +413,16 @@ def main():
     cycle = 0
     print(f"=== loop start: {loop_min:.0f}min, poll {poll}s ===")
     while time.time() < end:
-        run_one(check_spike, cfg, state)                  # 毎回(急変動)
+        if en_spike:
+            run_one(check_spike, cfg, state)              # 毎回(急変動)
         if cycle % news_every == 0:
-            run_one(check_news, cfg, state)
-            run_one(check_calendar, cfg, state)
+            if en_news:
+                run_one(check_news, cfg, state)
+            if en_cal:
+                run_one(check_calendar, cfg, state)
         if cycle % signal_every == 0:
-            run_one(check_signals, cfg, state)
+            if en_signal:
+                run_one(check_signals, cfg, state)
         save_state(state)
         if time.time() - last_commit >= commit_every:
             git_commit_push()
