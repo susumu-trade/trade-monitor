@@ -230,7 +230,7 @@ def check_calendar(cfg, state):
     cache = cst.get("cache")
     fetched = cst.get("cache_at")
     raw = None
-    if cache and fetched and (datetime.datetime.now(JST) - datetime.datetime.fromisoformat(fetched)).total_seconds() < 1800:
+    if cache and fetched and (datetime.datetime.now(JST) - datetime.datetime.fromisoformat(fetched)).total_seconds() < cal.get("cache_seconds", 300):
         raw = cache
     if raw is None:
         try:
@@ -253,7 +253,7 @@ def check_calendar(cfg, state):
             continue
         events.append({"id": f"{e.get('country')}|{e.get('title')}|{e['date']}",
                        "jst": jst, "country": e.get("country"), "impact": e.get("impact"),
-                       "title": e.get("title"), "f": e.get("forecast"), "p": e.get("previous")})
+                       "title": e.get("title"), "f": e.get("forecast"), "p": e.get("previous"), "a": e.get("actual")})
     events.sort(key=lambda x: x["jst"])
     now = now_jst()
     today = now.strftime("%Y-%m-%d")
@@ -280,6 +280,29 @@ def check_calendar(cfg, state):
             cst["sent"].append(e["id"])
             print(f"[cal] reminder: {e['title']}")
     cst["sent"] = cst["sent"][-200:]
+    # 実際値の速報(発表された数字を予想比つきで通知。初回はサイレントでシードし過去分の洪水を防ぐ)
+    seeded = "sent_actual" in cst
+    sa = cst.setdefault("sent_actual", [])
+    for e in events:
+        a = e.get("a")
+        if a is None or str(a).strip() == "":
+            continue
+        if e["id"] in sa or e["jst"] > now:
+            continue
+        if not seeded:
+            sa.append(e["id"]); continue
+        surprise = ""
+        try:
+            fa = float(re.sub(r"[^0-9.\-]", "", str(a)))
+            ff = float(re.sub(r"[^0-9.\-]", "", str(e["f"])))
+            surprise = " (上振れ)" if fa > ff else (" (下振れ)" if fa < ff else " (予想どおり)")
+        except Exception:
+            surprise = ""
+        tg_send(f"🔔 {lbl.get('result_title','指標 結果速報')}\n[{e['impact']}] {e['country']} {e['title']}\n"
+                f"{lbl.get('actual','結果')}:{a}{surprise}（{lbl['forecast']}:{e['f']} {lbl['previous']}:{e['p']}）")
+        sa.append(e["id"])
+        print(f"[cal] actual: {e['title']} = {a}")
+    cst["sent_actual"] = sa[-200:]
 
 def check_signals(cfg, state):
     s = cfg["signal_monitor"]

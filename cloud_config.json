@@ -37,9 +37,12 @@
       "include_impacts": ["High", "Medium"],
       "reminder_minutes": 15,
       "daily_digest_hour_jst": 7,
+      "cache_seconds": 180,
       "labels": {
         "digest_title": "本日の経済指標",
         "reminder_title": "まもなく指標発表",
+        "result_title": "指標 結果速報",
+        "actual": "結果",
         "forecast": "予想",
         "previous": "前回",
         "until": "あと",
