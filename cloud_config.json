@@ -16,10 +16,9 @@
     "max_per_cycle": 6,
     "macro_label": "マクロ",
     "feeds": [
-      { "name": "ForexLive",  "url": "https://www.forexlive.com/feed/" },
-      { "name": "MarketWatch", "url": "http://feeds.marketwatch.com/marketwatch/marketpulse/" },
-      { "name": "FXStreet",   "url": "https://www.fxstreet.com/rss/news" },
-      { "name": "Investing",  "url": "https://www.investing.com/rss/news_1.rss" }
+      { "name": "ロイター",     "url": "https://news.google.com/rss/search?q=when:1d+(markets+OR+forex+OR+yen+OR+oil+OR+gold+OR+silver+OR+gas+OR+Nasdaq+OR+Nikkei+OR+Fed+OR+stocks)+source:Reuters&hl=en-US&gl=US&ceid=US:en" },
+      { "name": "ブルームバーグ", "url": "https://news.google.com/rss/search?q=when:1d+(markets+OR+forex+OR+yen+OR+oil+OR+gold+OR+silver+OR+gas+OR+Nasdaq+OR+Nikkei+OR+Fed+OR+stocks)+source:Bloomberg&hl=en-US&gl=US&ceid=US:en" },
+      { "name": "ForexLive",    "url": "https://www.forexlive.com/feed/" }
     ],
     "routing": [
       { "name": "ドル円",     "keywords": ["yen", "usd/jpy", "usdjpy", "dollar-yen", "boj", "bank of japan", "japan "] },
