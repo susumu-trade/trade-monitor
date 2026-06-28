@@ -9,6 +9,165 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "news_seen": [
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWdkV0dKLW40N0pjY1NOR0FZTWRuQ2R5Ukd6QmpralI0d2phNV9XMk9DRW5Ga2RmWldCMGowUWsxaGtEcHFhNmdfTTFodGJXdVI2WjdPcHg4Slp6TnhSMzFoWjF4X1R3Uk5qRkRjN3oxcFFRRURTX2hJajZnZFlsNUNQcE12TGlGU29pX2cyQkEtRE9hckE?oc=5",
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckVIUk90VFNiakJIRldPWDdpWWo2T0dLSjlPYnVfQ1JKdVkzOXNfZUtNV1VyOVFjN0dUbmgxUno4SXRrM3N0XzJWRTdvOF8temZJSlo2OXQxZTJKX3g0Tl8wZ09KUk90Wk43eEhjOFFSUGZWOV9Vc2VFYkQ2b0dlOUxQaTZ3MUlQeGlDUEQ0T2JnWDhIcE93TXF2UkN5WUs3ZlVtWW1IS211dw?oc=5",
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYTNDNVhpYnpOVFEtY2RTSVZyZTFCRHNGcUdmd2U2dTZ2alRicFhPd0ZBOHh6dU5qYUFmTVEzOHRpbmxYaEpIbXBMTUFucUJ2NV9kaDZQUGV4XzJ2bFBGWTBuNVJRelo4alRoSThQRWtjZ0NYVndiRGxMREJYWWtfNUx3Q3RKaEE0V3IxWFA4d1I1UFR0djRoSXdwd2hHdVU?oc=5",
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYndGWkY1RXlQNFhrcHRCcnJ2TE54YS1Ua3JKRHNSazZyQlpocUh6TEtjSURfbHRWU2QxWDdheTFWcUdZaTdBQTlUOEk2RG9RYjMxaFVqTlhGVE5UY1N3bnFKcENPRng5SWRMZi1ESklKWXJOYzF1Q0V6aXFVbkNSZGpCZXp5VHc4djBoVW5QdHlWb01MQi1tMGs3eXk0aGc3eGQxb0NLa2FDaXp5X2hQONIBtgFBVV95cUxOdXo5ZEJjVEFZOXNBdUFzWWJwOFZtVm9FV2FLWmlLSk9ZM3lIUzBtN0dMUkdZck9rXzhWakNFRGZsbVBaX2Qyc2lzaXc5cHl3aXlhU2o3Tjh6eUYwYWx1ZkdGdFpUcWxfM1o4UVdJWVFMSkFKMlhkS1lxSEpYaUcwQm9ZMmZqRm4za1p0V29IWnFGc01zWHlsMG5EWHpka3U3LWRETnZ6eGM3VXNRZmhDSnczUVRxZw?oc=5",
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX3Y4ZVN1NEZ3WVpTZlJadno0OEZkVlk1Qjdmb3Y1WmNVTzFrSGRnU3htN0VtLXI2SnJjZEkxU1BNOHBpeGxvQ1RXdmlLRGluS01SRksweUdJaWFfaGpwM0gyYmNzOUxyVjJsVlR1bGFfUnFFakN1OHFhOTBEZkpZbnBwX19EMU5hZWU1N3lJWGlDNzdWWEJmNmV0b095QmpHTW5oaF8wMUlwd3k4MVE?oc=5",
+  "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNMFpRWVFIRmlfazVXVGRTbl85RVpXejllZ0ZuUWxsWnlaUTZ1bllTOXpadkc3ZGljRlNYQzcxYUd1dnNMeXk5dVVQdnBTNUJmQk5keXZIeEdPd3JaSnJIeXlOZ2l2cUZiZU1uM3d0NWVVTmxobzlQZE1zdHhRVUxWSmEyTUtnME8tYXFPdUdQVXhieGpOR3VIRXZMR2JWQkFHd04zVDh6elRBSnk1WG1OWFRfSmlKLW9pclF4RFRnOWJYU3NJU0F4Zk9BZjRlckdfTzUySUUwTEsxNFlaeDVGNHBCMW42cVNtejdmenVnMzVqb3ItdlVpZWNOUERiZkt2YzNOM2xEOFNtZDVYOFlYLWROLWR1dkNxSkxfVFJiYUtDc01XVFN6bjg2akpsc3VmOEhXbVpNc2JfQUNFWUh6T1lFWnJNdFowdE9FaUtEdktINEE?oc=5",
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1lUTzNwQ19QRE16bG5STzZzenVHdHZjS3g3dE5CZThHdjdyOTJvUHE5eEVoZkE2RjJaQmctNGNaUmNVdEd6Wl9tRU5aS1VSMjkzYUJQa3dNX0p1ZXNvYTllOG5wNzJsVDl5ZjF1dnBVWDF2LXNkakJMdV85NmFRYlFlRVpRamJSTzRGNGFMZjY0RjZSQmw1RkRZM3dVS20xS2VJaTJOLVdZZFRGaHkybTRB0gGyAUFVX3lxTE9rWVRPM3BDX1BETXpsblJPNnN6dUd0dmNLeDd0TkJlOEd2N3I5Mm9QcTl4RWhmQTZGMlpCZy00Y1pSY1V0R3paX21FTlpLVVIyOTNhQlBrd01fSnVlc29hOWU4bnA3MmxUOXlmMXV2cFVYMXYtc2RqQkx1Xzk2YVFiUWVFWlFqYlJPNEY0YUxmNjRGNlJCbDVGRFkzd1VLbTFLZUlpMk4tV1lkVEZoeTJtNEE?oc=5",
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkpfZllxczh0NFF6ZUt1U0NuQTFRRGJTVHN3bTY3NTk0LXo5TjA0Z0gzbkFiOUYyMzZnYjhxX2FMS0EyMHl1Z0JvY0tERXpEZGstS1ZVb0VlNUVYWVNBQWRDejFfeUgwdGZQSW1jS1dGQXhGVnhfSTB4YlYyak1BTmZPekt0cnk5ajl0UHR0Mm1kcnZNcE11eG03c1czS1hiRldtUk9zajl3eGwtaXNaRnpPenA?oc=5",
+  "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kN29ZdEFnZFlQWTBmTjBNRHM5NEpTbDZWS2w5blN1cTliSHFKM01vRGtLNmFVTDdpX2JmLUwxaUNyUXJVVF8yNXNKdFJIYVA1VWVHWExJZ2hycmdpR2FSZEFnUFdiNlJrRXhZ?oc=5",
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmxWUkhWQmNTalBSZmFxRjhHdW9CNl93UnVpMXVybjhoLWtXX0FBanFiOUJuV1VhU28wZk1ydFRIeWNDYTVZZXc0TjM2eG9PTnhzTzl1QzN0alR6YkYzMllpQWFXTWNJSC11b29OZTBRbmlKUUhRcHVhRk4taU9SaEJycHFNZjBXSTdYZnJBX3JyMVhycWk1Vk11OUtVV1dDc214dUdRVW9QOUx6RlhuMW1TOUlTbzVocHJibVBpZi1adE5v?oc=5",
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmpfTDA1eWpraXlGNVI4SHc1RmlwREZEUXIwT3VRdXc1Rmtrd0ZxQ3VFY3p5ejVCdUNJY0U3T19Fb1FkME1MbzByV3VNSGNJU0Q0M0FyNnhsbnIyRVhCMDJUZmdBMWtZX0d2blRpUkN6X3ZaaUlPbmxNTmtFTHIwQlZZSlk0Q2NyVW1ibnBGUm02ZWJHbERDTkxRMzgtdGdhSUhlYkEzTXExQXNwMmR3dQ?oc=5",
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1hMdWJEUlpCYVZTZnc5YkExSHdIbzV5YXBNMkx3dmFoVHI5Y3hhZk5IaFFNUldBRFA4THF0U0ZObzA1TGZSY3ZibXFpejJ2UVgtbm9zSTZpNXo1TEh2N0JpXzlwdWZhaVFrQUVCOVRacUZET3JQYnllak5DSFVHbXRCRDVRTGpCZnlTblZMMmQwdFQ0Nnc?oc=5",
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ucjlGeTRnUjUtdGlnZWFWNjBGdDRJTi14TDRzM2RvU0lJV2p6V0Z0Y1YwMU1kRHh4Vmt1Q3UzbFhyV2JNWnQwYVA1Z21aODg3WUNYTGZvamZaY1E?oc=5",
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0clhKVVluMUdQamlOb1p3dlFudHRDZ2doUkRnNUd1WkJ6SWVSVThXeTZPNTJjbnh0RTdhTHA2YXVTUXI0SnA3ZDlzSldOQWtfRk1hX0g4VWlSd1FqZVpMZA?oc=5",
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY25ZVG95SlRwbDhuc0gtcEljMUNnYm1pZWVOSk1BamlQRnRCYmx2RmdOaUZYLWIzOGR2Nmlnbmt5M0lqbkpHVFVTei14TEJwbU4xb3hBcjFkS0xWZDRHQ0M5SFNSVTV4MWtKRXBRM3hhTmZuemctNHZzQzhsV2x0NUtPYi1VWGFF0gGIAUFVX3lxTE5jbllUb3lKVHBsOG5zSC1wSWMxQ2dibWllZU5KTUFqaVBGdEJibHZGZ05pRlgtYjM4ZHY2aWdua3kzSWpuSkdUVVN6LXhMQnBtTjFveEFyMWRLTFZkNEdDQzlIU1JVNXgxa0pFcFEzeGFOZm56Zy00dnNDOGxXbHQ1S09iLVVYYUU?oc=5",
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JZWFnbHZod2JXSm51SGFsNklXcnIxOWxrRmtrM2toaFlzbmxTaTFMLWNCOWtwREZNbGQzeUdlU1lnZ0VWOHhNdEVzT2ladzJXRVEybTJHOFlCd00yRkwwWXlsampqYm5YZHdYN0JRcUVYMmt4Ykc4bTRB?oc=5",
+  "https://news.google.com/rss/articles/CBMipwJBVV95cUxNOTcxVmN5QjctejB1YzFfbkxWSVVWZlRKSFA1OEc2ckFFMk95R2Q4RUlmWXlhM3E0ZHJqR2JRLXJ3eGhZczYwZnhUc0pwc1JoaWhQSjFhMU9OdTNLVU4xOUpITEtBcEVRVlFzemZGbWppZlM1VVljeC1kNWNCQkwzUHN2TGhRRTlDYUFUOGZSZEVnV2FjYkxRdl9NM1JvV2phZ2pROHRNQ2RxNXJ4NkpDVUdMUWJoUkxibXN0dUhzTjJxX0R4UHNuRkhibF9tSktNREMwTm5IeXd4eDR3aVl3bFRCbGdNWjN3NV9QVXIwczhRcFh2T2ZRYzMwcEZQX25Kcjc2X1F4S0Z1SzVaaEZtREZ3OXp3UDhEZGJlMGRaZDViSVM1Y3ZR?oc=5",
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVjRNQXMzRF9KRURhaUZ4RmVNRVFGRGlpeGEtdWZTMkFOX2lYMTRNbFI2TkE4WjZtZkRnbFF0djBTOHJxVHpPUmllcndBMDM2YXhfMWdBcUpfX2xmTVlfeW0tUjdmcHM4R1J1MEVxeWFJZHFIMm1UTkNmNmFjMmotU3pnUUJKQXh6NTBvdWEtekxRTGpHT0dDdkdpOFZoZmcxXzRwSnRKZkhtQjBZNy1kNVZmaHg?oc=5",
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYlJlUGRmdVlUZ3pudFU4Z3BtYjZDNjl4U2FwdXhTY3NZME5XQTRUYnlYanFZM1pfZHFZRXhFMXhwUWt6VFp3SHNkYWFUaEs4U0o0RERJNGFuVkRmVmZXenRsZXhSYUxmWU1Qakpral9KQ0NhUUlwLUl4NzdPMWxBbTY0eTlYRWduYmZyVm9pdWFrRm9zc0Jwd1hxNE9uTUdvUzNCRE0xczhoaUdMTXMwSWx2REZGdXNpSG9RSA?oc=5",
+  "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aLTN0enVSQlB5YjdEZ21fRlViS1hDY3U0R29aUzRLY3pma1NfZ2QtSUgzVTF2ZDgycnBFemtnQURrRmJMVFZtVnpfb1cwbGh1YWpITmZ1cFNFQ0lVcTRFMHFB?oc=5",
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbWM5Q1VOaUhFQ3VjLU9MUDRORXpxYlVtem5zWGNQcm9IY0dMdk5JUHZTQWJSWGljdkY2c3F4QXpRWFhyTEtLWS1JVWUxYXFfSU1uV3FVTjlLODQ2dnJ4OW9tNElxeEFCbUJMV21VUXBqZnhlMkRhQlNGLVlLUDN6N1hXbi15TVdTeTBuaWFYZHA3MDdXWS1GbkRZQ0w0SkNkSjE0R0E5NUMwZw?oc=5",
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFh1Uy1DaTRCa2pZNlEwT3M1NWNldUpxalJ1eXNxZzlSX2Q2M1QxekZSamlLYUdxZnZkN3JCbFNwb0tGWF80NEpLQnhaQ1NJUFA0TERYeDZUdnBybDJWZGlwVmZOeHFyOHBPVDRZdXVLTExhcG1VTlFmYVQxa3lFdWlROHNKeW9yTGhULW5BQy1WQnN5VnpEcnJpSC02dHBQZTZkM0pfZ21RQ0tPNkpscw?oc=5",
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmFyLUpRckxzT2oxNVhvcktMeHhUTm9HMUFsNkRQTkxqYVlRX1JrNEdNbzB1bkZGUXYxM3BVU1VZeTFfZGdsQjZtZE45VlFRNUNnTUdfaC1ieWIyQ1EwcGNQWk9GeTY3TjVHRVZRQzUtNXBvYXkyWmI3d2JBbGpoNmRFR2loYXZBOFhQemJVcUhIUHF3WXp0Zkc3aDBZM2pNS292LVVqek1rZGo3NUE1SkV2TWQ?oc=5",
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcnNqeTJJTUY4aXQ3VWh3WUhoYzAxOVVXRjF3c0YyRVYtX2thdjBvcTRnb0d0c3Rkb1FTb0dpcDAwMUhUREVDUnRab0FpTGpYYmJZTU1fb2xweTBSNFhrR2hfb1hTc0ZRakhhZjFNZGEyY3E5eGYtNDNTLWdiX1NTU0tqMURQeWozUFlYY2plR3QyRU9SSnBZYnlkSlNJcjdmMXZjTnZCanl6a3d3emhj?oc=5",
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNE01dExiV2dZY0EzOGxlemNTei03ZDdIRXN3ZjZ5VEd2ZmpqR0FjUUxMLS1UN0dBV2pnWEQ5X0d5dDNEYlp6SnhFT3k0bUtxZjVObkFKeThoNWliQmx1aDlfYTRWdDRsOERMeHYtRDF1eGlReDhVMDhuX1NfdHVadjdrbGVmbVFsVkpuUm5GLVR1QkZzME5iU1I0c2ZsSllRRmc2TXhzVDVMQWhl?oc=5",
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUtqNXRYTkJPbVNrVmI1Vk5uY2Z1NnVLX1o3YU90MFV2Y3ZQdnVzN3Q4VjlBYkdpQ1pvLXVKQy1ENUhlc3o1bDdhOTBfczlxUEFWdEJVckJyMHEwQUUzSlJGQmFiVGtPc2Zka25hRjJHR3pTS2J4UUEyLUxYMlVFekswMm50UWNJSzhZTHVZN21wdkRVbmJGNUlSN2Rsa0IxVnlGTlBTWUtRRTM3X3Fta0w2V3o3M3VrektOYkM2NnhUT3NWQTNMemwxYWRBRHBQZHI0?oc=5",
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KZDNaY1hlNXgwelVKQndFdVRIWk0wUVN0RTlUWnVEb3F1SnhhbHhUNTBtMkZvRGp1ZkVMTDYxWDlrVk42SGJwLU05RzBPT1hZNEhKTVhVODBxSnVLekFPZUdHQ3BjR0JrcnhXQ0oyaW80RmFjb05aSU1PWXM?oc=5",
+  "https://investinglive.com/Cryptocurrency/bitcoin-analysis-over-the-weekend-28-june-2026-20260628/",
+  "https://investinglive.com/news/two-revealing-macro-quotes-from-the-fedex-earnings-call-20260627/",
+  "https://investinglive.com/news/investinglive-americas-fx-news-wrap-26-jun-greenback-ends-mixed-still-higher-for-week-20260626/",
+  "https://investinglive.com/stocks/major-stock-indices-close-modestly-lower-with-the-nasdaq-leading-the-way-20260626/",
+  "https://investinglive.com/news/rubio-framework-raises-hopes-for-peace-but-major-obstacles-remain-20260626/",
+  "https://investinglive.com/technical-analysis/crude-oil-settles-the-dayweek-at-6923-20260626/",
+  "https://investinglive.com/news/hezbollahs-fadlallah-cannot-enforce-washington-agreement-unless-they-go-to-civil-war-20260626/",
+  "https://investinglive.com/news/us-israel-and-lebanon-sign-trilateral-agreement-20260626/",
+  "https://investinglive.com/technical-analysis/gold-bulls-and-bears-battle-for-control-20260626/",
+  "https://investinglive.com/news/trump-says-any-european-country-that-implements-digital-services-tax-will-get-100-tariff-20260626/",
+  "https://investinglive.com/Cryptocurrency/bitcoin-threatening-to-close-below-the-200-week-ma-for-the-first-time-since-october-2023-20260626/",
+  "https://investinglive.com/stocks/the-empire-strikes-back-is-the-theme-in-todays-market-20260626/",
+  "https://investinglive.com/stocks/netflix-atock-buy-the-dip-setup-large-sell-block-signals-possible-absorption-20260626/",
+  "https://investinglive.com/centralbank/feds-kashkari-may-need-to-raise-rates-amid-broad-inflation-20260626/",
+  "https://investinglive.com/commodities/wti-crude-oil-breaks-yesterdays-low-as-it-falls-below-69-20260626/",
+  "https://investinglive.com/technical-analysis/buyers-run-out-of-steam-as-eurusd-slips-back-lower-20260626/",
+  "https://investinglive.com/stock-market-update/tech-stocks-surge-while-semiconductors-struggle-20260626/",
+  "https://investinglive.com/news/the-uae-says-early-warning-on-missile-was-a-technical-malfunction-20260626/",
+  "https://investinglive.com/technical-analysis/broader-indices-are-lower-and-testing-a-key-target-20260626/",
+  "https://investinglive.com/news/umich-final-june-consumer-sentiment-495-vs-500-expected-20260626/",
+  "https://investinglive.com/technical-analysis/stocks-are-pressured-pre-open-explosions-heard-in-dubai-but-situation-is-now-safe-20260626/",
+  "https://investinglive.com/news/explosions-heard-in-dubai-after-uae-sends-phone-alert-on-missile-threat-20260626/",
+  "https://investinglive.com/technical-analysis/usdcad-sellers-make-a-play-below-14200-and-the-100-hour-ma-that-is-the-risk-level-now-20260626/",
+  "https://investinglive.com/news/the-market-is-souring-on-the-idea-of-ai-at-all-costs-five-thoughts-on-whats-coming-next-20260626/",
+  "https://investinglive.com/Education/whatsapp-stock-scam-warning-how-pump-and-dump-schemes-will-try-to-trap-you-20260626/",
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWdkV0dKLW40N0pjY1NOR0FZTWRuQ2R5Ukd6QmpralI0d2phNV9XMk9DRW5Ga2RmWldCMGowUWsxaGtEcHFhNmdfTTFodGJXdVI2WjdPcHg4Slp6TnhSMzFoWjF4X1R3Uk5qRkRjN3oxcFFRRURTX2hJajZnZFlsNUNQcE12TGlGU29pX2cyQkEtRE9hckE?oc=5",
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckVIUk90VFNiakJIRldPWDdpWWo2T0dLSjlPYnVfQ1JKdVkzOXNfZUtNV1VyOVFjN0dUbmgxUno4SXRrM3N0XzJWRTdvOF8temZJSlo2OXQxZTJKX3g0Tl8wZ09KUk90Wk43eEhjOFFSUGZWOV9Vc2VFYkQ2b0dlOUxQaTZ3MUlQeGlDUEQ0T2JnWDhIcE93TXF2UkN5WUs3ZlVtWW1IS211dw?oc=5",
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYTNDNVhpYnpOVFEtY2RTSVZyZTFCRHNGcUdmd2U2dTZ2alRicFhPd0ZBOHh6dU5qYUFmTVEzOHRpbmxYaEpIbXBMTUFucUJ2NV9kaDZQUGV4XzJ2bFBGWTBuNVJRelo4alRoSThQRWtjZ0NYVndiRGxMREJYWWtfNUx3Q3RKaEE0V3IxWFA4d1I1UFR0djRoSXdwd2hHdVU?oc=5",
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYndGWkY1RXlQNFhrcHRCcnJ2TE54YS1Ua3JKRHNSazZyQlpocUh6TEtjSURfbHRWU2QxWDdheTFWcUdZaTdBQTlUOEk2RG9RYjMxaFVqTlhGVE5UY1N3bnFKcENPRng5SWRMZi1ESklKWXJOYzF1Q0V6aXFVbkNSZGpCZXp5VHc4djBoVW5QdHlWb01MQi1tMGs3eXk0aGc3eGQxb0NLa2FDaXp5X2hQONIBtgFBVV95cUxOdXo5ZEJjVEFZOXNBdUFzWWJwOFZtVm9FV2FLWmlLSk9ZM3lIUzBtN0dMUkdZck9rXzhWakNFRGZsbVBaX2Qyc2lzaXc5cHl3aXlhU2o3Tjh6eUYwYWx1ZkdGdFpUcWxfM1o4UVdJWVFMSkFKMlhkS1lxSEpYaUcwQm9ZMmZqRm4za1p0V29IWnFGc01zWHlsMG5EWHpka3U3LWRETnZ6eGM3VXNRZmhDSnczUVRxZw?oc=5",
+  "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kN29ZdEFnZFlQWTBmTjBNRHM5NEpTbDZWS2w5blN1cTliSHFKM01vRGtLNmFVTDdpX2JmLUwxaUNyUXJVVF8yNXNKdFJIYVA1VWVHWExJZ2hycmdpR2FSZEFnUFdiNlJrRXhZ?oc=5",
+  "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNMFpRWVFIRmlfazVXVGRTbl85RVpXejllZ0ZuUWxsWnlaUTZ1bllTOXpadkc3ZGljRlNYQzcxYUd1dnNMeXk5dVVQdnBTNUJmQk5keXZIeEdPd3JaSnJIeXlOZ2l2cUZiZU1uM3d0NWVVTmxobzlQZE1zdHhRVUxWSmEyTUtnME8tYXFPdUdQVXhieGpOR3VIRXZMR2JWQkFHd04zVDh6elRBSnk1WG1OWFRfSmlKLW9pclF4RFRnOWJYU3NJU0F4Zk9BZjRlckdfTzUySUUwTEsxNFlaeDVGNHBCMW42cVNtejdmenVnMzVqb3ItdlVpZWNOUERiZkt2YzNOM2xEOFNtZDVYOFlYLWROLWR1dkNxSkxfVFJiYUtDc01XVFN6bjg2akpsc3VmOEhXbVpNc2JfQUNFWUh6T1lFWnJNdFowdE9FaUtEdktINEE?oc=5",
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1lUTzNwQ19QRE16bG5STzZzenVHdHZjS3g3dE5CZThHdjdyOTJvUHE5eEVoZkE2RjJaQmctNGNaUmNVdEd6Wl9tRU5aS1VSMjkzYUJQa3dNX0p1ZXNvYTllOG5wNzJsVDl5ZjF1dnBVWDF2LXNkakJMdV85NmFRYlFlRVpRamJSTzRGNGFMZjY0RjZSQmw1RkRZM3dVS20xS2VJaTJOLVdZZFRGaHkybTRB0gGyAUFVX3lxTE9rWVRPM3BDX1BETXpsblJPNnN6dUd0dmNLeDd0TkJlOEd2N3I5Mm9QcTl4RWhmQTZGMlpCZy00Y1pSY1V0R3paX21FTlpLVVIyOTNhQlBrd01fSnVlc29hOWU4bnA3MmxUOXlmMXV2cFVYMXYtc2RqQkx1Xzk2YVFiUWVFWlFqYlJPNEY0YUxmNjRGNlJCbDVGRFkzd1VLbTFLZUlpMk4tV1lkVEZoeTJtNEE?oc=5",
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkpfZllxczh0NFF6ZUt1U0NuQTFRRGJTVHN3bTY3NTk0LXo5TjA0Z0gzbkFiOUYyMzZnYjhxX2FMS0EyMHl1Z0JvY0tERXpEZGstS1ZVb0VlNUVYWVNBQWRDejFfeUgwdGZQSW1jS1dGQXhGVnhfSTB4YlYyak1BTmZPekt0cnk5ajl0UHR0Mm1kcnZNcE11eG03c1czS1hiRldtUk9zajl3eGwtaXNaRnpPenA?oc=5",
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX3Y4ZVN1NEZ3WVpTZlJadno0OEZkVlk1Qjdmb3Y1WmNVTzFrSGRnU3htN0VtLXI2SnJjZEkxU1BNOHBpeGxvQ1RXdmlLRGluS01SRksweUdJaWFfaGpwM0gyYmNzOUxyVjJsVlR1bGFfUnFFakN1OHFhOTBEZkpZbnBwX19EMU5hZWU1N3lJWGlDNzdWWEJmNmV0b095QmpHTW5oaF8wMUlwd3k4MVE?oc=5",
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmpfTDA1eWpraXlGNVI4SHc1RmlwREZEUXIwT3VRdXc1Rmtrd0ZxQ3VFY3p5ejVCdUNJY0U3T19Fb1FkME1MbzByV3VNSGNJU0Q0M0FyNnhsbnIyRVhCMDJUZmdBMWtZX0d2blRpUkN6X3ZaaUlPbmxNTmtFTHIwQlZZSlk0Q2NyVW1ibnBGUm02ZWJHbERDTkxRMzgtdGdhSUhlYkEzTXExQXNwMmR3dQ?oc=5",
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1hMdWJEUlpCYVZTZnc5YkExSHdIbzV5YXBNMkx3dmFoVHI5Y3hhZk5IaFFNUldBRFA4THF0U0ZObzA1TGZSY3ZibXFpejJ2UVgtbm9zSTZpNXo1TEh2N0JpXzlwdWZhaVFrQUVCOVRacUZET3JQYnllak5DSFVHbXRCRDVRTGpCZnlTblZMMmQwdFQ0Nnc?oc=5",
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ucjlGeTRnUjUtdGlnZWFWNjBGdDRJTi14TDRzM2RvU0lJV2p6V0Z0Y1YwMU1kRHh4Vmt1Q3UzbFhyV2JNWnQwYVA1Z21aODg3WUNYTGZvamZaY1E?oc=5",
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0clhKVVluMUdQamlOb1p3dlFudHRDZ2doUkRnNUd1WkJ6SWVSVThXeTZPNTJjbnh0RTdhTHA2YXVTUXI0SnA3ZDlzSldOQWtfRk1hX0g4VWlSd1FqZVpMZA?oc=5",
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY25ZVG95SlRwbDhuc0gtcEljMUNnYm1pZWVOSk1BamlQRnRCYmx2RmdOaUZYLWIzOGR2Nmlnbmt5M0lqbkpHVFVTei14TEJwbU4xb3hBcjFkS0xWZDRHQ0M5SFNSVTV4MWtKRXBRM3hhTmZuemctNHZzQzhsV2x0NUtPYi1VWGFF0gGIAUFVX3lxTE5jbllUb3lKVHBsOG5zSC1wSWMxQ2dibWllZU5KTUFqaVBGdEJibHZGZ05pRlgtYjM4ZHY2aWdua3kzSWpuSkdUVVN6LXhMQnBtTjFveEFyMWRLTFZkNEdDQzlIU1JVNXgxa0pFcFEzeGFOZm56Zy00dnNDOGxXbHQ1S09iLVVYYUU?oc=5",
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JZWFnbHZod2JXSm51SGFsNklXcnIxOWxrRmtrM2toaFlzbmxTaTFMLWNCOWtwREZNbGQzeUdlU1lnZ0VWOHhNdEVzT2ladzJXRVEybTJHOFlCd00yRkwwWXlsampqYm5YZHdYN0JRcUVYMmt4Ykc4bTRB?oc=5",
+  "https://news.google.com/rss/articles/CBMipwJBVV95cUxNOTcxVmN5QjctejB1YzFfbkxWSVVWZlRKSFA1OEc2ckFFMk95R2Q4RUlmWXlhM3E0ZHJqR2JRLXJ3eGhZczYwZnhUc0pwc1JoaWhQSjFhMU9OdTNLVU4xOUpITEtBcEVRVlFzemZGbWppZlM1VVljeC1kNWNCQkwzUHN2TGhRRTlDYUFUOGZSZEVnV2FjYkxRdl9NM1JvV2phZ2pROHRNQ2RxNXJ4NkpDVUdMUWJoUkxibXN0dUhzTjJxX0R4UHNuRkhibF9tSktNREMwTm5IeXd4eDR3aVl3bFRCbGdNWjN3NV9QVXIwczhRcFh2T2ZRYzMwcEZQX25Kcjc2X1F4S0Z1SzVaaEZtREZ3OXp3UDhEZGJlMGRaZDViSVM1Y3ZR?oc=5",
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVjRNQXMzRF9KRURhaUZ4RmVNRVFGRGlpeGEtdWZTMkFOX2lYMTRNbFI2TkE4WjZtZkRnbFF0djBTOHJxVHpPUmllcndBMDM2YXhfMWdBcUpfX2xmTVlfeW0tUjdmcHM4R1J1MEVxeWFJZHFIMm1UTkNmNmFjMmotU3pnUUJKQXh6NTBvdWEtekxRTGpHT0dDdkdpOFZoZmcxXzRwSnRKZkhtQjBZNy1kNVZmaHg?oc=5",
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYlJlUGRmdVlUZ3pudFU4Z3BtYjZDNjl4U2FwdXhTY3NZME5XQTRUYnlYanFZM1pfZHFZRXhFMXhwUWt6VFp3SHNkYWFUaEs4U0o0RERJNGFuVkRmVmZXenRsZXhSYUxmWU1Qakpral9KQ0NhUUlwLUl4NzdPMWxBbTY0eTlYRWduYmZyVm9pdWFrRm9zc0Jwd1hxNE9uTUdvUzNCRE0xczhoaUdMTXMwSWx2REZGdXNpSG9RSA?oc=5",
+  "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aLTN0enVSQlB5YjdEZ21fRlViS1hDY3U0R29aUzRLY3pma1NfZ2QtSUgzVTF2ZDgycnBFemtnQURrRmJMVFZtVnpfb1cwbGh1YWpITmZ1cFNFQ0lVcTRFMHFB?oc=5",
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbWM5Q1VOaUhFQ3VjLU9MUDRORXpxYlVtem5zWGNQcm9IY0dMdk5JUHZTQWJSWGljdkY2c3F4QXpRWFhyTEtLWS1JVWUxYXFfSU1uV3FVTjlLODQ2dnJ4OW9tNElxeEFCbUJMV21VUXBqZnhlMkRhQlNGLVlLUDN6N1hXbi15TVdTeTBuaWFYZHA3MDdXWS1GbkRZQ0w0SkNkSjE0R0E5NUMwZw?oc=5",
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFh1Uy1DaTRCa2pZNlEwT3M1NWNldUpxalJ1eXNxZzlSX2Q2M1QxekZSamlLYUdxZnZkN3JCbFNwb0tGWF80NEpLQnhaQ1NJUFA0TERYeDZUdnBybDJWZGlwVmZOeHFyOHBPVDRZdXVLTExhcG1VTlFmYVQxa3lFdWlROHNKeW9yTGhULW5BQy1WQnN5VnpEcnJpSC02dHBQZTZkM0pfZ21RQ0tPNkpscw?oc=5",
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmFyLUpRckxzT2oxNVhvcktMeHhUTm9HMUFsNkRQTkxqYVlRX1JrNEdNbzB1bkZGUXYxM3BVU1VZeTFfZGdsQjZtZE45VlFRNUNnTUdfaC1ieWIyQ1EwcGNQWk9GeTY3TjVHRVZRQzUtNXBvYXkyWmI3d2JBbGpoNmRFR2loYXZBOFhQemJVcUhIUHF3WXp0Zkc3aDBZM2pNS292LVVqek1rZGo3NUE1SkV2TWQ?oc=5",
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcnNqeTJJTUY4aXQ3VWh3WUhoYzAxOVVXRjF3c0YyRVYtX2thdjBvcTRnb0d0c3Rkb1FTb0dpcDAwMUhUREVDUnRab0FpTGpYYmJZTU1fb2xweTBSNFhrR2hfb1hTc0ZRakhhZjFNZGEyY3E5eGYtNDNTLWdiX1NTU0tqMURQeWozUFlYY2plR3QyRU9SSnBZYnlkSlNJcjdmMXZjTnZCanl6a3d3emhj?oc=5",
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNE01dExiV2dZY0EzOGxlemNTei03ZDdIRXN3ZjZ5VEd2ZmpqR0FjUUxMLS1UN0dBV2pnWEQ5X0d5dDNEYlp6SnhFT3k0bUtxZjVObkFKeThoNWliQmx1aDlfYTRWdDRsOERMeHYtRDF1eGlReDhVMDhuX1NfdHVadjdrbGVmbVFsVkpuUm5GLVR1QkZzME5iU1I0c2ZsSllRRmc2TXhzVDVMQWhl?oc=5",
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUtqNXRYTkJPbVNrVmI1Vk5uY2Z1NnVLX1o3YU90MFV2Y3ZQdnVzN3Q4VjlBYkdpQ1pvLXVKQy1ENUhlc3o1bDdhOTBfczlxUEFWdEJVckJyMHEwQUUzSlJGQmFiVGtPc2Zka25hRjJHR3pTS2J4UUEyLUxYMlVFekswMm50UWNJSzhZTHVZN21wdkRVbmJGNUlSN2Rsa0IxVnlGTlBTWUtRRTM3X3Fta0w2V3o3M3VrektOYkM2NnhUT3NWQTNMemwxYWRBRHBQZHI0?oc=5",
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KZDNaY1hlNXgwelVKQndFdVRIWk0wUVN0RTlUWnVEb3F1SnhhbHhUNTBtMkZvRGp1ZkVMTDYxWDlrVk42SGJwLU05RzBPT1hZNEhKTVhVODBxSnVLekFPZUdHQ3BjR0JrcnhXQ0oyaW80RmFjb05aSU1PWXM?oc=5",
+  "https://investinglive.com/Cryptocurrency/bitcoin-analysis-over-the-weekend-28-june-2026-20260628/",
+  "https://investinglive.com/news/two-revealing-macro-quotes-from-the-fedex-earnings-call-20260627/",
+  "https://investinglive.com/news/investinglive-americas-fx-news-wrap-26-jun-greenback-ends-mixed-still-higher-for-week-20260626/",
+  "https://investinglive.com/stocks/major-stock-indices-close-modestly-lower-with-the-nasdaq-leading-the-way-20260626/",
+  "https://investinglive.com/news/rubio-framework-raises-hopes-for-peace-but-major-obstacles-remain-20260626/",
+  "https://investinglive.com/technical-analysis/crude-oil-settles-the-dayweek-at-6923-20260626/",
+  "https://investinglive.com/news/hezbollahs-fadlallah-cannot-enforce-washington-agreement-unless-they-go-to-civil-war-20260626/",
+  "https://investinglive.com/news/us-israel-and-lebanon-sign-trilateral-agreement-20260626/",
+  "https://investinglive.com/technical-analysis/gold-bulls-and-bears-battle-for-control-20260626/",
+  "https://investinglive.com/news/trump-says-any-european-country-that-implements-digital-services-tax-will-get-100-tariff-20260626/",
+  "https://investinglive.com/Cryptocurrency/bitcoin-threatening-to-close-below-the-200-week-ma-for-the-first-time-since-october-2023-20260626/",
+  "https://investinglive.com/stocks/the-empire-strikes-back-is-the-theme-in-todays-market-20260626/",
+  "https://investinglive.com/stocks/netflix-atock-buy-the-dip-setup-large-sell-block-signals-possible-absorption-20260626/",
+  "https://investinglive.com/centralbank/feds-kashkari-may-need-to-raise-rates-amid-broad-inflation-20260626/",
+  "https://investinglive.com/commodities/wti-crude-oil-breaks-yesterdays-low-as-it-falls-below-69-20260626/",
+  "https://investinglive.com/technical-analysis/buyers-run-out-of-steam-as-eurusd-slips-back-lower-20260626/",
+  "https://investinglive.com/stock-market-update/tech-stocks-surge-while-semiconductors-struggle-20260626/",
+  "https://investinglive.com/news/the-uae-says-early-warning-on-missile-was-a-technical-malfunction-20260626/",
+  "https://investinglive.com/technical-analysis/broader-indices-are-lower-and-testing-a-key-target-20260626/",
+  "https://investinglive.com/news/umich-final-june-consumer-sentiment-495-vs-500-expected-20260626/",
+  "https://investinglive.com/technical-analysis/stocks-are-pressured-pre-open-explosions-heard-in-dubai-but-situation-is-now-safe-20260626/",
+  "https://investinglive.com/news/explosions-heard-in-dubai-after-uae-sends-phone-alert-on-missile-threat-20260626/",
+  "https://investinglive.com/technical-analysis/usdcad-sellers-make-a-play-below-14200-and-the-100-hour-ma-that-is-the-risk-level-now-20260626/",
+  "https://investinglive.com/news/the-market-is-souring-on-the-idea-of-ai-at-all-costs-five-thoughts-on-whats-coming-next-20260626/",
+  "https://investinglive.com/Education/whatsapp-stock-scam-warning-how-pump-and-dump-schemes-will-try-to-trap-you-20260626/",
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWdkV0dKLW40N0pjY1NOR0FZTWRuQ2R5Ukd6QmpralI0d2phNV9XMk9DRW5Ga2RmWldCMGowUWsxaGtEcHFhNmdfTTFodGJXdVI2WjdPcHg4Slp6TnhSMzFoWjF4X1R3Uk5qRkRjN3oxcFFRRURTX2hJajZnZFlsNUNQcE12TGlGU29pX2cyQkEtRE9hckE?oc=5",
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckVIUk90VFNiakJIRldPWDdpWWo2T0dLSjlPYnVfQ1JKdVkzOXNfZUtNV1VyOVFjN0dUbmgxUno4SXRrM3N0XzJWRTdvOF8temZJSlo2OXQxZTJKX3g0Tl8wZ09KUk90Wk43eEhjOFFSUGZWOV9Vc2VFYkQ2b0dlOUxQaTZ3MUlQeGlDUEQ0T2JnWDhIcE93TXF2UkN5WUs3ZlVtWW1IS211dw?oc=5",
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYTNDNVhpYnpOVFEtY2RTSVZyZTFCRHNGcUdmd2U2dTZ2alRicFhPd0ZBOHh6dU5qYUFmTVEzOHRpbmxYaEpIbXBMTUFucUJ2NV9kaDZQUGV4XzJ2bFBGWTBuNVJRelo4alRoSThQRWtjZ0NYVndiRGxMREJYWWtfNUx3Q3RKaEE0V3IxWFA4d1I1UFR0djRoSXdwd2hHdVU?oc=5",
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYndGWkY1RXlQNFhrcHRCcnJ2TE54YS1Ua3JKRHNSazZyQlpocUh6TEtjSURfbHRWU2QxWDdheTFWcUdZaTdBQTlUOEk2RG9RYjMxaFVqTlhGVE5UY1N3bnFKcENPRng5SWRMZi1ESklKWXJOYzF1Q0V6aXFVbkNSZGpCZXp5VHc4djBoVW5QdHlWb01MQi1tMGs3eXk0aGc3eGQxb0NLa2FDaXp5X2hQONIBtgFBVV95cUxOdXo5ZEJjVEFZOXNBdUFzWWJwOFZtVm9FV2FLWmlLSk9ZM3lIUzBtN0dMUkdZck9rXzhWakNFRGZsbVBaX2Qyc2lzaXc5cHl3aXlhU2o3Tjh6eUYwYWx1ZkdGdFpUcWxfM1o4UVdJWVFMSkFKMlhkS1lxSEpYaUcwQm9ZMmZqRm4za1p0V29IWnFGc01zWHlsMG5EWHpka3U3LWRETnZ6eGM3VXNRZmhDSnczUVRxZw?oc=5",
+  "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kN29ZdEFnZFlQWTBmTjBNRHM5NEpTbDZWS2w5blN1cTliSHFKM01vRGtLNmFVTDdpX2JmLUwxaUNyUXJVVF8yNXNKdFJIYVA1VWVHWExJZ2hycmdpR2FSZEFnUFdiNlJrRXhZ?oc=5",
+  "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNMFpRWVFIRmlfazVXVGRTbl85RVpXejllZ0ZuUWxsWnlaUTZ1bllTOXpadkc3ZGljRlNYQzcxYUd1dnNMeXk5dVVQdnBTNUJmQk5keXZIeEdPd3JaSnJIeXlOZ2l2cUZiZU1uM3d0NWVVTmxobzlQZE1zdHhRVUxWSmEyTUtnME8tYXFPdUdQVXhieGpOR3VIRXZMR2JWQkFHd04zVDh6elRBSnk1WG1OWFRfSmlKLW9pclF4RFRnOWJYU3NJU0F4Zk9BZjRlckdfTzUySUUwTEsxNFlaeDVGNHBCMW42cVNtejdmenVnMzVqb3ItdlVpZWNOUERiZkt2YzNOM2xEOFNtZDVYOFlYLWROLWR1dkNxSkxfVFJiYUtDc01XVFN6bjg2akpsc3VmOEhXbVpNc2JfQUNFWUh6T1lFWnJNdFowdE9FaUtEdktINEE?oc=5",
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1lUTzNwQ19QRE16bG5STzZzenVHdHZjS3g3dE5CZThHdjdyOTJvUHE5eEVoZkE2RjJaQmctNGNaUmNVdEd6Wl9tRU5aS1VSMjkzYUJQa3dNX0p1ZXNvYTllOG5wNzJsVDl5ZjF1dnBVWDF2LXNkakJMdV85NmFRYlFlRVpRamJSTzRGNGFMZjY0RjZSQmw1RkRZM3dVS20xS2VJaTJOLVdZZFRGaHkybTRB0gGyAUFVX3lxTE9rWVRPM3BDX1BETXpsblJPNnN6dUd0dmNLeDd0TkJlOEd2N3I5Mm9QcTl4RWhmQTZGMlpCZy00Y1pSY1V0R3paX21FTlpLVVIyOTNhQlBrd01fSnVlc29hOWU4bnA3MmxUOXlmMXV2cFVYMXYtc2RqQkx1Xzk2YVFiUWVFWlFqYlJPNEY0YUxmNjRGNlJCbDVGRFkzd1VLbTFLZUlpMk4tV1lkVEZoeTJtNEE?oc=5",
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkpfZllxczh0NFF6ZUt1U0NuQTFRRGJTVHN3bTY3NTk0LXo5TjA0Z0gzbkFiOUYyMzZnYjhxX2FMS0EyMHl1Z0JvY0tERXpEZGstS1ZVb0VlNUVYWVNBQWRDejFfeUgwdGZQSW1jS1dGQXhGVnhfSTB4YlYyak1BTmZPekt0cnk5ajl0UHR0Mm1kcnZNcE11eG03c1czS1hiRldtUk9zajl3eGwtaXNaRnpPenA?oc=5",
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX3Y4ZVN1NEZ3WVpTZlJadno0OEZkVlk1Qjdmb3Y1WmNVTzFrSGRnU3htN0VtLXI2SnJjZEkxU1BNOHBpeGxvQ1RXdmlLRGluS01SRksweUdJaWFfaGpwM0gyYmNzOUxyVjJsVlR1bGFfUnFFakN1OHFhOTBEZkpZbnBwX19EMU5hZWU1N3lJWGlDNzdWWEJmNmV0b095QmpHTW5oaF8wMUlwd3k4MVE?oc=5",
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMjdTZzY4cldNeU44ZHVzd1E2U0x5d0hMZFJWVnFhd3hTVjdEbjVYZERva3NsMVZTTkVQLXFpcXVXcnhJODNwM2pGc1RKbmZwbmVZY0JkbXI2bkpObTVLcVNoMjc5NUFwc1hSWlVtR200M0NkM2p3MnpfQjViYVpMa1RaZ3ZEOTcwRE9JVXdRaXJaRTdJMEdQdTE2b1FqQm5iNHEyam5ELVdGUkpoYTVsRjZxS1k2SW9GQkFUX2dKNVEtWnM?oc=5",
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmxWUkhWQmNTalBSZmFxRjhHdW9CNl93UnVpMXVybjhoLWtXX0FBanFiOUJuV1VhU28wZk1ydFRIeWNDYTVZZXc0TjM2eG9PTnhzTzl1QzN0alR6YkYzMllpQWFXTWNJSC11b29OZTBRbmlKUUhRcHVhRk4taU9SaEJycHFNZjBXSTdYZnJBX3JyMVhycWk1Vk11OUtVV1dDc214dUdRVW9QOUx6RlhuMW1TOUlTbzVocHJibVBpZi1adE5v?oc=5",
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmpfTDA1eWpraXlGNVI4SHc1RmlwREZEUXIwT3VRdXc1Rmtrd0ZxQ3VFY3p5ejVCdUNJY0U3T19Fb1FkME1MbzByV3VNSGNJU0Q0M0FyNnhsbnIyRVhCMDJUZmdBMWtZX0d2blRpUkN6X3ZaaUlPbmxNTmtFTHIwQlZZSlk0Q2NyVW1ibnBGUm02ZWJHbERDTkxRMzgtdGdhSUhlYkEzTXExQXNwMmR3dQ?oc=5",
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1hMdWJEUlpCYVZTZnc5YkExSHdIbzV5YXBNMkx3dmFoVHI5Y3hhZk5IaFFNUldBRFA4THF0U0ZObzA1TGZSY3ZibXFpejJ2UVgtbm9zSTZpNXo1TEh2N0JpXzlwdWZhaVFrQUVCOVRacUZET3JQYnllak5DSFVHbXRCRDVRTGpCZnlTblZMMmQwdFQ0Nnc?oc=5",
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ucjlGeTRnUjUtdGlnZWFWNjBGdDRJTi14TDRzM2RvU0lJV2p6V0Z0Y1YwMU1kRHh4Vmt1Q3UzbFhyV2JNWnQwYVA1Z21aODg3WUNYTGZvamZaY1E?oc=5",
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0clhKVVluMUdQamlOb1p3dlFudHRDZ2doUkRnNUd1WkJ6SWVSVThXeTZPNTJjbnh0RTdhTHA2YXVTUXI0SnA3ZDlzSldOQWtfRk1hX0g4VWlSd1FqZVpMZA?oc=5",
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY25ZVG95SlRwbDhuc0gtcEljMUNnYm1pZWVOSk1BamlQRnRCYmx2RmdOaUZYLWIzOGR2Nmlnbmt5M0lqbkpHVFVTei14TEJwbU4xb3hBcjFkS0xWZDRHQ0M5SFNSVTV4MWtKRXBRM3hhTmZuemctNHZzQzhsV2x0NUtPYi1VWGFF0gGIAUFVX3lxTE5jbllUb3lKVHBsOG5zSC1wSWMxQ2dibWllZU5KTUFqaVBGdEJibHZGZ05pRlgtYjM4ZHY2aWdua3kzSWpuSkdUVVN6LXhMQnBtTjFveEFyMWRLTFZkNEdDQzlIU1JVNXgxa0pFcFEzeGFOZm56Zy00dnNDOGxXbHQ1S09iLVVYYUU?oc=5",
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JZWFnbHZod2JXSm51SGFsNklXcnIxOWxrRmtrM2toaFlzbmxTaTFMLWNCOWtwREZNbGQzeUdlU1lnZ0VWOHhNdEVzT2ladzJXRVEybTJHOFlCd00yRkwwWXlsampqYm5YZHdYN0JRcUVYMmt4Ykc4bTRB?oc=5",
+  "https://news.google.com/rss/articles/CBMipwJBVV95cUxNOTcxVmN5QjctejB1YzFfbkxWSVVWZlRKSFA1OEc2ckFFMk95R2Q4RUlmWXlhM3E0ZHJqR2JRLXJ3eGhZczYwZnhUc0pwc1JoaWhQSjFhMU9OdTNLVU4xOUpITEtBcEVRVlFzemZGbWppZlM1VVljeC1kNWNCQkwzUHN2TGhRRTlDYUFUOGZSZEVnV2FjYkxRdl9NM1JvV2phZ2pROHRNQ2RxNXJ4NkpDVUdMUWJoUkxibXN0dUhzTjJxX0R4UHNuRkhibF9tSktNREMwTm5IeXd4eDR3aVl3bFRCbGdNWjN3NV9QVXIwczhRcFh2T2ZRYzMwcEZQX25Kcjc2X1F4S0Z1SzVaaEZtREZ3OXp3UDhEZGJlMGRaZDViSVM1Y3ZR?oc=5",
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVjRNQXMzRF9KRURhaUZ4RmVNRVFGRGlpeGEtdWZTMkFOX2lYMTRNbFI2TkE4WjZtZkRnbFF0djBTOHJxVHpPUmllcndBMDM2YXhfMWdBcUpfX2xmTVlfeW0tUjdmcHM4R1J1MEVxeWFJZHFIMm1UTkNmNmFjMmotU3pnUUJKQXh6NTBvdWEtekxRTGpHT0dDdkdpOFZoZmcxXzRwSnRKZkhtQjBZNy1kNVZmaHg?oc=5",
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYlJlUGRmdVlUZ3pudFU4Z3BtYjZDNjl4U2FwdXhTY3NZME5XQTRUYnlYanFZM1pfZHFZRXhFMXhwUWt6VFp3SHNkYWFUaEs4U0o0RERJNGFuVkRmVmZXenRsZXhSYUxmWU1Qakpral9KQ0NhUUlwLUl4NzdPMWxBbTY0eTlYRWduYmZyVm9pdWFrRm9zc0Jwd1hxNE9uTUdvUzNCRE0xczhoaUdMTXMwSWx2REZGdXNpSG9RSA?oc=5",
+  "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aLTN0enVSQlB5YjdEZ21fRlViS1hDY3U0R29aUzRLY3pma1NfZ2QtSUgzVTF2ZDgycnBFemtnQURrRmJMVFZtVnpfb1cwbGh1YWpITmZ1cFNFQ0lVcTRFMHFB?oc=5",
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbWM5Q1VOaUhFQ3VjLU9MUDRORXpxYlVtem5zWGNQcm9IY0dMdk5JUHZTQWJSWGljdkY2c3F4QXpRWFhyTEtLWS1JVWUxYXFfSU1uV3FVTjlLODQ2dnJ4OW9tNElxeEFCbUJMV21VUXBqZnhlMkRhQlNGLVlLUDN6N1hXbi15TVdTeTBuaWFYZHA3MDdXWS1GbkRZQ0w0SkNkSjE0R0E5NUMwZw?oc=5",
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFh1Uy1DaTRCa2pZNlEwT3M1NWNldUpxalJ1eXNxZzlSX2Q2M1QxekZSamlLYUdxZnZkN3JCbFNwb0tGWF80NEpLQnhaQ1NJUFA0TERYeDZUdnBybDJWZGlwVmZOeHFyOHBPVDRZdXVLTExhcG1VTlFmYVQxa3lFdWlROHNKeW9yTGhULW5BQy1WQnN5VnpEcnJpSC02dHBQZTZkM0pfZ21RQ0tPNkpscw?oc=5",
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmFyLUpRckxzT2oxNVhvcktMeHhUTm9HMUFsNkRQTkxqYVlRX1JrNEdNbzB1bkZGUXYxM3BVU1VZeTFfZGdsQjZtZE45VlFRNUNnTUdfaC1ieWIyQ1EwcGNQWk9GeTY3TjVHRVZRQzUtNXBvYXkyWmI3d2JBbGpoNmRFR2loYXZBOFhQemJVcUhIUHF3WXp0Zkc3aDBZM2pNS292LVVqek1rZGo3NUE1SkV2TWQ?oc=5",
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcnNqeTJJTUY4aXQ3VWh3WUhoYzAxOVVXRjF3c0YyRVYtX2thdjBvcTRnb0d0c3Rkb1FTb0dpcDAwMUhUREVDUnRab0FpTGpYYmJZTU1fb2xweTBSNFhrR2hfb1hTc0ZRakhhZjFNZGEyY3E5eGYtNDNTLWdiX1NTU0tqMURQeWozUFlYY2plR3QyRU9SSnBZYnlkSlNJcjdmMXZjTnZCanl6a3d3emhj?oc=5",
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNE01dExiV2dZY0EzOGxlemNTei03ZDdIRXN3ZjZ5VEd2ZmpqR0FjUUxMLS1UN0dBV2pnWEQ5X0d5dDNEYlp6SnhFT3k0bUtxZjVObkFKeThoNWliQmx1aDlfYTRWdDRsOERMeHYtRDF1eGlReDhVMDhuX1NfdHVadjdrbGVmbVFsVkpuUm5GLVR1QkZzME5iU1I0c2ZsSllRRmc2TXhzVDVMQWhl?oc=5",
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUtqNXRYTkJPbVNrVmI1Vk5uY2Z1NnVLX1o3YU90MFV2Y3ZQdnVzN3Q4VjlBYkdpQ1pvLXVKQy1ENUhlc3o1bDdhOTBfczlxUEFWdEJVckJyMHEwQUUzSlJGQmFiVGtPc2Zka25hRjJHR3pTS2J4UUEyLUxYMlVFekswMm50UWNJSzhZTHVZN21wdkRVbmJGNUlSN2Rsa0IxVnlGTlBTWUtRRTM3X3Fta0w2V3o3M3VrektOYkM2NnhUT3NWQTNMemwxYWRBRHBQZHI0?oc=5",
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KZDNaY1hlNXgwelVKQndFdVRIWk0wUVN0RTlUWnVEb3F1SnhhbHhUNTBtMkZvRGp1ZkVMTDYxWDlrVk42SGJwLU05RzBPT1hZNEhKTVhVODBxSnVLekFPZUdHQ3BjR0JrcnhXQ0oyaW80RmFjb05aSU1PWXM?oc=5",
+  "https://investinglive.com/Cryptocurrency/bitcoin-analysis-over-the-weekend-28-june-2026-20260628/",
+  "https://investinglive.com/news/two-revealing-macro-quotes-from-the-fedex-earnings-call-20260627/",
+  "https://investinglive.com/news/investinglive-americas-fx-news-wrap-26-jun-greenback-ends-mixed-still-higher-for-week-20260626/",
+  "https://investinglive.com/stocks/major-stock-indices-close-modestly-lower-with-the-nasdaq-leading-the-way-20260626/",
+  "https://investinglive.com/news/rubio-framework-raises-hopes-for-peace-but-major-obstacles-remain-20260626/",
+  "https://investinglive.com/technical-analysis/crude-oil-settles-the-dayweek-at-6923-20260626/",
+  "https://investinglive.com/news/hezbollahs-fadlallah-cannot-enforce-washington-agreement-unless-they-go-to-civil-war-20260626/",
+  "https://investinglive.com/news/us-israel-and-lebanon-sign-trilateral-agreement-20260626/",
+  "https://investinglive.com/technical-analysis/gold-bulls-and-bears-battle-for-control-20260626/",
+  "https://investinglive.com/news/trump-says-any-european-country-that-implements-digital-services-tax-will-get-100-tariff-20260626/",
+  "https://investinglive.com/Cryptocurrency/bitcoin-threatening-to-close-below-the-200-week-ma-for-the-first-time-since-october-2023-20260626/",
+  "https://investinglive.com/stocks/the-empire-strikes-back-is-the-theme-in-todays-market-20260626/",
+  "https://investinglive.com/stocks/netflix-atock-buy-the-dip-setup-large-sell-block-signals-possible-absorption-20260626/",
+  "https://investinglive.com/centralbank/feds-kashkari-may-need-to-raise-rates-amid-broad-inflation-20260626/",
+  "https://investinglive.com/commodities/wti-crude-oil-breaks-yesterdays-low-as-it-falls-below-69-20260626/",
+  "https://investinglive.com/technical-analysis/buyers-run-out-of-steam-as-eurusd-slips-back-lower-20260626/",
+  "https://investinglive.com/stock-market-update/tech-stocks-surge-while-semiconductors-struggle-20260626/",
+  "https://investinglive.com/news/the-uae-says-early-warning-on-missile-was-a-technical-malfunction-20260626/",
+  "https://investinglive.com/technical-analysis/broader-indices-are-lower-and-testing-a-key-target-20260626/",
+  "https://investinglive.com/news/umich-final-june-consumer-sentiment-495-vs-500-expected-20260626/",
+  "https://investinglive.com/technical-analysis/stocks-are-pressured-pre-open-explosions-heard-in-dubai-but-situation-is-now-safe-20260626/",
+  "https://investinglive.com/news/explosions-heard-in-dubai-after-uae-sends-phone-alert-on-missile-threat-20260626/",
+  "https://investinglive.com/technical-analysis/usdcad-sellers-make-a-play-below-14200-and-the-100-hour-ma-that-is-the-risk-level-now-20260626/",
+  "https://investinglive.com/news/the-market-is-souring-on-the-idea-of-ai-at-all-costs-five-thoughts-on-whats-coming-next-20260626/",
+  "https://investinglive.com/Education/whatsapp-stock-scam-warning-how-pump-and-dump-schemes-will-try-to-trap-you-20260626/",
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWMwWlJlWUVqWVcxYjY3eDRvdXVwdVlhbVByQWdWNnFqNDZkOEl6QXhaQTVzZUpCNlpVSmFUNzR3c09Uc3JOeVJDUXNLZWk5eVBobXB5RGtSRjJHUXlXTWpyaE55MzVNeXBPd0ZQVEFnbF9neFB1QXpsUW5ZTVMwYzhCa1NUZUs5ZXJUWFFOZi0zMFRi?oc=5",
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdiM0FFbjNlLUJqVFU4R2JKU01xeG50UkFpUkRqX3hQVHFIWmRtdGc2R2ZQVWZNUUZmclItUDR0N0ppSElIMzl0QlB1MzZWUS1MUjRZQVM4bS1kcnVJUUs0TEtvZVBZSGNsNG9aS3J0aDdkMGN4SjJUZUJpbWk3NnZfTHNiYkRuTDNKS1dOc29KUndwLUZqWFkwOUl5UTVPd3gydjhubWdWTU1NMkU0?oc=5",
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYTNDNVhpYnpOVFEtY2RTSVZyZTFCRHNGcUdmd2U2dTZ2alRicFhPd0ZBOHh6dU5qYUFmTVEzOHRpbmxYaEpIbXBMTUFucUJ2NV9kaDZQUGV4XzJ2bFBGWTBuNVJRelo4alRoSThQRWtjZ0NYVndiRGxMREJYWWtfNUx3Q3RKaEE0V3IxWFA4d1I1UFR0djRoSXdwd2hHdVU?oc=5",
@@ -349,166 +508,7 @@
   "https://investinglive.com/technical-analysis/gold-bulls-and-bears-battle-for-control-20260626/",
   "https://investinglive.com/news/trump-says-any-european-country-that-implements-digital-services-tax-will-get-100-tariff-20260626/",
   "https://investinglive.com/Cryptocurrency/bitcoin-threatening-to-close-below-the-200-week-ma-for-the-first-time-since-october-2023-20260626/",
-  "https://investinglive.com/stocks/the-empire-strikes-back-is-the-theme-in-todays-market-20260626/",
-  "https://investinglive.com/stocks/netflix-atock-buy-the-dip-setup-large-sell-block-signals-possible-absorption-20260626/",
-  "https://investinglive.com/centralbank/feds-kashkari-may-need-to-raise-rates-amid-broad-inflation-20260626/",
-  "https://investinglive.com/commodities/wti-crude-oil-breaks-yesterdays-low-as-it-falls-below-69-20260626/",
-  "https://investinglive.com/technical-analysis/buyers-run-out-of-steam-as-eurusd-slips-back-lower-20260626/",
-  "https://investinglive.com/stock-market-update/tech-stocks-surge-while-semiconductors-struggle-20260626/",
-  "https://investinglive.com/news/the-uae-says-early-warning-on-missile-was-a-technical-malfunction-20260626/",
-  "https://investinglive.com/technical-analysis/broader-indices-are-lower-and-testing-a-key-target-20260626/",
-  "https://investinglive.com/news/umich-final-june-consumer-sentiment-495-vs-500-expected-20260626/",
-  "https://investinglive.com/technical-analysis/stocks-are-pressured-pre-open-explosions-heard-in-dubai-but-situation-is-now-safe-20260626/",
-  "https://investinglive.com/news/explosions-heard-in-dubai-after-uae-sends-phone-alert-on-missile-threat-20260626/",
-  "https://investinglive.com/technical-analysis/usdcad-sellers-make-a-play-below-14200-and-the-100-hour-ma-that-is-the-risk-level-now-20260626/",
-  "https://investinglive.com/news/the-market-is-souring-on-the-idea-of-ai-at-all-costs-five-thoughts-on-whats-coming-next-20260626/",
-  "https://investinglive.com/Education/whatsapp-stock-scam-warning-how-pump-and-dump-schemes-will-try-to-trap-you-20260626/",
-  "https://investinglive.com/news/us-may-wholesale-inventories-03-vs-03-expected-20260626/",
-  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWMwWlJlWUVqWVcxYjY3eDRvdXVwdVlhbVByQWdWNnFqNDZkOEl6QXhaQTVzZUpCNlpVSmFUNzR3c09Uc3JOeVJDUXNLZWk5eVBobXB5RGtSRjJHUXlXTWpyaE55MzVNeXBPd0ZQVEFnbF9neFB1QXpsUW5ZTVMwYzhCa1NUZUs5ZXJUWFFOZi0zMFRi?oc=5",
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdiM0FFbjNlLUJqVFU4R2JKU01xeG50UkFpUkRqX3hQVHFIWmRtdGc2R2ZQVWZNUUZmclItUDR0N0ppSElIMzl0QlB1MzZWUS1MUjRZQVM4bS1kcnVJUUs0TEtvZVBZSGNsNG9aS3J0aDdkMGN4SjJUZUJpbWk3NnZfTHNiYkRuTDNKS1dOc29KUndwLUZqWFkwOUl5UTVPd3gydjhubWdWTU1NMkU0?oc=5",
-  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYTNDNVhpYnpOVFEtY2RTSVZyZTFCRHNGcUdmd2U2dTZ2alRicFhPd0ZBOHh6dU5qYUFmTVEzOHRpbmxYaEpIbXBMTUFucUJ2NV9kaDZQUGV4XzJ2bFBGWTBuNVJRelo4alRoSThQRWtjZ0NYVndiRGxMREJYWWtfNUx3Q3RKaEE0V3IxWFA4d1I1UFR0djRoSXdwd2hHdVU?oc=5",
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYndGWkY1RXlQNFhrcHRCcnJ2TE54YS1Ua3JKRHNSazZyQlpocUh6TEtjSURfbHRWU2QxWDdheTFWcUdZaTdBQTlUOEk2RG9RYjMxaFVqTlhGVE5UY1N3bnFKcENPRng5SWRMZi1ESklKWXJOYzF1Q0V6aXFVbkNSZGpCZXp5VHc4djBoVW5QdHlWb01MQi1tMGs3eXk0aGc3eGQxb0NLa2FDaXp5X2hQONIBtgFBVV95cUxOdXo5ZEJjVEFZOXNBdUFzWWJwOFZtVm9FV2FLWmlLSk9ZM3lIUzBtN0dMUkdZck9rXzhWakNFRGZsbVBaX2Qyc2lzaXc5cHl3aXlhU2o3Tjh6eUYwYWx1ZkdGdFpUcWxfM1o4UVdJWVFMSkFKMlhkS1lxSEpYaUcwQm9ZMmZqRm4za1p0V29IWnFGc01zWHlsMG5EWHpka3U3LWRETnZ6eGM3VXNRZmhDSnczUVRxZw?oc=5",
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGtrS1paSC1yTXFINDd2cENWMU1xRUR1UTZxWDNsRlFFZmtRRGU1RHpDYlFRcnd5X2x0ajJFYUhlWTNKRVFmX054dVdhVE1rUFZMb2FIUklndkRRV2JrcUU1Z3hZMVBjS3UtNDVWbHBJR1Rjcjg0TG41eFE4ZGxzeFZaVERGME9QMW1fX3lJcTlKV3k4R2JsZFBzOG1mLVpYVHZyMlV4b3daeTJWUW50elRJNEk?oc=5",
-  "https://news.google.com/rss/articles/CBMivgFBVV95cUxObHlHQ2RNWjNyUzRVZVNZZU1oWDNqb3JOVzRvcFRkTjJVd1c2b2N3QWVvYkJvRmJ4b055WTNMTGFUZm45ZkZHSmN6c3pieTRiVWgxcGZIRjZLMXFHZHhWbmFqdUpxaS1xZUp3RlNNTEtpajNvU1lZSk9CS0J3SDdOWVNZazRDN2lIVDc0ZThSaEU0XzRkWURzVmcwb3Zva3o4Mzh6ZlR4UTNERVJjc2lhNW9rakFyRGsxYWh4LWd3?oc=5",
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGlQNmpCMlQtd3hVb2VnR2ZtTHg2NzR1bHdfMWtMQ2J5akhxaUZhekxKOUs3S0xBQUJVelZrVkJjVzRVWFdqbDVYV2J1SGxwM2xQa20wdW9DbzJ0WVBpemEyNWVrc2xnb3B5SFNvN1d3bFNUTlVCbERvVlFFWlRnYzUweHB1RUZqQWNwbWNpZFptZE4xdjZ5aThjMV9TLVdUWi02Tg?oc=5",
-  "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTjljLVdxcm1xNlpteDB6cGZISmFGa0pyZ0JoYXNDbkY1ejJTaG5vUEhraUlDd3RrODZ1Tms3TlB4T0ZxWmdQQTNLemVabFlpdFR4UzFHZU00Yzd1Rm5uWUdMUkQ0TTNPXzRyUzVmV1hUUjZSOUtxYXlTNkFIaExSVVpySmNQUEhqM1JaNUswRQ?oc=5",
-  "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNMFpRWVFIRmlfazVXVGRTbl85RVpXejllZ0ZuUWxsWnlaUTZ1bllTOXpadkc3ZGljRlNYQzcxYUd1dnNMeXk5dVVQdnBTNUJmQk5keXZIeEdPd3JaSnJIeXlOZ2l2cUZiZU1uM3d0NWVVTmxobzlQZE1zdHhRVUxWSmEyTUtnME8tYXFPdUdQVXhieGpOR3VIRXZMR2JWQkFHd04zVDh6elRBSnk1WG1OWFRfSmlKLW9pclF4RFRnOWJYU3NJU0F4Zk9BZjRlckdfTzUySUUwTEsxNFlaeDVGNHBCMW42cVNtejdmenVnMzVqb3ItdlVpZWNOUERiZkt2YzNOM2xEOFNtZDVYOFlYLWROLWR1dkNxSkxfVFJiYUtDc01XVFN6bjg2akpsc3VmOEhXbVpNc2JfQUNFWUh6T1lFWnJNdFowdE9FaUtEdktINEE?oc=5",
-  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1lUTzNwQ19QRE16bG5STzZzenVHdHZjS3g3dE5CZThHdjdyOTJvUHE5eEVoZkE2RjJaQmctNGNaUmNVdEd6Wl9tRU5aS1VSMjkzYUJQa3dNX0p1ZXNvYTllOG5wNzJsVDl5ZjF1dnBVWDF2LXNkakJMdV85NmFRYlFlRVpRamJSTzRGNGFMZjY0RjZSQmw1RkRZM3dVS20xS2VJaTJOLVdZZFRGaHkybTRB0gGyAUFVX3lxTE9rWVRPM3BDX1BETXpsblJPNnN6dUd0dmNLeDd0TkJlOEd2N3I5Mm9QcTl4RWhmQTZGMlpCZy00Y1pSY1V0R3paX21FTlpLVVIyOTNhQlBrd01fSnVlc29hOWU4bnA3MmxUOXlmMXV2cFVYMXYtc2RqQkx1Xzk2YVFiUWVFWlFqYlJPNEY0YUxmNjRGNlJCbDVGRFkzd1VLbTFLZUlpMk4tV1lkVEZoeTJtNEE?oc=5",
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkpfZllxczh0NFF6ZUt1U0NuQTFRRGJTVHN3bTY3NTk0LXo5TjA0Z0gzbkFiOUYyMzZnYjhxX2FMS0EyMHl1Z0JvY0tERXpEZGstS1ZVb0VlNUVYWVNBQWRDejFfeUgwdGZQSW1jS1dGQXhGVnhfSTB4YlYyak1BTmZPekt0cnk5ajl0UHR0Mm1kcnZNcE11eG03c1czS1hiRldtUk9zajl3eGwtaXNaRnpPenA?oc=5",
-  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc0k0OFBkcktVUzVUc0tTaWZXV3JERHptTlUzZHdOcko4RG9RaDlubVhYcFhsaWZmNGJ4b21fUDFtN1c1WWV3S0IyUkhMMEhTb2tzbUl5aXdCM2MxTHM3VjVBaldUSDM5STF5TTd2a214TUFlYmQyeUVid195eUdYdDBmeDBaN2JMVkNnakRrZlhCYXhqTHYtc0EwNXVzeTF3Qy12dmtfcVg?oc=5",
-  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMjdTZzY4cldNeU44ZHVzd1E2U0x5d0hMZFJWVnFhd3hTVjdEbjVYZERva3NsMVZTTkVQLXFpcXVXcnhJODNwM2pGc1RKbmZwbmVZY0JkbXI2bkpObTVLcVNoMjc5NUFwc1hSWlVtR200M0NkM2p3MnpfQjViYVpMa1RaZ3ZEOTcwRE9JVXdRaXJaRTdJMEdQdTE2b1FqQm5iNHEyam5ELVdGUkpoYTVsRjZxS1k2SW9GQkFUX2dKNVEtWnM?oc=5",
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3p1VmxuQXBVT3V5NlRPdkRLSTZ4X0FNdWRkajA0TWM4N0k5MGUtVlVKR000cENhdGozcVdubzZwWnA4Y1lodUpxRE1iMXJ1MXM4TVpsQ2tlNWYyZjNFN0ozdXY0WF9qUFRmXzN0OF9ER1c2bHl6MXh6Z1JpdUJOR0hLTFc0bnc3OUlrYkdERlJBM3RMOERJMFMzc2xtOEFoNTVXag?oc=5",
-  "https://news.google.com/rss/articles/CBMisANBVV95cUxNZ3NqeXMtTDNhdVVuMDJvajhGZ0hZakEtUFVOYTRKNHZHOWpaQWVwYVh6ODhsWmRvalNZYVhOUjFpS0FIMWVnUlp1NnlHMGhkMmtJYWdzaG9FRDVpeW5USzJOTVo2ZThianZTSkxXaXZVWGV1eXlBeThraDlaMmd5UVYwdGpmR1hDVmVZUUZuSHpIVi1nZkFSTWhmSWlBUFF1dkI3dmFjRzluMzdUajVYN2FKTzlzOHJfWWhvUEk2UWllQWNRM09mVmZlRmhWV24tSmlhOVl6M2J6UTBKNExiMWJneHJnOHlPOWt4VTBVaC1CZC1MSExIckg1QVV2bFQ5X1FqcTZmYU1Bd1oxd1JnN2FjSzZKNUZqTnlQMzVXc1daU0QyYWVpcHlrZmNuemtZT2l4RzAwS0M1VW4zZkRoQ3VIemNLOGY0bjkzX254RGdpanpIRk85RGFPb3R4bFF2dFJNSVJEMU9NNXZobmp3Ym16djFRN21td0xDYXBHbVdmcXFWSnE0WmhUUGdNcndyV1pTbHNSUW5uUmI3TEpvaVlKSVpIeVo2VzBVQ2QxR0c?oc=5",
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFR4cExqSkJkMUFiVmlJTTFvN3lQeUZKT1ZYRWlGTldSQ19Zc3pjU2pSeXZUZGQwb3JfaFZyWXFteU03aTRtaUY5aVhkLXBiTXdLMU9EaWpZU1Z4ekRLck1QTVRvdE95Ml9ramNEVTlWUW9MVEFtR3BTakRCRzlEd2tRNXJ1LVJtSnBHT05oSUdWeVpuYm1aSFJrc2JTZTJaSUUtcQ?oc=5",
-  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0R5VG1tVXpwQzRiTlpBNFRDQ1FGRGNCY3lsSkFuYUVhYmdDQnQ5RGtYSlJPNDI2QWNxbGNrZ2duMHdPRzNNaWM0UkpIcVBjNkR2ZklQTWlVaTF0VDhaXzAwN3JMdnVHdkdRV0JoQ0xkMjFReVg5Z1pJZUlrNzBuaVRGSnc0UVR6MXhGelprT0ZfejNzRFp6bEdIeHZONWFTVUZRMlIzYlB5WGpJdFd6Q000d1VaZGNvel84?oc=5",
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1hMdWJEUlpCYVZTZnc5YkExSHdIbzV5YXBNMkx3dmFoVHI5Y3hhZk5IaFFNUldBRFA4THF0U0ZObzA1TGZSY3ZibXFpejJ2UVgtbm9zSTZpNXo1TEh2N0JpXzlwdWZhaVFrQUVCOVRacUZET3JQYnllak5DSFVHbXRCRDVRTGpCZnlTblZMMmQwdFQ0Nnc?oc=5",
-  "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0clhKVVluMUdQamlOb1p3dlFudHRDZ2doUkRnNUd1WkJ6SWVSVThXeTZPNTJjbnh0RTdhTHA2YXVTUXI0SnA3ZDlzSldOQWtfRk1hX0g4VWlSd1FqZVpMZA?oc=5",
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFh1Uy1DaTRCa2pZNlEwT3M1NWNldUpxalJ1eXNxZzlSX2Q2M1QxekZSamlLYUdxZnZkN3JCbFNwb0tGWF80NEpLQnhaQ1NJUFA0TERYeDZUdnBybDJWZGlwVmZOeHFyOHBPVDRZdXVLTExhcG1VTlFmYVQxa3lFdWlROHNKeW9yTGhULW5BQy1WQnN5VnpEcnJpSC02dHBQZTZkM0pfZ21RQ0tPNkpscw?oc=5",
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcnNqeTJJTUY4aXQ3VWh3WUhoYzAxOVVXRjF3c0YyRVYtX2thdjBvcTRnb0d0c3Rkb1FTb0dpcDAwMUhUREVDUnRab0FpTGpYYmJZTU1fb2xweTBSNFhrR2hfb1hTc0ZRakhhZjFNZGEyY3E5eGYtNDNTLWdiX1NTU0tqMURQeWozUFlYY2plR3QyRU9SSnBZYnlkSlNJcjdmMXZjTnZCanl6a3d3emhj?oc=5",
-  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNE01dExiV2dZY0EzOGxlemNTei03ZDdIRXN3ZjZ5VEd2ZmpqR0FjUUxMLS1UN0dBV2pnWEQ5X0d5dDNEYlp6SnhFT3k0bUtxZjVObkFKeThoNWliQmx1aDlfYTRWdDRsOERMeHYtRDF1eGlReDhVMDhuX1NfdHVadjdrbGVmbVFsVkpuUm5GLVR1QkZzME5iU1I0c2ZsSllRRmc2TXhzVDVMQWhl?oc=5",
-  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUtqNXRYTkJPbVNrVmI1Vk5uY2Z1NnVLX1o3YU90MFV2Y3ZQdnVzN3Q4VjlBYkdpQ1pvLXVKQy1ENUhlc3o1bDdhOTBfczlxUEFWdEJVckJyMHEwQUUzSlJGQmFiVGtPc2Zka25hRjJHR3pTS2J4UUEyLUxYMlVFekswMm50UWNJSzhZTHVZN21wdkRVbmJGNUlSN2Rsa0IxVnlGTlBTWUtRRTM3X3Fta0w2V3o3M3VrektOYkM2NnhUT3NWQTNMemwxYWRBRHBQZHI0?oc=5",
-  "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNy1jNHo5VGxXUW1UZVF0OUVpQkFpbld3OVVyNFAwVk5YZVlkdHBJcUg0cEVOeGtxZnNqaHltTXpLeHhKb01vM1Y5eUxTNDZjTzdWX3czRWhYd0pRWDgwSDZ0emY3UkMtb2dFWloxVFphaUZDR19lbENmVDYyaWpjNUJsNDU2eDlubEh4alR1VUpERWxtNnFJWnNiRQ?oc=5",
-  "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JYmc0SVdQdkJoazltYWRHYnRHSnAzRDl3SlpwYlNWaWhTLU9OQWdsLTVmU0RNWDZVd3IxMXhwcXJnUnBVWDd0N0s3TjFOMzliYnNudEEyU0Q4b3gxbHROVklEWXRuTHd2enpFQmcwdEtCcHc?oc=5",
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSzYzdEh1UW1ZcHJkOUJYRDhyMHBSVDlVdFZJclRES2ZuUERZRnNiTFdsM3h0d3VLOTJ2eE90RnE5LTlxaHozNk50MTF6X0JpbEZsTUZ1X1VtN1VnVXIxcDlyeVMtc1NVRjFWV0ZzemFVMTEyT0hDeUZILVpIWlVCV0ltRTYwMUQ5dGllUjc1YkdBRThSMll2MURjZkZTbUk0MFdxODlsZDFQSGE1eUE?oc=5",
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUdNQldnZG52aGlzNk5vNnY2RUZVamRJcHZOTUdnbjRUb0xqM1F3cDBva0RxZU5TeWhEYjdSbEZKRUwzLWZJLWluUTJnQXlVSThoWU9ZeUZFRnlZcThsRkRxSmt1MENxelBkb2ZZbEU4QVhRWnFBak9TbEc0aE5rdmRlQ2ZZbVl2Q1I1SWlrcmhpX0kybEZqcWJqTTl6VmJyWWtIMmpoZVJybTV1NzZJ?oc=5",
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRGV4VUV1UEtaT29SNHhXSGpjVVdkS0w1R2pCTTM0WEtLclBzU3FtOExsNV9pZTNKLUZtRzlYaTJxN1Fzb0NCNjNZb2QwNlpSN2VPVHNsWEJmaFl6RnhZMllGNlRhUmZabEtmejRFZzluaEs0V1g0X3RvdUhRR2F5X3R6b3czYUJiT3h2dENhSnUtQjNOajY4Smk5SFMyRHl5NkotTklrUTRsVnlzZnhac1ZWMzk?oc=5",
-  "https://news.google.com/rss/articles/CBMipAJBVV95cUxNc2hVRVJwUjJZSEdIS0k3dnMwenlkQlhhNGNmYUFWd19Ga0RDaVlrNDBjVTdFUzB0RkNZRnE0anhSNk9ZUzFDLU1jV2pzVTIwYmg3TTYxTGljUGJsMXNQRWI0Q3pPd0I3dHpWRXM4dnNtOWNtNXFvZm9vcmtsd2hzOFJ1ZzF1ZWZlOWlNT0duSTNyZ2ZqTXV1UjBWT2xwUm56b084TXB0b295OThieFFxU1loWi1yU3pZNkNTcHNnYXR2bjlBWGJSU29oSWwtQXJFc1JIelNoS00wZERjdXQwd1FmWHNRenFnMHpDNWhVMHF5Z1FIQkZ0VVNBSTRyaTVzaU00NDRRSkhUS1I2SWhMdGpkcVFVYWVua3BnX0ZKbC1BZVNw?oc=5",
-  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY25ZVG95SlRwbDhuc0gtcEljMUNnYm1pZWVOSk1BamlQRnRCYmx2RmdOaUZYLWIzOGR2Nmlnbmt5M0lqbkpHVFVTei14TEJwbU4xb3hBcjFkS0xWZDRHQ0M5SFNSVTV4MWtKRXBRM3hhTmZuemctNHZzQzhsV2x0NUtPYi1VWGFF0gGIAUFVX3lxTE5jbllUb3lKVHBsOG5zSC1wSWMxQ2dibWllZU5KTUFqaVBGdEJibHZGZ05pRlgtYjM4ZHY2aWdua3kzSWpuSkdUVVN6LXhMQnBtTjFveEFyMWRLTFZkNEdDQzlIU1JVNXgxa0pFcFEzeGFOZm56Zy00dnNDOGxXbHQ1S09iLVVYYUU?oc=5",
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWtBbEs5QjVOekp1cnVHSFAxamtaM0VONkMwRkVfOUZOb0M3VnFHRGJhRkpDZFk4aWNNMjlEcFo4d3JrNXBpbnFkOF9temZqaVB5N3R4VkJuVTJwNEozUWZRX1o2Q180ZnN3VmRqQ1hURmFIVjNnTFQ2NWdnS3JtWV96T3B5bXd2VmRPdFY3Tkx0UWRsZVVqYm5ZYk01OGVNTEZEWTJqZVRNZGVGeFRSa3pqZw?oc=5",
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFR4cExqSkJkMUFiVmlJTTFvN3lQeUZKT1ZYRWlGTldSQ19Zc3pjU2pSeXZUZGQwb3JfaFZyWXFteU03aTRtaUY5aVhkLXBiTXdLMU9EaWpZU1Z4ekRLck1QTVRvdE95Ml9ramNEVTlWUW9MVEFtR3BTakRCRzlEd2tRNXJ1LVJtSnBHT05oSUdWeVpuYm1aSFJrc2JTZTJaSUUtcQ?oc=5",
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KZDNaY1hlNXgwelVKQndFdVRIWk0wUVN0RTlUWnVEb3F1SnhhbHhUNTBtMkZvRGp1ZkVMTDYxWDlrVk42SGJwLU05RzBPT1hZNEhKTVhVODBxSnVLekFPZUdHQ3BjR0JrcnhXQ0oyaW80RmFjb05aSU1PWXM?oc=5",
-  "https://investinglive.com/news/two-revealing-macro-quotes-from-the-fedex-earnings-call-20260627/",
-  "https://investinglive.com/news/investinglive-americas-fx-news-wrap-26-jun-greenback-ends-mixed-still-higher-for-week-20260626/",
-  "https://investinglive.com/stocks/major-stock-indices-close-modestly-lower-with-the-nasdaq-leading-the-way-20260626/",
-  "https://investinglive.com/news/rubio-framework-raises-hopes-for-peace-but-major-obstacles-remain-20260626/",
-  "https://investinglive.com/technical-analysis/crude-oil-settles-the-dayweek-at-6923-20260626/",
-  "https://investinglive.com/news/hezbollahs-fadlallah-cannot-enforce-washington-agreement-unless-they-go-to-civil-war-20260626/",
-  "https://investinglive.com/news/us-israel-and-lebanon-sign-trilateral-agreement-20260626/",
-  "https://investinglive.com/technical-analysis/gold-bulls-and-bears-battle-for-control-20260626/",
-  "https://investinglive.com/news/trump-says-any-european-country-that-implements-digital-services-tax-will-get-100-tariff-20260626/",
-  "https://investinglive.com/Cryptocurrency/bitcoin-threatening-to-close-below-the-200-week-ma-for-the-first-time-since-october-2023-20260626/",
-  "https://investinglive.com/stocks/the-empire-strikes-back-is-the-theme-in-todays-market-20260626/",
-  "https://investinglive.com/stocks/netflix-atock-buy-the-dip-setup-large-sell-block-signals-possible-absorption-20260626/",
-  "https://investinglive.com/centralbank/feds-kashkari-may-need-to-raise-rates-amid-broad-inflation-20260626/",
-  "https://investinglive.com/commodities/wti-crude-oil-breaks-yesterdays-low-as-it-falls-below-69-20260626/",
-  "https://investinglive.com/technical-analysis/buyers-run-out-of-steam-as-eurusd-slips-back-lower-20260626/",
-  "https://investinglive.com/stock-market-update/tech-stocks-surge-while-semiconductors-struggle-20260626/",
-  "https://investinglive.com/news/the-uae-says-early-warning-on-missile-was-a-technical-malfunction-20260626/",
-  "https://investinglive.com/technical-analysis/broader-indices-are-lower-and-testing-a-key-target-20260626/",
-  "https://investinglive.com/news/umich-final-june-consumer-sentiment-495-vs-500-expected-20260626/",
-  "https://investinglive.com/technical-analysis/stocks-are-pressured-pre-open-explosions-heard-in-dubai-but-situation-is-now-safe-20260626/",
-  "https://investinglive.com/news/explosions-heard-in-dubai-after-uae-sends-phone-alert-on-missile-threat-20260626/",
-  "https://investinglive.com/technical-analysis/usdcad-sellers-make-a-play-below-14200-and-the-100-hour-ma-that-is-the-risk-level-now-20260626/",
-  "https://investinglive.com/news/the-market-is-souring-on-the-idea-of-ai-at-all-costs-five-thoughts-on-whats-coming-next-20260626/",
-  "https://investinglive.com/Education/whatsapp-stock-scam-warning-how-pump-and-dump-schemes-will-try-to-trap-you-20260626/",
-  "https://investinglive.com/news/us-may-wholesale-inventories-03-vs-03-expected-20260626/",
-  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWMwWlJlWUVqWVcxYjY3eDRvdXVwdVlhbVByQWdWNnFqNDZkOEl6QXhaQTVzZUpCNlpVSmFUNzR3c09Uc3JOeVJDUXNLZWk5eVBobXB5RGtSRjJHUXlXTWpyaE55MzVNeXBPd0ZQVEFnbF9neFB1QXpsUW5ZTVMwYzhCa1NUZUs5ZXJUWFFOZi0zMFRi?oc=5",
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdiM0FFbjNlLUJqVFU4R2JKU01xeG50UkFpUkRqX3hQVHFIWmRtdGc2R2ZQVWZNUUZmclItUDR0N0ppSElIMzl0QlB1MzZWUS1MUjRZQVM4bS1kcnVJUUs0TEtvZVBZSGNsNG9aS3J0aDdkMGN4SjJUZUJpbWk3NnZfTHNiYkRuTDNKS1dOc29KUndwLUZqWFkwOUl5UTVPd3gydjhubWdWTU1NMkU0?oc=5",
-  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYTNDNVhpYnpOVFEtY2RTSVZyZTFCRHNGcUdmd2U2dTZ2alRicFhPd0ZBOHh6dU5qYUFmTVEzOHRpbmxYaEpIbXBMTUFucUJ2NV9kaDZQUGV4XzJ2bFBGWTBuNVJRelo4alRoSThQRWtjZ0NYVndiRGxMREJYWWtfNUx3Q3RKaEE0V3IxWFA4d1I1UFR0djRoSXdwd2hHdVU?oc=5",
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYndGWkY1RXlQNFhrcHRCcnJ2TE54YS1Ua3JKRHNSazZyQlpocUh6TEtjSURfbHRWU2QxWDdheTFWcUdZaTdBQTlUOEk2RG9RYjMxaFVqTlhGVE5UY1N3bnFKcENPRng5SWRMZi1ESklKWXJOYzF1Q0V6aXFVbkNSZGpCZXp5VHc4djBoVW5QdHlWb01MQi1tMGs3eXk0aGc3eGQxb0NLa2FDaXp5X2hQONIBtgFBVV95cUxOdXo5ZEJjVEFZOXNBdUFzWWJwOFZtVm9FV2FLWmlLSk9ZM3lIUzBtN0dMUkdZck9rXzhWakNFRGZsbVBaX2Qyc2lzaXc5cHl3aXlhU2o3Tjh6eUYwYWx1ZkdGdFpUcWxfM1o4UVdJWVFMSkFKMlhkS1lxSEpYaUcwQm9ZMmZqRm4za1p0V29IWnFGc01zWHlsMG5EWHpka3U3LWRETnZ6eGM3VXNRZmhDSnczUVRxZw?oc=5",
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGtrS1paSC1yTXFINDd2cENWMU1xRUR1UTZxWDNsRlFFZmtRRGU1RHpDYlFRcnd5X2x0ajJFYUhlWTNKRVFmX054dVdhVE1rUFZMb2FIUklndkRRV2JrcUU1Z3hZMVBjS3UtNDVWbHBJR1Rjcjg0TG41eFE4ZGxzeFZaVERGME9QMW1fX3lJcTlKV3k4R2JsZFBzOG1mLVpYVHZyMlV4b3daeTJWUW50elRJNEk?oc=5",
-  "https://news.google.com/rss/articles/CBMivgFBVV95cUxObHlHQ2RNWjNyUzRVZVNZZU1oWDNqb3JOVzRvcFRkTjJVd1c2b2N3QWVvYkJvRmJ4b055WTNMTGFUZm45ZkZHSmN6c3pieTRiVWgxcGZIRjZLMXFHZHhWbmFqdUpxaS1xZUp3RlNNTEtpajNvU1lZSk9CS0J3SDdOWVNZazRDN2lIVDc0ZThSaEU0XzRkWURzVmcwb3Zva3o4Mzh6ZlR4UTNERVJjc2lhNW9rakFyRGsxYWh4LWd3?oc=5",
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGlQNmpCMlQtd3hVb2VnR2ZtTHg2NzR1bHdfMWtMQ2J5akhxaUZhekxKOUs3S0xBQUJVelZrVkJjVzRVWFdqbDVYV2J1SGxwM2xQa20wdW9DbzJ0WVBpemEyNWVrc2xnb3B5SFNvN1d3bFNUTlVCbERvVlFFWlRnYzUweHB1RUZqQWNwbWNpZFptZE4xdjZ5aThjMV9TLVdUWi02Tg?oc=5",
-  "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTjljLVdxcm1xNlpteDB6cGZISmFGa0pyZ0JoYXNDbkY1ejJTaG5vUEhraUlDd3RrODZ1Tms3TlB4T0ZxWmdQQTNLemVabFlpdFR4UzFHZU00Yzd1Rm5uWUdMUkQ0TTNPXzRyUzVmV1hUUjZSOUtxYXlTNkFIaExSVVpySmNQUEhqM1JaNUswRQ?oc=5",
-  "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNMFpRWVFIRmlfazVXVGRTbl85RVpXejllZ0ZuUWxsWnlaUTZ1bllTOXpadkc3ZGljRlNYQzcxYUd1dnNMeXk5dVVQdnBTNUJmQk5keXZIeEdPd3JaSnJIeXlOZ2l2cUZiZU1uM3d0NWVVTmxobzlQZE1zdHhRVUxWSmEyTUtnME8tYXFPdUdQVXhieGpOR3VIRXZMR2JWQkFHd04zVDh6elRBSnk1WG1OWFRfSmlKLW9pclF4RFRnOWJYU3NJU0F4Zk9BZjRlckdfTzUySUUwTEsxNFlaeDVGNHBCMW42cVNtejdmenVnMzVqb3ItdlVpZWNOUERiZkt2YzNOM2xEOFNtZDVYOFlYLWROLWR1dkNxSkxfVFJiYUtDc01XVFN6bjg2akpsc3VmOEhXbVpNc2JfQUNFWUh6T1lFWnJNdFowdE9FaUtEdktINEE?oc=5",
-  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1lUTzNwQ19QRE16bG5STzZzenVHdHZjS3g3dE5CZThHdjdyOTJvUHE5eEVoZkE2RjJaQmctNGNaUmNVdEd6Wl9tRU5aS1VSMjkzYUJQa3dNX0p1ZXNvYTllOG5wNzJsVDl5ZjF1dnBVWDF2LXNkakJMdV85NmFRYlFlRVpRamJSTzRGNGFMZjY0RjZSQmw1RkRZM3dVS20xS2VJaTJOLVdZZFRGaHkybTRB0gGyAUFVX3lxTE9rWVRPM3BDX1BETXpsblJPNnN6dUd0dmNLeDd0TkJlOEd2N3I5Mm9QcTl4RWhmQTZGMlpCZy00Y1pSY1V0R3paX21FTlpLVVIyOTNhQlBrd01fSnVlc29hOWU4bnA3MmxUOXlmMXV2cFVYMXYtc2RqQkx1Xzk2YVFiUWVFWlFqYlJPNEY0YUxmNjRGNlJCbDVGRFkzd1VLbTFLZUlpMk4tV1lkVEZoeTJtNEE?oc=5",
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkpfZllxczh0NFF6ZUt1U0NuQTFRRGJTVHN3bTY3NTk0LXo5TjA0Z0gzbkFiOUYyMzZnYjhxX2FMS0EyMHl1Z0JvY0tERXpEZGstS1ZVb0VlNUVYWVNBQWRDejFfeUgwdGZQSW1jS1dGQXhGVnhfSTB4YlYyak1BTmZPekt0cnk5ajl0UHR0Mm1kcnZNcE11eG03c1czS1hiRldtUk9zajl3eGwtaXNaRnpPenA?oc=5",
-  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc0k0OFBkcktVUzVUc0tTaWZXV3JERHptTlUzZHdOcko4RG9RaDlubVhYcFhsaWZmNGJ4b21fUDFtN1c1WWV3S0IyUkhMMEhTb2tzbUl5aXdCM2MxTHM3VjVBaldUSDM5STF5TTd2a214TUFlYmQyeUVid195eUdYdDBmeDBaN2JMVkNnakRrZlhCYXhqTHYtc0EwNXVzeTF3Qy12dmtfcVg?oc=5",
-  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMjdTZzY4cldNeU44ZHVzd1E2U0x5d0hMZFJWVnFhd3hTVjdEbjVYZERva3NsMVZTTkVQLXFpcXVXcnhJODNwM2pGc1RKbmZwbmVZY0JkbXI2bkpObTVLcVNoMjc5NUFwc1hSWlVtR200M0NkM2p3MnpfQjViYVpMa1RaZ3ZEOTcwRE9JVXdRaXJaRTdJMEdQdTE2b1FqQm5iNHEyam5ELVdGUkpoYTVsRjZxS1k2SW9GQkFUX2dKNVEtWnM?oc=5",
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3p1VmxuQXBVT3V5NlRPdkRLSTZ4X0FNdWRkajA0TWM4N0k5MGUtVlVKR000cENhdGozcVdubzZwWnA4Y1lodUpxRE1iMXJ1MXM4TVpsQ2tlNWYyZjNFN0ozdXY0WF9qUFRmXzN0OF9ER1c2bHl6MXh6Z1JpdUJOR0hLTFc0bnc3OUlrYkdERlJBM3RMOERJMFMzc2xtOEFoNTVXag?oc=5",
-  "https://news.google.com/rss/articles/CBMisANBVV95cUxNZ3NqeXMtTDNhdVVuMDJvajhGZ0hZakEtUFVOYTRKNHZHOWpaQWVwYVh6ODhsWmRvalNZYVhOUjFpS0FIMWVnUlp1NnlHMGhkMmtJYWdzaG9FRDVpeW5USzJOTVo2ZThianZTSkxXaXZVWGV1eXlBeThraDlaMmd5UVYwdGpmR1hDVmVZUUZuSHpIVi1nZkFSTWhmSWlBUFF1dkI3dmFjRzluMzdUajVYN2FKTzlzOHJfWWhvUEk2UWllQWNRM09mVmZlRmhWV24tSmlhOVl6M2J6UTBKNExiMWJneHJnOHlPOWt4VTBVaC1CZC1MSExIckg1QVV2bFQ5X1FqcTZmYU1Bd1oxd1JnN2FjSzZKNUZqTnlQMzVXc1daU0QyYWVpcHlrZmNuemtZT2l4RzAwS0M1VW4zZkRoQ3VIemNLOGY0bjkzX254RGdpanpIRk85RGFPb3R4bFF2dFJNSVJEMU9NNXZobmp3Ym16djFRN21td0xDYXBHbVdmcXFWSnE0WmhUUGdNcndyV1pTbHNSUW5uUmI3TEpvaVlKSVpIeVo2VzBVQ2QxR0c?oc=5",
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFR4cExqSkJkMUFiVmlJTTFvN3lQeUZKT1ZYRWlGTldSQ19Zc3pjU2pSeXZUZGQwb3JfaFZyWXFteU03aTRtaUY5aVhkLXBiTXdLMU9EaWpZU1Z4ekRLck1QTVRvdE95Ml9ramNEVTlWUW9MVEFtR3BTakRCRzlEd2tRNXJ1LVJtSnBHT05oSUdWeVpuYm1aSFJrc2JTZTJaSUUtcQ?oc=5",
-  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0R5VG1tVXpwQzRiTlpBNFRDQ1FGRGNCY3lsSkFuYUVhYmdDQnQ5RGtYSlJPNDI2QWNxbGNrZ2duMHdPRzNNaWM0UkpIcVBjNkR2ZklQTWlVaTF0VDhaXzAwN3JMdnVHdkdRV0JoQ0xkMjFReVg5Z1pJZUlrNzBuaVRGSnc0UVR6MXhGelprT0ZfejNzRFp6bEdIeHZONWFTVUZRMlIzYlB5WGpJdFd6Q000d1VaZGNvel84?oc=5",
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1hMdWJEUlpCYVZTZnc5YkExSHdIbzV5YXBNMkx3dmFoVHI5Y3hhZk5IaFFNUldBRFA4THF0U0ZObzA1TGZSY3ZibXFpejJ2UVgtbm9zSTZpNXo1TEh2N0JpXzlwdWZhaVFrQUVCOVRacUZET3JQYnllak5DSFVHbXRCRDVRTGpCZnlTblZMMmQwdFQ0Nnc?oc=5",
-  "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0clhKVVluMUdQamlOb1p3dlFudHRDZ2doUkRnNUd1WkJ6SWVSVThXeTZPNTJjbnh0RTdhTHA2YXVTUXI0SnA3ZDlzSldOQWtfRk1hX0g4VWlSd1FqZVpMZA?oc=5",
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFh1Uy1DaTRCa2pZNlEwT3M1NWNldUpxalJ1eXNxZzlSX2Q2M1QxekZSamlLYUdxZnZkN3JCbFNwb0tGWF80NEpLQnhaQ1NJUFA0TERYeDZUdnBybDJWZGlwVmZOeHFyOHBPVDRZdXVLTExhcG1VTlFmYVQxa3lFdWlROHNKeW9yTGhULW5BQy1WQnN5VnpEcnJpSC02dHBQZTZkM0pfZ21RQ0tPNkpscw?oc=5",
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcnNqeTJJTUY4aXQ3VWh3WUhoYzAxOVVXRjF3c0YyRVYtX2thdjBvcTRnb0d0c3Rkb1FTb0dpcDAwMUhUREVDUnRab0FpTGpYYmJZTU1fb2xweTBSNFhrR2hfb1hTc0ZRakhhZjFNZGEyY3E5eGYtNDNTLWdiX1NTU0tqMURQeWozUFlYY2plR3QyRU9SSnBZYnlkSlNJcjdmMXZjTnZCanl6a3d3emhj?oc=5",
-  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNE01dExiV2dZY0EzOGxlemNTei03ZDdIRXN3ZjZ5VEd2ZmpqR0FjUUxMLS1UN0dBV2pnWEQ5X0d5dDNEYlp6SnhFT3k0bUtxZjVObkFKeThoNWliQmx1aDlfYTRWdDRsOERMeHYtRDF1eGlReDhVMDhuX1NfdHVadjdrbGVmbVFsVkpuUm5GLVR1QkZzME5iU1I0c2ZsSllRRmc2TXhzVDVMQWhl?oc=5",
-  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUtqNXRYTkJPbVNrVmI1Vk5uY2Z1NnVLX1o3YU90MFV2Y3ZQdnVzN3Q4VjlBYkdpQ1pvLXVKQy1ENUhlc3o1bDdhOTBfczlxUEFWdEJVckJyMHEwQUUzSlJGQmFiVGtPc2Zka25hRjJHR3pTS2J4UUEyLUxYMlVFekswMm50UWNJSzhZTHVZN21wdkRVbmJGNUlSN2Rsa0IxVnlGTlBTWUtRRTM3X3Fta0w2V3o3M3VrektOYkM2NnhUT3NWQTNMemwxYWRBRHBQZHI0?oc=5",
-  "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNy1jNHo5VGxXUW1UZVF0OUVpQkFpbld3OVVyNFAwVk5YZVlkdHBJcUg0cEVOeGtxZnNqaHltTXpLeHhKb01vM1Y5eUxTNDZjTzdWX3czRWhYd0pRWDgwSDZ0emY3UkMtb2dFWloxVFphaUZDR19lbENmVDYyaWpjNUJsNDU2eDlubEh4alR1VUpERWxtNnFJWnNiRQ?oc=5",
-  "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JYmc0SVdQdkJoazltYWRHYnRHSnAzRDl3SlpwYlNWaWhTLU9OQWdsLTVmU0RNWDZVd3IxMXhwcXJnUnBVWDd0N0s3TjFOMzliYnNudEEyU0Q4b3gxbHROVklEWXRuTHd2enpFQmcwdEtCcHc?oc=5",
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSzYzdEh1UW1ZcHJkOUJYRDhyMHBSVDlVdFZJclRES2ZuUERZRnNiTFdsM3h0d3VLOTJ2eE90RnE5LTlxaHozNk50MTF6X0JpbEZsTUZ1X1VtN1VnVXIxcDlyeVMtc1NVRjFWV0ZzemFVMTEyT0hDeUZILVpIWlVCV0ltRTYwMUQ5dGllUjc1YkdBRThSMll2MURjZkZTbUk0MFdxODlsZDFQSGE1eUE?oc=5",
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUdNQldnZG52aGlzNk5vNnY2RUZVamRJcHZOTUdnbjRUb0xqM1F3cDBva0RxZU5TeWhEYjdSbEZKRUwzLWZJLWluUTJnQXlVSThoWU9ZeUZFRnlZcThsRkRxSmt1MENxelBkb2ZZbEU4QVhRWnFBak9TbEc0aE5rdmRlQ2ZZbVl2Q1I1SWlrcmhpX0kybEZqcWJqTTl6VmJyWWtIMmpoZVJybTV1NzZJ?oc=5",
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRGV4VUV1UEtaT29SNHhXSGpjVVdkS0w1R2pCTTM0WEtLclBzU3FtOExsNV9pZTNKLUZtRzlYaTJxN1Fzb0NCNjNZb2QwNlpSN2VPVHNsWEJmaFl6RnhZMllGNlRhUmZabEtmejRFZzluaEs0V1g0X3RvdUhRR2F5X3R6b3czYUJiT3h2dENhSnUtQjNOajY4Smk5SFMyRHl5NkotTklrUTRsVnlzZnhac1ZWMzk?oc=5",
-  "https://news.google.com/rss/articles/CBMipAJBVV95cUxNc2hVRVJwUjJZSEdIS0k3dnMwenlkQlhhNGNmYUFWd19Ga0RDaVlrNDBjVTdFUzB0RkNZRnE0anhSNk9ZUzFDLU1jV2pzVTIwYmg3TTYxTGljUGJsMXNQRWI0Q3pPd0I3dHpWRXM4dnNtOWNtNXFvZm9vcmtsd2hzOFJ1ZzF1ZWZlOWlNT0duSTNyZ2ZqTXV1UjBWT2xwUm56b084TXB0b295OThieFFxU1loWi1yU3pZNkNTcHNnYXR2bjlBWGJSU29oSWwtQXJFc1JIelNoS00wZERjdXQwd1FmWHNRenFnMHpDNWhVMHF5Z1FIQkZ0VVNBSTRyaTVzaU00NDRRSkhUS1I2SWhMdGpkcVFVYWVua3BnX0ZKbC1BZVNw?oc=5",
-  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY25ZVG95SlRwbDhuc0gtcEljMUNnYm1pZWVOSk1BamlQRnRCYmx2RmdOaUZYLWIzOGR2Nmlnbmt5M0lqbkpHVFVTei14TEJwbU4xb3hBcjFkS0xWZDRHQ0M5SFNSVTV4MWtKRXBRM3hhTmZuemctNHZzQzhsV2x0NUtPYi1VWGFF0gGIAUFVX3lxTE5jbllUb3lKVHBsOG5zSC1wSWMxQ2dibWllZU5KTUFqaVBGdEJibHZGZ05pRlgtYjM4ZHY2aWdua3kzSWpuSkdUVVN6LXhMQnBtTjFveEFyMWRLTFZkNEdDQzlIU1JVNXgxa0pFcFEzeGFOZm56Zy00dnNDOGxXbHQ1S09iLVVYYUU?oc=5",
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWtBbEs5QjVOekp1cnVHSFAxamtaM0VONkMwRkVfOUZOb0M3VnFHRGJhRkpDZFk4aWNNMjlEcFo4d3JrNXBpbnFkOF9temZqaVB5N3R4VkJuVTJwNEozUWZRX1o2Q180ZnN3VmRqQ1hURmFIVjNnTFQ2NWdnS3JtWV96T3B5bXd2VmRPdFY3Tkx0UWRsZVVqYm5ZYk01OGVNTEZEWTJqZVRNZGVGeFRSa3pqZw?oc=5",
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFR4cExqSkJkMUFiVmlJTTFvN3lQeUZKT1ZYRWlGTldSQ19Zc3pjU2pSeXZUZGQwb3JfaFZyWXFteU03aTRtaUY5aVhkLXBiTXdLMU9EaWpZU1Z4ekRLck1QTVRvdE95Ml9ramNEVTlWUW9MVEFtR3BTakRCRzlEd2tRNXJ1LVJtSnBHT05oSUdWeVpuYm1aSFJrc2JTZTJaSUUtcQ?oc=5",
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KZDNaY1hlNXgwelVKQndFdVRIWk0wUVN0RTlUWnVEb3F1SnhhbHhUNTBtMkZvRGp1ZkVMTDYxWDlrVk42SGJwLU05RzBPT1hZNEhKTVhVODBxSnVLekFPZUdHQ3BjR0JrcnhXQ0oyaW80RmFjb05aSU1PWXM?oc=5",
-  "https://investinglive.com/news/two-revealing-macro-quotes-from-the-fedex-earnings-call-20260627/",
-  "https://investinglive.com/news/investinglive-americas-fx-news-wrap-26-jun-greenback-ends-mixed-still-higher-for-week-20260626/",
-  "https://investinglive.com/stocks/major-stock-indices-close-modestly-lower-with-the-nasdaq-leading-the-way-20260626/",
-  "https://investinglive.com/news/rubio-framework-raises-hopes-for-peace-but-major-obstacles-remain-20260626/",
-  "https://investinglive.com/technical-analysis/crude-oil-settles-the-dayweek-at-6923-20260626/",
-  "https://investinglive.com/news/hezbollahs-fadlallah-cannot-enforce-washington-agreement-unless-they-go-to-civil-war-20260626/",
-  "https://investinglive.com/news/us-israel-and-lebanon-sign-trilateral-agreement-20260626/",
-  "https://investinglive.com/technical-analysis/gold-bulls-and-bears-battle-for-control-20260626/",
-  "https://investinglive.com/news/trump-says-any-european-country-that-implements-digital-services-tax-will-get-100-tariff-20260626/",
-  "https://investinglive.com/Cryptocurrency/bitcoin-threatening-to-close-below-the-200-week-ma-for-the-first-time-since-october-2023-20260626/",
-  "https://investinglive.com/stocks/the-empire-strikes-back-is-the-theme-in-todays-market-20260626/",
-  "https://investinglive.com/stocks/netflix-atock-buy-the-dip-setup-large-sell-block-signals-possible-absorption-20260626/",
-  "https://investinglive.com/centralbank/feds-kashkari-may-need-to-raise-rates-amid-broad-inflation-20260626/",
-  "https://investinglive.com/commodities/wti-crude-oil-breaks-yesterdays-low-as-it-falls-below-69-20260626/",
-  "https://investinglive.com/technical-analysis/buyers-run-out-of-steam-as-eurusd-slips-back-lower-20260626/",
-  "https://investinglive.com/stock-market-update/tech-stocks-surge-while-semiconductors-struggle-20260626/",
-  "https://investinglive.com/news/the-uae-says-early-warning-on-missile-was-a-technical-malfunction-20260626/",
-  "https://investinglive.com/technical-analysis/broader-indices-are-lower-and-testing-a-key-target-20260626/",
-  "https://investinglive.com/news/umich-final-june-consumer-sentiment-495-vs-500-expected-20260626/",
-  "https://investinglive.com/technical-analysis/stocks-are-pressured-pre-open-explosions-heard-in-dubai-but-situation-is-now-safe-20260626/",
-  "https://investinglive.com/news/explosions-heard-in-dubai-after-uae-sends-phone-alert-on-missile-threat-20260626/",
-  "https://investinglive.com/technical-analysis/usdcad-sellers-make-a-play-below-14200-and-the-100-hour-ma-that-is-the-risk-level-now-20260626/",
-  "https://investinglive.com/news/the-market-is-souring-on-the-idea-of-ai-at-all-costs-five-thoughts-on-whats-coming-next-20260626/",
-  "https://investinglive.com/Education/whatsapp-stock-scam-warning-how-pump-and-dump-schemes-will-try-to-trap-you-20260626/",
-  "https://investinglive.com/news/us-may-wholesale-inventories-03-vs-03-expected-20260626/",
-  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWMwWlJlWUVqWVcxYjY3eDRvdXVwdVlhbVByQWdWNnFqNDZkOEl6QXhaQTVzZUpCNlpVSmFUNzR3c09Uc3JOeVJDUXNLZWk5eVBobXB5RGtSRjJHUXlXTWpyaE55MzVNeXBPd0ZQVEFnbF9neFB1QXpsUW5ZTVMwYzhCa1NUZUs5ZXJUWFFOZi0zMFRi?oc=5",
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdiM0FFbjNlLUJqVFU4R2JKU01xeG50UkFpUkRqX3hQVHFIWmRtdGc2R2ZQVWZNUUZmclItUDR0N0ppSElIMzl0QlB1MzZWUS1MUjRZQVM4bS1kcnVJUUs0TEtvZVBZSGNsNG9aS3J0aDdkMGN4SjJUZUJpbWk3NnZfTHNiYkRuTDNKS1dOc29KUndwLUZqWFkwOUl5UTVPd3gydjhubWdWTU1NMkU0?oc=5",
-  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYTNDNVhpYnpOVFEtY2RTSVZyZTFCRHNGcUdmd2U2dTZ2alRicFhPd0ZBOHh6dU5qYUFmTVEzOHRpbmxYaEpIbXBMTUFucUJ2NV9kaDZQUGV4XzJ2bFBGWTBuNVJRelo4alRoSThQRWtjZ0NYVndiRGxMREJYWWtfNUx3Q3RKaEE0V3IxWFA4d1I1UFR0djRoSXdwd2hHdVU?oc=5",
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYndGWkY1RXlQNFhrcHRCcnJ2TE54YS1Ua3JKRHNSazZyQlpocUh6TEtjSURfbHRWU2QxWDdheTFWcUdZaTdBQTlUOEk2RG9RYjMxaFVqTlhGVE5UY1N3bnFKcENPRng5SWRMZi1ESklKWXJOYzF1Q0V6aXFVbkNSZGpCZXp5VHc4djBoVW5QdHlWb01MQi1tMGs3eXk0aGc3eGQxb0NLa2FDaXp5X2hQONIBtgFBVV95cUxOdXo5ZEJjVEFZOXNBdUFzWWJwOFZtVm9FV2FLWmlLSk9ZM3lIUzBtN0dMUkdZck9rXzhWakNFRGZsbVBaX2Qyc2lzaXc5cHl3aXlhU2o3Tjh6eUYwYWx1ZkdGdFpUcWxfM1o4UVdJWVFMSkFKMlhkS1lxSEpYaUcwQm9ZMmZqRm4za1p0V29IWnFGc01zWHlsMG5EWHpka3U3LWRETnZ6eGM3VXNRZmhDSnczUVRxZw?oc=5",
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGtrS1paSC1yTXFINDd2cENWMU1xRUR1UTZxWDNsRlFFZmtRRGU1RHpDYlFRcnd5X2x0ajJFYUhlWTNKRVFmX054dVdhVE1rUFZMb2FIUklndkRRV2JrcUU1Z3hZMVBjS3UtNDVWbHBJR1Rjcjg0TG41eFE4ZGxzeFZaVERGME9QMW1fX3lJcTlKV3k4R2JsZFBzOG1mLVpYVHZyMlV4b3daeTJWUW50elRJNEk?oc=5",
-  "https://news.google.com/rss/articles/CBMivgFBVV95cUxObHlHQ2RNWjNyUzRVZVNZZU1oWDNqb3JOVzRvcFRkTjJVd1c2b2N3QWVvYkJvRmJ4b055WTNMTGFUZm45ZkZHSmN6c3pieTRiVWgxcGZIRjZLMXFHZHhWbmFqdUpxaS1xZUp3RlNNTEtpajNvU1lZSk9CS0J3SDdOWVNZazRDN2lIVDc0ZThSaEU0XzRkWURzVmcwb3Zva3o4Mzh6ZlR4UTNERVJjc2lhNW9rakFyRGsxYWh4LWd3?oc=5",
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGlQNmpCMlQtd3hVb2VnR2ZtTHg2NzR1bHdfMWtMQ2J5akhxaUZhekxKOUs3S0xBQUJVelZrVkJjVzRVWFdqbDVYV2J1SGxwM2xQa20wdW9DbzJ0WVBpemEyNWVrc2xnb3B5SFNvN1d3bFNUTlVCbERvVlFFWlRnYzUweHB1RUZqQWNwbWNpZFptZE4xdjZ5aThjMV9TLVdUWi02Tg?oc=5",
-  "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTjljLVdxcm1xNlpteDB6cGZISmFGa0pyZ0JoYXNDbkY1ejJTaG5vUEhraUlDd3RrODZ1Tms3TlB4T0ZxWmdQQTNLemVabFlpdFR4UzFHZU00Yzd1Rm5uWUdMUkQ0TTNPXzRyUzVmV1hUUjZSOUtxYXlTNkFIaExSVVpySmNQUEhqM1JaNUswRQ?oc=5",
-  "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNMFpRWVFIRmlfazVXVGRTbl85RVpXejllZ0ZuUWxsWnlaUTZ1bllTOXpadkc3ZGljRlNYQzcxYUd1dnNMeXk5dVVQdnBTNUJmQk5keXZIeEdPd3JaSnJIeXlOZ2l2cUZiZU1uM3d0NWVVTmxobzlQZE1zdHhRVUxWSmEyTUtnME8tYXFPdUdQVXhieGpOR3VIRXZMR2JWQkFHd04zVDh6elRBSnk1WG1OWFRfSmlKLW9pclF4RFRnOWJYU3NJU0F4Zk9BZjRlckdfTzUySUUwTEsxNFlaeDVGNHBCMW42cVNtejdmenVnMzVqb3ItdlVpZWNOUERiZkt2YzNOM2xEOFNtZDVYOFlYLWROLWR1dkNxSkxfVFJiYUtDc01XVFN6bjg2akpsc3VmOEhXbVpNc2JfQUNFWUh6T1lFWnJNdFowdE9FaUtEdktINEE?oc=5",
-  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1lUTzNwQ19QRE16bG5STzZzenVHdHZjS3g3dE5CZThHdjdyOTJvUHE5eEVoZkE2RjJaQmctNGNaUmNVdEd6Wl9tRU5aS1VSMjkzYUJQa3dNX0p1ZXNvYTllOG5wNzJsVDl5ZjF1dnBVWDF2LXNkakJMdV85NmFRYlFlRVpRamJSTzRGNGFMZjY0RjZSQmw1RkRZM3dVS20xS2VJaTJOLVdZZFRGaHkybTRB0gGyAUFVX3lxTE9rWVRPM3BDX1BETXpsblJPNnN6dUd0dmNLeDd0TkJlOEd2N3I5Mm9QcTl4RWhmQTZGMlpCZy00Y1pSY1V0R3paX21FTlpLVVIyOTNhQlBrd01fSnVlc29hOWU4bnA3MmxUOXlmMXV2cFVYMXYtc2RqQkx1Xzk2YVFiUWVFWlFqYlJPNEY0YUxmNjRGNlJCbDVGRFkzd1VLbTFLZUlpMk4tV1lkVEZoeTJtNEE?oc=5",
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkpfZllxczh0NFF6ZUt1U0NuQTFRRGJTVHN3bTY3NTk0LXo5TjA0Z0gzbkFiOUYyMzZnYjhxX2FMS0EyMHl1Z0JvY0tERXpEZGstS1ZVb0VlNUVYWVNBQWRDejFfeUgwdGZQSW1jS1dGQXhGVnhfSTB4YlYyak1BTmZPekt0cnk5ajl0UHR0Mm1kcnZNcE11eG03c1czS1hiRldtUk9zajl3eGwtaXNaRnpPenA?oc=5",
-  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc0k0OFBkcktVUzVUc0tTaWZXV3JERHptTlUzZHdOcko4RG9RaDlubVhYcFhsaWZmNGJ4b21fUDFtN1c1WWV3S0IyUkhMMEhTb2tzbUl5aXdCM2MxTHM3VjVBaldUSDM5STF5TTd2a214TUFlYmQyeUVid195eUdYdDBmeDBaN2JMVkNnakRrZlhCYXhqTHYtc0EwNXVzeTF3Qy12dmtfcVg?oc=5",
-  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMjdTZzY4cldNeU44ZHVzd1E2U0x5d0hMZFJWVnFhd3hTVjdEbjVYZERva3NsMVZTTkVQLXFpcXVXcnhJODNwM2pGc1RKbmZwbmVZY0JkbXI2bkpObTVLcVNoMjc5NUFwc1hSWlVtR200M0NkM2p3MnpfQjViYVpMa1RaZ3ZEOTcwRE9JVXdRaXJaRTdJMEdQdTE2b1FqQm5iNHEyam5ELVdGUkpoYTVsRjZxS1k2SW9GQkFUX2dKNVEtWnM?oc=5",
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3p1VmxuQXBVT3V5NlRPdkRLSTZ4X0FNdWRkajA0TWM4N0k5MGUtVlVKR000cENhdGozcVdubzZwWnA4Y1lodUpxRE1iMXJ1MXM4TVpsQ2tlNWYyZjNFN0ozdXY0WF9qUFRmXzN0OF9ER1c2bHl6MXh6Z1JpdUJOR0hLTFc0bnc3OUlrYkdERlJBM3RMOERJMFMzc2xtOEFoNTVXag?oc=5",
-  "https://news.google.com/rss/articles/CBMisANBVV95cUxNZ3NqeXMtTDNhdVVuMDJvajhGZ0hZakEtUFVOYTRKNHZHOWpaQWVwYVh6ODhsWmRvalNZYVhOUjFpS0FIMWVnUlp1NnlHMGhkMmtJYWdzaG9FRDVpeW5USzJOTVo2ZThianZTSkxXaXZVWGV1eXlBeThraDlaMmd5UVYwdGpmR1hDVmVZUUZuSHpIVi1nZkFSTWhmSWlBUFF1dkI3dmFjRzluMzdUajVYN2FKTzlzOHJfWWhvUEk2UWllQWNRM09mVmZlRmhWV24tSmlhOVl6M2J6UTBKNExiMWJneHJnOHlPOWt4VTBVaC1CZC1MSExIckg1QVV2bFQ5X1FqcTZmYU1Bd1oxd1JnN2FjSzZKNUZqTnlQMzVXc1daU0QyYWVpcHlrZmNuemtZT2l4RzAwS0M1VW4zZkRoQ3VIemNLOGY0bjkzX254RGdpanpIRk85RGFPb3R4bFF2dFJNSVJEMU9NNXZobmp3Ym16djFRN21td0xDYXBHbVdmcXFWSnE0WmhUUGdNcndyV1pTbHNSUW5uUmI3TEpvaVlKSVpIeVo2VzBVQ2QxR0c?oc=5",
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFR4cExqSkJkMUFiVmlJTTFvN3lQeUZKT1ZYRWlGTldSQ19Zc3pjU2pSeXZUZGQwb3JfaFZyWXFteU03aTRtaUY5aVhkLXBiTXdLMU9EaWpZU1Z4ekRLck1QTVRvdE95Ml9ramNEVTlWUW9MVEFtR3BTakRCRzlEd2tRNXJ1LVJtSnBHT05oSUdWeVpuYm1aSFJrc2JTZTJaSUUtcQ?oc=5",
-  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0R5VG1tVXpwQzRiTlpBNFRDQ1FGRGNCY3lsSkFuYUVhYmdDQnQ5RGtYSlJPNDI2QWNxbGNrZ2duMHdPRzNNaWM0UkpIcVBjNkR2ZklQTWlVaTF0VDhaXzAwN3JMdnVHdkdRV0JoQ0xkMjFReVg5Z1pJZUlrNzBuaVRGSnc0UVR6MXhGelprT0ZfejNzRFp6bEdIeHZONWFTVUZRMlIzYlB5WGpJdFd6Q000d1VaZGNvel84?oc=5",
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1hMdWJEUlpCYVZTZnc5YkExSHdIbzV5YXBNMkx3dmFoVHI5Y3hhZk5IaFFNUldBRFA4THF0U0ZObzA1TGZSY3ZibXFpejJ2UVgtbm9zSTZpNXo1TEh2N0JpXzlwdWZhaVFrQUVCOVRacUZET3JQYnllak5DSFVHbXRCRDVRTGpCZnlTblZMMmQwdFQ0Nnc?oc=5",
-  "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0clhKVVluMUdQamlOb1p3dlFudHRDZ2doUkRnNUd1WkJ6SWVSVThXeTZPNTJjbnh0RTdhTHA2YXVTUXI0SnA3ZDlzSldOQWtfRk1hX0g4VWlSd1FqZVpMZA?oc=5",
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFh1Uy1DaTRCa2pZNlEwT3M1NWNldUpxalJ1eXNxZzlSX2Q2M1QxekZSamlLYUdxZnZkN3JCbFNwb0tGWF80NEpLQnhaQ1NJUFA0TERYeDZUdnBybDJWZGlwVmZOeHFyOHBPVDRZdXVLTExhcG1VTlFmYVQxa3lFdWlROHNKeW9yTGhULW5BQy1WQnN5VnpEcnJpSC02dHBQZTZkM0pfZ21RQ0tPNkpscw?oc=5",
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcnNqeTJJTUY4aXQ3VWh3WUhoYzAxOVVXRjF3c0YyRVYtX2thdjBvcTRnb0d0c3Rkb1FTb0dpcDAwMUhUREVDUnRab0FpTGpYYmJZTU1fb2xweTBSNFhrR2hfb1hTc0ZRakhhZjFNZGEyY3E5eGYtNDNTLWdiX1NTU0tqMURQeWozUFlYY2plR3QyRU9SSnBZYnlkSlNJcjdmMXZjTnZCanl6a3d3emhj?oc=5",
-  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNE01dExiV2dZY0EzOGxlemNTei03ZDdIRXN3ZjZ5VEd2ZmpqR0FjUUxMLS1UN0dBV2pnWEQ5X0d5dDNEYlp6SnhFT3k0bUtxZjVObkFKeThoNWliQmx1aDlfYTRWdDRsOERMeHYtRDF1eGlReDhVMDhuX1NfdHVadjdrbGVmbVFsVkpuUm5GLVR1QkZzME5iU1I0c2ZsSllRRmc2TXhzVDVMQWhl?oc=5",
-  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUtqNXRYTkJPbVNrVmI1Vk5uY2Z1NnVLX1o3YU90MFV2Y3ZQdnVzN3Q4VjlBYkdpQ1pvLXVKQy1ENUhlc3o1bDdhOTBfczlxUEFWdEJVckJyMHEwQUUzSlJGQmFiVGtPc2Zka25hRjJHR3pTS2J4UUEyLUxYMlVFekswMm50UWNJSzhZTHVZN21wdkRVbmJGNUlSN2Rsa0IxVnlGTlBTWUtRRTM3X3Fta0w2V3o3M3VrektOYkM2NnhUT3NWQTNMemwxYWRBRHBQZHI0?oc=5",
-  "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNy1jNHo5VGxXUW1UZVF0OUVpQkFpbld3OVVyNFAwVk5YZVlkdHBJcUg0cEVOeGtxZnNqaHltTXpLeHhKb01vM1Y5eUxTNDZjTzdWX3czRWhYd0pRWDgwSDZ0emY3UkMtb2dFWloxVFphaUZDR19lbENmVDYyaWpjNUJsNDU2eDlubEh4alR1VUpERWxtNnFJWnNiRQ?oc=5",
-  "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JYmc0SVdQdkJoazltYWRHYnRHSnAzRDl3SlpwYlNWaWhTLU9OQWdsLTVmU0RNWDZVd3IxMXhwcXJnUnBVWDd0N0s3TjFOMzliYnNudEEyU0Q4b3gxbHROVklEWXRuTHd2enpFQmcwdEtCcHc?oc=5",
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSzYzdEh1UW1ZcHJkOUJYRDhyMHBSVDlVdFZJclRES2ZuUERZRnNiTFdsM3h0d3VLOTJ2eE90RnE5LTlxaHozNk50MTF6X0JpbEZsTUZ1X1VtN1VnVXIxcDlyeVMtc1NVRjFWV0ZzemFVMTEyT0hDeUZILVpIWlVCV0ltRTYwMUQ5dGllUjc1YkdBRThSMll2MURjZkZTbUk0MFdxODlsZDFQSGE1eUE?oc=5",
-  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUdNQldnZG52aGlzNk5vNnY2RUZVamRJcHZOTUdnbjRUb0xqM1F3cDBva0RxZU5TeWhEYjdSbEZKRUwzLWZJLWluUTJnQXlVSThoWU9ZeUZFRnlZcThsRkRxSmt1MENxelBkb2ZZbEU4QVhRWnFBak9TbEc0aE5rdmRlQ2ZZbVl2Q1I1SWlrcmhpX0kybEZqcWJqTTl6VmJyWWtIMmpoZVJybTV1NzZJ?oc=5"
+  "https://investinglive.com/stocks/the-empire-strikes-back-is-the-theme-in-todays-market-20260626/"
  ],
  "cal": {
   "last_digest": "2026-06-28",
@@ -532,727 +532,871 @@
   ],
   "cache": [
    {
-    "title": "1-y Loan Prime Rate",
-    "country": "CNY",
-    "date": "2026-06-21T21:00:00-04:00",
-    "impact": "Low",
-    "forecast": "3.00%",
-    "previous": "3.00%"
-   },
-   {
-    "title": "5-y Loan Prime Rate",
-    "country": "CNY",
-    "date": "2026-06-21T21:00:00-04:00",
-    "impact": "Low",
-    "forecast": "3.50%",
-    "previous": "3.50%"
-   },
-   {
-    "title": "Credit Card Spending y/y",
-    "country": "NZD",
-    "date": "2026-06-21T23:00:00-04:00",
-    "impact": "Low",
+    "title": "RBA Gov Bullock Speaks",
+    "country": "AUD",
+    "date": "2026-06-28T08:15:00-04:00",
+    "impact": "Medium",
     "forecast": "",
-    "previous": "2.9%"
+    "previous": ""
    },
    {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-06-22T05:06:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-10.3%"
-   },
-   {
-    "title": "German Buba President Nagel Speaks",
-    "country": "EUR",
-    "date": "2026-06-22T07:00:00-04:00",
+    "title": "FOMC Member Barkin Speaks",
+    "country": "USD",
+    "date": "2026-06-28T12:35:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
    },
    {
-    "title": "CPI m/m",
-    "country": "CAD",
-    "date": "2026-06-22T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "0.7%",
-    "previous": "0.4%"
+    "title": "RBA Assist Gov Kent Speaks",
+    "country": "AUD",
+    "date": "2026-06-28T19:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
    },
    {
-    "title": "Median CPI y/y",
-    "country": "CAD",
-    "date": "2026-06-22T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "2.1%",
+    "title": "Retail Sales y/y",
+    "country": "JPY",
+    "date": "2026-06-28T19:50:00-04:00",
+    "impact": "Low",
+    "forecast": "3.1%",
     "previous": "2.1%"
    },
    {
-    "title": "Trimmed CPI y/y",
-    "country": "CAD",
-    "date": "2026-06-22T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "2.0%",
-    "previous": "2.0%"
+    "title": "MPC Member Pill Speaks",
+    "country": "GBP",
+    "date": "2026-06-29T01:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
    },
    {
-    "title": "Common CPI y/y",
+    "title": "Italian Bank Holiday",
+    "country": "EUR",
+    "date": "2026-06-29T02:03:00-04:00",
+    "impact": "Holiday",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Spanish Flash CPI y/y",
+    "country": "EUR",
+    "date": "2026-06-29T03:00:00-04:00",
+    "impact": "Low",
+    "forecast": "3.2%",
+    "previous": "3.2%"
+   },
+   {
+    "title": "M3 Money Supply y/y",
+    "country": "EUR",
+    "date": "2026-06-29T04:00:00-04:00",
+    "impact": "Low",
+    "forecast": "2.7%",
+    "previous": "2.7%"
+   },
+   {
+    "title": "Private Loans y/y",
+    "country": "EUR",
+    "date": "2026-06-29T04:00:00-04:00",
+    "impact": "Low",
+    "forecast": "2.9%",
+    "previous": "3.0%"
+   },
+   {
+    "title": "M4 Money Supply m/m",
+    "country": "GBP",
+    "date": "2026-06-29T04:30:00-04:00",
+    "impact": "Low",
+    "forecast": "0.2%",
+    "previous": "0.2%"
+   },
+   {
+    "title": "Mortgage Approvals",
+    "country": "GBP",
+    "date": "2026-06-29T04:30:00-04:00",
+    "impact": "Low",
+    "forecast": "63K",
+    "previous": "66K"
+   },
+   {
+    "title": "Net Lending to Individuals m/m",
+    "country": "GBP",
+    "date": "2026-06-29T04:30:00-04:00",
+    "impact": "Low",
+    "forecast": "6.0B",
+    "previous": "6.2B"
+   },
+   {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "date": "2026-06-29T13:30:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "BRC Shop Price Index y/y",
+    "country": "GBP",
+    "date": "2026-06-29T19:01:00-04:00",
+    "impact": "Low",
+    "forecast": "1.3%",
+    "previous": "1.2%"
+   },
+   {
+    "title": "Unemployment Rate",
+    "country": "JPY",
+    "date": "2026-06-29T19:30:00-04:00",
+    "impact": "Low",
+    "forecast": "2.5%",
+    "previous": "2.5%"
+   },
+   {
+    "title": "Prelim Industrial Production m/m",
+    "country": "JPY",
+    "date": "2026-06-29T19:50:00-04:00",
+    "impact": "Low",
+    "forecast": "0.3%",
+    "previous": "0.8%"
+   },
+   {
+    "title": "ANZ Business Confidence",
+    "country": "NZD",
+    "date": "2026-06-29T21:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "10.0"
+   },
+   {
+    "title": "Monetary Policy Meeting Minutes",
+    "country": "AUD",
+    "date": "2026-06-29T21:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Private Sector Credit m/m",
+    "country": "AUD",
+    "date": "2026-06-29T21:30:00-04:00",
+    "impact": "Low",
+    "forecast": "0.6%",
+    "previous": "0.7%"
+   },
+   {
+    "title": "Manufacturing PMI",
+    "country": "CNY",
+    "date": "2026-06-29T21:30:00-04:00",
+    "impact": "Low",
+    "forecast": "50.2",
+    "previous": "50.0"
+   },
+   {
+    "title": "Non-Manufacturing PMI",
+    "country": "CNY",
+    "date": "2026-06-29T21:30:00-04:00",
+    "impact": "Low",
+    "forecast": "49.9",
+    "previous": "50.1"
+   },
+   {
+    "title": "Housing Starts y/y",
+    "country": "JPY",
+    "date": "2026-06-30T01:00:00-04:00",
+    "impact": "Low",
+    "forecast": "32.1%",
+    "previous": "11.4%"
+   },
+   {
+    "title": "German Import Prices m/m",
+    "country": "EUR",
+    "date": "2026-06-30T02:00:00-04:00",
+    "impact": "Low",
+    "forecast": "0.6%",
+    "previous": "1.2%"
+   },
+   {
+    "title": "German Retail Sales m/m",
+    "country": "EUR",
+    "date": "2026-06-30T02:00:00-04:00",
+    "impact": "Low",
+    "forecast": "0.0%",
+    "previous": "-0.3%"
+   },
+   {
+    "title": "Current Account",
+    "country": "GBP",
+    "date": "2026-06-30T02:00:00-04:00",
+    "impact": "Low",
+    "forecast": "-21.5B",
+    "previous": "-18.4B"
+   },
+   {
+    "title": "Final GDP q/q",
+    "country": "GBP",
+    "date": "2026-06-30T02:00:00-04:00",
+    "impact": "Low",
+    "forecast": "0.6%",
+    "previous": "0.6%"
+   },
+   {
+    "title": "Revised Business Investment q/q",
+    "country": "GBP",
+    "date": "2026-06-30T02:00:00-04:00",
+    "impact": "Low",
+    "forecast": "0.7%",
+    "previous": "0.7%"
+   },
+   {
+    "title": "German Prelim CPI m/m",
+    "country": "EUR",
+    "date": "2026-06-30T02:29:00-04:00",
+    "impact": "Medium",
+    "forecast": "0.1%",
+    "previous": "-0.2%"
+   },
+   {
+    "title": "French Consumer Spending m/m",
+    "country": "EUR",
+    "date": "2026-06-30T02:45:00-04:00",
+    "impact": "Low",
+    "forecast": "0.2%",
+    "previous": "-0.5%"
+   },
+   {
+    "title": "French Prelim CPI m/m",
+    "country": "EUR",
+    "date": "2026-06-30T02:45:00-04:00",
+    "impact": "Low",
+    "forecast": "0.0%",
+    "previous": "0.1%"
+   },
+   {
+    "title": "KOF Economic Barometer",
+    "country": "CHF",
+    "date": "2026-06-30T03:00:00-04:00",
+    "impact": "Low",
+    "forecast": "99.4",
+    "previous": "98.0"
+   },
+   {
+    "title": "German Unemployment Change",
+    "country": "EUR",
+    "date": "2026-06-30T03:55:00-04:00",
+    "impact": "Low",
+    "forecast": "8K",
+    "previous": "-12K"
+   },
+   {
+    "title": "Italian Prelim CPI m/m",
+    "country": "EUR",
+    "date": "2026-06-30T05:00:00-04:00",
+    "impact": "Low",
+    "forecast": "0.1%",
+    "previous": "0.4%"
+   },
+   {
+    "title": "MPC Member Breeden Speaks",
+    "country": "GBP",
+    "date": "2026-06-30T06:40:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "GDP m/m",
     "country": "CAD",
-    "date": "2026-06-22T08:30:00-04:00",
+    "date": "2026-06-30T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "0.4%",
+    "previous": "-0.1%"
+   },
+   {
+    "title": "HPI m/m",
+    "country": "USD",
+    "date": "2026-06-30T09:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.1%"
+   },
+   {
+    "title": "S&P/CS Composite-20 HPI y/y",
+    "country": "USD",
+    "date": "2026-06-30T09:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.8%"
+   },
+   {
+    "title": "Chicago PMI",
+    "country": "USD",
+    "date": "2026-06-30T09:45:00-04:00",
+    "impact": "Low",
+    "forecast": "60.0",
+    "previous": "62.7"
+   },
+   {
+    "title": "CB Consumer Confidence",
+    "country": "USD",
+    "date": "2026-06-30T10:00:00-04:00",
+    "impact": "Medium",
+    "forecast": "94.2",
+    "previous": "93.1"
+   },
+   {
+    "title": "JOLTS Job Openings",
+    "country": "USD",
+    "date": "2026-06-30T10:00:00-04:00",
+    "impact": "Medium",
+    "forecast": "7.28M",
+    "previous": "7.62M"
+   },
+   {
+    "title": "API Weekly Statistical Bulletin",
+    "country": "USD",
+    "date": "2026-06-30T16:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Tankan Manufacturing Index",
+    "country": "JPY",
+    "date": "2026-06-30T19:50:00-04:00",
+    "impact": "Low",
+    "forecast": "16",
+    "previous": "17"
+   },
+   {
+    "title": "Tankan Non-Manufacturing Index",
+    "country": "JPY",
+    "date": "2026-06-30T19:50:00-04:00",
+    "impact": "Low",
+    "forecast": "36",
+    "previous": "36"
+   },
+   {
+    "title": "Final Manufacturing PMI",
+    "country": "JPY",
+    "date": "2026-06-30T20:30:00-04:00",
+    "impact": "Low",
+    "forecast": "54.9",
+    "previous": "54.9"
+   },
+   {
+    "title": "Building Approvals m/m",
+    "country": "AUD",
+    "date": "2026-06-30T21:30:00-04:00",
+    "impact": "Low",
+    "forecast": "0.2%",
+    "previous": "-3.4%"
+   },
+   {
+    "title": "RatingDog Manufacturing PMI",
+    "country": "CNY",
+    "date": "2026-06-30T21:45:00-04:00",
+    "impact": "Low",
+    "forecast": "52.0",
+    "previous": "51.8"
+   },
+   {
+    "title": "Consumer Confidence",
+    "country": "JPY",
+    "date": "2026-07-01T01:00:00-04:00",
+    "impact": "Low",
+    "forecast": "34.2",
+    "previous": "33.6"
+   },
+   {
+    "title": "Nationwide HPI m/m",
+    "country": "GBP",
+    "date": "2026-07-01T02:00:00-04:00",
+    "impact": "Low",
+    "forecast": "0.0%",
+    "previous": "-0.6%"
+   },
+   {
+    "title": "Commodity Prices y/y",
+    "country": "AUD",
+    "date": "2026-07-01T02:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "16.8%"
+   },
+   {
+    "title": "Retail Sales y/y",
+    "country": "CHF",
+    "date": "2026-07-01T02:30:00-04:00",
+    "impact": "Low",
+    "forecast": "0.8%",
+    "previous": "1.6%"
+   },
+   {
+    "title": "Spanish Manufacturing PMI",
+    "country": "EUR",
+    "date": "2026-07-01T03:15:00-04:00",
+    "impact": "Low",
+    "forecast": "51.2",
+    "previous": "51.2"
+   },
+   {
+    "title": "Manufacturing PMI",
+    "country": "CHF",
+    "date": "2026-07-01T03:30:00-04:00",
+    "impact": "Low",
+    "forecast": "56.3",
+    "previous": "57.3"
+   },
+   {
+    "title": "Italian Manufacturing PMI",
+    "country": "EUR",
+    "date": "2026-07-01T03:45:00-04:00",
+    "impact": "Low",
+    "forecast": "52.6",
+    "previous": "52.9"
+   },
+   {
+    "title": "French Final Manufacturing PMI",
+    "country": "EUR",
+    "date": "2026-07-01T03:50:00-04:00",
+    "impact": "Low",
+    "forecast": "50.7",
+    "previous": "50.7"
+   },
+   {
+    "title": "German Final Manufacturing PMI",
+    "country": "EUR",
+    "date": "2026-07-01T03:55:00-04:00",
+    "impact": "Low",
+    "forecast": "50.0",
+    "previous": "50.0"
+   },
+   {
+    "title": "Final Manufacturing PMI",
+    "country": "EUR",
+    "date": "2026-07-01T04:00:00-04:00",
+    "impact": "Low",
+    "forecast": "51.3",
+    "previous": "51.3"
+   },
+   {
+    "title": "Final Manufacturing PMI",
+    "country": "GBP",
+    "date": "2026-07-01T04:30:00-04:00",
+    "impact": "Low",
+    "forecast": "53.1",
+    "previous": "53.1"
+   },
+   {
+    "title": "Core CPI Flash Estimate y/y",
+    "country": "EUR",
+    "date": "2026-07-01T05:00:00-04:00",
     "impact": "Medium",
     "forecast": "2.5%",
     "previous": "2.5%"
    },
    {
-    "title": "Core CPI m/m",
+    "title": "CPI Flash Estimate y/y",
+    "country": "EUR",
+    "date": "2026-07-01T05:00:00-04:00",
+    "impact": "Medium",
+    "forecast": "3.0%",
+    "previous": "3.2%"
+   },
+   {
+    "title": "Challenger Job Cuts y/y",
+    "country": "USD",
+    "date": "2026-07-01T05:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.4%"
+   },
+   {
+    "title": "Bank Holiday",
     "country": "CAD",
-    "date": "2026-06-22T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0.2%"
-   },
-   {
-    "title": "ECB President Lagarde Speaks",
-    "country": "EUR",
-    "date": "2026-06-22T09:00:00-04:00",
-    "impact": "Medium",
+    "date": "2026-07-01T08:00:00-04:00",
+    "impact": "Holiday",
     "forecast": "",
     "previous": ""
    },
    {
-    "title": "FOMC Member Waller Speaks",
+    "title": "ADP Non-Farm Employment Change",
     "country": "USD",
-    "date": "2026-06-22T09:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "Consumer Confidence",
-    "country": "EUR",
-    "date": "2026-06-22T10:04:00-04:00",
-    "impact": "Low",
-    "forecast": "-18",
-    "previous": "-19"
-   },
-   {
-    "title": "ECB President Lagarde Speaks",
-    "country": "EUR",
-    "date": "2026-06-22T11:25:00-04:00",
+    "date": "2026-07-01T08:15:00-04:00",
     "impact": "Medium",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "FOMC Member Goolsbee Speaks",
-    "country": "USD",
-    "date": "2026-06-22T17:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "Flash Manufacturing PMI",
-    "country": "AUD",
-    "date": "2026-06-22T19:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "50.2"
-   },
-   {
-    "title": "Flash Services PMI",
-    "country": "AUD",
-    "date": "2026-06-22T19:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "47.7"
-   },
-   {
-    "title": "Flash Manufacturing PMI",
-    "country": "JPY",
-    "date": "2026-06-22T20:30:00-04:00",
-    "impact": "Low",
-    "forecast": "54.5",
-    "previous": "54.5"
-   },
-   {
-    "title": "BOJ Core CPI y/y",
-    "country": "JPY",
-    "date": "2026-06-23T01:00:00-04:00",
-    "impact": "Low",
-    "forecast": "1.5%",
-    "previous": "1.4%"
-   },
-   {
-    "title": "French Flash Manufacturing PMI",
-    "country": "EUR",
-    "date": "2026-06-23T03:15:00-04:00",
-    "impact": "Medium",
-    "forecast": "50.2",
-    "previous": "48.9"
-   },
-   {
-    "title": "French Flash Services PMI",
-    "country": "EUR",
-    "date": "2026-06-23T03:15:00-04:00",
-    "impact": "Medium",
-    "forecast": "45.9",
-    "previous": "42.9"
-   },
-   {
-    "title": "German Flash Manufacturing PMI",
-    "country": "EUR",
-    "date": "2026-06-23T03:30:00-04:00",
-    "impact": "Medium",
-    "forecast": "50.3",
-    "previous": "49.9"
-   },
-   {
-    "title": "German Flash Services PMI",
-    "country": "EUR",
-    "date": "2026-06-23T03:30:00-04:00",
-    "impact": "Medium",
-    "forecast": "49.0",
-    "previous": "47.8"
-   },
-   {
-    "title": "Flash Manufacturing PMI",
-    "country": "EUR",
-    "date": "2026-06-23T04:00:00-04:00",
-    "impact": "Low",
-    "forecast": "51.6",
-    "previous": "51.4"
-   },
-   {
-    "title": "Flash Services PMI",
-    "country": "EUR",
-    "date": "2026-06-23T04:00:00-04:00",
-    "impact": "Low",
-    "forecast": "48.6",
-    "previous": "46.4"
-   },
-   {
-    "title": "Flash Manufacturing PMI",
-    "country": "GBP",
-    "date": "2026-06-23T04:30:00-04:00",
-    "impact": "Medium",
-    "forecast": "53.5",
-    "previous": "53.7"
-   },
-   {
-    "title": "Flash Services PMI",
-    "country": "GBP",
-    "date": "2026-06-23T04:30:00-04:00",
-    "impact": "Medium",
-    "forecast": "50.1",
-    "previous": "47.9"
-   },
-   {
-    "title": "MPC Member Breeden Speaks",
-    "country": "GBP",
-    "date": "2026-06-23T04:55:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "CBI Industrial Order Expectations",
-    "country": "GBP",
-    "date": "2026-06-23T06:00:00-04:00",
-    "impact": "Low",
-    "forecast": "-33",
-    "previous": "-41"
-   },
-   {
-    "title": "ADP Weekly Employment Change",
-    "country": "USD",
-    "date": "2026-06-23T08:15:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "25.5K"
-   },
-   {
-    "title": "MPC Member Taylor Speaks",
-    "country": "GBP",
-    "date": "2026-06-23T09:15:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
+    "forecast": "118K",
+    "previous": "122K"
    },
    {
     "title": "BOC Gov Macklem Speaks",
     "country": "CAD",
-    "date": "2026-06-23T09:25:00-04:00",
+    "date": "2026-07-01T09:00:00-04:00",
     "impact": "Medium",
     "forecast": "",
     "previous": ""
    },
    {
-    "title": "Flash Manufacturing PMI",
-    "country": "USD",
-    "date": "2026-06-23T09:45:00-04:00",
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "date": "2026-07-01T09:00:00-04:00",
     "impact": "Medium",
-    "forecast": "54.6",
-    "previous": "55.3"
+    "forecast": "",
+    "previous": ""
    },
    {
-    "title": "Flash Services PMI",
-    "country": "USD",
-    "date": "2026-06-23T09:45:00-04:00",
-    "impact": "Medium",
-    "forecast": "51.1",
-    "previous": "50.9"
-   },
-   {
-    "title": "Richmond Manufacturing Index",
-    "country": "USD",
-    "date": "2026-06-23T10:00:00-04:00",
-    "impact": "Low",
-    "forecast": "8",
-    "previous": "13"
-   },
-   {
-    "title": "MPC Member Dhingra Speaks",
+    "title": "BOE Gov Bailey Speaks",
     "country": "GBP",
-    "date": "2026-06-23T13:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "President Trump Speaks",
-    "country": "USD",
-    "date": "2026-06-23T14:05:00-04:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "API Weekly Statistical Bulletin",
-    "country": "USD",
-    "date": "2026-06-23T16:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "BOJ Summary of Opinions",
-    "country": "JPY",
-    "date": "2026-06-23T19:50:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "SPPI y/y",
-    "country": "JPY",
-    "date": "2026-06-23T19:50:00-04:00",
-    "impact": "Low",
-    "forecast": "3.3%",
-    "previous": "3.0%"
-   },
-   {
-    "title": "CPI m/m",
-    "country": "AUD",
-    "date": "2026-06-23T21:30:00-04:00",
+    "date": "2026-07-01T09:00:00-04:00",
     "impact": "High",
-    "forecast": "-0.4%",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Fed Chairman Warsh Speaks",
+    "country": "USD",
+    "date": "2026-07-01T09:00:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Final Manufacturing PMI",
+    "country": "USD",
+    "date": "2026-07-01T09:45:00-04:00",
+    "impact": "Low",
+    "forecast": "55.7",
+    "previous": "55.7"
+   },
+   {
+    "title": "ISM Manufacturing PMI",
+    "country": "USD",
+    "date": "2026-07-01T10:00:00-04:00",
+    "impact": "High",
+    "forecast": "53.7",
+    "previous": "54.0"
+   },
+   {
+    "title": "ISM Manufacturing Prices",
+    "country": "USD",
+    "date": "2026-07-01T10:00:00-04:00",
+    "impact": "Medium",
+    "forecast": "79.0",
+    "previous": "82.1"
+   },
+   {
+    "title": "Construction Spending m/m",
+    "country": "USD",
+    "date": "2026-07-01T10:00:00-04:00",
+    "impact": "Low",
+    "forecast": "0.3%",
     "previous": "0.4%"
    },
    {
-    "title": "CPI y/y",
-    "country": "AUD",
-    "date": "2026-06-23T21:30:00-04:00",
-    "impact": "High",
-    "forecast": "4.3%",
-    "previous": "4.2%"
+    "title": "Omdia Total Vehicle Sales",
+    "country": "USD",
+    "date": "2026-07-01T10:15:00-04:00",
+    "impact": "Low",
+    "forecast": "16.0M",
+    "previous": "16.1M"
    },
    {
-    "title": "Trimmed Mean CPI m/m",
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "date": "2026-07-01T10:30:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Crude Oil Inventories",
+    "country": "USD",
+    "date": "2026-07-01T10:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-6.1M"
+   },
+   {
+    "title": "Building Consents m/m",
+    "country": "NZD",
+    "date": "2026-07-01T18:45:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "10.9%"
+   },
+   {
+    "title": "Monetary Base y/y",
+    "country": "JPY",
+    "date": "2026-07-01T19:50:00-04:00",
+    "impact": "Low",
+    "forecast": "-10.0%",
+    "previous": "-12.2%"
+   },
+   {
+    "title": "Goods Trade Balance",
     "country": "AUD",
-    "date": "2026-06-23T21:30:00-04:00",
+    "date": "2026-07-01T21:30:00-04:00",
+    "impact": "Low",
+    "forecast": "2.18B",
+    "previous": "1.79B"
+   },
+   {
+    "title": "10-y Bond Auction",
+    "country": "JPY",
+    "date": "2026-07-01T23:35:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "2.65|3.5"
+   },
+   {
+    "title": "SNB Financial Stability Report",
+    "country": "CHF",
+    "date": "2026-07-02T00:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "CPI m/m",
+    "country": "CHF",
+    "date": "2026-07-02T02:30:00-04:00",
+    "impact": "Medium",
+    "forecast": "0.1%",
+    "previous": "0.2%"
+   },
+   {
+    "title": "French Gov Budget Balance",
+    "country": "EUR",
+    "date": "2026-07-02T02:45:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-69.6B"
+   },
+   {
+    "title": "Spanish Unemployment Change",
+    "country": "EUR",
+    "date": "2026-07-02T03:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-36.3K"
+   },
+   {
+    "title": "Italian Monthly Unemployment Rate",
+    "country": "EUR",
+    "date": "2026-07-02T04:00:00-04:00",
+    "impact": "Low",
+    "forecast": "5.1%",
+    "previous": "5.1%"
+   },
+   {
+    "title": "BOE Credit Conditions Survey",
+    "country": "GBP",
+    "date": "2026-07-02T04:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Unemployment Rate",
+    "country": "EUR",
+    "date": "2026-07-02T05:00:00-04:00",
+    "impact": "Low",
+    "forecast": "6.3%",
+    "previous": "6.3%"
+   },
+   {
+    "title": "Spanish 10-y Bond Auction",
+    "country": "EUR",
+    "date": "2026-07-02T05:03:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "French 10-y Bond Auction",
+    "country": "EUR",
+    "date": "2026-07-02T05:18:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.80|2.4"
+   },
+   {
+    "title": "10-y Bond Auction",
+    "country": "GBP",
+    "date": "2026-07-02T05:33:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "4.86|3.5"
+   },
+   {
+    "title": "Average Hourly Earnings m/m",
+    "country": "USD",
+    "date": "2026-07-02T08:30:00-04:00",
     "impact": "High",
     "forecast": "0.3%",
     "previous": "0.3%"
    },
    {
-    "title": "RBA Deputy Gov Hauser Speaks",
-    "country": "AUD",
-    "date": "2026-06-24T02:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "Gov Board Member Martin Speaks",
-    "country": "CHF",
-    "date": "2026-06-24T03:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "UBS Economic Expectations",
-    "country": "CHF",
-    "date": "2026-06-24T04:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-11.1"
-   },
-   {
-    "title": "German ifo Business Climate",
-    "country": "EUR",
-    "date": "2026-06-24T04:00:00-04:00",
-    "impact": "Low",
-    "forecast": "85.6",
-    "previous": "84.9"
-   },
-   {
-    "title": "German Buba President Nagel Speaks",
-    "country": "EUR",
-    "date": "2026-06-24T05:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "German 10-y Bond Auction",
-    "country": "EUR",
-    "date": "2026-06-24T05:40:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.06|1.7"
-   },
-   {
-    "title": "Gov Council Member Rogers Speaks",
-    "country": "CAD",
-    "date": "2026-06-24T07:15:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "MPC Member Breeden Speaks",
-    "country": "GBP",
-    "date": "2026-06-24T07:15:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "Current Account",
+    "title": "Non-Farm Employment Change",
     "country": "USD",
-    "date": "2026-06-24T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "-212B",
-    "previous": "-191B"
-   },
-   {
-    "title": "Belgian NBB Business Climate",
-    "country": "EUR",
-    "date": "2026-06-24T08:38:00-04:00",
-    "impact": "Low",
-    "forecast": "-12.0",
-    "previous": "-13.3"
-   },
-   {
-    "title": "SNB Quarterly Bulletin",
-    "country": "CHF",
-    "date": "2026-06-24T09:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "New Home Sales",
-    "country": "USD",
-    "date": "2026-06-24T10:00:00-04:00",
-    "impact": "Low",
-    "forecast": "638K",
-    "previous": "622K"
-   },
-   {
-    "title": "Crude Oil Inventories",
-    "country": "USD",
-    "date": "2026-06-24T10:30:00-04:00",
-    "impact": "Low",
-    "forecast": "-3.9M",
-    "previous": "-8.3M"
-   },
-   {
-    "title": "MPC Member Dhingra Speaks",
-    "country": "GBP",
-    "date": "2026-06-24T11:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "MPC Member Pill Speaks",
-    "country": "GBP",
-    "date": "2026-06-24T12:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "BOC Summary of Deliberations",
-    "country": "CAD",
-    "date": "2026-06-24T13:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "Bank Stress Test Results",
-    "country": "USD",
-    "date": "2026-06-24T16:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "President Trump Speaks",
-    "country": "USD",
-    "date": "2026-06-24T20:30:00-04:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "Employment Change",
-    "country": "AUD",
-    "date": "2026-06-24T21:30:00-04:00",
+    "date": "2026-07-02T08:30:00-04:00",
     "impact": "High",
-    "forecast": "31.2K",
-    "previous": "-18.6K"
+    "forecast": "114K",
+    "previous": "172K"
    },
    {
     "title": "Unemployment Rate",
-    "country": "AUD",
-    "date": "2026-06-24T21:30:00-04:00",
-    "impact": "High",
-    "forecast": "4.4%",
-    "previous": "4.5%"
-   },
-   {
-    "title": "Household Spending m/m",
-    "country": "AUD",
-    "date": "2026-06-24T21:30:00-04:00",
-    "impact": "Low",
-    "forecast": "0.5%",
-    "previous": "-1.1%"
-   },
-   {
-    "title": "NAB Quarterly Business Confidence",
-    "country": "AUD",
-    "date": "2026-06-24T23:50:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-4"
-   },
-   {
-    "title": "German GfK Consumer Climate",
-    "country": "EUR",
-    "date": "2026-06-25T02:00:00-04:00",
-    "impact": "Low",
-    "forecast": "-27.8",
-    "previous": "-29.8"
-   },
-   {
-    "title": "ECB Economic Bulletin",
-    "country": "EUR",
-    "date": "2026-06-25T04:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "CBI Realized Sales",
-    "country": "GBP",
-    "date": "2026-06-25T06:00:00-04:00",
-    "impact": "Low",
-    "forecast": "-41",
-    "previous": "-46"
-   },
-   {
-    "title": "Core PCE Price Index m/m",
     "country": "USD",
-    "date": "2026-06-25T08:30:00-04:00",
+    "date": "2026-07-02T08:30:00-04:00",
     "impact": "High",
-    "forecast": "0.3%",
-    "previous": "0.2%"
-   },
-   {
-    "title": "Final GDP q/q",
-    "country": "USD",
-    "date": "2026-06-25T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "1.6%",
-    "previous": "1.6%"
-   },
-   {
-    "title": "Final GDP Price Index q/q",
-    "country": "USD",
-    "date": "2026-06-25T08:30:00-04:00",
-    "impact": "Medium",
-    "forecast": "3.5%",
-    "previous": "3.5%"
+    "forecast": "4.3%",
+    "previous": "4.3%"
    },
    {
     "title": "Unemployment Claims",
     "country": "USD",
-    "date": "2026-06-25T08:30:00-04:00",
+    "date": "2026-07-02T08:30:00-04:00",
     "impact": "Medium",
-    "forecast": "225K",
-    "previous": "226K"
+    "forecast": "220K",
+    "previous": "215K"
    },
    {
-    "title": "Core Durable Goods Orders m/m",
-    "country": "USD",
-    "date": "2026-06-25T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "0.5%",
-    "previous": "1.1%"
-   },
-   {
-    "title": "Durable Goods Orders m/m",
-    "country": "USD",
-    "date": "2026-06-25T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "-5.0%",
-    "previous": "7.9%"
-   },
-   {
-    "title": "Personal Income m/m",
-    "country": "USD",
-    "date": "2026-06-25T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "0.4%",
-    "previous": "0.0%"
-   },
-   {
-    "title": "Personal Spending m/m",
-    "country": "USD",
-    "date": "2026-06-25T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "0.6%",
-    "previous": "0.5%"
-   },
-   {
-    "title": "FOMC Member Bowman Speaks",
-    "country": "USD",
-    "date": "2026-06-25T08:45:00-04:00",
+    "title": "Manufacturing PMI",
+    "country": "CAD",
+    "date": "2026-07-02T09:30:00-04:00",
     "impact": "Low",
     "forecast": "",
-    "previous": ""
+    "previous": "52.9"
    },
    {
-    "title": "CB Leading Index m/m",
-    "country": "CNY",
-    "date": "2026-06-25T09:04:00-04:00",
+    "title": "Factory Orders m/m",
+    "country": "USD",
+    "date": "2026-07-02T10:00:00-04:00",
     "impact": "Low",
-    "forecast": "",
-    "previous": "-0.8%"
+    "forecast": "2.1%",
+    "previous": "4.8%"
    },
    {
     "title": "Natural Gas Storage",
     "country": "USD",
-    "date": "2026-06-25T10:30:00-04:00",
+    "date": "2026-07-02T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "67B",
-    "previous": "73B"
+    "forecast": "",
+    "previous": "76B"
    },
    {
-    "title": "FOMC Member Williams Speaks",
-    "country": "USD",
-    "date": "2026-06-25T15:40:00-04:00",
+    "title": "MPC Member Mann Speaks",
+    "country": "GBP",
+    "date": "2026-07-02T11:45:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
    },
    {
-    "title": "FOMC Member Goolsbee Speaks",
-    "country": "USD",
-    "date": "2026-06-25T18:30:00-04:00",
+    "title": "RatingDog Services PMI",
+    "country": "CNY",
+    "date": "2026-07-02T21:45:00-04:00",
     "impact": "Low",
-    "forecast": "",
-    "previous": ""
+    "forecast": "53.6",
+    "previous": "54.4"
    },
    {
-    "title": "Tokyo Core CPI y/y",
-    "country": "JPY",
-    "date": "2026-06-25T19:30:00-04:00",
+    "title": "French Industrial Production m/m",
+    "country": "EUR",
+    "date": "2026-07-03T02:45:00-04:00",
+    "impact": "Low",
+    "forecast": "-0.3%",
+    "previous": "0.1%"
+   },
+   {
+    "title": "Spanish Services PMI",
+    "country": "EUR",
+    "date": "2026-07-03T03:15:00-04:00",
+    "impact": "Low",
+    "forecast": "50.8",
+    "previous": "50.1"
+   },
+   {
+    "title": "Italian Services PMI",
+    "country": "EUR",
+    "date": "2026-07-03T03:45:00-04:00",
+    "impact": "Low",
+    "forecast": "50.2",
+    "previous": "49.4"
+   },
+   {
+    "title": "French Final Services PMI",
+    "country": "EUR",
+    "date": "2026-07-03T03:50:00-04:00",
+    "impact": "Low",
+    "forecast": "47.4",
+    "previous": "47.4"
+   },
+   {
+    "title": "German Final Services PMI",
+    "country": "EUR",
+    "date": "2026-07-03T03:55:00-04:00",
+    "impact": "Low",
+    "forecast": "46.8",
+    "previous": "46.8"
+   },
+   {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "date": "2026-07-03T04:00:00-04:00",
     "impact": "Medium",
-    "forecast": "1.6%",
-    "previous": "1.3%"
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Final Services PMI",
+    "country": "EUR",
+    "date": "2026-07-03T04:00:00-04:00",
+    "impact": "Low",
+    "forecast": "48.9",
+    "previous": "48.9"
+   },
+   {
+    "title": "Italian Retail Sales m/m",
+    "country": "EUR",
+    "date": "2026-07-03T04:00:00-04:00",
+    "impact": "Low",
+    "forecast": "0.1%",
+    "previous": "0.0%"
+   },
+   {
+    "title": "Final Services PMI",
+    "country": "GBP",
+    "date": "2026-07-03T04:30:00-04:00",
+    "impact": "Low",
+    "forecast": "48.7",
+    "previous": "48.7"
+   },
+   {
+    "title": "Bank Holiday",
+    "country": "USD",
+    "date": "2026-07-03T08:00:00-04:00",
+    "impact": "Holiday",
+    "forecast": "",
+    "previous": ""
    },
    {
     "title": "German Buba President Nagel Speaks",
     "country": "EUR",
-    "date": "2026-06-26T04:30:00-04:00",
+    "date": "2026-07-03T11:00:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
    },
    {
-    "title": "Italian 10-y Bond Auction",
-    "country": "EUR",
-    "date": "2026-06-26T05:06:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.77|1.6"
-   },
-   {
-    "title": "Goods Trade Balance",
-    "country": "USD",
-    "date": "2026-06-26T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "-85.0B",
-    "previous": "-82.4B"
-   },
-   {
-    "title": "Prelim Wholesale Inventories m/m",
-    "country": "USD",
-    "date": "2026-06-26T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "0.3%",
-    "previous": "0.5%"
-   },
-   {
-    "title": "Revised UoM Consumer Sentiment",
-    "country": "USD",
-    "date": "2026-06-26T10:00:00-04:00",
-    "impact": "Medium",
-    "forecast": "50.0",
-    "previous": "48.9"
-   },
-   {
-    "title": "Revised UoM Inflation Expectations",
-    "country": "USD",
-    "date": "2026-06-26T10:00:00-04:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "4.6%"
-   },
-   {
-    "title": "FOMC Member Kashkari Speaks",
-    "country": "USD",
-    "date": "2026-06-26T11:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "President Trump Speaks",
-    "country": "USD",
-    "date": "2026-06-26T13:30:00-04:00",
+    "title": "BOE Gov Bailey Speaks",
+    "country": "GBP",
+    "date": "2026-07-03T11:00:00-04:00",
     "impact": "Medium",
     "forecast": "",
     "previous": ""
    }
   ],
-  "cache_at": "2026-06-28T12:12:06.481673+09:00",
+  "cache_at": "2026-06-28T19:20:49.082663+09:00",
   "sent_actual": []
  },
  "signal_cd": {
