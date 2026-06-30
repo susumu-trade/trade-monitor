@@ -20,8 +20,8 @@ STATE = os.path.join(STATE_DIR, "state.json")
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
 JST = datetime.timezone(datetime.timedelta(hours=9))
 
-TOKEN = os.environ.get("TG_BOT_TOKEN", "")
-CHAT = os.environ.get("TG_CHAT_ID", "")
+TOKEN = os.environ.get("TG_BOT_TOKEN", "").strip().strip("﻿").strip()
+CHAT = os.environ.get("TG_CHAT_ID", "").strip().strip("﻿").strip()
 
 def now_jst():
     return datetime.datetime.now(JST)
