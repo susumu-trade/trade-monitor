@@ -194,17 +194,19 @@ def check_news(cfg, state):
         for m in re.finditer(r"<item\b.*?</item>", raw, re.S | re.I):
             block = m.group(0)
             tm = re.search(r"<title>(.*?)</title>", block, re.S | re.I)
+            lm = re.search(r"<link>(.*?)</link>", block, re.S | re.I)
             if not tm:
                 continue
             title = re.sub(r"<!\[CDATA\[|\]\]>", "", tm.group(1)).strip()
             title = re.sub(r"<.*?>", "", title).strip()
             if not title:
                 continue
+            link = re.sub(r"<!\[CDATA\[|\]\]>", "", lm.group(1)).strip() if lm else ""
             tid = news_id(title)
             if not tid or tid in cycle_ids:
                 continue
             cycle_ids.add(tid)
-            items.append((tid, title, feed["name"]))
+            items.append((tid, title, feed["name"], link))
     cur_ids = [it[0] for it in items]
     if first_run:
         state["news_seen2"] = cur_ids[:500]
@@ -212,7 +214,7 @@ def check_news(cfg, state):
         return
     newitems = [it for it in items if it[0] not in seen]
     sent = 0
-    for tid, title, src in newitems:
+    for tid, title, src, link in newitems:
         tl = title.lower()
         tags = []
         for r in nm["routing"]:
@@ -227,6 +229,8 @@ def check_news(cfg, state):
             break
         ja = translate(title, nm.get("translate_to_ja", True))
         body = ja if ja == title else f"{ja}\n(EN) {title}"
+        if link:
+            body += f"\n{link}"   # タップで記事全文へ(Telegramがプレビューも表示)
         tg_send(f"📰 [{' / '.join(tags)}] {src}\n{body}")
         sent += 1
         print(f"[news] sent: {title[:40]}")
