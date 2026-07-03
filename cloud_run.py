@@ -172,11 +172,20 @@ def check_spike(cfg, state):
         cd[name] = now.isoformat()
         print(f"[spike] ALERT {name} {pct:+.2f}%")
 
+def news_id(title):
+    """重複判定用ID。リンクは(特にGoogleニュースで)取得ごとに変わることがあるため、
+    見出しを正規化して使う。末尾の「 - 媒体名」も除去し、同一記事の別フィード掲載も同一IDにする。"""
+    t = title.lower()
+    t = re.sub(r"\s*-\s*[^-]{2,40}$", "", t)   # 末尾の「 - Reuters」等を除去
+    return re.sub(r"\W+", "", t)[:120]
+
 def check_news(cfg, state):
     nm = cfg["news_monitor"]
-    seen = state.setdefault("news_seen", [])
+    state.pop("news_seen", None)  # 旧リンク基準の既読は廃止(リンク変動が重複配信の原因だった)
+    seen = state.setdefault("news_seen2", [])
     first_run = (len(seen) == 0)
     items = []
+    cycle_ids = set()   # 同一サイクル内の重複(両フィードに同じ記事)も除外
     for feed in nm["feeds"]:
         try:
             raw = http_get(feed["url"]).decode("utf-8", "ignore")
@@ -185,24 +194,25 @@ def check_news(cfg, state):
         for m in re.finditer(r"<item\b.*?</item>", raw, re.S | re.I):
             block = m.group(0)
             tm = re.search(r"<title>(.*?)</title>", block, re.S | re.I)
-            lm = re.search(r"<link>(.*?)</link>", block, re.S | re.I)
             if not tm:
                 continue
             title = re.sub(r"<!\[CDATA\[|\]\]>", "", tm.group(1)).strip()
             title = re.sub(r"<.*?>", "", title).strip()
             if not title:
                 continue
-            link = (lm.group(1).strip() if lm else "") or (feed["name"] + "|" + title)
-            link = re.sub(r"<!\[CDATA\[|\]\]>", "", link).strip()
-            items.append((link, title, feed["name"]))
+            tid = news_id(title)
+            if not tid or tid in cycle_ids:
+                continue
+            cycle_ids.add(tid)
+            items.append((tid, title, feed["name"]))
     cur_ids = [it[0] for it in items]
     if first_run:
-        state["news_seen"] = cur_ids[:500]
+        state["news_seen2"] = cur_ids[:500]
         print(f"[news] 初回シード {len(cur_ids)}件")
         return
     newitems = [it for it in items if it[0] not in seen]
     sent = 0
-    for link, title, src in newitems:
+    for tid, title, src in newitems:
         tl = title.lower()
         tags = []
         for r in nm["routing"]:
@@ -220,7 +230,7 @@ def check_news(cfg, state):
         tg_send(f"📰 [{' / '.join(tags)}] {src}\n{body}")
         sent += 1
         print(f"[news] sent: {title[:40]}")
-    state["news_seen"] = (cur_ids + seen)[:500]
+    state["news_seen2"] = list(dict.fromkeys(cur_ids + seen))[:500]
 
 def check_calendar(cfg, state):
     cal = cfg["news_monitor"]["calendar"]
