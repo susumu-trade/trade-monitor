@@ -1,0 +1,37 @@
+name: keiri-memo-reminder
+
+# 経理代行の業務メモ促しリマインダー（毎日19時JST）
+# PCの電源が入っていなくても届くよう、クラウドから送る。
+# 送信先は業務メモ専用ボット（経理代行業務メモ）のチャット。
+# Secrets: KEIRI_TG_BOT_TOKEN / KEIRI_TG_CHAT_ID
+
+on:
+  schedule:
+    - cron: '0 10 * * *'    # 10:00 UTC = 19:00 JST
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Send reminder to Telegram
+        env:
+          TOKEN: ${{ secrets.KEIRI_TG_BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.KEIRI_TG_CHAT_ID }}
+        run: |
+          curl -sS --fail -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${CHAT_ID}" \
+            --data-urlencode "text=🔔 業務メモの時間です（19:00）
+
+          今日を振り返って、言い忘れがないかチェック:
+          ・ミスを見つけた／損失を防いだこと（★推奨）
+          ・アドバイス・相談に乗ったこと（★推奨）
+          ・役所や銀行の書類対応
+          ・仕分け・記帳などの作業量（○件、○枚）
+
+          1行だけでもOK。このチャットに送ってください。
+          （送ったメモは、次にPCが起きたときにExcelへ反映されます）"
