@@ -1,31 +1,59 @@
 name: keiri-memo-reminder
 
-# 経理代行の業務メモ促しリマインダー（毎日19時JST）
-# PCの電源が入っていなくても届くよう、クラウドから送る。
-# 送信先は業務メモ専用ボット（経理代行業務メモ）のチャット。
+# 経理代行の業務メモ促しリマインダー（毎日19時JST前後）
+# GitHubのcronは大きく遅延することがある（実績: 5時間遅れで深夜0時に届いた）ため、
+#  - 混雑しにくい「半端な分」で1日4回試行し、最初の1回だけが送信する
+#  - 18:15〜21:30 JST の時間帯以外では送信しない（深夜に届くのを防ぐ）
+#  - 送信済みかどうかは state/keiri-reminder-last.txt（JST日付）で判定
 # Secrets: KEIRI_TG_BOT_TOKEN / KEIRI_TG_CHAT_ID
 
 on:
   schedule:
-    - cron: '0 10 * * *'    # 10:00 UTC = 19:00 JST
+    - cron: '40 9 * * *'    # 18:40 JST ごろ
+    - cron: '5 10 * * *'    # 19:05 JST ごろ
+    - cron: '35 10 * * *'   # 19:35 JST ごろ
+    - cron: '5 11 * * *'    # 20:05 JST ごろ
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: keiri-reminder
 
 jobs:
   remind:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Send reminder to Telegram
+      - uses: actions/checkout@v4
+
+      - name: Send reminder (once per day, evening window)
         env:
           TOKEN: ${{ secrets.KEIRI_TG_BOT_TOKEN }}
           CHAT_ID: ${{ secrets.KEIRI_TG_CHAT_ID }}
         run: |
+          set -e
+          TODAY_JST=$(TZ=Asia/Tokyo date +%F)
+          MINUTES_JST=$((10#$(TZ=Asia/Tokyo date +%H) * 60 + 10#$(TZ=Asia/Tokyo date +%M)))
+
+          LAST=$(cat state/keiri-reminder-last.txt 2>/dev/null || echo none)
+          if [ "$LAST" = "$TODAY_JST" ]; then
+            echo "already sent today ($TODAY_JST) - skip"
+            exit 0
+          fi
+
+          # 手動実行(workflow_dispatch)はテスト用に時間帯チェックを通さない
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            if [ $MINUTES_JST -lt 1095 ] || [ $MINUTES_JST -gt 1290 ]; then
+              echo "outside 18:15-21:30 JST window (now $MINUTES_JST min) - skip"
+              exit 0
+            fi
+          fi
+
           curl -sS --fail -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${CHAT_ID}" \
-            --data-urlencode "text=🔔 業務メモの時間です（19:00）
+            --data-urlencode "text=🔔 業務メモの時間です
 
           今日を振り返って、言い忘れがないかチェック:
           ・ミスを見つけた／損失を防いだこと（★推奨）
@@ -35,3 +63,14 @@ jobs:
 
           1行だけでもOK。このチャットに送ってください。
           （送ったメモは、次にPCが起きたときにExcelへ反映されます）"
+
+          mkdir -p state
+          echo "$TODAY_JST" > state/keiri-reminder-last.txt
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add state/keiri-reminder-last.txt
+          git commit -m "keiri-reminder: sent $TODAY_JST"
+          # monitorワークフローのstateコミットと競合したらrebaseして再試行
+          for i in 1 2 3; do
+            git push && break || { git pull --rebase; sleep 3; }
+          done
