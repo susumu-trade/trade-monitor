@@ -651,7 +651,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-07-10T06:48:58.901562+09:00",
+  "cache_at": "2026-07-10T06:57:04.721258+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -671,11 +671,10 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "fuelmarketsflashsupplycrunchdespitecalmeroilprices",
   "wallstreetgiantsbarstafffromfinanceandpoliticspredictionmarketssourcesays",
+  "fuelmarketsflashsupplycrunchdespitecalmeroilprices",
   "goldmanbansstafffromparticipatinginfinancepoliticspredictionmarketssourcesaysbyreuters",
   "exclusiveputinlikelytoescalateukrainewardespitetrumppeacepushsourcessay",
-  "goldmanbansstafffromparticipatinginfinancepoliticspredictionmarketssourcesays",
   "strategicoilreservebuyingsettosupportcrudedemandthrough2028",
   "disappointinghomesalesstillplaguedbylowsupplyexpertsays",
   "japantoaddbojindependencereferencetoeconomicblueprintsourcesays",
@@ -685,9 +684,10 @@
   "eudraftselectrificationplantocurboilandgasuseafteriranwardisruption",
   "mappingthemarketchipstocksflashwarningsignsafterblisteringrally",
   "wardriveninflationfearsfailtoshakeustreasuryyieldoutlookreuterspoll",
-  "totalenergiesdivestsitsdistributedsolargenerationactivitiesineurope",
+  "morningbidchipeuphoriavieswithwarweariness",
   "europesfinancialstabilitywatchdogexaminingprivatecreditrisksadvisersays",
   "skhynixsussharesaleaimstoraise265billionat149peradrsourcesays",
+  "goldmanbansstafffromparticipatinginfinancepoliticspredictionmarketssourcesays",
   "eucurbsonchinesecomponentsriskhaltingrenewablesrolloutinpoorercountriesindustrywarns",
   "oilpricesdivebymorethan2asinflationfearsoutweighsupplyrisks",
   "chinaszhipuairaises4billioninhongkongsharesalesourcesays",
@@ -710,7 +710,6 @@
   "canadasalbertaseals13bdatacenterdealwithmeta",
   "oilpricesgainasfocusshiftstosupplyrecoveryanddemand",
   "putinislikelytoescalatethewarinukrainedespitetrumpspeaceeffortsreuters",
-  "eextheegsinaturalgasdayfuturesjul2026d08tradeideaseexgg08n2026",
   "putinholdsfirmondonbasgoaldespiteslowingrussianadvance",
   "southafricanrandfirmsaheadofkeymanufacturingdata",
   "usstrikes170iraniantargetsintwonightscentcom",
@@ -722,13 +721,13 @@
   "sectorampindustryperformance",
   "itsnotjustopensourcemodelscompetingonprice",
   "oilexportersbuildresiliencetosoftenblowofhormuzdisruption",
-  "europeangasedgeslowerastradersassessmiddleeastflareup",
   "formerfedchairmanbenbernankejoinsanthropicoversighttrust",
   "skhynixs265billionlistingreopensasiaroutetousmarket",
   "magnificentsevensweaknessisstartingtobecomeaproblemforwallstreet",
   "usirantradeairstrikesasfearsgrowofareturntowar",
   "oilswingsastraderstakefreshusiranianfightinginstride",
   "europefacesfreshvolatilityafteriranflareupofficialssay",
+  "europeangasedgeslowerastradersassessmiddleeastflareup",
   "hormuzshiptrafficgrindstonearhaltafterusiranstrikes",
   "oilgainsusstockfuturesdroponnewstrikesmarketswrap",
   "stocksrecoverlossesandoilpriceseaseascalmreturnstofinancialmarketsworldwide",
@@ -744,8 +743,8 @@
   "samsungskhynixandleveragedetfsdrive70ofkoreatrading",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "southkoreasaichipgiantskhynixeyeslandmarknasdaqdebut",
-  "iranwarspursasurgeinstocksalesfromusshalecompanies",
   "dailynavigator972026marketoutlook",
+  "eextheegsinaturalgasdayfuturesjul2026d08tradeideaseexgg08n2026",
   "newzealanddollarsurgesaseconomicdatafuelsratehikebets",
   "indonesiagetsfirstrussianoilshipmentafterdealwithmoscow",
   "qatarpausespushtorampuplngafterhormuztankerattack",
@@ -754,6 +753,7 @@
   "hormuztrafficgrindstoanearhaltasceasefireunderthreat",
   "watchtemasekciorohitsipahimalaniwarnsonuscapexsurgerisks",
   "bloombergintroduceselectronictradingworkflowforindiangovernmentbonds",
+  "watchoilpricesswingastradersassessseconddayofusstrikesoniran",
   "usjoblessclaimslittlechangedlastweekamidlowlayoffs",
   "watchjoblessclaimslittlechangedaslayoffsremainlimited",
   "nzmanufacturinghits5yearhighasbremanhighlightsrecovery",
@@ -798,9 +798,11 @@
   "easymarketscelebrates25yearswithlargestclientrewardscampaigninitshistory",
   "usdjpycontinuestoedgehigheramidpersistentnegativeyenbackdropheightenedus",
   "japanchiefcabinetsecretarysaysgovernmentiswatchingmarketswithhighsenseofurgency",
+  "forthethirdtimethisyearaukrainiandronestrikeshutsdownrosneftssaratovoilrefinery",
+  "iranwarspursasurgeinstocksalesfromusshalecompanies",
+  "totalenergiesdivestsitsdistributedsolargenerationactivitiesineurope",
   "skhynixsuslistingmorethanseventimesoversubscribedsourcesays",
   "aluminiumsupplyshockreviveslongidledwesternsmelters",
-  "watchoilpricesswingastradersassessseconddayofusstrikesoniran",
   "micronboostsusinvestmentplanagaincommits250billionthrough2035",
   "gulfcompaniesaresettorevealtheunequaltollofiranwar",
   "russiassaratovoilrefineryatahaltsincewednesdaysdroneattacksourcessay",
@@ -1168,8 +1170,6 @@
   "oilholdsdropassaudiarabianpricecutamplifiesglutconcern",
   "hongkongbeginstrialoperationofnewgoldclearingsystem",
   "dailynaturalgasmarketupdate4626",
-  "wallstreetwarmstoindiasmarketsasoilpressuresfade",
-  "attacksonshipsinstraitofhormuzsendoilpriceshigher",
-  "faragequitsasmpandwillstandagaintowinbackseat"
+  "wallstreetwarmstoindiasmarketsasoilpressuresfade"
  ]
 }
