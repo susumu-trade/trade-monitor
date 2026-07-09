@@ -650,7 +650,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-07-09T09:31:17.701470+09:00",
+  "cache_at": "2026-07-09T09:39:27.795967+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -670,12 +670,12 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "investorsgetinflationwakeupcallastrumpfiresupoilprices",
   "chinaszhipuairaises4billioninhongkongsharesalesourcesays",
   "bigtechjoinscalgarystampedeoilbashascanadacourtsdatacenters",
   "oilpricesriseamidusirantensions",
   "thomsonreuterssecondquarter2026earningsannouncementandwebcastscheduledforaugust52026",
-  "goldedgeshigherasmarketsawaitfedminutes",
+  "analysisbooksellerdiedinlineofdutyresistingxijinpingsrule",
+  "investorsgetinflationwakeupcallastrumpfiresupoilprices",
   "bofaextendsfirst520millionloantoopenaiaheadofiposourcesays",
   "russiabansdieselexportstoensuredomesticsupplyaftertargetedukrainiandronestrikes",
   "somewarinsurersadviseshipownerstopausehormuzvoyagesafterattackssourcessay",
@@ -688,6 +688,7 @@
   "indianbenchmarkslogbiggestonedaylossinthreemonthsasoilpricessoar",
   "trumptoldnatoleadershewantstokeepusinalliancesourcesays",
   "appleloseschallengesagainsteurulestocurbbigtech",
+  "goldedgeshigherasmarketsawaitfedminutes",
   "chinareopensfuelexportsinjuly",
   "japanpmmisseschanceforeuropeandiplomacybyskippingnatosummit",
   "russiahastripledthediscountsonitsoilforindiainexchangeforindiaspurchaseofgasolinefromrussiareuters",
@@ -699,10 +700,10 @@
   "columnbpbeyondpetroleumbeyondperditionorjustbadperformanceparttwooftwooffshoreaccounts",
   "ukrainiandronesbringrussiaslargestoilrefinerytohaltafterstrikeonomsk",
   "indianoiltankerturnsbackatstraitofhormuzamidsecurityfears",
+  "oilpricesclimbmorethanadollarasuslaunchesfreshstrikesagainstiran",
   "usreinstatessanctionsoniranianoilsalesafterlngoiltankerattacks",
   "saudiarabiaweighsoilpipelineexpansiontoredsea",
   "johannesburgothermunicipalitiesfacefundingfreezeoverhighspending",
-  "koreanchipstocksreboundafterovernightusselloffaschipsupplyremainstight",
   "usoilpricesjumpnearly3afterusmilitarylaunchesstrikesagainstiran",
   "alphabetearningscallcountdownbeginswhattowatchingooglestock",
   "indiareplacesusdollarbasedfpiregistrationfeeswiththerupeesystem",
@@ -714,6 +715,7 @@
   "thefullpicturehowfactorsworktogetherinsystematicfixedincome",
   "minutesfromwarshsfirstmeetingshowdividedfed",
   "subjecttocompletiondatedjuly72026secgov",
+  "goldholdsdeclineasusstrikesoniranmagnifyinflationrisks",
   "sectorampindustryperformance",
   "russiassaratovrefineryonfireafterattacktwotankershit",
   "imfseesaisurgeoffsetwaroilshockandkeepsgrowthoutlook",
@@ -729,9 +731,8 @@
   "oiltankerstricklethroughhormuzafterspateofiranattacks",
   "h1flowsremainpositive",
   "ukpoliceprobedonationsto2024campaignoftopfarageally",
-  "belgiummaymiss2035natospendingtargetdeputypmsays",
   "whyeuropesnewdigitalborderchecksarecausingbigdelays",
-  "priceycreditmarketsfuelriseoffundsthatcanbuyanything",
+  "belgiummaymiss2035natospendingtargetdeputypmsays",
   "trumpsaysusmaystrikeiranagainthreatensnewblockade",
   "samppdowjoneswarnsofpotentialfrontiermarketcutforturkey",
   "willoilreturnto100perbarreltrumppointstotheendoftheceasefire",
@@ -783,6 +784,8 @@
   "oiljumpsriskassetsfallastrumpthreatensfurtherstrikesoniransaysmouisdead",
   "investingliveeuropeanmorningsessionwrapoilpricessurgeastrumpcallsoffirandeal",
   "theindianrupeefallacceleratesaftertrumpcallsoffmouwithiranoilpricessurge",
+  "koreanchipstocksreboundafterovernightusselloffaschipsupplyremainstight",
+  "priceycreditmarketsfuelriseoffundsthatcanbuyanything",
   "jeffbezossblueoriginaimstoraise10binfirstroundofoutsidefundraisingreport",
   "morningbriefusstrikesiranandblocksoilsaleschinasairaceismovingfrommodelstochipskoreanstocksextenddropchristophe",
   "ecbsescrivawillkeepalloptionsonthetableanddecideonameetingby",
@@ -802,7 +805,6 @@
   "watchbloombergsurveillance782026",
   "watchusstrikesiranandblocksoilsales",
   "watchtrumpthreatensmoreiranstrikes",
-  "goldholdsdeclineasusstrikesoniranmagnifyinflationrisks",
   "oilpricesjumpastrumpsaysthatiranceasefiredealisover",
   "trumpsaysmemorandumofunderstandingwithiranisoverdontwanttoengagewiththem",
   "chinaszhipuailaunches4billionhongkongsharesaleasstocksurges",
@@ -1167,8 +1169,6 @@
   "oilpricesfall1to4monthlowsasprogressinusirantalkscoolssupplyconcerns",
   "zawyakuwaittargets4bncfdgasoutput",
   "worldabsorbshistoriciranwaroilsupplylossbutdepletedstocksbringrisks",
-  "taiwanspreparationstofaceachineseattackarenotaprovocationseniorofficialsaysasianews",
-  "russianoilfallsto42abarrelthesamepriceasbeforethemiddleeastwar",
-  "exclusivepakistanmediatinglibyaunitypushasrivalcampsseekdealpakistanisourcessay"
+  "taiwanspreparationstofaceachineseattackarenotaprovocationseniorofficialsaysasianews"
  ]
 }
