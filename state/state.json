@@ -650,7 +650,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-07-09T09:51:36.949438+09:00",
+  "cache_at": "2026-07-09T09:59:44.510632+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -670,13 +670,13 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "investorsgetinflationwakeupcallastrumpfiresupoilprices",
   "chinaszhipuairaises4billioninhongkongsharesalesourcesays",
   "bigtechjoinscalgarystampedeoilbashascanadacourtsdatacenters",
   "oilpricesriseamidusirantensions",
   "thomsonreuterssecondquarter2026earningsannouncementandwebcastscheduledforaugust52026",
+  "analysisbooksellerdiedinlineofdutyresistingxijinpingsrule",
   "goldedgeshigherasmarketsawaitfedminutes",
-  "japanpmmisseschanceforeuropeandiplomacybyskippingnatosummit",
+  "investorsgetinflationwakeupcallastrumpfiresupoilprices",
   "bofaextendsfirst520millionloantoopenaiaheadofiposourcesays",
   "russiabansdieselexportstoensuredomesticsupplyaftertargetedukrainiandronestrikes",
   "somewarinsurersadviseshipownerstopausehormuzvoyagesafterattackssourcessay",
@@ -689,8 +689,8 @@
   "trumptoldnatoleadershewantstokeepusinalliancesourcesays",
   "appleloseschallengesagainsteurulestocurbbigtech",
   "chinareopensfuelexportsinjuly",
+  "japanpmmisseschanceforeuropeandiplomacybyskippingnatosummit",
   "russiahastripledthediscountsonitsoilforindiainexchangeforindiaspurchaseofgasolinefromrussiareuters",
-  "jeffbezossblueoriginaimstoraise10binfirstroundofoutsidefundraisingreport",
   "shipsattackedinthestraitofhormuzwhatthatmeansforongoingtalks",
   "oilclimbs6astrumpdeclaresiranceasefiredealover",
   "hegsethcancelsmeetingwithnetanyahuoverpossiblesaleoff35stoturkeysourcetellsreutersbyreuters",
@@ -728,8 +728,8 @@
   "dollargetssafehavenflowsasusiranceasefireunderthreat",
   "uppereastsidelegionnairesoutbreaksourceremainsunknown",
   "oiltankerstricklethroughhormuzafterspateofiranattacks",
-  "ukpoliceprobedonationsto2024campaignoftopfarageally",
   "h1flowsremainpositive",
+  "ukpoliceprobedonationsto2024campaignoftopfarageally",
   "whyeuropesnewdigitalborderchecksarecausingbigdelays",
   "belgiummaymiss2035natospendingtargetdeputypmsays",
   "trumpsaysusmaystrikeiranagainthreatensnewblockade",
@@ -737,9 +737,9 @@
   "willoilreturnto100perbarreltrumppointstotheendoftheceasefire",
   "kevinwarshsfeddebutsparksbondselloffasratehikebetssurge",
   "aichipstartupsambanovaraisesfundsat11billionvalue",
-  "dailynaturalgasmarketupdate4726",
   "trumpventsangerwithiranandwarnsceasefiremaybeover",
   "chinaallowingmajorexportsofdieselandgasolinethismonth",
+  "dailynaturalgasmarketupdate4726",
   "howtoinvestsmarterintheraceforelectrification",
   "fxdailysnapshot",
   "oilpricesurgesasusiranceasefireoverforecastasof08072026",
@@ -757,6 +757,7 @@
   "trumpsaysiranceasefireisoverasusstrikesreviveoilmarketrisk",
   "applelosesspatwitheuoverappstoreandiphonerules",
   "bigtechjoinscalgarystampedeoilbashascanadacourtsdatacentres",
+  "iranlaunchesmissilesonbahraingulfsirenssound",
   "iranseeksadealtrumpsaysafterfirstusinfrastructurestrike",
   "pbocisexpectedtosettheusdcnyreferencerateat67978reutersestimate",
   "trumpiranianscalledashortwhileagotheywanttomakeadealaxiosreport",
@@ -781,8 +782,8 @@
   "intelstockisitabuyafteranearly30pullback",
   "oiljumpsriskassetsfallastrumpthreatensfurtherstrikesoniransaysmouisdead",
   "investingliveeuropeanmorningsessionwrapoilpricessurgeastrumpcallsoffirandeal",
+  "jeffbezossblueoriginaimstoraise10binfirstroundofoutsidefundraisingreport",
   "theindianrupeefallacceleratesaftertrumpcallsoffmouwithiranoilpricessurge",
-  "analysisbooksellerdiedinlineofdutyresistingxijinpingsrule",
   "indianbenchmarkslogbiggestonedaylossinthreemonthsasoilpricessoar",
   "usoilpricesjumpnearly3afterusmilitarylaunchesstrikesagainstiran",
   "coffeepricestostayhighasvolatilitylingerslavazzasays",
@@ -1168,7 +1169,6 @@
   "moresamsungsrecordprofitfailstostopsharesplungingdraggingkospidown6",
   "nasdaqanalysistodayatinvestinglivecomasasiansessionshowstechunderpressure",
   "oilpricesfall1to4monthlowsasprogressinusirantalkscoolssupplyconcerns",
-  "zawyakuwaittargets4bncfdgasoutput",
-  "worldabsorbshistoriciranwaroilsupplylossbutdepletedstocksbringrisks"
+  "zawyakuwaittargets4bncfdgasoutput"
  ]
 }
