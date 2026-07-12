@@ -827,7 +827,7 @@
     "previous": "4.6%"
    }
   ],
-  "cache_at": "2026-07-13T04:13:49.938934+09:00",
+  "cache_at": "2026-07-13T04:21:53.383967+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -848,14 +848,13 @@
  },
  "news_seen2": [
   "japantopushitsmassivepensionfundtoboostalternativeinvestmentsnikkeisays",
-  "germanyfunds50000strikedronesforukrainesourcesays",
   "missilesanddronesfiredatgulfstatesafternightofusstrikesoniran",
+  "skhynixceoseesworstmemoryshortagein2027demandtooutstripsupplybeyond2030",
   "iranclosesstraitofhormuzaftervesselstrikeandwarnsofreprisals",
   "update4skhynixssharesindicatedtojump20inmarqueeusdebut",
   "irandeclaresstraitofhormuzclosedasunauthorisedvesselhit",
   "usdemocratrokhannadetainedbyisraelisettlersduringwestbankvisit",
   "iraqiprimeministertovisitwashington",
-  "skhynixceoseesworstmemoryshortagein2027demandtooutstripsupplybeyond2030",
   "usseeksfreestraitofhormuzaccessfromiranastalksfocusonvitalwaterway",
   "formeremirofqatarsheikhhamadbinkhalifaalthanidiesat74",
   "ukraineclaimsscoresofrussianshipsstruckinseaofazov",
@@ -883,8 +882,9 @@
   "trumpsiranblundershowsstrategycandefeatfirepower",
   "watchnavychiefbacksbiggernatorole",
   "modicourtspacificpartnersaschinausreshaperegion",
-  "energyservicessettobenefitonceiranwarendsbarclayssays",
   "zhipufounderbacksopensourceaiasglobalsecuritydebateintensifies",
+  "energyservicessettobenefitonceiranwarendsbarclayssays",
+  "gainersandlosersonnigerianstockmarketafteroneweekoftrading",
   "nomore1210marketersreleasenewpetrolpricesnationwidedangotecheapest",
   "uscpiandfedchairwarshtakecenterstagethisweek",
   "southcarolinasenatorlindseygrahamdiesat71",
@@ -910,6 +910,7 @@
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "eurusdstaysrangeboundasusirantensionseaseandtradersawaittheuscpireport",
   "bankofjapanissettokeepinterestratesunchangedatthejulymeetingmaintaintighteningguidance",
+  "germanyfunds50000strikedronesforukrainesourcesays",
   "usseeksfreehormuzaccessfromiranastalksfocusonstraital",
   "usnaturalgassupplyoutlookhingesonthreekeyshalebasinsmaguire",
   "whathappenedinrussiaslatestballisticmissileattackonkyiv",
@@ -1345,7 +1346,6 @@
   "usinitialjoblessclaims215kversus218kestimate",
   "theusdislittlechangedwhatarethetechnicaltellingtradersfortheeurusdusdjpygbpusd",
   "iranrevolutionaryguardsnavysaysusadventurismandinterferenceinthestraitofhormuzwillonlyresultincrushingresponse",
-  "investingliveeuropeansessionwrapamorepensivemoodasmarketsdigestus",
-  "allmembersviewedriskstoinflationoutlookasbeingtotheupside"
+  "investingliveeuropeansessionwrapamorepensivemoodasmarketsdigestus"
  ]
 }
