@@ -827,7 +827,7 @@
     "previous": "4.6%"
    }
   ],
-  "cache_at": "2026-07-13T12:40:12.198810+09:00",
+  "cache_at": "2026-07-13T12:48:17.409100+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -847,7 +847,6 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "fastretailingsrecordyearhasanewcentreofgravity",
   "theweekinbreakingviewscausesofcorrelation",
   "bojmayraisegrowthforecastmaintainvigilancetoinflationrisksourcessaybyreuters",
   "japantopushitsmassivepensionfundtoboostalternativeinvestmentsnikkeisays",
@@ -857,9 +856,10 @@
   "skhynixsinksafternasdaqdebutamidprofittakingeasingearningsoptimism",
   "oiljumps3afterusiranescalatestrikesinmiddleeastmoneynews",
   "irancloseshormuzagainasgulfattackswidenthaiembassywarnscitizensinkuwait",
-  "samsungelectronicstomoveupstartofchipfactoryinyonginto2029sourcesays",
-  "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
+  "fastretailingsrecordyearhasanewcentreofgravity",
+  "rupeebracesforpressurewithoiltakingcentrestageonusiranflareup",
   "sharesskidinasiaasoilclimbsongulfconflict",
+  "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "iraqiprimeministertovisitwashington",
   "irandeclaresstraitofhormuzclosedasunauthorisedvesselhit",
   "iranexpandsattacksongulfstatesafterusstrikessaysstraitofhormuzclosedworldnews",
@@ -867,7 +867,6 @@
   "usdemocratrokhannadetainedbyisraelisettlersduringwestbankvisit",
   "formeremirofqatarsheikhhamadbinkhalifaalthanidiesat74",
   "howmuchwillwimbledonmenssingleswinnerearnprizemoneyexplainedaheadoffinal",
-  "pakistanbacksiranatunasunscconvenesonnuclearprogramafterjcpoaexpiry",
   "iransufferfurthertravelchaosatworldcupasfifaforcedtoapologise",
   "uslaunchesnewroundofstrikesagainstiranasstraitofhormuzagainclosed",
   "oiljumpsasusandirantradestrikesdisputehormuz",
@@ -894,6 +893,7 @@
   "zhipufounderbacksopensourceaiasglobalsecuritydebateintensifies",
   "gainersandlosersonnigerianstockmarketafteroneweekoftrading",
   "nomore1210marketersreleasenewpetrolpricesnationwidedangotecheapest",
+  "investingliveasia",
   "southkoreansharessinkover5asskhynixprofit",
   "goldmanexpectsuscorecpitoeaseto28yearon",
   "ushitsdozensofiraniantargetsinanothernewstrikeswaveinclduingattackdrones",
@@ -918,6 +918,8 @@
   "investingliveamericasfxnewswrap10jul",
   "whyloweroilpriceswontleadtolowerinflationjustyet",
   "theearningsbarishighandwallstreetthinksitgetsclearedanywayalookattheweekahead",
+  "pakistanbacksiranatunasunscconvenesonnuclearprogramafterjcpoaexpiry",
+  "samsungelectronicstomoveupstartofchipfactoryinyonginto2029sourcesays",
   "onlyonethinghasdrivenfxmarketsthisyear",
   "germanyfunds50000strikedronesforukrainesourcesays",
   "skhynixsharesfallasmuchas44inseoulafterstrongnasdaqdebut",
@@ -1344,8 +1346,6 @@
   "exclusiveputinlikelytoescalateukrainewardespitetrumppeacepushsourcessay",
   "malaysiawillonlyimportoilfromrussiaifacceptablefromaninternationaltradingbasisministersays",
   "seoheadline86charsjapanproducerpriceshitfastestpacesince2023keepingbojontracktohike",
-  "reportsausofficialsaystalkswillcontinuewithiranonnukes",
-  "morningbidchipeuphoriavieswithwarweariness",
-  "skhynixraises265billioninusofferingafterpricingadrsat149"
+  "reportsausofficialsaystalkswillcontinuewithiranonnukes"
  ]
 }
