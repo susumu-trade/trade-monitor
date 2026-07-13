@@ -827,7 +827,7 @@
     "previous": "4.6%"
    }
   ],
-  "cache_at": "2026-07-13T10:47:18.006466+09:00",
+  "cache_at": "2026-07-13T10:59:22.834665+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -847,13 +847,15 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "japantopushitsmassivepensionfundtoboostalternativeinvestmentsnikkeisays",
   "theweekinbreakingviewscausesofcorrelation",
   "bojmayraisegrowthforecastmaintainvigilancetoinflationrisksourcessaybyreuters",
   "oilpriceskeepclimbingasexpandingconflictheightenssupplyrisks",
   "iranlaunchesmissilesanddronesatgulfstatesafterusstrikes",
+  "trumpsaysstraitofhormuzopentocommercialtraffical",
   "oiljumps3afterusiranescalatestrikesinmiddleeastmoneynews",
+  "irancloseshormuzagainasgulfattackswidenthaiembassywarnscitizensinkuwait",
   "sharesslipinasiaasoiljumpsongulfattacks",
+  "japantopushitsmassivepensionfundtoboostalternativeinvestmentsnikkeisays",
   "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "skhynixsharesfallasmuchas44inseoulafterstrongnasdaqdebut",
   "nigeriapumpsaboveopecquotaasoutputhitssixyearhigh",
@@ -887,6 +889,7 @@
   "singaporestockshitnewhighsasbankssoarweeklymarketrecap",
   "gainersandlosersonnigerianstockmarketafteroneweekoftrading",
   "nomore1210marketersreleasenewpetrolpricesnationwidedangotecheapest",
+  "anotherwaveofattacksirantargetsjordanwithballisticmissiles",
   "goldslidesover1asoiljumps4onhormuzfearsfedinflationwarning",
   "chinasteapotindependentrefinersbuyqatariiraqianduaeoiloveriranian",
   "pbocsetsusdcnyreferenceratefortodayat67972vsestimateat67850",
@@ -1343,9 +1346,6 @@
   "indiasilverimportcurbscreateshortagespushpremiumstosixmonthhigh",
   "skhynixiposettogivefinalpricetousstockinvestorsonfriday",
   "unitedstatespunishesiranwithpowerfulstrikesinretaliationtoceasefireviolations",
-  "sectorampindustryperformance",
-  "asianstockssettogainafteruschipmakersrallymarketswrap",
-  "taiwansyangcautionsagainstborrowingtobuyredhotstocks",
-  "pakistanseeksurgentlngcargoashormuzattacksdisruptsupply"
+  "sectorampindustryperformance"
  ]
 }
