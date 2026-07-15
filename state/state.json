@@ -840,7 +840,7 @@
     "previous": "4.6%"
    }
   ],
-  "cache_at": "2026-07-16T02:38:56.427925+09:00",
+  "cache_at": "2026-07-16T02:47:25.652402+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -860,6 +860,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "eurusdmovestowardafamiliartopsidetargetarea",
   "fedscookitisprudenttowaitabitlongerforinflationtoslowbutispreparedtoact",
   "usstocksgiveupgainsandnowdownontheday",
   "whitehousereportedlyweighinganadditionalextensionofjonesactwaiversasrenewediranconflictstirspricefears",
@@ -1358,7 +1359,6 @@
   "nzqsbobusinessconfidencereboundsbutrisingcostpressurescloudrbnzpath",
   "icymiuaeplansnewfujairahporttobypassstraitofhormuzftreports",
   "lessthanamonthssupplyeuropesjetfuelstocksarewaferthinasirantensionsflare",
-  "romanianinflationstartstoeaseasoilstillcastsshadow",
-  "usmilitarysaysithasbegunathirdconsecutivenightofstrikesagainstiran"
+  "romanianinflationstartstoeaseasoilstillcastsshadow"
  ]
 }
