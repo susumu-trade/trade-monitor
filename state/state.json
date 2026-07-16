@@ -720,14 +720,6 @@
     "previous": ""
    },
    {
-    "title": "Treasury Currency Report",
-    "country": "USD",
-    "date": "2026-07-16T16:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
     "title": "FPI m/m",
     "country": "NZD",
     "date": "2026-07-16T18:45:00-04:00",
@@ -838,9 +830,17 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "4.6%"
+   },
+   {
+    "title": "Treasury Currency Report",
+    "country": "USD",
+    "date": "2026-07-17T16:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
    }
   ],
-  "cache_at": "2026-07-17T05:35:49.424726+09:00",
+  "cache_at": "2026-07-17T05:43:54.626780+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -933,7 +933,8 @@
   "oneplusmayalsosaygoodbyetoindiain2027bloombergreports",
   "inflationisbackabove4willtherbihikerates",
   "whydangoterefinerycansellpetrolinusdollarsinnigeria",
-  "nigerianfillingstationsreleasefreshpetrolpricesasdangotedepotshikerates",
+  "aiandchipstockscontinuetoslidesendingthenasdaqdownnear",
+  "oildipsnearonemonthhighasiranwarescalationthreatensbothkeyexportroutes",
   "investingliveamericasfxnewswrapusretailsalesmatchestimatesbuttechslumps",
   "economicandeventcalendarinasiafridayjuly172026",
   "isthemarketfeelinganxiousabouttrumpsspeech",
@@ -957,6 +958,7 @@
   "canadajunehousingstarts2390kvs2579kexpected",
   "iranreportedlytellshouthistocloseredseaoilrouteifusdecidestostrikepowerinfrastructure",
   "investingliveeuropeansessionwrapdollarsteadyequitiesdiplowerasmarketsstaycautious",
+  "nigerianfillingstationsreleasefreshpetrolpricesasdangotedepotshikerates",
   "usfutureskeepmoremixedaheadoftheopenlater",
   "eurusdextendsgainsafterthesoftusinflationdatabutthefocusremainsonus",
   "euindiamovetoexpandtiesbeyondlandmarkfreetradedeal",
@@ -1357,8 +1359,6 @@
   "bofaridesmarketwhiplashtotradingrecordsdealactivityshines",
   "indiadrawsnearly10billionunderrbisdepositdrivetosupportrupeesourcessay",
   "saudiaramcoseekstoreroutecrudeawayfromstraitofhormuzsourcessay",
-  "priceystockschargeintocpiearningsandfedallinoneday",
-  "eurozonemayindustrialproduction",
-  "japanreuterstankanshowssplitbusinessmoodasmiddleeastriskslinger"
+  "priceystockschargeintocpiearningsandfedallinoneday"
  ]
 }
