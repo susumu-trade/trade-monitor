@@ -840,7 +840,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-07-17T09:24:40.332277+09:00",
+  "cache_at": "2026-07-17T09:36:45.059469+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -860,13 +860,12 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "whoisukrainesnewprimeministersergiikoretskyi",
   "exclusiveirantellshouthistocloseredseagatewayifushitspowernetworksourcessay",
+  "whoisukrainesnewprimeministersergiikoretskyi",
   "oilpricesdipslightlyamidstcontinuedmiddleeasttensions",
   "reportirantellsyemenshouthistopreparetocloseredseaoilrouteifusstrikespowergrid",
   "usoriranwhoneedsanewtrucedealmore",
   "russiaasksindiaformoregasolineasrefiningcapacitycollapses",
-  "oildipsnearonemonthhighasiranwarescalationthreatensbothkeyexportroutestherangetowatch",
   "sourcesiranordershouthistocloseredseagatewayifushitsitspowernetwork",
   "crudeoilloadingsuspendedatalliraqiterminalsafterdroneincidentreuters",
   "irantellshouthistoclosebabelmandebstraitifushitspowernetworkreports",
@@ -875,10 +874,10 @@
   "reutersiranaskedhouthistoprepareredseaclosure",
   "globalmarketschipmakersputpressureonequityindexesgloballyoildips",
   "shortsellerstakeaimatmanufacturinginjuneamidsupplychainstresshazeltreedatashows",
+  "energysectorbuoyedbymiddleeastoilriskoutpacestechby35points",
   "exclusivesaudiarabiabackeddeveloperseeksworldcupstadiuminvestorssourcessay",
   "chinasoilfortresswillreshapetheglobalorder",
   "oilsettleslowerbutremainsnearonemonthhighonusirantension",
-  "energysectorbuoyedbymiddleeastoilriskoutpacestechby35points",
   "oilrisesoniransbabalmandabclosurethreat",
   "oilministrydeniesloadinghaltafterobjectfallsnearbasratanker",
   "irantoblockanotherkeyglobaloilroutereutersreportsrbc",
@@ -891,6 +890,7 @@
   "saudiarabiabackeddevelopersaidtoseekworldcupstadiuminvestorsgulftimes",
   "blackstonebackedairtrunkeyesseptemberoctoberlaunchforus15billionsingaporereitiposourcestellreuters",
   "micronstockcancrashto361inworstcasescenariomuprediction",
+  "reutersiranurgeshouthistoprepareforredseaoilrouteclosure",
   "hundredsofemptyseatsinsecondgameofworldcupasorganisersleftembarrassed",
   "asiastockstotrackusslideonchipmakerselloffmarketswrap",
   "sffedviewslabormarketinbalancebutinflationelevatedanduncertain",
@@ -905,8 +905,8 @@
   "energyservicessettobenefitonceiranwarendsbarclayssays",
   "iranushostilitiesworsenashormuzshippingtrafficfalls",
   "siemensenergyceoseesdatacenterboomlastingonpowerneeds",
-  "firstuslngcargoinayeardocksinchinashipdatashows",
   "russiasanctionsbillsparksfearsofbroadeningtrumpstariffpowers",
+  "firstuslngcargoinayeardocksinchinashipdatashows",
   "us25tariffsonbrazilriskbecominganelectiongifttolula",
   "johannesburgutilitywarnsblastatsouthafricawaterplanttohitsupply",
   "russiasanctionsthreatmaycomplicateusindiatradetalks",
@@ -926,12 +926,13 @@
   "spacexreentrycompleteasitrevisitsitsipoprice",
   "ukplanstodevelopitsownballisticmissilesandsupplythemtoukrainebloomberg",
   "wedgewoodpartnersq22026clientletterrwgix",
-  "earningssnapshotabbottlaboratoriestopsq2estimatesliftsfy26adjustedepsoutlookrangeaboveconsensus",
   "teslaq22026earningspreviewcanmuskreignitegrowthamidslowingevdemand",
+  "earningssnapshotabbottlaboratoriestopsq2estimatesliftsfy26adjustedepsoutlookrangeaboveconsensus",
   "newoilbillionairesfgsetsdatetoannouncewinnersof50oilgasblocks",
   "oneplusmayalsosaygoodbyetoindiain2027bloombergreports",
   "whydangoterefinerycansellpetrolinusdollarsinnigeria",
   "equitiessellingoffnikkeidown3usequitiesloweralso",
+  "pbocisexpectedtosettheusdcnyreferencerateat67734reutersestimate",
   "bernsteinlifts2026goldtargetto4533oncentralbankbuyingmutedfedhikes",
   "usbombsiranianbridgestosixthdayofstrikeschokeoffbandarabbassupply",
   "vicechairjeffersonsaysfedpolicywellpositionedbuthikepossibleifinflationstayssticky",
@@ -955,9 +956,9 @@
   "fedsloganinvestmentdemandforaiisbigrealandnear",
   "fedsschmidrecentinflationencouragingbuttooearlytosay",
   "whatunitedairlinestellsusabouttheshapeoftheuscustomer",
+  "oildipsnearonemonthhighasiranwarescalationthreatensbothkeyexportroutestherangetowatch",
   "goldpriceshavemovedbackbelowthe4000levelwhatarethechartstellingtraders",
   "newyorkhaltsnewaidatacentersaspowerandwaterconcernsmount",
-  "reutersiranurgeshouthistoprepareforredseaoilrouteclosure",
   "micronsharesaredownanother58onday32fromalltimehighisthereabottominsight",
   "irantellshouthistocloseredseaoilrouteifushitspowernetworkreuters",
   "ieabosswarnsglobaleconomyinperilifhormuzcrisispersists",
@@ -1358,7 +1359,6 @@
   "chinahousepricesjune202633yyprior",
   "oilescalationiranhitusbasesinbahrainkuwaitandjordan",
   "koreaexchangehaltedtradingtwiceaskospiandkosdaqfuturesrocketedskhynix12",
-  "pbocsetsusdcnymidpointtodayat67910vsestimateat67965",
-  "pbocisexpectedtosettheusdcnyreferencerateat67695reutersestimate"
+  "pbocsetsusdcnymidpointtodayat67910vsestimateat67965"
  ]
 }
