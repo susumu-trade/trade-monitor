@@ -44,7 +44,8 @@
    "USD|Core CPI y/y|2026-07-14T08:30:00-04:00",
    "USD|CPI m/m|2026-07-14T08:30:00-04:00",
    "USD|CPI y/y|2026-07-14T08:30:00-04:00",
-   "USD|Fed Chairman Warsh Testifies|2026-07-15T10:00:00-04:00"
+   "USD|Fed Chairman Warsh Testifies|2026-07-15T10:00:00-04:00",
+   "USD|President Trump Speaks|2026-07-16T21:00:00-04:00"
   ],
   "cache": [
    {
@@ -840,7 +841,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-07-17T09:44:48.506820+09:00",
+  "cache_at": "2026-07-17T09:56:53.808374+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -890,6 +891,7 @@
   "saudiarabiabackeddevelopersaidtoseekworldcupstadiuminvestorsgulftimes",
   "blackstonebackedairtrunkeyesseptemberoctoberlaunchforus15billionsingaporereitiposourcestellreuters",
   "newzealandfijirenewfiveyearpartnership",
+  "iranaskedthehouthistoblockbabelmandebreuters",
   "micronstockcancrashto361inworstcasescenariomuprediction",
   "reutersiranurgeshouthistoprepareforredseaoilrouteclosure",
   "hundredsofemptyseatsinsecondgameofworldcupasorganisersleftembarrassed",
@@ -898,12 +900,12 @@
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "aistocksaregettingcheaper",
   "russiasrichestbusinessmenaremovingbillionsabroadamidfearsofassetseizuresbloombergreports",
-  "iranushostilitiesworsenashormuzshippingtrafficfalls",
   "alphabetsharesfallonreportitsmostpowerfulaimodelgemini35proisdelayed",
   "fxdailysnapshot",
   "goldpricesweighoncanadasstockmarketwhileaidragswallstreetlower",
   "timeforhalosectorsampetfs",
   "energyservicessettobenefitonceiranwarendsbarclayssays",
+  "iranushostilitiesworsenashormuzshippingtrafficfalls",
   "fedsloganfavorsmodestlyhigherratestolowerinflation",
   "siemensenergyceoseesdatacenterboomlastingonpowerneeds",
   "russiasanctionsbillsparksfearsofbroadeningtrumpstariffpowers",
@@ -917,18 +919,19 @@
   "nowmorethaneverthecaseforglobalbonds",
   "theecbfacesadifficultthirdquarter",
   "marketupdategoldpricesearchesfordirection",
-  "spacexfallsbelowipopriceaspostiporallyfades",
   "oilsteadiesaftergainsashormuzshipattacksthreatensupply",
   "anotherreportconfirmsoneplusimminentdemiserevealsitsgoingtoexitindiatoogsmarenacomnews",
   "areaustralianinvestorstooloyal",
   "topcurrencyforecastersaysyenmayreach170againstdollar",
   "trumpxisummittotakestockofchinacommitmentsgreersays",
   "uswidensirancampaignashormuzfalloutgrows",
+  "euindiamovetoexpandtiesbeyondlandmarkfreetradedeal",
   "spacexreentrycompleteasitrevisitsitsipoprice",
   "ukplanstodevelopitsownballisticmissilesandsupplythemtoukrainebloomberg",
   "wedgewoodpartnersq22026clientletterrwgix",
   "teslaq22026earningspreviewcanmuskreignitegrowthamidslowingevdemand",
   "earningssnapshotabbottlaboratoriestopsq2estimatesliftsfy26adjustedepsoutlookrangeaboveconsensus",
+  "spacexfallsbelowipopriceaspostiporallyfades",
   "newoilbillionairesfgsetsdatetoannouncewinnersof50oilgasblocks",
   "oneplusmayalsosaygoodbyetoindiain2027bloombergreports",
   "whydangoterefinerycansellpetrolinusdollarsinnigeria",
@@ -957,9 +960,9 @@
   "trumptosellfasteraccesstohistruthsocialposts",
   "googlegeminilaunchdelayedastechfallsshortofgoals",
   "fedsloganinvestmentdemandforaiisbigrealandnear",
+  "slumpingaistocksdragdownmarketsaroundtheworld",
   "oilsettleslowerbutremainsnearonemonthhighonusirantension",
   "fedsschmidrecentinflationencouragingbuttooearlytosay",
-  "euindiamovetoexpandtiesbeyondlandmarkfreetradedeal",
   "whatunitedairlinestellsusabouttheshapeoftheuscustomer",
   "goldpriceshavemovedbackbelowthe4000levelwhatarethechartstellingtraders",
   "newyorkhaltsnewaidatacentersaspowerandwaterconcernsmount",
@@ -1357,8 +1360,6 @@
   "oilpricesjumpasfightingflaresinthemiddleeastwhileasiansharesaremixed",
   "thedailychaseusinflationcools",
   "earningssnapshotbankofamericanetinterestincomeandinvestmentbankingdrivesolidtoplinebeat",
-  "chinaq2gdp09qqexpected09and43yyexpected45",
-  "newhomepricesinchinafellforafourthstraightyearinjune",
-  "chinahousepricesjune202633yyprior"
+  "chinaq2gdp09qqexpected09and43yyexpected45"
  ]
 }
