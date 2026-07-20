@@ -603,7 +603,7 @@
     "previous": "580K"
    }
   ],
-  "cache_at": "2026-07-20T17:40:14.895541+09:00",
+  "cache_at": "2026-07-20T17:48:18.136815+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -623,9 +623,9 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "whatischinasnextsurpriseforoilmarketslowerimportshigherfuelexports",
   "majorgulfboursesmixedasmarketsassessusiranescalation",
   "globalstocksslipasmiddleeasttensionsdriveoilhigher",
+  "whatischinasnextsurpriseforoilmarketslowerimportshigherfuelexports",
   "australiansharesedgehigherasenergystocksriseonoilsupplyworries",
   "brentoilsurgespast90asusiranconflicthitsgulfshipping",
   "russiasaysukrainelaunched400dronesatmoscowregiontwowoundedbuildingssetablaze",
@@ -655,16 +655,17 @@
   "brentoiltops90asmiddleeastattacksthreatenhormuzflows",
   "brentoilpricetops90asmiddleeastattacksthreatenstraitofhormuzflows",
   "usstrikesiraninescalatingcampaignaftertroopskilled",
+  "chinaisexporting20fewermagnetstousdespitetradetruce",
   "bitcoinetfslogsecondweekofinflowsbreakingtwomonthrout",
-  "nzdhedgefundsamassbiggestnewzealanddollarnetshortsince2006",
   "tsmcs265billionusspendingdrivenbydemandandrivalscfosays",
+  "nzdhedgefundsamassbiggestnewzealanddollarnetshortsince2006",
   "brentoiltops90asusiranattacksescalate",
   "watchukchancellorpickkeyformarkets",
   "bondtraderstakewarshatwordseeinflationfightcontinuing",
-  "bigtechneedstojustifyaispendingasinvestorsdumpstocks",
   "moonshotplansipoinsixmonthsafterchinaaibreakthrough",
-  "extremestockswingstemptfundsintoreversedispersiontrade",
+  "bigtechneedstojustifyaispendingasinvestorsdumpstocks",
   "watchalibabasqwenmodelraisesstakesinairacethechinashow7202026",
+  "extremestockswingstemptfundsintoreversedispersiontrade",
   "predictionmarketsswellto27ofsportsbetsduringworldcup",
   "caspianpipelineconsortiumhaltsloadingsafterdronestrike",
   "ciccstraitofhormuzclosureagainoilpricessurgeshorttermamiddemandconstraints",
@@ -672,8 +673,8 @@
   "usequitiescloseloweraheadofq2usearningsonaiandmiddleeasttensions",
   "braceforafloodofoilassoonashormuzreopensenergynewstopheadlinescommentariesfeaturesampevents",
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
-  "usoilsanctionspushbeijingtotestwashingtonslimits",
   "whyaretechstocksfallingtodaychipselloffexplained",
+  "usoilsanctionspushbeijingtotestwashingtonslimits",
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "boydensaysbpoilspillisincreasingshippingcostsvideojeremyjacquetliverpooltransferstgyhqfl0h",
   "earningsneedtobestrongwallstreetassessesnextcatalystforaitrade",
@@ -1121,7 +1122,6 @@
   "russiaasksindiaformoregasolineasrefiningcapacitycollapses",
   "sourcesiranordershouthistocloseredseagatewayifushitsitspowernetwork",
   "iraqioilloadingsbrieflysuspendedafterdronehitstankeratbasrasourcessay",
-  "stocksslidewithfuturesaschipselloffdeepensmarketswrap",
-  "nickelhitsthreeweekhighonindonesiasupplyrisksfedview"
+  "stocksslidewithfuturesaschipselloffdeepensmarketswrap"
  ]
 }
