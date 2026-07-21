@@ -603,7 +603,7 @@
     "previous": "580K"
    }
   ],
-  "cache_at": "2026-07-21T10:16:28.930219+09:00",
+  "cache_at": "2026-07-21T10:24:32.514225+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -623,13 +623,13 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "whyoilpriceshaventgonecrazydespite5monthsofusiranwar",
   "whatischinasnextsurpriseforoilmarketslowerimportshigherfuelexports",
+  "houthiredseablockadewouldliftoilpricesbutworkaroundscouldlimitimpact",
   "yemenshouthisdeclarenavalblockadeonsaudiarabiawideningthreattoglobaloilsupplies",
   "oilpricesriseduetotensionsbetweentheunitedstatesandiran",
-  "houthiredseablockadewouldliftoilpricesbutworkaroundscouldlimitimpact",
-  "houthisannouncesaudinavalblockadethreateningnewfrontinusiranwar",
+  "freshthreattoglobaloilsupplysaudiarabiascrudeexportsatriskasyemenshouthislooktoimpose",
   "redseawarinsurancecostsriseafterhouthiblockadesourcessay",
+  "houthisannouncesaudinavalblockadethreateningnewfrontinusiranwar",
   "europeansharesticklowerasinvestorsassessusiranjitterstechearningsloom",
   "yemenshouthisdeclarenavalblockadeagainstsaudiarabia",
   "aselectionofourbestnewsphotographyfromreutersphotojournalistsaroundtheworld",
@@ -643,22 +643,21 @@
   "indiashdfcceoreappointmentdelayedbyboardreviewsourcessay",
   "chinasmoonshotpauseskimisubscriptionsamidhotdemandipopush",
   "couldaichipboommakeasmleuropesfirsttrilliondollarfirm",
-  "freshthreattoglobaloilsupplysaudiarabiascrudeexportsatriskasyemenshouthislooktoimpose",
+  "houthisannounceblockadeonsaudiarabiarampingupredseatensions",
   "oilrefininghasbeenunderinvestedsaudiaramcosays",
   "houthiblockadethreatopensnewfrontiniranwar",
   "eupausesmethanepenaltiesamidenergycrisisuspressure",
   "frenchgasplantatriskduetoheatwave",
-  "houthisannounceblockadeonsaudiarabiarampingupredseatensions",
   "reliancemostlypullsoffwartimebalancingact",
-  "trumpvowsiranwillpayforkillingussoldiers",
   "usandirancouldenter10dayceasefireamidstalledtalksreuters",
+  "trumpvowsiranwillpayforkillingussoldiers",
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "globalstocksslipasmiddleeasttensionsdriveoilhigher",
-  "dollardriftsasusiranconflictintensifiesbrenthits90",
   "houthisdeclarenavalblockadeonsaudiarabiaasredseacrisisdeepens",
+  "dollardriftsasusiranconflictintensifiesbrenthits90",
   "novartisearningspreviewcannewmedicinesoffsetgenericpressureandgrowinguspricingrisks",
-  "jpmorgancutsgoldforecastto4500neartermoutlook2026",
   "brentoiltops90asusiranexpandstrikesinthemiddleeast",
+  "jpmorgancutsgoldforecastto4500neartermoutlook2026",
   "internationalmediatorshaveproposeda10dayceasefiretoiranandtheusreuters",
   "australiansharesedgehigherasenergystocksriseonoilsupplyworries",
   "europeanbuyersholdtalkstoshipcanadianlngviapanamacanaltodiversifysupply",
@@ -720,7 +719,6 @@
   "segrorejectsfresh135billioncashandshareprologisoffer",
   "bitcoinetfslogsecondweekofinflowsbreakingtwomonthrout",
   "fxdailysnapshot",
-  "finnishcabinetpullssupportfromarenaprojectthatsparkedscandal",
   "paramountwarnerbrosjudgepausesdealwithseriousissues1",
   "oilcushionthinsasuscrudesupplyfallsto45yearlowcl1comcommodity",
   "usequitiescloseloweraheadofq2usearningsonaiandmiddleeasttensions",
@@ -732,6 +730,7 @@
   "hongkongmullslongerstocktradinghoursendinglunchbreakbloomberg",
   "whymoonshotais30bipocouldmatterforcryptonotjustai",
   "moonlandingwhythischineseaimodelrattledglobalsharemarkets",
+  "pbocsetsusdcnycentralrateat67917vsestimateat67706",
   "chinasnationalteamspendsnearly9billiontopropupstocks",
   "fxstrategistseyeecbhawkishnessasmiddleeastriskliftseurocase",
   "pbocisexpectedtosettheusdcnyreferencerateat67706reutersestimate",
@@ -756,7 +755,9 @@
   "uknamesjohnhealeychancelloroftheexchequer",
   "trumpiranwillpayforkillingamericansoldiersmanytimesover",
   "europeanmarketsclosestocksfinishmixedastradersassessnewukleadership",
+  "whyoilpriceshaventgonecrazydespite5monthsofusiranwar",
   "gbpusdbreakthe200hourmovingaverageandmovestowardaclusteroftechnicaltargets",
+  "finnishcabinetpullssupportfromarenaprojectthatsparkedscandal",
   "investorswithbearishoutlooksturntoxndoptions",
   "budgetairlineryanairsprofithitaswarimpactsoildemand",
   "chipstocksrallyafterlastweekssteeplosses",
@@ -1121,7 +1122,6 @@
   "trumpsfierychinaallegationsmaythreatensuperpowertruceworldnews",
   "globalequityfundsdrawinflowsfortheeighthweekonearningsoptimism",
   "pakistancargocrashfamiliespushforinternationalhelptofindblackboxesasianews",
-  "chinesebloggerjailedforfabricatingxiaomievvideoclaimsstatemediasaychinanews",
-  "escalationfearsmountasusandiranbothattackinfrastructurebyreuters"
+  "chinesebloggerjailedforfabricatingxiaomievvideoclaimsstatemediasaychinanews"
  ]
 }
