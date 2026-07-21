@@ -603,7 +603,7 @@
     "previous": "580K"
    }
   ],
-  "cache_at": "2026-07-21T15:23:26.271066+09:00",
+  "cache_at": "2026-07-21T15:32:06.184311+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -623,7 +623,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "ukmayilounemploymentrate49vs50expected",
+  "ukunemploymentrateholdssteadyinmaypayrollsdeclineagaininjune",
   "ukprimeministerburnhamannouncesvatcutfromenergybillstobringdowncostofliving",
   "marketsremaintenseontheweekasus",
   "investingliveasiapacificmarketmovingnewstrumpnearspivotalirandecision",
@@ -648,6 +648,7 @@
   "previewdeutschebankseesecbpausingthisweekbeforeaseptemberraterise",
   "trumphitscanadawithnewtariffsonalcoholdairyandautos",
   "investingliveamericasfxnewswrap20jul",
+  "ukmayilounemploymentrate49vs50expected",
   "oiluslaunchesnewiranstrikesagainmondayassaudicoalitionwarnshouthiswithforce",
   "whyoilpriceshaventgonecrazydespite5monthsofusiranwar",
   "houthiredseablockadewouldliftoilpricesbutworkaroundscouldlimitimpact",
@@ -1121,7 +1122,6 @@
   "thehighestyieldingstocksonthetsxplusriskdata",
   "basfseeksbankstoleadipoof20billionagrichemicalunit",
   "hyperscalersaredraggingdownbondgaugesacrossglobalmarkets",
-  "exclusivepakistanandkuwaitdiscussexpandeddefencepactsourcessay",
-  "inflationcoolsbutfocusshiftsbacktooilmarketoutlook"
+  "exclusivepakistanandkuwaitdiscussexpandeddefencepactsourcessay"
  ]
 }
