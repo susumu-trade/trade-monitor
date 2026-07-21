@@ -603,7 +603,7 @@
     "previous": "580K"
    }
   ],
-  "cache_at": "2026-07-21T15:32:06.184311+09:00",
+  "cache_at": "2026-07-21T15:44:51.789449+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -623,6 +623,8 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "whatarethemaineventsfortoday",
+  "fxoptionexpiriesfor21july10amnewyorkcut",
   "ukunemploymentrateholdssteadyinmaypayrollsdeclineagaininjune",
   "ukprimeministerburnhamannouncesvatcutfromenergybillstobringdowncostofliving",
   "marketsremaintenseontheweekasus",
@@ -842,7 +844,6 @@
   "marketoutlookfortheweekof20th",
   "oilpricesjumpafterausofficialsayswashingtonisplanningforawiderwarwithiran",
   "fxoptionexpiriesfor20july10amnewyorkcut",
-  "whatarethemaineventsfortoday",
   "germanproducerpricesnudgelowerinjuneduetodropinenergyprices",
   "thedailychasecanadainflationslowsto28yy",
   "oiltransferactivityingulfofomanslowsfollowingshipattacksdatashowsal",
@@ -1121,7 +1122,6 @@
   "suspectedpiratesseizetankeroffyemencoastingulfofadensourcessay",
   "thehighestyieldingstocksonthetsxplusriskdata",
   "basfseeksbankstoleadipoof20billionagrichemicalunit",
-  "hyperscalersaredraggingdownbondgaugesacrossglobalmarkets",
-  "exclusivepakistanandkuwaitdiscussexpandeddefencepactsourcessay"
+  "hyperscalersaredraggingdownbondgaugesacrossglobalmarkets"
  ]
 }
