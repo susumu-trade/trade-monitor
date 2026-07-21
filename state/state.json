@@ -603,7 +603,7 @@
     "previous": "580K"
    }
   ],
-  "cache_at": "2026-07-21T11:42:58.930311+09:00",
+  "cache_at": "2026-07-21T11:51:04.448847+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -624,10 +624,10 @@
  },
  "news_seen2": [
   "whyoilpriceshaventgonecrazydespite5monthsofusiranwar",
-  "whatischinasnextsurpriseforoilmarketslowerimportshigherfuelexports",
-  "yemenshouthisdeclarenavalblockadeonsaudiarabiawideningthreattoglobaloilsupplies",
-  "japansnikkeiralliesaftersteepdeclineasfocusturnstotechresults",
   "houthiredseablockadewouldliftoilpricesbutworkaroundscouldlimitimpact",
+  "yemenshouthisdeclarenavalblockadeonsaudiarabiawideningthreattoglobaloilsupplies",
+  "oilpricesriseduetotensionsbetweentheunitedstatesandiran",
+  "japansnikkeiralliesaftersteepdeclineasfocusturnstotechresults",
   "redseawarinsurancecostsriseafterhouthiblockadesourcessay",
   "europeansharesticklowerasinvestorsassessusiranjitterstechearningsloom",
   "houthisannouncesaudinavalblockadethreateningnewfrontinusiranwar",
@@ -638,7 +638,6 @@
   "euwaivespenaltiesforoilandgasfirmsthatbreachmethanelaw",
   "forgetcrudewarpushesrefinerstothebrink",
   "uspumppricescross4againonrenewedmiddleeastfighting",
-  "exclusivediplomaticeffortsseektoaverttrumpsplitwithunrefugeeagencysourcessay",
   "howpaypalwentfromwallstreetfavoritetounwillingmergertarget",
   "southkoreanstudentsaysstocksonlysalvationafter200kloss",
   "indiashdfcceoreappointmentdelayedbyboardreviewsourcessay",
@@ -646,7 +645,6 @@
   "couldaichipboommakeasmleuropesfirsttrilliondollarfirm",
   "freshthreattoglobaloilsupplysaudiarabiascrudeexportsatriskasyemenshouthislooktoimpose",
   "oilrefininghasbeenunderinvestedsaudiaramcosays",
-  "oilpricesriseduetotensionsbetweentheunitedstatesandiran",
   "eupausesmethanepenaltiesamidenergycrisisuspressure",
   "houthiblockadethreatopensnewfrontiniranwar",
   "houthisannounceblockadeonsaudiarabiarampingupredseatensions",
@@ -673,18 +671,18 @@
   "oilreversesasiranraiseshopesoffreshnegotiations",
   "yemenshouthissaytheywillimposenavalblockadeagainstsaudiarabia",
   "oilsteadiesonhopesofrenewedusirannegotiations",
-  "atleastsixdeadand21injuredaftertwinearthquakeshitperu",
   "singaporeministerresignsoverinteractionswithawomanlocalmediareports",
   "twodynacomtankersvesselsattackedoffomanamidescalatingusiranwar",
   "brentoiltops90asusiranintensifyattacksinmiddleeast",
   "argentineslamentworldcuplossandchancetobechampionsagain",
   "goldslipsasoilpricesadvancefedratehikevoicesgrow",
   "indiafxtraderseyeoilpricesrbidefencebondsbullsawaitindexdecision",
+  "diplomaticeffortsseektoaverttrumpsplitwithunrefugeeagencysourcessay",
   "dangoterefineryraises25billioninprivateplacementexecutivesays",
-  "conflictrattlesstocksbondsasoilholdsgainsmarketswrap",
+  "oilholdsgainastradersweighoutlookformiddleeastconflict",
   "bullmarketcheckinkeysignalstowatch",
   "throughthesystematiclensisfixedincomeadeadassetwalking",
-  "oilholdsgainastradersweighoutlookformiddleeastconflict",
+  "conflictrattlesstocksbondsasoilholdsgainsmarketswrap",
   "preciousmetalstalkingpoints072026stonexweeklygoldsilverroundupinflationcomponentswatchthe10yyield",
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "stagflationcallsforflexibilityinfixedincomenotabandonment",
@@ -733,6 +731,7 @@
   "watchinghyperscalerdebt",
   "whymoonshotais30bipocouldmatterforcryptonotjustai",
   "southkoreanstockssurpassbitcoininvolatilitybloombergreports",
+  "goldmansachssaysbrentmightriseabove120bblifhormuzremainsdisrupted",
   "nzdissolidlyhigherafterhigherthanexpectedcpibeawarethereisrbnzinflationdataduesoon",
   "southkoreasleeflagswonweaknessandleveragedproductrisks",
   "axiosreportsthattrumpnearsdecisionbetweennewiranceasefireandfullscalewar",
@@ -757,6 +756,9 @@
   "economicandeventcalendarinasiatuesdayjuly212026",
   "cbsnewsnearly100ustroopsinjurediniranianattacksmostreturntoduty",
   "axiostrumpisfocusingonmakingiranpayforviolationsofmouandrecentusdeaths",
+  "whatischinasnextsurpriseforoilmarketslowerimportshigherfuelexports",
+  "exclusivediplomaticeffortsseektoaverttrumpsplitwithunrefugeeagencysourcessay",
+  "atleastsixdeadand21injuredaftertwinearthquakeshitperu",
   "spindexmovesintonegativeterritory",
   "watchstocksgetliftfromchipmakersasoilrallywanes",
   "crudeoilfuturesettleat8248",
@@ -1120,8 +1122,6 @@
   "fivegulfsitesirancouldtargettoinflictmaximumcostsontheus",
   "circlegetsstreetlowtargetasstablecoincompetitionheatsup",
   "ubsamszhaosoursontreasuriesasusgrowthoutpaceseurope",
-  "theusblockadeisforcingiransenergytankerstozigzaganduturn",
-  "apollosinsurancerichesboostmissiontoredefinemegadealfinancing",
-  "whatsnextforbrentcrudetrafficinthestraitofhormuzatitslowestlevelinthreeweeks"
+  "theusblockadeisforcingiransenergytankerstozigzaganduturn"
  ]
 }
