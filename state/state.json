@@ -603,7 +603,7 @@
     "previous": "580K"
    }
   ],
-  "cache_at": "2026-07-21T15:44:51.789449+09:00",
+  "cache_at": "2026-07-21T15:53:21.662008+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -623,6 +623,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "iransaysanydecisiontoreopenthestraitofhormuzdependsonsecurityconsiderations",
   "whatarethemaineventsfortoday",
   "fxoptionexpiriesfor21july10amnewyorkcut",
   "ukunemploymentrateholdssteadyinmaypayrollsdeclineagaininjune",
@@ -1121,7 +1122,6 @@
   "aiuseisexplodingsoarethebills",
   "suspectedpiratesseizetankeroffyemencoastingulfofadensourcessay",
   "thehighestyieldingstocksonthetsxplusriskdata",
-  "basfseeksbankstoleadipoof20billionagrichemicalunit",
-  "hyperscalersaredraggingdownbondgaugesacrossglobalmarkets"
+  "basfseeksbankstoleadipoof20billionagrichemicalunit"
  ]
 }
