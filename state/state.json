@@ -611,7 +611,7 @@
     "previous": "580K"
    }
   ],
-  "cache_at": "2026-07-22T17:47:40.828183+09:00",
+  "cache_at": "2026-07-22T17:55:45.740715+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -631,11 +631,11 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "equinorprofitsoarsonwartimeoilandgasprices",
   "mideastwarescalationthreatensrecoveryinglobaloilrefining",
   "oilextendsrallyasbrentsurpasses92abarrel",
-  "yenslidespast163raisinginterventionalertbyreuters",
   "yenslidespast163raisinginterventionalert",
+  "yenslidespast163raisinginterventionalertbyreuters",
+  "saudiaramcoseekstoreroutecrudeawayfromstraitofhormuzsourcessay",
   "australiasoriginenergyprobespotentialunauthoriseddataaccess",
   "exclusiveegyptintalkswithenergymajorsformultiyearlngsupplydealsourcessay",
   "markettalksevereoilsupplyshortagespossibleifhouthisblockredsea",
@@ -644,19 +644,17 @@
   "exclusiveuschinatoholdaitalksinseptembersourcessay",
   "exclusivepakistanseeks10billionfundfromusaftermediatingirantalkssourcesays",
   "refinerselbowtraderstotakealargersliceofvenezuelasoil",
+  "russiareroutessiberianfueltoshieldmoscowfromshortages",
   "houthiredseathreatwouldchallengeastretchedusmilitary",
   "iranwarstagflationpremiumquietlymounts",
   "3mboostsannualprofitforecastdrivenbyresilientindustrialunit",
   "insideetfscanyourportfoliowinthearmsrace",
-  "roboticsstartuphumanoidraises152millionseriesaroundat135billionvaluation",
-  "saudiaramcoseekstoreroutecrudeawayfromstraitofhormuzsourcessay",
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
   "tankerswithsaudicrudeturnbackashouthisopennewfrontinusiranwar",
   "oilpricesresisttheusiranwar",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "houthishippingthreatraisesriskofnewfrontiniranconflictkursivmediaказахстанпоследниеновостиказахстанаимира",
-  "rubiosaysusstillwillingtonegotiateoverirancrisisworldnews",
   "indiaboundsaudicrudetankermakesuturnafterhouthiwarning",
   "hormuztensionspushindiatocanceliraqioilcargoesshafaqnewslatestbreakingnewsiniraqandtheworld",
   "iransoilsupplythreatextendsbeyondstraitofhormuz",
@@ -666,6 +664,8 @@
   "duetodronestrikesrussiahasrestoredlessthanhalfofthedamagedoilrefineries",
   "oilpricesriseslightlyafterusannouncesnewroundofstrikesoniran",
   "newworryforoilmarkettankerscarryingsaudicrudeforindiachinamakeauturninredseaonhouth",
+  "bojonalerttopricerisksthatmayleadtofasterratehikessourcessay",
+  "rubiosaysusstillwillingtonegotiateoverirancrisisworldnews",
   "goldneartwoweekhighaheadofnextweeksusinterestratedecision",
   "russiashieldsmoscowfromfuelshortagesatexpenseofotherregionsreutersreportsrbc",
   "russiasold435tonsofgoldinsixmonthstocoverthebudgetdeficit",
@@ -704,7 +704,6 @@
   "billionairemikebloombergwarnstrumpsaiownershipplanwouldmakegeorgeorwellblush",
   "watchtrumpsdutyongenericdrugsputsuslowcostsupplyatrisk",
   "watchustoincreasescrutinyofchineseaimodelsthechinashow7222026",
-  "senatorsquestioninsideraccesstotrumptruthsocialposts",
   "h2ofromairtechnologytosupplywaterstressedsuburbs",
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "oiltankersturnbackinredseaafterhouthiattackthreat",
@@ -723,6 +722,7 @@
   "form424b2jpmorganchaseampco",
   "lvmhthroughresultsseasonwhatminioptionschangeforasmallerportfolio",
   "kazakhstansuspendsoilsuppliestoblackseaterminalrbc",
+  "whatitcoststolendtoamerica514for20years",
   "ukinflationfallsto15monthlowasfuelandfoodpricesease",
   "nigeriarwandaamongafricasfastestmarketsforexpansionreportsays",
   "fgopensbidsas143companiescompetefor50oilgasblocks",
@@ -751,9 +751,11 @@
   "japantradedatashowsexportsinjunehigherthanexpected",
   "usattacksonirancontinueforthe11straightnight",
   "trumpsets2yeartariffexemptionforgenericdrugsthensteeprises",
+  "equinorprofitsoarsonwartimeoilandgasprices",
+  "roboticsstartuphumanoidraises152millionseriesaroundat135billionvaluation",
+  "senatorsquestioninsideraccesstotrumptruthsocialposts",
   "marketstrategistseespotentialforseveralfedratehikesin2027",
   "tsmcintalkstoraisepricesbyupto10in2027reportsays",
-  "russiareroutessiberianfueltoshieldmoscowfromshortages",
   "tsmctoraisechipmakingpricesbyupto10in2027nikkeiasiareports",
   "polymarkettightenssurveillanceagainstinsidertradingrefersnearly100walletstolawenforcement",
   "ubsliftssp500targetto8100seesearningsrallyunderestimated",
@@ -1128,8 +1130,6 @@
   "freshthreattoglobaloilsupplysaudiarabiascrudeexportsatriskasyemenshouthislooktoimposemaritimeblockade",
   "dollardriftsasusiranconflictintensifiessterlingincheshigher",
   "choppyoilkeepsinvestorsonedgestocksbraceforbigearningsweek",
-  "burnhampromisesneweconomicmodeltobringstabilitytouk",
-  "bondsunsettledasoilandgasclimbearningsloomforai",
-  "beijingmovestosteadymarketsafterbrutaltechstockslideregulatorcallsstabilitymeetingstatebuyersstepin"
+  "burnhampromisesneweconomicmodeltobringstabilitytouk"
  ]
 }
