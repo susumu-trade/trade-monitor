@@ -612,7 +612,7 @@
     "previous": "580K"
    }
   ],
-  "cache_at": "2026-07-23T15:44:51.381457+09:00",
+  "cache_at": "2026-07-23T15:52:56.961177+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -632,19 +632,19 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "oilpricesriseforafifthdayonsupplyconcernsamidchokepointthreats",
   "asianstocksriseasaicapexrampsupoilatsixweekhighs",
-  "cuttingoffredseaoilroutemaybeonecrisistoomany",
   "middleeasttensionspushoilpricestosixweekhighamidsupplyconcerns",
   "reutersegyptintalkswithenergymajorsformultiyearlngsupplydeal",
+  "cuttingoffredseaoilroutemaybeonecrisistoomany",
   "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
   "wallstreetindexesdipwithtechnologyearningsrisingoilinfocus",
   "morningbidalphabetting",
   "middleeastwardeepens2026oildeficitoutlookbut2027glutstilllooms",
   "japanspolicydoomloopsendsyento40yearlow",
   "bojonalerttopricerisksthatmayleadtofasterratehikessourcessay",
-  "europeunlikelytoreach80gasstoragetargetequinorceosays",
   "indiassurgingrefinedproductexportseaseasiafuelcrisis",
-  "mideastwarescalationthreatensrecoveryinglobaloilrefining",
+  "europeunlikelytoreach80gasstoragetargetequinorceosays",
   "exclusiveintelamdsignlongtermservercpudealswithchineseclientsaspricessurgesourcessay",
   "australiasoriginenergyconfirmscustomerdatabreach",
   "ibmcutsannualrevenuegrowthforecastascustomersprioritizeaiinfrastructurespending",
@@ -660,15 +660,15 @@
   "nighttimeshiptraffichasbeenbannedattherussianportofnovorossiyskreuters",
   "aidrivensoaringmemorycostsforcecarmakerstoweighpricehikes",
   "bangladeshgassupplyhitaslngterminalpartiallyshuts",
-  "rubiosaysusstillwillingtonegotiateoverirancrisis",
   "oilhit95andputmarketsonedge",
   "dollaredgeslowerafterfourdayrunofgainsyenstallednear40yearlow",
+  "rubiosaysusstillwillingtonegotiateoverirancrisis",
   "oilpricesrisetosixweekhighasusirantensionsescalate",
   "russiaisdivertingfuelfromsiberiatosavemoscowfromshortagessaysreuters",
   "houthishippingthreatraisesriskofnewfrontiniranconflictkursivmediaказахстанпоследниеновостиказахстанаимира",
   "oilextendsgainstonearsixweekhighsonnewmiddleeastsupplyrisks",
-  "iransoilsupplythreatextendsbeyondstraitofhormuz",
   "usirantensionsunderpindollarasyennears40yearlow",
+  "iransoilsupplythreatextendsbeyondstraitofhormuz",
   "houthisclaimattacksonsauditankersinredsearaisingriskofnewchokepointiniranwar",
   "europeanbuyersholdtalkstoshipcanadianlngviapanamacanaltodiversifysupply",
   "uschinatoholdaitalksinseptembersourcessayworldnews",
@@ -723,6 +723,7 @@
   "rubiojaishankarurgetradedealdespitepharmadutythreat",
   "howtetherbenefitedastrumpinsidersshapedfirstuscryptolaw",
   "trumps100genericdrugdutythreatensuslowcostsupply3",
+  "retinachipdesignedtorestoresighttogoonsaleineurope",
   "whenmonetarypolicysurprisesstoptranslating",
   "bloombergrussiawillingtoreturntonegotiationsafteroccupyingdonbas",
   "tsxrisestoreachnewrecordhighasinvestorsshrugofflatestustariffthreats",
@@ -739,6 +740,7 @@
   "ukinflationfallsto15monthlowasfuelandfoodpricesease",
   "dangoterepliesnnpconcrudeoilsupplyhikespetrolpricesnationwide",
   "pepetonamedthebestcryptotobuynowasbernsteinraisesrobinhoodtargetto160",
+  "francejulybusinessconfidence97vs95expected",
   "whatarethemaineventsfortoday",
   "fxoptionexpiriesfor23july10amnewyorkcut",
   "goldanalysistodayshowspricestuckinthisrange",
@@ -764,6 +766,7 @@
   "ukmilitaryreportyetanothertankerhasbeenstruckthistimeintheredsea",
   "washingtontoexpandnucleartechnologyexportstosaudiarabia",
   "investingliveamericasfxnewswrap22julmiddleeasttensionskeepmarketsonedgeoilhigher",
+  "mideastwarescalationthreatensrecoveryinglobaloilrefining",
   "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "thelongandshortofitanoldwarreturnsandthechiptrademeetsitsmargincall",
   "marketersincreasepetrolpricesbyn200lmrsnnpcothersadjustpumps",
@@ -775,7 +778,6 @@
   "indianshareslikelytofallasoilsurgedentssentiment",
   "thaibondsarebeatingasiaandanalystspredictfurthergains",
   "escalatingmiddleeastwarcouldslashglobalgrowthto13percentin2026worldbankchiefeconomistsays",
-  "retinachipdesignedtorestoresighttogoonsaleineurope",
   "rubiosaysusstillwillingtonegotiateoverirancrisisworldnews",
   "atleast15indianworkerstrappedaftertunnelblastkills10",
   "trumptakesanotherswingatdrugindustryinmadeinusapush",
@@ -1129,8 +1131,6 @@
   "brentoiltops90asusiranintensifyattacksinmiddleeast",
   "redseawarinsurancecostsriseafterhouthiblockadesourcessay",
   "oilpricesriseduetotensionsbetweentheunitedstatesandiran",
-  "europeansharesticklowerasinvestorsassessusiranjitterstechearningsloom",
-  "ukprimeministerburnhamannouncesvatcutfromenergybillstobringdowncostofliving",
-  "europebetsbigonelectrificationnowitneedspeopletoplugin"
+  "europeansharesticklowerasinvestorsassessusiranjitterstechearningsloom"
  ]
 }
