@@ -340,14 +340,6 @@
     "previous": "4.4%"
    },
    {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-07-23T02:02:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-8.6%"
-   },
-   {
     "title": "CBI Industrial Order Expectations",
     "country": "GBP",
     "date": "2026-07-23T06:00:00-04:00",
@@ -492,6 +484,14 @@
     "previous": "1.2%"
    },
    {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-07-24T02:02:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-8.6%"
+   },
+   {
     "title": "French Flash Manufacturing PMI",
     "country": "EUR",
     "date": "2026-07-24T03:15:00-04:00",
@@ -612,7 +612,7 @@
     "previous": "580K"
    }
   ],
-  "cache_at": "2026-07-23T15:32:42.680981+09:00",
+  "cache_at": "2026-07-23T15:44:51.381457+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -634,6 +634,7 @@
  "news_seen2": [
   "asianstocksriseasaicapexrampsupoilatsixweekhighs",
   "cuttingoffredseaoilroutemaybeonecrisistoomany",
+  "middleeasttensionspushoilpricestosixweekhighamidsupplyconcerns",
   "reutersegyptintalkswithenergymajorsformultiyearlngsupplydeal",
   "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
   "wallstreetindexesdipwithtechnologyearningsrisingoilinfocus",
@@ -652,11 +653,12 @@
   "wallstreetendshigheronchipstocksrecoveryearningsdrawfocus",
   "brazilunveils365bcreditplantocounterustariffs",
   "reutersrussiabansnighttimeshiptrafficatnovorossiyskportafterukrainiandroneattacks",
-  "aidrivensoaringmemorycostsforcecarmakerstoweighpricehikes",
   "globalrefinersarecuttingoutoiltraderstobuyvenezuelancrudedirectly",
   "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "australiantungstenminergetsbillionairebackingaspricessoar",
+  "goldretreatsfromtwoweekhighasrisingoilpricesshiftmarketfocus",
   "nighttimeshiptraffichasbeenbannedattherussianportofnovorossiyskreuters",
+  "aidrivensoaringmemorycostsforcecarmakerstoweighpricehikes",
   "bangladeshgassupplyhitaslngterminalpartiallyshuts",
   "rubiosaysusstillwillingtonegotiateoverirancrisis",
   "oilhit95andputmarketsonedge",
@@ -667,7 +669,6 @@
   "oilextendsgainstonearsixweekhighsonnewmiddleeastsupplyrisks",
   "iransoilsupplythreatextendsbeyondstraitofhormuz",
   "usirantensionsunderpindollarasyennears40yearlow",
-  "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "houthisclaimattacksonsauditankersinredsearaisingriskofnewchokepointiniranwar",
   "europeanbuyersholdtalkstoshipcanadianlngviapanamacanaltodiversifysupply",
   "uschinatoholdaitalksinseptembersourcessayworldnews",
@@ -691,8 +692,8 @@
   "metamorphosishowflowsownershipandtechnologyarechangingmarkets",
   "dailynaturalgasmarketupdate42126",
   "oiljumpsafterhouthisattacktwosauditankersintheredsea",
+  "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "oilpricesriseanother3whilewallstreetdriftsinmixedtrading",
-  "howtheiranwarisdisruptingglobaloilandgassupply",
   "uscrossbordermampamidyearoutlooksummer2026corporateandcompanylawunitedstates",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "theboomdailyoiltightensbitcoinstirstokyorewritescostofliving",
@@ -700,21 +701,22 @@
   "firstlooksupermicrosurgesoiljumpstrumpaccountsboostspym",
   "brentcrudeoiltests95perbarrel",
   "thissampp500metricjustsurpasseddotcombubblepeak",
-  "indiaisincreasingitspurchasesofrussianoilamidfallingprices",
   "sectorampindustryperformance",
+  "howtheiranwarisdisruptingglobaloilandgassupply",
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "trumps100genericdrugdutythreatensuslowcostsupply",
   "chineserefinersoffersomemiddleeastcrudeaspricesrebound",
   "rubiosayschinatradeinvestmentboardseyedbyxivisit",
   "jampjreceivesfdanodforitssofttissuesurgicalrobot",
+  "indiaisincreasingitspurchasesofrussianoilamidfallingprices",
   "bursalistedmitechnovationseekssgxlistingformaterialsarmasaifuelssemiconductorrally",
-  "thelongandshortofitanoldwarreturnsandthechiptrademeetsitsmargincall",
   "johnsonampjohnsonreceivesfdaapprovalforsofttissuesurgicalrobot",
   "robertdeniroonpullingvaxxedfromtribecafilmfestivalgreenwaynhls3mgudfd8g",
   "putindropsterritorialconcessionsdemandsallofdonetskoblast",
   "bloombergbankofjapanopentofasterratehikesasyenweaknessstirsinflation",
   "yensslumpintradeweightedgaugeshowsitsbroadbaseddrop",
   "nasdaqtokickofftinycompaniesfasteraftersecapprovesrule",
+  "investorspintheirhopesonearningsbreakout",
   "alphabetposts98billioninsecondquarterinvestmentgains",
   "ukinflationat15monthlowinbriefrespiteforconsumers",
   "fdaisinvestigatinganothercyclosporaparasiteoutbreak",
@@ -737,7 +739,6 @@
   "ukinflationfallsto15monthlowasfuelandfoodpricesease",
   "dangoterepliesnnpconcrudeoilsupplyhikespetrolpricesnationwide",
   "pepetonamedthebestcryptotobuynowasbernsteinraisesrobinhoodtargetto160",
-  "marketersincreasepetrolpricesbyn200lmrsnnpcothersadjustpumps",
   "whatarethemaineventsfortoday",
   "fxoptionexpiriesfor23july10amnewyorkcut",
   "goldanalysistodayshowspricestuckinthisrange",
@@ -763,10 +764,12 @@
   "ukmilitaryreportyetanothertankerhasbeenstruckthistimeintheredsea",
   "washingtontoexpandnucleartechnologyexportstosaudiarabia",
   "investingliveamericasfxnewswrap22julmiddleeasttensionskeepmarketsonedgeoilhigher",
+  "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
+  "thelongandshortofitanoldwarreturnsandthechiptrademeetsitsmargincall",
+  "marketersincreasepetrolpricesbyn200lmrsnnpcothersadjustpumps",
   "teslaq2profitmissesasmarginsslipdespiterevenueandfcfbeat",
   "moreredseashipmentsdisruptedasrubiosaysirannotseriousabouttalks",
   "analysisxijinpingmovestoburyascandalthatreacheshisinnercircle",
-  "investorspintheirhopesonearningsbreakout",
   "sampp500nasdaqcloseloweraheadoftechnologyearnings",
   "wellingtonvanguardblackstonelaunchfundstargetingwealthyinvestors",
   "indianshareslikelytofallasoilsurgedentssentiment",
@@ -775,7 +778,6 @@
   "retinachipdesignedtorestoresighttogoonsaleineurope",
   "rubiosaysusstillwillingtonegotiateoverirancrisisworldnews",
   "atleast15indianworkerstrappedaftertunnelblastkills10",
-  "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "trumptakesanotherswingatdrugindustryinmadeinusapush",
   "asianstocksriseafterustechearningsoilatsixweekhighs",
   "usstockindicesgiveuptheirgainsandcloselowerontheday",
@@ -1129,8 +1131,6 @@
   "oilpricesriseduetotensionsbetweentheunitedstatesandiran",
   "europeansharesticklowerasinvestorsassessusiranjitterstechearningsloom",
   "ukprimeministerburnhamannouncesvatcutfromenergybillstobringdowncostofliving",
-  "europebetsbigonelectrificationnowitneedspeopletoplugin",
-  "houthisannounceblockadeonsaudiarabiarampingupredseatensions",
-  "evennewyorkersthinkthisplaceistooexpensive"
+  "europebetsbigonelectrificationnowitneedspeopletoplugin"
  ]
 }
