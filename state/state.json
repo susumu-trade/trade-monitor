@@ -612,7 +612,7 @@
     "previous": "580K"
    }
   ],
-  "cache_at": "2026-07-24T10:17:58.459615+09:00",
+  "cache_at": "2026-07-24T10:26:02.115723+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -632,11 +632,10 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "twochinesesupertankerswithsaudioilexitredsea",
   "wallstfallsastechearningssparkaispendingworriesandoilhits100",
-  "japancoreinflationrateinjunecreepsupfrom4yearlowashigheroilpricesbite",
-  "reutersprojectsa60jumpinrussiasjulyoilandgasrevenue",
   "chinarefinerssnapupseptemberrussiancrudeeyeiranianoilasmideastsupplyrisksgrow",
+  "reutersprojectsa60jumpinrussiasjulyoilandgasrevenue",
+  "japancoreinflationrateinjunecreepsupfrom4yearlowashigheroilpricesbite",
   "europeansharespostbiggestdropintwoweeksonoilsurgeratehikeconcerns",
   "kazakhstanslowsoiloutputafterdronestrikesonexportport",
   "morningbidmagnificentcashburn",
@@ -647,7 +646,6 @@
   "addamonthatseaand25millionwhatitcostsoiltankerstofleehormuzandbabelmandeb",
   "nasdaqtopsprofitestimatesonhighprofilelistingsrobustdatarevenue",
   "stockssinkonbigtechcashburnoilhits100forfirsttimesincemay",
-  "usweeklyjoblessclaimsplungetolowestsince1969",
   "eutargetsrussianbanksinnewsanctionspackageoverukrainewar",
   "ushousevotestohaltiranwarinanothersymbolicrebukeoftrump",
   "aishortensdrugdiscoverytoaround1yearinchinainsilicoceosays",
@@ -667,8 +665,8 @@
   "geelyandfordteamuptorevivespanishautoplant",
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "russianoildiscountsdryupasmiddleeastcrisisdeepens",
-  "oilsettlesover100ashouthiattacksintensifymiddleeastsupplyrisks",
   "twochinesesupertankerswithsaudioilattemptredseaexitviababelmandeb",
+  "oilsettlesover100ashouthiattacksintensifymiddleeastsupplyrisks",
   "eufinesgoogle890mforbreachingdigitalmarketsact",
   "goldretreatsfromtwoweekhighasrisingoilpricesshiftmarketfocus",
   "iranflewirgccommandersmissilegeartoyemenshouthisreport",
@@ -682,6 +680,8 @@
   "iranflewirgccommandersmissilegeartoyemenshouthissourcessay",
   "reservebankdilemmawillcpisurprisetriggeranotherratehike",
   "reservebanksurpriseswithrateholdat7",
+  "usirantensionsunderpindollarasyennears40yearlow",
+  "oilpriceshoveratsixweekhighasmiddleeastshippingrisksescalate",
   "cansemiconductorexportspowerindiasnextgdpjumphereswhatkoreashows",
   "hormuzblockadedrivesgulfstatestofasttrackoilpipelines",
   "dpworldsigns50yearconcessiontobuildfujairahterminalsoutsidestraitofhormuz",
@@ -693,9 +693,9 @@
   "oilpriceshit100forthefirsttimesincemay",
   "fxfocus",
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
+  "asianstockssettofallasoilsurgespast100marketswrap",
   "oilsurgesabove100asmiddleeasttensionsrattleenergymarkets",
   "stagflationcallsforflexibilityinfixedincomenotabandonment",
-  "asianstockssettofallasoilsurgespast100marketswrap",
   "brentoiltopsus100perbarrelastumblesforteslaandalphabetyankwallstreetlower",
   "trumpallieseyesvbreviewaspathtooustafedgovernor1",
   "fxdailysnapshot",
@@ -738,6 +738,7 @@
   "chinatankerswithsaudicrudereachredseasbabelmandebchokepointdespitehouthithreat",
   "fgpledgessupportfordangoterefinerylaudscontributionstonigeria",
   "teslaspacextomergeintoworldsmostpowerfulaicompany",
+  "pbocsetsusdcnyreferenceratefortodayat67939vsestimateat67795",
   "japanwarnsoffastercostpassthroughinflationwhilebojexpectedtoholdratesnextweek",
   "japancompositepmirisesto531aswarrelatedcostpressurespersist",
   "japancorecpirises16injunematchingforecastusdjpylittlechanged",
@@ -762,9 +763,9 @@
   "thestorygetsworse30yearmortgageratesreachthehighestlevelsinceaugust2025",
   "usbroaderindicesdownsharplyandtestingtechnicaltargetsnasdaqdown",
   "prestrumpconsideringamassiveattackgreaterthananythingbefore",
+  "twochinesesupertankerswithsaudioilexitredsea",
+  "usweeklyjoblessclaimsplungetolowestsince1969",
   "wsjtimiraosfedisheadingintooneofthemostunpredictablemeetings",
-  "usirantensionsunderpindollarasyennears40yearlow",
-  "oilpriceshoveratsixweekhighasmiddleeastshippingrisksescalate",
   "magnificent7loses767billionasaiskepticsdumptechstocks",
   "smithtoutsalbertadiplomacyinfindingusadvocatestohelpholdofftrumptradewar",
   "trumpallieseyesvbreviewaspathtooustafedgovernor",
@@ -1130,7 +1131,6 @@
   "russiashieldsmoscowfromfuelshortagesatexpenseofotherregionsreutersreportsrbc",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "globalsharestrademixedasbrentoilkeepsrisingduetofightinginiran",
-  "us30yearmortgagehits11monthhighmbasays",
-  "attacksonoiltankershaveforcedkazakhstantosuspendoilexportsthroughtheblacksea"
+  "us30yearmortgagehits11monthhighmbasays"
  ]
 }
