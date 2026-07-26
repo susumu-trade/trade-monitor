@@ -773,7 +773,7 @@
     "previous": "4.2%"
    }
   ],
-  "cache_at": "2026-07-26T13:48:41.451629+09:00",
+  "cache_at": "2026-07-26T13:56:44.921014+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -793,11 +793,11 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "oilfallsonreportchinapushingforendusiranwar",
-  "reportiranflewirgccommandersmissileequipmenttoyemenshouthis",
   "kuwaitskpcsigns16billionleaseandleasebackdealforoilpipelinenetwork",
+  "reportiranflewirgccommandersmissileequipmenttoyemenshouthis",
   "saudiaramcoseekstoreroutecrudeawayfromstraitofhormuzsourcessay",
   "uspausesiranstrikesasrenewedyemenfightingwidensconflict",
+  "iranwarspreadstoredseaandcaspiangulfquietasusforgoesstrikes",
   "missilestargetingsaudioilrefineriesshotdownsourcessay",
   "houthisfireonsaudioilsitesnousstrikeoniranforfirsttimein2weeksworldnews",
   "physicaloilpricesjumpwithsomenearing110asiranukrainewarshitsupply",
@@ -805,13 +805,12 @@
   "saudiarabiainterceptshouthimissilestargetingoilrefineriesdailysabah",
   "ukmtoreportstankerincidentingulfofoman",
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
+  "trumpclaims2020electionriggedatleast107timesinsixmonthsasmidtermsloom",
   "saudishouthisexchangefireasoilrefinerytargetedinmadinahdaily",
   "theweekinbreakingviewswhenaimodelscollide",
-  "iranwarspreadstoredseaandcaspiangulfquietasusforgoesstrikesworldnews",
-  "liveupdateslatestfromisraeliranandmiddleeast",
-  "iranwarspreadstoredseaandcaspiangulfquietasusforgoesstrikes",
-  "imolaemergesaspossiblef1seasonendermalaysiareturnimminentworldnews",
   "oilslipsfrom100asopecsignalsmoresupplymarketersraisefreshpetrolpriceconcerns",
+  "liveupdateslatestfromisraeliranandmiddleeast",
+  "iranwarspreadstoredseaandcaspiangulfquietasusforgoesstrikesworldnews",
   "tensionssurgesaudidefenseinterceptsmissilesamidoilchokepointscrisis",
   "ksabusinessmissilestargetingsaudioilrefineriesshotdownsourcessay",
   "reutersgreekmilitaryoperatedairdefensesystemshootsdownmissilesoversaudiarabia",
@@ -827,6 +826,7 @@
   "saudiarabiaboundsupertankeruturnsbeforehouthichokepoint",
   "majorrussianblackseaoilterminalhaltsoperationsamidukrainiandronethreat",
   "patienceliquidityandthevalueofoptionality",
+  "benchmarksgilmandiscussesbpsharepriceoutlookvideomikeymooremdgt4zttf1",
   "healthcaresectorampindustryperformance",
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "saudioilcanstillgetoutbutitwontbecheaporeasy",
@@ -859,9 +859,10 @@
   "theeurusdusdjpyandgbpusdarelittlechangedtostartthenatradingsessionwhatnext",
   "howtotradebitcointoday",
   "ecbpolicymakersreiteratetheyarenotseeingsecond",
-  "benchmarksgilmandiscussesbpsharepriceoutlookvideomikeymooremdgt4zttf1",
+  "ukraineszelenskiyrussiawantstobringin30000northkoreantroopstoconflictworldnews",
+  "oilfallsonreportchinapushingforendusiranwar",
+  "imolaemergesaspossiblef1seasonendermalaysiareturnimminentworldnews",
   "opeclikelytoraiseseptemberoiloutputtarget",
-  "trumpclaims2020electionriggedatleast107timesinsixmonthsasmidtermsloom",
   "houthistrikeburnsjizanaramcorefineryyanbuattacksealssaudiarabiasoiltrap",
   "trumpstariffsarelikelytostickarounddespiteunpopularity",
   "mideastwarescalationthreatensrecoveryinglobaloilrefining",
@@ -1291,7 +1292,6 @@
   "watchoilpricesspikeafterhouthistargetshipsinredsea",
   "watchustoincreasescrutinyofchineseaimodelsthechinashow7232026",
   "asianoilbuyersintalkswithsaudistorerouteredseaflows",
-  "heatworriesuswheatfarmersjustascroppricesaresurging",
-  "ecbslagarderecentdatapointstosomeimprovementineconomicactivity"
+  "heatworriesuswheatfarmersjustascroppricesaresurging"
  ]
 }
