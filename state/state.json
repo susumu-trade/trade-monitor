@@ -773,7 +773,7 @@
     "previous": "4.2%"
    }
   ],
-  "cache_at": "2026-07-26T19:36:17.790778+09:00",
+  "cache_at": "2026-07-26T19:48:22.542146+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -793,11 +793,13 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "iranwarspreadstoredseaandcaspiangulfquietasusforgoesstrikes",
+  "mainlandcrossingbetweenkuwaitandiraqreopensiraqsstatenewsagencysays",
+  "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "reportiranflewirgccommandersmissileequipmenttoyemenshouthis",
+  "iranwarspreadstoredseaandcaspiangulfquietasusforgoesstrikes",
   "missilestargetingsaudioilrefineriesshotdownsourcessayal",
-  "saudiaramcoseekstoreroutecrudeawayfromstraitofhormuzsourcessay",
   "uspausesiranstrikesasrenewedyemenfightingwidensconflict",
+  "saudiaramcoseekstoreroutecrudeawayfromstraitofhormuzsourcessay",
   "houthisfireonsaudioilsitesnousstrikeoniranforfirsttimein2weeksworldnews",
   "greekdefensesysteminsaudiarabiainterceptsmissilesfromyemennoiranstrikesreported",
   "indiasworldathleticssilvermeetaddsiraqshafaqnewslatestbreakingnewsiniraqandtheworld",
@@ -808,6 +810,7 @@
   "ksabusinessmissilestargetingsaudioilrefineriesshotdownsourcessay",
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
   "iranwarspreadstoredseaandcaspiangulfquietasusforgoesstrikesworldnews",
+  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "greekoperatedpatriotsysteminterceptsmissilestargetingsaudioilfacilities",
   "oilnear100putsfedandpeersininterestratespotlight",
   "abovethenoiselookbeyondaipullback",
@@ -848,7 +851,6 @@
   "theeurusdusdjpyandgbpusdarelittlechangedtostartthenatradingsessionwhatnext",
   "howtotradebitcointoday",
   "ecbpolicymakersreiteratetheyarenotseeingsecond",
-  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "modiurgeslimitsonfuelusetravelandimportstosaveforex",
   "trumpclaims2020electionriggedatleast107timesinsixmonthsasmidtermsloom",
   "ukmtoreportstankerincidentingulfofoman",
@@ -905,7 +907,6 @@
   "europeanbuyersholdtalkstoshipcanadianlngviapanamacanaltodiversifysupply",
   "chinasrongshengweighsalbertatobcpipelineoilsupplypact",
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
-  "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "usnaturalgassupplyoutlookhingesonthreekeyshalebasinsmaguire",
   "iranshormuztollboothsettohardwirehigherenergypricesbousso",
   "biweeklyinvestmentinsightsearningsremainthecleardriverforequityreturnsyetriskunderdelivering",
@@ -1291,7 +1292,6 @@
   "canadapmcarneywillnothesitatetodefenditsinterestintradewarwiththeus",
   "oilpricesrisetosixweekhighasusirantensionsescalate",
   "yensslumpintradeweightedgaugeshowsitsbroadbaseddrop",
-  "usdismovinghigherasyieldsmovehigherstockslowerandoilhigher",
-  "usstockscontinuetobeunderintensepressureinpremarkettrading"
+  "usdismovinghigherasyieldsmovehigherstockslowerandoilhigher"
  ]
 }
