@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-07-26",
+  "last_digest": "2026-07-27",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -773,7 +773,7 @@
     "previous": "4.2%"
    }
   ],
-  "cache_at": "2026-07-27T06:56:50.627712+09:00",
+  "cache_at": "2026-07-27T07:08:55.837842+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -797,20 +797,17 @@
   "russiacutsoiloutputinaprilsourcessayenergynewstopheadlinescommentariesfeaturesampevents",
   "aftertrumpcallsoffbombingiransignalsitwillhaltstrikesaslongasusdoes",
   "liveupdateslatestfromisraeliranandmiddleeast",
-  "usforgoesstrikesoniranbutconflictescalatesintheredsea",
+  "usforgoesstrikesoniranbutconflictintheredseaescalates",
   "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
   "irantohaltattacksaslongasusmaintainslatestpausesenioriraniansourcetellsreuters",
   "ukraineandtheuswillproposeanairceasefiretorussiareuters",
-  "kremlinsaystooearlytocommentonreportedusukraineairceasefiretalks",
+  "brazilrecallsambassadortoargentinaaftermileiattackslulasourcessay",
   "ukraineandusarepreparingnewairceasefireproposalsforrussiareuterssays",
   "saudiarabiashiftstosuezashouthisdrivebabalmandeboilexportstonearzero",
   "trumphaltsattacksiranfollowssuit",
   "iranwillhaltattackswhileusmaintainspausesourcesaysaftertrumpcallsoffstrikes",
   "africafacing1020bneconomichitfromsuperelniñoafdbclimatechiefwarns",
   "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
-  "brazilrecallsambassadortoargentinaaftermileiattackslulasourcessay",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "uspausesiranstrikesasrenewedyemenfightingwidensconflict",
   "iranssabrerattlingshouldnotintimidateukwesstreetingsays",
   "iranwarspreadstoredseaandcaspiangulfquietasusforgoesstrikesworldnews",
   "usisraeliranwarlatestlivenewstrumpgivesirantalkssomespaceastehransaysitwillhaltattacksduringusstrikepause",
@@ -826,6 +823,7 @@
   "deepseektellsprospectiveinvestorsoffundingpausebloombergnewsreports",
   "longtermrateheadache",
   "dangoterefinerydepotsreleasenewfuelpricesinlagosphotherstates",
+  "oildropsstockfuturessurgeattheweeklyopen",
   "earlyindicationsforthefxmarketthisweek",
   "weekaheadfortradersfomcboebojuspceandgdpcreatemajorcross",
   "iransaysitwillhaltstrikessolongasuspausecontinues",
@@ -850,9 +848,13 @@
   "thejulyflashspglobalmanufacturing538vs543estimate",
   "usdchftradestohighestlevelgoingbacktojune2025",
   "explosionsreportedinsaudiarabia",
+  "usforgoesstrikesoniranbutconflictescalatesintheredsea",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "canadajuneppi14versus",
-  "thetrumptradehaslost16sincemayandtheiranconflictjustexposeditsfatalflaw",
   "eurodollarlloydsforecastseurusdfalltowards112",
+  "kremlinsaystooearlytocommentonreportedusukraineairceasefiretalks",
+  "uspausesiranstrikesasrenewedyemenfightingwidensconflict",
+  "thetrumptradehaslost16sincemayandtheiranconflictjustexposeditsfatalflaw",
   "iranwillhaltattacksaslongasusmaintainspauseiraniansourcesaysaftertrumpcallsoffstrikes",
   "canadanewhousingpriceindexforjune01vs",
   "theeurusdusdjpyandgbpusdarelittlechangedtostartthenatradingsessionwhatnext",
@@ -1290,8 +1292,6 @@
   "whenmonetarypolicysurprisesstoptranslating",
   "australiantungstenminergetsbillionairebackingaspricessoar",
   "economicandeventcalendarinasiafridayjuly242026",
-  "oiljumpsafterhouthisattacktwosauditankersintheredsea",
-  "carneycanadafocusedonacomprehensiveusmcadeal",
-  "southkoreassoilcancelsfuelsaleashouthisthreatenflows"
+  "oiljumpsafterhouthisattacktwosauditankersintheredsea"
  ]
 }
