@@ -773,7 +773,7 @@
     "previous": "4.2%"
    }
   ],
-  "cache_at": "2026-07-27T05:43:50.603219+09:00",
+  "cache_at": "2026-07-27T05:55:54.572290+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -793,18 +793,23 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "aftertrumpcallsoffbombingiransignalsitwillhaltstrikesaslongasusdoes",
+  "iransaysitwillhaltstrikesaslongasusbombingpauseholds",
+  "russiacutsoiloutputinaprilsourcessayenergynewstopheadlinescommentariesfeaturesampevents",
   "usforgoesstrikesoniranbutconflictescalatesintheredsea",
   "irantohaltattacksaslongasusmaintainslatestpausesenioriraniansourcetellsreuters",
   "kremlinsaystooearlytocommentonreportedusukraineairceasefiretalks",
+  "ukraineandtheuswillproposeanairceasefiretorussiareuters",
   "saudiarabiashiftstosuezashouthisdrivebabalmandeboilexportstonearzero",
   "ukraineandusarepreparingnewairceasefireproposalsforrussiareuterssays",
+  "aftertrumpcallsoffbombingiransignalsitwillhaltstrikesaslongasusdoes",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "trumphaltsattacksiranfollowssuit",
-  "iranwillhaltattacksaslongasusmaintainspauseiraniansourcesaysaftertrumpcallsoffstrikes",
   "africafacing1020bneconomichitfromsuperelniñoafdbclimatechiefwarns",
+  "iranwillhaltattacksaslongasusmaintainspauseiraniansourcesaysaftertrumpcallsoffstrikes",
+  "uspausesiranstrikesasrenewedyemenfightingwidensconflict",
   "liveupdateslatestfromisraeliranandmiddleeast",
-  "iranwarspreadstoredseaandcaspiangulfquietasusforgoesstrikesworldnews",
   "iranssabrerattlingshouldnotintimidateukwesstreetingsays",
+  "iranwarspreadstoredseaandcaspiangulfquietasusforgoesstrikesworldnews",
   "usisraeliranwarlatestlivenewstrumpgivesirantalkssomespaceastehransaysitwillhaltattacksduringusstrikepause",
   "inthedarkandcoldeuropewillnotbeabletofillitsgasstoragefacilitiesbywinterᐉnewsfromfaktibgworld",
   "greekoperatedpatriotsysteminterceptsmissilestargetingsaudioilfacilities",
@@ -818,6 +823,7 @@
   "deepseektellsprospectiveinvestorsoffundingpausebloombergnewsreports",
   "longtermrateheadache",
   "dangoterefinerydepotsreleasenewfuelpricesinlagosphotherstates",
+  "iransaysitwillhaltstrikessolongasuspausecontinues",
   "newsquawkweekinfocusfomcboebojuspceusgdpandezcpi",
   "whatistradecompassatinvestinglivecomtradingmethodolgyexplainedandhowtraderscanutilizeit",
   "investingliveamericasfxnewswrap24julgeopoliticsremainthefocusfortraders",
@@ -842,12 +848,10 @@
   "canadajuneppi14versus",
   "canadanewhousingpriceindexforjune01vs",
   "theeurusdusdjpyandgbpusdarelittlechangedtostartthenatradingsessionwhatnext",
+  "usoilsanctionspushbeijingtotestwashingtonslimits",
   "howtotradebitcointoday",
   "thetrumptradeisturningintoaloserinthestockmarket",
-  "russiacutsoiloutputinaprilsourcessayenergynewstopheadlinescommentariesfeaturesampevents",
-  "ukraineandtheuswillproposeanairceasefiretorussiareuters",
   "iranwillhaltattackswhileusmaintainspausesourcesaysaftertrumpcallsoffstrikes",
-  "usoilsanctionspushbeijingtotestwashingtonslimits",
   "mostgulfmarketseaseafterhouthiattacksonsaudiredseaoilsites",
   "ecbpolicymakersreiteratetheyarenotseeingsecond",
   "trumpclaims2020electionriggedatleast107timesinsixmonthsasmidtermsloom",
@@ -861,7 +865,6 @@
   "houthisfireonsaudioilsitesnousstrikeoniranforfirsttimeintwoweeks",
   "modiurgeslimitsonfuelusetravelandimportstosaveforex",
   "whoisjuanorlandohernándezformerhonduranpresidentreturnshomeafterdonaldtrumppardon",
-  "uspausesiranstrikesasrenewedyemenfightingwidensconflict",
   "mainlandcrossingbetweenkuwaitandiraqreopensiraqsstatenewsagencysays",
   "iranwarspreadstoredseaandcaspiangulfquietasusforgoesstrikes",
   "missilestargetingsaudioilrefineriesshotdownsourcessayal",
@@ -943,7 +946,6 @@
   "nasdaqlagsonangstoveraispendingaheadofearningsreports",
   "howseismicquakesensorscanhelptrackspacejunkasitfalls",
   "exclusiveitsaiagentspentdayshackingacompanybutsourcessayopenaididnotnoticeforaweek",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "watchiranwarspursjumpincoalenergymarkets",
   "energyservicessettobenefitonceiranwarendsbarclayssays",
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
@@ -1290,8 +1292,6 @@
   "usirantensionsunderpindollarasyennears40yearlow",
   "crudeoilfuturessettledat9219up536or617",
   "amdandcerbrasformapartnershipthatmakeschipsfasterandmoreefficient",
-  "trumpallieseyesvbreviewasnewpathtooustafedgovernor",
-  "trumpallieseyesvbreviewaspathtooustafedgovernor1",
-  "eurusdtraderstookthepricetotheedgelookedoverandturnedback"
+  "trumpallieseyesvbreviewasnewpathtooustafedgovernor"
  ]
 }
