@@ -773,7 +773,7 @@
     "previous": "4.2%"
    }
   ],
-  "cache_at": "2026-07-26T23:57:43.007495+09:00",
+  "cache_at": "2026-07-27T00:05:46.311231+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -793,21 +793,20 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "mainlandcrossingbetweenkuwaitandiraqreopensiraqsstatenewsagencysays",
   "iranwillhaltattacksaslongasusmaintainspauseiraniansourcesaysaftertrumpcallsoffstrikes",
-  "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
+  "mainlandcrossingbetweenkuwaitandiraqreopensiraqsstatenewsagencysays",
+  "usforgoesstrikesoniranbutconflictescalatesintheredsea",
   "africafacing1020bneconomichitfromsuperelniñoafdbclimatechiefwarns",
   "reportiranflewirgccommandersmissileequipmenttoyemenshouthis",
-  "kremlinsaystooearlytocommentonreportedusukraineairceasefiretalks",
   "houthisfireonsaudiredseaoilsites",
+  "kremlinsaystooearlytocommentonreportedusukraineairceasefiretalks",
   "iranwarspreadstoredseaandcaspiangulfquietasusforgoesstrikesworldnews",
   "houthisfireonsaudioilsitesnousstrikeoniranforfirsttimeintwoweeks",
-  "iranwarspreadstoredseaandcaspiangulfquietasusforgoesstrikes",
+  "modiurgeslimitsonfuelusetravelandimportstosaveforex",
   "imolaemergesaspossiblef1seasonendermalaysiareturnimminentworldnews",
   "greekoperatedpatriotsysteminterceptsmissilestargetingsaudioilfacilities",
   "oilnear100putsfedandpeersininterestratespotlight",
   "abovethenoiselookbeyondaipullback",
-  "forbesrealtimebillionaireslisttheworldsrichestpeople",
   "stocksdeclineastbillyieldsandoilpriceclimbweeklymarketrecap",
   "thetrumptradehaslost16sincemayandtheiranconflictjustexposeditsfatalflaw",
   "noneedtoreadjustbudgetnumbersyetfmnirmalasitharaman",
@@ -841,8 +840,10 @@
   "theeurusdusdjpyandgbpusdarelittlechangedtostartthenatradingsessionwhatnext",
   "howtotradebitcointoday",
   "ecbpolicymakersreiteratetheyarenotseeingsecond",
-  "modiurgeslimitsonfuelusetravelandimportstosaveforex",
+  "iranwarspreadstoredseaandcaspiangulfquietasusforgoesstrikes",
   "trumpclaims2020electionriggedatleast107timesinsixmonthsasmidtermsloom",
+  "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
+  "forbesrealtimebillionaireslisttheworldsrichestpeople",
   "missilestargetingsaudioilrefineriesshotdownsourcessayal",
   "houthisfireonsaudioilsitesnousstrikeoniranforfirsttimein2weeksworldnews",
   "indiasworldathleticssilvermeetaddsiraqshafaqnewslatestbreakingnewsiniraqandtheworld",
@@ -1291,7 +1292,6 @@
   "oilpriceshoveratsixweekhighasmiddleeastshippingrisksescalate",
   "prestrumpconsideringamassiveattackgreaterthananythingbefore",
   "wsjtimiraosfedisheadingintooneofthemostunpredictablemeetings",
-  "trumpallieseyesvbreviewaspathtooustafedgovernor",
-  "ustreasuryyieldsriseto2026highsasoilgainssparkfedbet"
+  "trumpallieseyesvbreviewaspathtooustafedgovernor"
  ]
 }
