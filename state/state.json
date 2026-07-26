@@ -773,7 +773,7 @@
     "previous": "4.2%"
    }
   ],
-  "cache_at": "2026-07-27T03:15:07.670760+09:00",
+  "cache_at": "2026-07-27T03:23:10.903386+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -793,13 +793,16 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "iranwillhaltattacksaslongasusmaintainspauseiraniansourcesaysaftertrumpcallsoffstrikes",
+  "aftertrumpcallsoffbombingiransignalsitwillhaltstrikesaslongasusdoes",
   "usforgoesstrikesoniranbutconflictescalatesintheredsea",
   "mostgulfmarketseaseafterhouthiattacksonsaudiredseaoilsites",
   "irantohaltattacksaslongasusmaintainslatestpausesenioriraniansourcetellsreuters",
+  "ukraineandusarepreparingnewairceasefireproposalsforrussiareuterssays",
   "saudiarabiashiftstosuezashouthisdrivebabalmandeboilexportstonearzero",
   "trumphaltsattacksiranfollowssuit",
   "africafacing1020bneconomichitfromsuperelniñoafdbclimatechiefwarns",
+  "iranwillhaltattacksaslongasusmaintainspauseiraniansourcesaysaftertrumpcallsoffstrikes",
+  "kremlinsaystooearlytocommentonreportedusukraineairceasefiretalks",
   "liveupdateslatestfromisraeliranandmiddleeast",
   "reportiranflewirgccommandersmissileequipmenttoyemenshouthis",
   "houthisfireonsaudiredseaoilsites",
@@ -821,7 +824,6 @@
   "longtermrateheadache",
   "dangoterefinerydepotsreleasenewfuelpricesinlagosphotherstates",
   "netflixsharesfellafterresultsisthisabuyingopportunityorawarningforinvestors",
-  "inapickle",
   "whatistradecompassatinvestinglivecomtradingmethodolgyexplainedandhowtraderscanutilizeit",
   "investingliveamericasfxnewswrap24julgeopoliticsremainthefocusfortraders",
   "usindicesclosemixeddowupspunchangednasdaqdown",
@@ -847,7 +849,7 @@
   "theeurusdusdjpyandgbpusdarelittlechangedtostartthenatradingsessionwhatnext",
   "howtotradebitcointoday",
   "ecbpolicymakersreiteratetheyarenotseeingsecond",
-  "kremlinsaystooearlytocommentonreportedusukraineairceasefiretalks",
+  "inapickle",
   "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "forbesrealtimebillionaireslisttheworldsrichestpeople",
   "houthisfireonsaudioilsitesnousstrikeoniranforfirsttimeintwoweeks",
@@ -1290,8 +1292,6 @@
   "fundmanagerswanttaiwanregulatorstoliftbanonmobilephonesbloomberg",
   "eugooglefineescalatesus",
   "japancoreinflationrateinjunecreepsupfrom4yearlowashigheroilpricesbite",
-  "ussenateblocksresolutioncurbingtrumpsiranwarpowerstensionsremainhigh",
-  "rubiojaishankarurgetradedealdespitepharmadutythreat",
-  "thestorygetsworse30yearmortgageratesreachthehighestlevelsinceaugust2025"
+  "ussenateblocksresolutioncurbingtrumpsiranwarpowerstensionsremainhigh"
  ]
 }
