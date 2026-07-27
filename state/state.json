@@ -773,7 +773,7 @@
     "previous": "4.2%"
    }
   ],
-  "cache_at": "2026-07-27T14:44:31.136468+09:00",
+  "cache_at": "2026-07-27T14:56:36.948127+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -793,9 +793,10 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "oilslips4afterusiranpausefightingoverweekend",
   "crudeoilfuturesarepricingmarketadaptabilitynothopefuliranpeace",
+  "oilslips4afterusiranpausefightingoverweekend",
   "russiacutsoiloutputinaprilsourcessayenergynewstopheadlinescommentariesfeaturesampevents",
+  "oilpricesslipafteruspausesstrikesoniran",
   "chinacankeepdousingworldsoilpriceflames",
   "indianrupeeheadsforsteepestriseinthreeweeksasoilfalls",
   "irantohaltattacksaslongasusmaintainslatestpausesenioriraniansourcetellsreuters",
@@ -805,7 +806,6 @@
   "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
   "sheinpostsquarterlylossastariffshitaheadofhongkongipo",
   "usforgoesstrikesoniranbutconflictintheredseaescalates",
-  "ukraineandtheuswillproposeanairceasefiretorussiareuters",
   "mostgulfmarketseaseafterhouthiattacksonsaudiredseaoilsites",
   "usdjpyweeklyoutlookfedbojandhormuzrisksput165infocus",
   "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
@@ -813,6 +813,7 @@
   "redseashippingslowsafterhouthiattackonsaudiarabiadatashows",
   "iransaysitwillhaltstrikesaslongasusbombingpauseholds",
   "brazilrecallsambassadortoargentinaaftermileiattackslulasourcessay",
+  "ukraineandtheuswillproposeanairceasefiretorussiareuters",
   "ukraineandusarepreparingnewairceasefireproposalsforrussiareuterssays",
   "howsingaporesuniquemonetarypolicyworks",
   "oiltankerexplodesafterhittingnavalmineinstraitofhormuzirgclinkedmediaclaimsreport",
@@ -830,13 +831,13 @@
   "oilslumpsatweeksopenaswashingtonandtehranpauseattacks",
   "braceforafloodofoilassoonashormuzreopensenergynewstopheadlinescommentariesfeaturesampevents",
   "iraqsyriatosignpipelinedealtolinkoilproductionsitestoglobalmarkets",
-  "fedfacesgrowingpressuretohikeratesaspricerisksrebound",
-  "priceshockisboonforoilstockscurseforrenewables",
   "bitcoinetfsendinflowstreakasfedrateconcernsmount",
+  "priceshockisboonforoilstockscurseforrenewables",
+  "fedfacesgrowingpressuretohikeratesaspricerisksrebound",
   "metaq22026earningspreviewcanaiadspayoff",
-  "abovethenoiselookbeyondaipullback",
   "americansrelationshipwithgaspricesiscomplicated",
   "weeklyeconomicampmarketupdateeverythingeverywhereallatoncewarsurgingoilpricesmoretariffsrisingratesandbondyieldsampaiwor",
+  "abovethenoiselookbeyondaipullback",
   "smallcapsaretopassetclassin2026sofarbutdidtheybeatgoldsilverdebtinthelongrun10yea",
   "energyservicessettobenefitonceiranwarendsbarclayssays",
   "goldclimbsaspauseinmideastfightingcurbsinflationrisk",
@@ -873,8 +874,8 @@
   "pakistanisexploringapathtowardaresumptionofusirantalksoilmoveslower",
   "trumpitrustxiandputinwhenitcomestosellingmunitionstoiran",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "breakingviewschinacankeepdousingworldsoilpriceflames",
   "forbesrealtimebillionaireslisttheworldsrichestpeople",
+  "breakingviewschinacankeepdousingworldsoilpriceflames",
   "eurodollarlloydsforecastseurusdfalltowards112",
   "deepseektellsprospectiveinvestorsoffundingpausebloombergnewsreports",
   "willthefedpivotonratesorjustgetstuck",
@@ -1291,7 +1292,6 @@
   "japancompositepmirisesto531aswarrelatedcostpressurespersist",
   "oilpricesextendrallyforfifthdayonsupplyfears",
   "houthissaytheyattackedtwosauditankerssaudiarabiasaysoneablazeinredsea",
-  "teslaspacextomergeintoworldsmostpowerfulaicompany",
-  "japancorecpirises16injunematchingforecastusdjpylittlechanged"
+  "teslaspacextomergeintoworldsmostpowerfulaicompany"
  ]
 }
