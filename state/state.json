@@ -773,7 +773,7 @@
     "previous": "4.2%"
    }
   ],
-  "cache_at": "2026-07-27T10:10:34.581363+09:00",
+  "cache_at": "2026-07-27T10:18:55.221201+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -793,24 +793,26 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "mostgulfmarketseaseafterhouthiattacksonsaudiredseaoilsites",
+  "crudeoilfuturesarepricingmarketadaptabilitynothopefuliranpeace",
   "russiacutsoiloutputinaprilsourcessayenergynewstopheadlinescommentariesfeaturesampevents",
-  "iransaysitwillhaltstrikesaslongasusbombingpauseholds",
+  "mostgulfmarketseaseafterhouthiattacksonsaudiredseaoilsites",
   "aftertrumpcallsoffbombingiransignalsitwillhaltstrikesaslongasusdoes",
   "irantohaltattacksaslongasusmaintainslatestpausesenioriraniansourcetellsreuters",
-  "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
   "usforgoesstrikesoniranbutconflictintheredseaescalates",
+  "iransaysitwillhaltstrikesaslongasusbombingpauseholds",
+  "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
   "ukraineandtheuswillproposeanairceasefiretorussiareuters",
   "ukraineandusarepreparingnewairceasefireproposalsforrussiareuterssays",
   "saudiarabiashiftstosuezashouthisdrivebabalmandeboilexportstonearzero",
-  "redseashippingslowsafterhouthiattackonsaudiarabiadatashows",
   "oiltankerexplodesafterhittingnavalmineinstraitofhormuzirgclinkedmediaclaimsreport",
   "trumphaltsattacksiranfollowssuit",
   "africafacing1020bneconomichitfromsuperelniñoafdbclimatechiefwarns",
+  "oilslips5afterusiranpausefightingoverweekend",
   "eurodollarlloydsforecastseurusdfalltowards112",
   "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
-  "iranwillhaltattacksaslongasusmaintainspauseiraniansourcesays",
+  "redseashippingslowsafterhouthiattackonsaudiarabiadatashows",
   "brazilrecallsambassadortoargentinaaftermileiattackslulasourcessay",
+  "iranwillhaltattacksaslongasusmaintainspauseiraniansourcesays",
   "iranssabrerattlingshouldnotintimidateukwesstreetingsays",
   "usisraeliranwarlatestlivenewstrumpgivesirantalkssomespaceastehransaysitwillhaltattacksduringusstrikepause",
   "greekoperatedpatriotsysteminterceptsmissilestargetingsaudioilfacilities",
@@ -855,7 +857,6 @@
   "prestrumptomeetwithisraelprimeministernetanyahuontuesdayatthewhitehouse",
   "usnewhomesalesforthemonthofjune0628mversus0610mestimate",
   "thejulyflashspglobalmanufacturing538vs543estimate",
-  "oilslips5afterusiranpausefightingoverweekend",
   "inthedarkandcoldeuropewillnotbeabletofillitsgasstoragefacilitiesbywinterᐉnewsfromfaktibgworld",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "kremlinsaystooearlytocommentonreportedusukraineairceasefiretalks",
@@ -1291,7 +1292,6 @@
   "iranwarescalationthreatensglobalfuelsupplyrecovery",
   "investingliveamericasfxnewswrap23julriskoffsentimentasgeopoliticaltensionsrise",
   "trumpunveilsnewtariffsdesignedtosurvivelegalchallengewsjreports",
-  "goldretreatsfromtwoweekhighasrisingoilpricesshiftmarketfocus",
-  "middleeasttensionspushoilpricestosixweekhighamidsupplyconcerns"
+  "goldretreatsfromtwoweekhighasrisingoilpricesshiftmarketfocus"
  ]
 }
