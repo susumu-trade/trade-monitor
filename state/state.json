@@ -130,7 +130,7 @@
     "country": "GBP",
     "date": "2026-07-27T19:01:00-04:00",
     "impact": "Low",
-    "forecast": "1.2%",
+    "forecast": "1.1%",
     "previous": "1.2%"
    },
    {
@@ -154,13 +154,13 @@
     "country": "EUR",
     "date": "2026-07-28T03:00:00-04:00",
     "impact": "Low",
-    "forecast": "10.7%",
+    "forecast": "10.1%",
     "previous": "10.8%"
    },
    {
     "title": "German Buba Monthly Report",
     "country": "EUR",
-    "date": "2026-07-28T06:03:00-04:00",
+    "date": "2026-07-28T06:00:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
@@ -178,7 +178,7 @@
     "country": "USD",
     "date": "2026-07-28T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "-98.0B",
+    "forecast": "-100.3B",
     "previous": "-105.8B"
    },
    {
@@ -186,7 +186,7 @@
     "country": "USD",
     "date": "2026-07-28T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "0.2%",
+    "forecast": "0.4%",
     "previous": "0.3%"
    },
    {
@@ -194,7 +194,7 @@
     "country": "USD",
     "date": "2026-07-28T09:00:00-04:00",
     "impact": "Low",
-    "forecast": "0.2%",
+    "forecast": "0.1%",
     "previous": "-0.1%"
    },
    {
@@ -202,7 +202,7 @@
     "country": "USD",
     "date": "2026-07-28T09:00:00-04:00",
     "impact": "Low",
-    "forecast": "0.8%",
+    "forecast": "1.3%",
     "previous": "1.1%"
    },
    {
@@ -210,7 +210,7 @@
     "country": "USD",
     "date": "2026-07-28T10:00:00-04:00",
     "impact": "Medium",
-    "forecast": "92.1",
+    "forecast": "92.4",
     "previous": "91.2"
    },
    {
@@ -218,7 +218,7 @@
     "country": "USD",
     "date": "2026-07-28T10:00:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "7",
     "previous": "4"
    },
    {
@@ -250,7 +250,7 @@
     "country": "AUD",
     "date": "2026-07-28T21:30:00-04:00",
     "impact": "High",
-    "forecast": "0.4%",
+    "forecast": "0.3%",
     "previous": "0.4%"
    },
    {
@@ -258,7 +258,7 @@
     "country": "EUR",
     "date": "2026-07-29T02:00:00-04:00",
     "impact": "Low",
-    "forecast": "-0.8%",
+    "forecast": "-0.7%",
     "previous": "0.7%"
    },
    {
@@ -282,7 +282,7 @@
     "country": "GBP",
     "date": "2026-07-29T04:30:00-04:00",
     "impact": "Low",
-    "forecast": "56K",
+    "forecast": "57K",
     "previous": "56K"
    },
    {
@@ -306,7 +306,7 @@
     "country": "USD",
     "date": "2026-07-29T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-1.7M",
     "previous": "2.0M"
    },
    {
@@ -483,7 +483,7 @@
     "date": "2026-07-30T05:33:00-04:00",
     "impact": "Low",
     "forecast": "",
-    "previous": ""
+    "previous": "3.63|1.7"
    },
    {
     "title": "BOE Monetary Policy Report",
@@ -790,7 +790,7 @@
     "previous": "4.2%"
    }
   ],
-  "cache_at": "2026-07-28T05:40:00.457972+09:00",
+  "cache_at": "2026-07-28T05:52:10.096955+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -818,6 +818,7 @@
   "trumpsaysusandtehranhavinggoodtalksasdroneshitiransneighbours",
   "europefacesalongcoldwinterasfuelbuffersdwindle",
   "morningbidchinachipchamp",
+  "trumpeconomyat18monthsisataleofshocksresilienceandsignsofstalledprogress",
   "japanconsidersforeignbankfinancingfor33billionuspowerprojects",
   "indiasmrplseekscrudeviatenderavoidingredseaandhormuzdocumentshows",
   "howfastmoneyiswarpingmarketlogic",
@@ -825,70 +826,69 @@
   "usenergycushionfacesnewstresstestasmiddleeastrisksriseagain",
   "fedpatiencerisksshreddingcredibility",
   "insighttrumpmayneedtoallowchinesemineralsasusindustrystrugglestomeet2027deadline",
-  "trumpeconomyat18monthsisataleofshocksresilienceandsignsofstalledprogress",
   "morningbidmarketsdaretohopeasusiranputwaronhold",
   "breakingviewskuwaitpipelinemampaisdiceyspinonoldformula",
   "oilpricessettleatlowestinoveraweekasuspausesattacksoniran",
   "imfchiefpraisesargentinaseconomicreformsas2027debthurdlelooms",
   "chinabeginsmakinghomegrownduvchipmakingtoolstheinformationreports",
   "redseashippingslowsafterhouthiattackonsaudiarabiadatashows",
+  "customerdatafromindiasbankofbarodaleakedonlinesourceandresearchersay",
   "goldandsilverpricesriseamidnewsaboutiranreuters",
   "themiddleeastmovestowardamultifrontmaritimewar",
   "chipmakercxmtvaultstotopofchinasvaluationwith466surgeinshanghaidebut",
   "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "ukrainelatestwarcontinuesbeyondthefrontasrussiaandukrainetargetcitiesportsandfuelnetworks",
+  "oilrefininghasbeenunderinvestedsaudiaramcosays",
   "kazakhstanhasresumedoilexportsvianovorossiysk",
   "russiacutsoiloutputinaprilsourcessay",
   "oilpricesslipafteruspausesstrikesoniran",
   "iransaysitstillcontrolsstraitnotseekingtalksaftertrumphaltsbombing",
   "indianrupeeheadsforsteepestriseinthreeweeksasoilfalls",
+  "whydidisraeliforcesraidaunrwatrainingcenterineastjerusalem",
   "goldreboundsasoiltumblesis4185backinplay",
-  "cpcsblackseaterminalpreparestoresumeoilloadingssourcessay",
   "labubutakesmanhattanchinesebrandstargetinflationhitus",
   "5globaleventsthatcouldmovemarketsthisweek",
   "oilpricesmixedamidattacksongulfexportfacilities",
-  "whydidisraeliforcesraidaunrwatrainingcenterineastjerusalem",
   "saudiarabiareservesrighttorespondafterdroneattacksfromiraq",
   "nasdaqlistedvapecompanyispiretechnologyrestructuresleadershipastuanfangliubecomessoleceobtiginitiatescoverageonodmgrowth",
   "oilpricesfalltooneweeklowafteruspausesattacksoniran",
   "sheinpostsquarterlylossastariffshitaheadofhongkongipo",
   "oilpriceshitoneweeklowafterusiranpausefightingoverweekend",
   "nvidiaintalkswithopenaitoguarantee250billionfinancingfordatacenterreport",
+  "ukrainesattacksonrussianenergysiteswhathasbeenhit",
   "aurexdeliversmajorbaseoiltankupgradeatlivedurbanterminal",
   "goldgainsonpauseinusiranfightingfeddecisionlooms",
   "sevenpmsin10yearsbutukchugsalongwithunderstatedhumour",
-  "iransaysitstillcontrolsstraitofhormuznotseekingtalksaftertrumphaltsbombing",
   "oilslips5afterusiranpausefightingoverweekend",
-  "irandeniestalkswithusasoildrops7andnetanyahuheadstowashington",
-  "cryptocurrencymarketgainsamidbearishforceswhy",
+  "irandeniestalkswithusasoildrops7netanyahuheadstowashingtonforwarstrategy",
   "uspausesiranstrikesasweaponstocksdwindleandpeacetalkstakeshape",
   "bitcoinaltcoinsmemecoinswhattobuyforthenextbullrun",
   "asianmarketopensmixedasjapanaistocksreboundaheadoffeddecision",
+  "sectorampindustryperformance",
   "whymarketvolatilitymaybepartofthebullcase",
   "watchoilslidesassupplythreatseaseinmiddleeastandblacksea",
   "energyservicessettobenefitonceiranwarendsbarclayssays",
   "alphabetsnegativefreecashflowexposesthecostofairace",
-  "canadianenergystockseyefirstrecordsince2008asoilsoars",
+  "usoilsanctionspushbeijingtotestwashingtonslimits",
   "goldoutlookahealthyresetprovidesaconstructivebackdrop",
   "fedfacesgrowingpressuretohikeratesaspricerisksrebound",
   "iraqsyriatosignpipelinedealtolinkoilproductionsitestoglobalmarkets",
   "europeanttfgaspricesfallby75",
-  "usdjpyweeklyoutlookfedbojandhormuzrisksput165infocus",
-  "usoilsanctionspushbeijingtotestwashingtonslimits",
+  "canadianenergystockseyefirstrecordsince2008asoilsoars",
   "firstuslngshipmenttochinainayeartobereexported",
   "weeklyeconomicampmarketupdateeverythingeverywhereallatoncewarsurgingoilpricesmoretariffsrisingratesandbondyieldsampaiwor",
+  "usdjpyweeklyoutlookfedbojandhormuzrisksput165infocus",
   "asiaboundtankerexitsredseaviasuezasothersriskstrait",
   "globallnghuntintensifiesasmiddleeastwarcutssupply",
+  "oildivesassupplythreatseaseinmiddleeastandblacksea",
   "usiranextendpauseinstrikesasomanholdshormuztalks",
   "shippingupheavalsuggestsoilsselloffwontlast",
   "goldclimbsaspauseinmideastfightingcurbsinflationrisk",
-  "sectorampindustryperformance",
   "whatismoonshotaiskimik3modelandwhyisitmakingwaves",
   "satellitesshowtankfireatsaudioilplantjazanafterattack",
-  "ataleoftincanstariffsandtheunintendedvictimsofussprotectionism",
   "bitcoinetfsendinflowstreakasfedrateconcernsmount",
-  "watchfanaticsbgcinkpredictionmarketsdeal",
+  "ataleoftincanstariffsandtheunintendedvictimsofussprotectionism",
   "straitofhormuzblockadeimpactonfinancialmarkets",
   "chinachipmakerssee2580profitjumpaseconomicsplitwidens",
   "skhynixlistingemboldenskoreasdrivetorepatriatedollars",
@@ -907,6 +907,8 @@
   "smallcapsaretopassetclassin2026sofarbutdidtheybeatgoldsilverdebtinthelongrun10yea",
   "dangoteexplainswhyitdumpeddollarfuelsalesaspetrolpricesclimbagain",
   "longtermrateheadache",
+  "investingliveamericasfxnewswrap27juloilwasdownsharplybutthestocksbondsusddidnotfullyfollow",
+  "bullockspeechhighlightsalightasia",
   "usstocksclosethedaymixedwiththedowupspunchangedandthenasdaqmodestlylower",
   "crudeoilfuturessettledat8261",
   "gbpusdsellerspushthepricebelowthelowsfromlastweekandtothelowestlevelsincejuly2",
@@ -930,21 +932,22 @@
   "dolveropublishesthereceiptseveryotherpropfirmhidesbackedbyitsownalgorithmfirmandtradingterminal",
   "japanmustexitexcessivelytightfiscalpolicysaysprimeministertakaichi",
   "goldopenstheweekhigherondeescalationhopesaheadofthekeyfomcdecision",
-  "marketoutlookfortheweekof27th",
-  "ecbpolicymakerkazimirsaysatleastonemoreratehikewillbeneeded",
-  "bakerhughesflagslowerspendingbyoilandgasproducersin2026",
-  "oilrefininghasbeenunderinvestedsaudiaramcosays",
+  "cpcsblackseaterminalpreparestoresumeoilloadingssourcessay",
   "mrpltellscrudesupplierstoavoidredseastraitofhormuzinfirstofitskindtender",
+  "watchfanaticsbgcinkpredictionmarketsdeal",
+  "marketoutlookfortheweekof27th",
   "informationtechnologysectorampindustryperformance",
+  "ecbpolicymakerkazimirsaysatleastonemoreratehikewillbeneeded",
+  "iransaysitstillcontrolsstraitofhormuznotseekingtalksaftertrumphaltsbombing",
+  "irandeniestalkswithusasoildrops7andnetanyahuheadstowashington",
+  "cryptocurrencymarketgainsamidbearishforceswhy",
+  "bakerhughesflagslowerspendingbyoilandgasproducersin2026",
   "oilpricesfallasexpectationsfordeescalationstrengthenaftertheushaltedstrikesoniran",
-  "customerdatafromindiasbankofbarodaleakedonlinesourceandresearchersay",
-  "ukrainesattacksonrussianenergysiteswhathasbeenhit",
   "trumpsaysheisreadyforstrongmilitaryactioniftalkswithiranfail",
   "energysectorampindustryperformance",
   "iransaysitwillhaltstrikesaslongasusbombingpauseholdsbyreuters",
   "rbiinterventionliftsrupeetostrongestgaininoveramonth",
   "galdermaraises2026outlookfollowingstrongfirsthalfsalesgrowth",
-  "oildivesassupplythreatseaseinmiddleeastandblacksea",
   "oilslidesasmiddleeastuncertaintykeepsmarketsonedge",
   "monetarydevelopmentsintheeuroareajune2026",
   "jpmorganreshufflesaileadershipindianoriginexecutivestakeonkeyroles",
@@ -1306,9 +1309,6 @@
   "stocksedgebackupasoilpricespauseclimbbutyieldshovernearhighs",
   "southkoreancourtordersskchairmancheytopayrecord640mlnindivorce",
   "iranflewirgccommandersmissilegeartohouthisbeforeredseaattacksreport",
-  "trumpvowstopunishiranforhouthiattacksinredseaoilsurgesover100",
-  "oilpricesheadforweeklyriseonmiddleeastescalation",
-  "oilretreatsfromabove100butsetforweeklyriseonmiddleeastescalation",
-  "oilretreatsfromabove100stillsetforweeklyriseonmiddleeastescalation"
+  "trumpvowstopunishiranforhouthiattacksinredseaoilsurgesover100"
  ]
 }
