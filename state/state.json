@@ -791,7 +791,7 @@
     "previous": "4.2%"
    }
   ],
-  "cache_at": "2026-07-29T17:39:01.916408+09:00",
+  "cache_at": "2026-07-29T17:47:05.272400+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -812,14 +812,14 @@
  },
  "news_seen2": [
   "oilrisesasusirantensionescalatesafteriraqstrikesmissileattack",
-  "opeclikelytopauseoiloutputhikesafterseptembersourcessay",
+  "japanpmspoliticaldoomloopworsensherfightwithmarkets",
   "oilreboundsasuscrudeinventoriesfall",
   "oilpricesfall5totwoweeklowonhopesforusiranconflicteasing",
   "sembcorputilitiestobuy20stakeinasterpowerbecomeexclusivegassupplier",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
   "tyumenoilrefineryhaltsproductionafterukrainiandronestrikesourcessay",
+  "opeclikelytopauseoiloutputhikesafterseptembersourcessay",
   "oilpricesreboundbymorethanus2abarrelonprospectoftighteninguscrudesupplies",
-  "japanpmspoliticaldoomloopworsensherfightwithmarkets",
   "goldticksupaheadoffedratedecision",
   "exclusiveirantogetchineseshoulderlaunchedmissilesystemsinweekssourcessay",
   "usstocksmixedaheadkeytechearningsfed",
@@ -840,10 +840,11 @@
   "omanistraitofhormuzproposalincludesjointcontrolvoluntaryfees",
   "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
   "oilpricesjumpover3asusirantensionsescalateagain",
+  "irandemandscontroloverbothstraitofhormuzlanesrejectsomansvoluntaryfeeplan",
   "goldedgesloweraheadoffeddecisiononinterestrates",
-  "chinaintouchwithyemenshouthistoallowshipstosailthroughredseasourcessay",
   "filipnowackijerseyswimmerwins200mbreaststrokegoldatcommonwealthgames",
   "chinaholdsdirecttalkswithhouthistosecuresafepassageforoiltankersreport",
+  "chinaintouchwithyemenshouthistoallowshipstosailthroughredseasourcessay",
   "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "japanearthquakecutspowergroundsflightsinjuresatleast50",
   "oiltouchesoveroneweeklowafterpauseinattacks",
@@ -853,7 +854,6 @@
   "europeanbuyersholdtalkstoshipcanadianlngviapanamacanaltodiversifysupply",
   "malaysiaforeignministercallsforreviewofunrefugeeagencyspresencestatemediareports",
   "indiaplanstosourceupto25oflpgimportsfromusin2027",
-  "russiabeginspurchasinggasolinefromindia",
   "ustradechiefsaystariffsonindia59othersunlikelytoimpactamericaneconomy",
   "nvidiastockfallsbelow200againbernsteingivesbuyratingnvda",
   "amdcrashes32inpremarketafter5lowerclosewhy",
@@ -930,8 +930,10 @@
   "audusdtradersrespectsupportandresistancetodaythatincreasesthelevelsimportancegoingforward",
   "netanyahuconfirmedtotrumpthatadditionalstrikesonrehabilitatediraniannuclearfacilitiesareunavoidable",
   "trump",
-  "indiaplansuptoquarterof2027lpgimportsfromussourcessay",
+  "oilpricesmixedamidattacksongulfexportfacilities",
   "yensonlyhopemaybecurrencyinterventionforecastasof28072026",
+  "russiabeginspurchasinggasolinefromindia",
+  "indiaplansuptoquarterof2027lpgimportsfromussourcessay",
   "amazondatacentershitiniranstrikessatelliteimagesshow",
   "marketwarningsignalsflareagainastechinflationfearsintensify",
   "exclusivechinastartsproductionofhomegrownimmersionduvchipmakingtoolssourcesays",
@@ -1009,7 +1011,6 @@
   "watchfedonholdintaleoftwoeconomiesmeredithwhitney",
   "watchchinasreportedduvbreakthroughrattlesaitradethechinashow7282026",
   "russiaexploressupportforwildberriesafterukrainiandroneattackssourcessay",
-  "oilpricesmixedamidattacksongulfexportfacilities",
   "dollareasesasmarketsawaitfeddecision",
   "watchayubcoreviewremainsforfedtohold",
   "watchchipmakerroutdragsnasdaq100nearcorrection",
@@ -1309,7 +1310,6 @@
   "zelenskyyarrivesinukforburnhamtalksbeforevisittotrump",
   "thecentralbankbonanzareturnsinthefinalweekofjuly",
   "ustreasurysells69billionof2yearnotethatahighyieldof",
-  "chinachipchampbyreuters",
-  "usisraeliranwarlatestlivenewstrumpgivesirantalkssomespaceastehransaysitwillhaltattacksduringusstrikepause"
+  "chinachipchampbyreuters"
  ]
 }
