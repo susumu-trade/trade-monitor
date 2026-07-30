@@ -54,7 +54,8 @@
    "USD|CB Consumer Confidence|2026-07-28T10:00:00-04:00",
    "USD|Federal Funds Rate|2026-07-29T14:00:00-04:00",
    "USD|FOMC Statement|2026-07-29T14:00:00-04:00",
-   "USD|FOMC Press Conference|2026-07-29T14:30:00-04:00"
+   "USD|FOMC Press Conference|2026-07-29T14:30:00-04:00",
+   "JPY|Tokyo Core CPI y/y|2026-07-30T19:30:00-04:00"
   ],
   "cache": [
    {
@@ -794,7 +795,7 @@
     "previous": "4.2%"
    }
   ],
-  "cache_at": "2026-07-31T08:11:16.400498+09:00",
+  "cache_at": "2026-07-31T08:24:05.078799+09:00",
   "sent_actual": []
  },
  "signal_cd": {
