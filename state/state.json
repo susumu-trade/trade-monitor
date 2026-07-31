@@ -58,7 +58,8 @@
    "JPY|Tokyo Core CPI y/y|2026-07-30T19:30:00-04:00",
    "JPY|BOJ Policy Rate|2026-07-30T22:50:00-04:00",
    "JPY|Monetary Policy Statement|2026-07-30T22:50:00-04:00",
-   "JPY|BOJ Outlook Report|2026-07-30T22:51:00-04:00"
+   "JPY|BOJ Outlook Report|2026-07-30T22:51:00-04:00",
+   "JPY|BOJ Press Conference|2026-07-31T01:30:00-04:00"
   ],
   "cache": [
    {
@@ -798,7 +799,7 @@
     "previous": "4.2%"
    }
   ],
-  "cache_at": "2026-07-31T14:11:26.250390+09:00",
+  "cache_at": "2026-07-31T14:19:33.099370+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -821,6 +822,7 @@
   "rarejapankoreajointinterventionshakesupyenandwon",
   "yenremainsunderpressureafterbojkeptratesunchanged",
   "japanintervenestopropupyenaheadofbojpolicydecisionsourcesaysbyreuters",
+  "rarejapansouthkoreajointinterventionliftsyenandwonreuters",
   "yensurgesanalystssuspectofficialjapaneseintervention",
   "historyofjapansinterventionincurrencymarkets",
   "wallstreetendssharplyhigherliftedbysoaringmicrosoft",
@@ -837,18 +839,18 @@
   "russiausednkoreanmissilefordeadlystrikeonukrainianvillagezelenskiysays",
   "appledisappointswithforecastdoggedbysupplychainstruggles",
   "indiasreliancerampsupdieselexportstoeuropebrazilinjulysourcessay",
-  "bojtokeepratessteadydeliverhawkishsignalasgovernmentpropsupyen",
   "twotankerscarryingsaudioilforindiaexitredseabygoingdark",
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "bojholdsratesat1willjapansyeninterventionhold",
   "southkoreaconductsrareforexinterventionalongsidejapansourcesays",
   "chinasshiftingenergymixweakenspillarofgloballnggrowth",
+  "jerasayslngstockssecuredthroughoctoberseesnosummersupplyrisk",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
   "reutersdronesjustknockedoutoneofrussiasbiggestrefineriesforthesecondtimethisyear",
   "ukrainiandronesdamagerussiangrainexportterminalonkerchstraitsourcesays",
   "bmwtoreviewpracticesoncedeemeduntouchableasprofitslumps",
   "yenweakensafterinterventionledsurgeaheadofbojpolicydecision",
-  "jerasayslngstockssecuredthroughoctoberseesnosummersupplyrisk",
+  "whydidtrumpdecidetohalttheconflictwithiran",
   "amethanegasexplosionatacoalminingcomplexinpakistansbalochi",
   "southkoreaconductsraredollarsellinginterventionsourcesays",
   "ussaleofvenezuelasoilhits13billionsincemadurocapture",
@@ -860,8 +862,6 @@
   "lngsupplyfallsbyanother100mmcfdasgascrisisdeepens",
   "chinesestatemediashowcasewiderdeploymentofcloselywatchedantishipmissile",
   "indianfederalpolicefilechargesagainst13overexampaperleaks",
-  "inpicturestopolympicandparalympicmedallistsinthe2026canderehurunindiawomenleaderslist",
-  "sectorampindustryperformance",
   "weakyenofferstoyotaanearningsrespitefromtariffswar",
   "asiastockstogainasuspeersreboundyengainsmarketswrap",
   "goldsteadiesastradersweighfedsratepathafterlatesthold",
@@ -871,6 +871,7 @@
   "hormuzoiltankershuttlingtradeispickingupagainafterlull",
   "bloombergexpandselectronictradingforonshorelistedaustralianetfsoptionsandfutures",
   "situationalawarenessdropsto10billiononcitadelpact",
+  "xeroxtapstariffsrefundclaimtohelpaddressloomingdebt",
   "pakistansecuressafepassageforlngshipmentwithirandeal",
   "metasinksafterdefendingaibetstoskepticalinvestors",
   "bargainairfaresareunderthreatfromaipricing",
@@ -938,10 +939,12 @@
   "dallasfedtrimmedmean14vs27inmay",
   "boebaileydisinflationisproceedingbutataslowpace",
   "atlantafedgdpnowinitialestimateforq3issetat50",
-  "japanintervenestopropupyenaheadofbojpolicydecisionsourcesays",
-  "whydidtrumpdecidetohalttheconflictwithiran",
-  "japantoencouragedomesticinvestmentbygpif",
+  "bojtokeepratessteadydeliverhawkishsignalasgovernmentpropsupyen",
   "vesselscarryingoillngexithormuzheadforpakistanchina",
+  "inpicturestopolympicandparalympicmedallistsinthe2026canderehurunindiawomenleaderslist",
+  "sectorampindustryperformance",
+  "japanintervenestopropupyenaheadofbojpolicydecisionsourcesays",
+  "japantoencouragedomesticinvestmentbygpif",
   "bluechipstockswhythomsonreuterstsxtriremainsinfocus",
   "insurancemidyearoutlookfindingvalueintightmarkets",
   "nvidiatsmcandasmlsevenchipgiantsbenefitingfromtheartificialintelligenceboom",
@@ -1315,8 +1318,6 @@
   "oilpricesjumpfollowingfightingwithiranwallstreetswingsafterthefedholdsratessteady",
   "goldstaysunderpressureaheadofthefomcdecisionastradershedgeandmiddleeastrisksrise",
   "uaesadnocsellscrudeatpremiumstoasianrefinersinseventhtendersourcessay",
-  "europesenergytransitionisnowaneconomicsecurityrace",
-  "skhynixsrecordprofitmissesforecastssharesslump10despiterobustaichipdemand",
-  "oilpricesjumpfollowingfightingwithiranwhilesinkingaistocksdragwallstreetlower"
+  "europesenergytransitionisnowaneconomicsecurityrace"
  ]
 }
