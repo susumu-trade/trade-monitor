@@ -795,7 +795,7 @@
     "previous": "4.2%"
    }
   ],
-  "cache_at": "2026-07-31T10:32:10.603518+09:00",
+  "cache_at": "2026-07-31T10:40:39.766123+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -815,6 +815,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "chinajulymanufacturingpmi492vs500expected",
   "australiaq2ppi36vs30prior",
   "southkoreaskospirises14",
   "japanjuneprelimindustrialproduction13mmvs07expected",
@@ -1313,7 +1314,6 @@
   "sampp500nasdaqfuturesedgehigheraheadoffeddecisionchipstockswobble",
   "founderofcryptofundtranslunargets37monthsintaxcase",
   "gulfstatesbackplantoletirancollectvoluntaryfeestousehormuz",
-  "watchmultipledeadafter71magnitudequakehitsjapan",
-  "nexterabrookfieldplan100billionkentuckydatacentercampus"
+  "watchmultipledeadafter71magnitudequakehitsjapan"
  ]
 }
