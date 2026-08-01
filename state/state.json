@@ -802,7 +802,7 @@
     "previous": "4.2%"
    }
   ],
-  "cache_at": "2026-08-01T11:18:17.234231+09:00",
+  "cache_at": "2026-08-01T11:30:23.700434+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -840,7 +840,6 @@
   "oilpricessettlemorethan1higherlogstrongestmonthsincemarch",
   "russiasryazanoilrefinerysuspendsoperationsafterukrainianattackreuters",
   "russiahasbegunimportinggasolinefrommoroccoreuters",
-  "yenweakensafterbojholdsratessteadydespitecurrencyintervention",
   "afterafustrikeoneofthelargestrefineriesinrussiastoppedreutersnamespossibledowntimetimes",
   "usbackedvenezuelatalkstobeginwithoutoppositionleadermachado",
   "oilpricesseengainingasmiddleeastsupplydisruptionspersist",
@@ -848,13 +847,15 @@
   "lngsupplyfallsbyanother100mmcfdasgascrisisdeepens",
   "amethanegasexplosionatacoalminingcomplexinpakistansbalochi",
   "yenweakensafterinterventionledsurgeaheadofbojpolicydecision",
+  "oilpricerisesafteriransaysitstopsshipsinhormuz",
   "nigeriain1mineconomicbusinessandfinancialmarketheadlines310726",
   "indiasarmsexportstoisraelriskcomplicityingazagenocideamnestysays",
   "iranstrikestwotankersunderusairescortinstraitofhormuz",
   "yengainsasusbanksaskedbynewyorkfedtocheckkeyrate",
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
-  "abroadapproachinanarrowmarket",
   "elonmusksfortuneslumpstoprespacexipolevelsafterrout",
+  "abroadapproachinanarrowmarket",
+  "fxdailysnapshot",
   "oildipsastradersweighhormuzflowsagainstusiranattacks",
   "theunitedstatesdeniedinvolvementinthedelayofaliquefiedgastankerboundforpakistan",
   "economicsweekahead",
@@ -866,7 +867,6 @@
   "solartosoonpasscoalaschinastoppowercapacitysource",
   "hormuzoilshuttlingtradeispickingupagainafterlull",
   "watchanthropichackaddstofearsoveraisafety",
-  "watchpeterfrankopanontrumpsiranwarofchoice",
   "uschinasignallingeringtensionsincallaheadofxivisit",
   "usstocksrallytofinishawildjulyasamazonsoarsapplesinksandinflationworriesworsen",
   "goldbuysthedipforecastasof31072026",
@@ -877,10 +877,9 @@
   "dollarheadsforworstweekinthreemonthsasfeddoubtsgrow",
   "usdoesntplantotapoilstockpilesagainasiranwarescalates",
   "ustreasuryweighsrepoentrythatcouldreshapefundingmarkets",
-  "euroareainflationstrengthensasusiranstrikesboostoil",
+  "watchpeterfrankopanontrumpsiranwarofchoice",
   "rotationnotreckoningwhatstestingtheaitrade",
   "griffinsmoveoffersaireprieveastraderseyemoreblowouts",
-  "xiurgesmilitarytostepupuseofunmannedaitechnologies",
   "mutinyifneedbeatthefedwarshcansuppressdissentonlysomuchovercredibilitytestinginterestratedecisionmacquariesays",
   "toplinks1179ratesupsamsungsprofitsexplodethefirstmechanizedfactoryandtheendoftheteamsters",
   "historianpeterfrankopanpowerfulmenoftenmiscalculate",
@@ -917,6 +916,9 @@
   "italyjulypreliminarycpi28vs28yyexpected",
   "stealthinterventioncauseswildswingsinusdjpyfocusstaysonmiddleeastandnextuscpi",
   "germanunemploymentrisesbyslightlymorethananticipatedinjuly",
+  "yenweakensafterbojholdsratessteadydespitecurrencyintervention",
+  "xiurgesmilitarytostepupuseofunmannedaitechnologies",
+  "euroareainflationstrengthensasusiranstrikesboostoil",
   "twovlccsexitstraitofhormuzwheretrafficremainsthin",
   "applesettolosenearly500billioninvalueafterweakforecast",
   "hsbcsingaporebankstoshowstrengthonwealthperformance",
@@ -1017,7 +1019,6 @@
   "yensteadyastradersremainalerttointerventionrisks",
   "wallstreetrisesasamazonandchipstocksjumpevenasoilpricesaddtoworriesaboutinflation",
   "kimboltonsmarketoutlooktechnologystocks",
-  "fxdailysnapshot",
   "whytrumpsiranthreatsagainraisewarcrimeconcerns",
   "rarejapankoreajointinterventionsendsstrongmessagetomarkets",
   "southkoreaskospiextendsreboundinclosingstagesoftheweeknowup17today",
@@ -1320,7 +1321,6 @@
   "kevinwarshhighlightsmoneysupplytocurbinflation",
   "frencheconomybouncesbackinq2butoverallmomentumremainssluggish",
   "jpmorgannowexpectsfedtodelivernextratehikeindecemberthisyear",
-  "marketrotationreplacesbroadbasedsellingmagnificentsevenearningstodecidenextmoveforwallstreet",
-  "sensodynemakerhaleonreaffirmstargetsonusandemergingmarketsgrowth"
+  "marketrotationreplacesbroadbasedsellingmagnificentsevenearningstodecidenextmoveforwallstreet"
  ]
 }
