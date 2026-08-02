@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-08-02",
+  "last_digest": "2026-08-03",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -826,7 +826,7 @@
     "previous": "4.1%"
    }
   ],
-  "cache_at": "2026-08-03T06:52:07.254571+09:00",
+  "cache_at": "2026-08-03T07:04:12.061487+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -851,21 +851,25 @@
   "japantoannouncejointyeninterventionwithussourcessayreuters",
   "japantoannouncetokyowashingtontookjointactiononyensourcessay",
   "reutersjapantoannouncejointinterventionwithwashingtontohaltyensslide",
-  "japantovowcoordinationwithusonweakyeninhistoricbattle",
   "italianmilitaryforcesboardedatankerbelongingtorussiasshadowfleetreuters",
+  "japantovowcoordinationwithusonweakyeninhistoricbattle",
+  "trumpwillsubstantiallyraisetariffsongoodsfromindiaoverrussianoilpurchases",
   "japantoannouncetokyowashingtontookjointactiononyensourcessayasianews",
+  "modiurgeslimitsonfuelusetravelandimportstosaveforex",
   "tokyoandwashingtonlaunchjointyeninterventiontohaltcurrencysfourdecadeslide",
   "howtheiranwarisdisruptingglobaloilandgassupply",
   "jefferiesfacesfreshtroubleatfunditwasalreadyshuttering",
   "uglymonthinemergingmarketsmaybeatasteofwhatsahead",
   "ukrainesaysitattackedrosneftsrefineryinrussiassaratov",
   "watchbloombergthisweekendiranstrikesonholdthedigitaldivideoverai",
-  "watchspacexipofacesfirstrealitycheck",
   "ustreasurycaughtbuyingyeninrarejointinterventionwithjapan",
+  "watchspacexipofacesfirstrealitycheck",
   "watchwhogovernstheaiboom",
   "watchtrumppausesiranstrikesastalksresume",
+  "globallnghuntintensifiesasmiddleeastwarcutssupply",
   "newyorkcitysagingpowerbargesshowtheblackoutriskisreal",
   "mrsaaranocutpetrolpricesasdepotsmatchdangoterefineryratedespiterisingcrudeoilprices",
+  "trumpclaimshormuzdealdonedenuclearisationtalkstostarttomorrow",
   "weekendbeijingtoaccelerateexistinginfrastructurespendingnotnewstimulus",
   "retailbagholderslaughterspacexsharesfallover50frompeakmuskwasright",
   "japansfinanceministerwillconfirmjointwithusconductedyeninterventiononmonday",
@@ -891,9 +895,6 @@
   "canadamaygdp03versus02expected",
   "usq2employmentcostindex09vs08expected",
   "theusdishighertostartthenasessionhowarethechartsimpactingtraderbias",
-  "trumpwillsubstantiallyraisetariffsongoodsfromindiaoverrussianoilpurchases",
-  "modiurgeslimitsonfuelusetravelandimportstosaveforex",
-  "globallnghuntintensifiesasmiddleeastwarcutssupply",
   "oilpricesriseacrossmajorbenchmarks",
   "kuwaitraisescrudeoiloutputtoneartwomillionbpdinjulyreuters",
   "wallstreetsfavoritebetcomesundoneaschipswhipsawmarket",
@@ -1344,7 +1345,6 @@
   "goldedgeshigherasmarketsweighwarshsinflationmessage",
   "privatecreditgetscheaperineuropeasredemptionspressureus",
   "mappingthemarketnasdaqselloffbreakskeysupportlevelsafterfed",
-  "useconomicgrowthslowedunexpectedlyinthesecondquarterastariffsandiranwarcutintogains",
-  "whadvisorhassettinflationiscontinuingtoease"
+  "useconomicgrowthslowedunexpectedlyinthesecondquarterastariffsandiranwarcutintogains"
  ]
 }
