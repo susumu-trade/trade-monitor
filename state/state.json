@@ -66,6 +66,14 @@
   ],
   "cache": [
    {
+    "title": "OPEC-JMMC Meetings",
+    "country": "All",
+    "date": "2026-08-02T05:15:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+   },
+   {
     "title": "Bank Holiday",
     "country": "AUD",
     "date": "2026-08-02T17:00:00-04:00",
@@ -818,7 +826,7 @@
     "previous": "4.1%"
    }
   ],
-  "cache_at": "2026-08-02T23:37:40.111778+09:00",
+  "cache_at": "2026-08-02T23:45:44.028725+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -848,8 +856,9 @@
   "modiurgeslimitsonfuelusetravelandimportstosaveforex",
   "cwg2026cousinssakshichoudharyandpriyaghanghaswindoublegoldinboxing",
   "tokyoandwashingtonlaunchjointyeninterventiontohaltcurrencysfourdecadeslide",
-  "turkeyandiraqsignoneyearkirkukceyhanpipelinedealamidhormuzcrisis",
+  "wallstreetsfavoritebetcomesundoneaschipswhipsawmarket",
   "uglymonthinemergingmarketsmaybeatasteofwhatsahead",
+  "watchspacexipofacesfirstrealitycheck",
   "informationtechnologysectorampindustryperformance",
   "communicationservicessectorampindustryperformance",
   "coregdpandairelatedimportsandinvestmentcontributiontogdp",
@@ -885,6 +894,7 @@
   "euroareainflationnudgesupinjulykeepsthepressureontheecb",
   "italyjulypreliminarycpi28vs28yyexpected",
   "stealthinterventioncauseswildswingsinusdjpyfocusstaysonmiddleeastandnextuscpi",
+  "turkeyandiraqsignoneyearkirkukceyhanpipelinedealamidhormuzcrisis",
   "sectorampindustryperformance",
   "nigeriain1mineconomicbusinessandfinancialmarketheadlines160626",
   "ustreasuryreportedlybuysyenaheadofpossiblejointpolicy",
@@ -1335,8 +1345,6 @@
   "theusdismostlylowertokickstartjuly30tradinginthenasession",
   "usq2advancegdp15vs21expected",
   "investingliveeuropeanmarketswrapdollarextendspost",
-  "germanyjulypreliminarycpi28vs27yyexpected",
-  "boegovernorbaileynoevidenceofsecondroundeffectscannotdrawtoomuchcomfortfromthis",
-  "boeleavesbankrateunchangedat375injulymeetingasexpected"
+  "germanyjulypreliminarycpi28vs27yyexpected"
  ]
 }
