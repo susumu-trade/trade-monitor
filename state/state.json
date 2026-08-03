@@ -648,7 +648,7 @@
     "country": "USD",
     "date": "2026-08-06T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "0.7%",
+    "forecast": "0.6%",
     "previous": "0.8%"
    },
    {
@@ -656,7 +656,7 @@
     "country": "USD",
     "date": "2026-08-06T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "2.1%",
+    "forecast": "2.2%",
     "previous": "2.3%"
    },
    {
@@ -688,7 +688,7 @@
     "country": "JPY",
     "date": "2026-08-06T19:30:00-04:00",
     "impact": "Low",
-    "forecast": "0.9%",
+    "forecast": "0.8%",
     "previous": "-0.4%"
    },
    {
@@ -696,7 +696,7 @@
     "country": "CNY",
     "date": "2026-08-06T22:03:00-04:00",
     "impact": "Low",
-    "forecast": "740B",
+    "forecast": "735B",
     "previous": "859B"
    },
    {
@@ -704,7 +704,7 @@
     "country": "CNY",
     "date": "2026-08-06T22:04:00-04:00",
     "impact": "Low",
-    "forecast": "109.4B",
+    "forecast": "108.6B",
     "previous": "125.6B"
    },
    {
@@ -720,7 +720,7 @@
     "country": "EUR",
     "date": "2026-08-07T02:00:00-04:00",
     "impact": "Low",
-    "forecast": "0.0%",
+    "forecast": "0.2%",
     "previous": "0.9%"
    },
    {
@@ -728,7 +728,7 @@
     "country": "EUR",
     "date": "2026-08-07T02:00:00-04:00",
     "impact": "Low",
-    "forecast": "17.0B",
+    "forecast": "17.2B",
     "previous": "19.1B"
    },
    {
@@ -768,7 +768,7 @@
     "country": "CAD",
     "date": "2026-08-07T08:30:00-04:00",
     "impact": "High",
-    "forecast": "15.0K",
+    "forecast": "14.8K",
     "previous": "18.2K"
    },
    {
@@ -792,7 +792,7 @@
     "country": "USD",
     "date": "2026-08-07T08:30:00-04:00",
     "impact": "High",
-    "forecast": "88K",
+    "forecast": "85K",
     "previous": "57K"
    },
    {
@@ -824,7 +824,7 @@
     "country": "USD",
     "date": "2026-08-07T15:00:00-04:00",
     "impact": "Low",
-    "forecast": "12.1B",
+    "forecast": "11.2B",
     "previous": "-0.2B"
    },
    {
@@ -852,7 +852,7 @@
     "previous": "4.1%"
    }
   ],
-  "cache_at": "2026-08-04T04:38:01.495310+09:00",
+  "cache_at": "2026-08-04T04:46:07.502444+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -882,7 +882,6 @@
   "japantoannouncetokyowashingtontookjointactiononyensourcessay",
   "oilpricesmixedamidattacksongulfexportfacilities",
   "analysishowausjapanpacttohityenspeculatorscametogetherbyreuters",
-  "japansfightwithyenbearsgoesonafterjointrescue",
   "exclusivechinesestatetradersmakelargeussoybeanpurchases",
   "breakingviewsusjapanyenteamupworsensbojdilemma",
   "opecoiloutputhikeisirrelevantfornownotforlater",
@@ -892,6 +891,7 @@
   "cubaplungesintodarknessaselectricgridcollapses",
   "isindiaasiasultimateantiaitrade",
   "italianledeuforceboardssanctionedtankerfromrussiasshadowfleetinmediterranean",
+  "afterdecadesdiageospartnershipwithmoethennessyhaslostsomefizz",
   "japantovowcoordinationwithusonweakyeninhistoricbattle",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "ongctoreservehalfofnewoilstorageforstrategicreserves",
@@ -922,14 +922,14 @@
   "trumpannounceshalttoiranstrikestehrancallsitpsychologicaloperations",
   "ustreasurysfirepowerforyensupportmaybelimitedjpmsays",
   "istheangstoveraispendingandfedinactionwarranted",
-  "howtheiranwarisdisruptingglobaloilandgassupply",
   "usjapanandsouthkoreajoinforcestosupportyenforecastasof03082026",
+  "howtheiranwarisdisruptingglobaloilandgassupply",
   "oilslipsastrumpholdsoffiranattacksaystalkstoresume",
-  "oilampgasdealmakingheatsupwith20billionofassetsinplay",
   "brazilsoiloutputhitsrecordaswardrivesupnonopecsupply",
-  "ukrainesshiftingstrikesdeepenuncertaintyaroundrussianoil",
   "usdjpyususeseurostobuyyentoavoidweakerdollarstrategistssay",
+  "ukrainesshiftingstrikesdeepenuncertaintyaroundrussianoil",
   "watchwhytheusissteppingintopropupjapansyen",
+  "watchwarshdoesnotbelieveincurrentdatasourceswalser",
   "realestatesectorampindustryperformance",
   "oilslumpsastrumpholdsoffiranattacksaystalkstoresume",
   "saudisyanbuportbustlesasmoretankerscrosschokepointdark",
@@ -937,38 +937,41 @@
   "financialssectorampindustryperformance",
   "youcantfoolthebondsaysbofascabanaonthefed",
   "oilfallsaftertrumpcallsoffiranattack",
-  "watchwarshdoesnotbelieveincurrentdatasourceswalser",
+  "oilampgasdealmakingheatsupwith20billionofassetsinplay",
   "fxdailysnapshot",
   "morganstanleysees36upsidetokoreanstocksafterwashout",
   "watchdaiichisankyoweakeryenbooststoplinegrowth",
+  "awsceosaysaibusinessisjustmassive",
+  "watchwhybondsareatcenterofusjapaninterventiononyen",
   "watchwheredoesoilgonextafterthehormuzcrisis",
   "watchsecularbullmarketwilllastrestofdecadebartelssays",
   "kkrraises192billionforbiggesteverinfrastructurefund",
   "spidermantheodysseyssuccessliftsindiancinemastocks",
-  "howleverageturned2026sbestperforminghedgefundintoitsfastestunwind",
   "warshraisesrethinkonfedspolicymeetingfrequencytiming",
-  "astrazenecasharesfallondealtalkswithbristolmyers",
   "weeklymarketsmonitoronebattleafteranother",
+  "astrazenecasharesfallondealtalkswithbristolmyers",
+  "howleverageturned2026sbestperforminghedgefundintoitsfastestunwind",
   "gasnotoiliswhereusenergydominancematters",
+  "southkoreaaichipdesignerdeepxsvaluesurgesto22billioninfunding",
   "watchtysonfallson3qresultsbristolmyerssquibbsurgesonpotentialacquisitionstockmovers",
   "vietnamtradedeficitreaches359billionasimportssurge",
   "watchthecyberalchemistsghoshonaicybersecurityrisks",
-  "iranwarspursasurgeinstocksalesfromusshalecompanies",
-  "in5questionshowthestraitofhormuzismanagedandwhatcouldchange",
-  "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "usdollarfallsafterusjapanyeninterventionforecastasof03082026",
-  "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
-  "guarantorjpmorganchaseampco",
-  "russianoilrefiningfallsto24yearlowafterukrainiandronestrikesbloomberg",
-  "globallnghuntintensifiesasmiddleeastwarcutssupply",
+  "iranwarspursasurgeinstocksalesfromusshalecompanies",
+  "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "ukrainesaysithitrosneftsrefineryinrussiassaratov",
+  "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
+  "russianoilrefiningfallsto24yearlowafterukrainiandronestrikesbloomberg",
+  "guarantorjpmorganchaseampco",
+  "globallnghuntintensifiesasmiddleeastwarcutssupply",
   "whyreopeningthestraitofhormuzwillnolongersolvetheglobalenergycrisis",
   "higherpalmoilpricesliftoutlookforsgxlistedplantersaheadofq2results",
-  "derivativestradingsinksatnseonrbicurbs",
   "ciccanalysishowfarhasthismarketcorrectiongonebeyondaiwhatelseisworthbuying",
+  "derivativestradingsinksatnseonrbicurbs",
   "firstftastrazenecaandbristolmyerssquibbdiscuss400bntieup",
   "zimbabweovertakesafricasgianttobecomecontinentbestperformingstockmarket",
   "zimbabweovertakesnigeriaasafricasbestperformingstockmarket",
+  "atechnicallookthetechnicalsdrivingthelargecaptechstocks",
   "trumptalksaregoingonnowthisisthelastchanceagain",
   "eurusdfallstoanewsessionlownear11500support",
   "audusdsellerspushthepricelowerafterstretchingtotestthe100dayma",
@@ -993,12 +996,11 @@
   "retailforexpricinghascommoditisedatthespreadlevelinbothaustraliaandtheukandtheremainingcompetitionhasmovedtocommissionan",
   "euroareaindustrialactivityrampsupinjulyevenasdemandconditionsarestillweak",
   "francemanufacturingactivityconfirmedtohaveeasedslightlyinjuly",
-  "marketoutlookfortheweekof3rd",
-  "afterdecadesdiageospartnershipwithmoethennessyhaslostsomefizz",
-  "watchwhybondsareatcenterofusjapaninterventiononyen",
+  "japansfightwithyenbearsgoesonafterjointrescue",
   "watchyentradersbraceforinterventionastrumpbacksjapan",
+  "marketoutlookfortheweekof3rd",
+  "in5questionshowthestraitofhormuzismanagedandwhatcouldchange",
   "biginvestorsthinkitmightbetimetobuyinsouthkorea",
-  "awsceosaysaibusinessisjustmassive",
   "twotankerswithsaudioilexitredseaoverweekenddatashows",
   "watchibmsgarycohnonwarshsfedyeninterventionmarkets",
   "watchoilslumpsastrumpcallsoffattackoniran",
@@ -1369,8 +1371,6 @@
   "yengainsasusbanksaskedbynewyorkfedtocheckkeyrate",
   "amethanegasexplosionatacoalminingcomplexinpakistansbalochi",
   "xiurgesmilitarytostepupuseofunmannedaitechnologies",
-  "hsbcsingaporebankstoshowstrengthonwealthperformance",
-  "chinasminimaxandbytedancereleaseduelingaivideomodels",
-  "hormuzoiltankershuttlingtradeispickingupagainafterlull"
+  "hsbcsingaporebankstoshowstrengthonwealthperformance"
  ]
 }
