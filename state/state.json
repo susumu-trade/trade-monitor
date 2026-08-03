@@ -842,7 +842,7 @@
     "previous": "4.1%"
    }
   ],
-  "cache_at": "2026-08-03T16:51:30.816444+09:00",
+  "cache_at": "2026-08-03T17:00:09.688507+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -862,7 +862,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "oiltumblesastrumpcancelsattackonirantoreachnucleardeal",
+  "oilfallsaftertrumpcancelsattackonirantoseeknucleardeal",
   "japanconfirmsjointfxinterventionwithussayswonthesitateformore",
   "japantovowcoordinationwiththeusonweakyeninhistoricbattle",
   "breakingviewsusjapanyenteamupworsensbojdilemma",
@@ -874,9 +874,9 @@
   "ustreasuryinformedbanksthatitmayinterveneinjapansyensourcesays",
   "japanusconfirmjointyenbuyinginterventionsignalmoreaction",
   "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
-  "iranwarushersinoilrefininggoldeneraitwontlast",
-  "japanwonthesitatetoactagainafterjointyeninterventionwithuskatayama",
   "opecoiloutputhikeisirrelevantfornownotforlater",
+  "japanwonthesitatetoactagainafterjointyeninterventionwithuskatayama",
+  "iranwarushersinoilrefininggoldeneraitwontlast",
   "biginvestorsthinkitmightbetimetobuyinsouthkorea",
   "isindiaasiasultimateantiaitrade",
   "cubaplungesintodarknessaselectricgridcollapses",
@@ -929,9 +929,11 @@
   "ustreasurycaughtbuyingyeninrarejointinterventionwithjapan",
   "bitcoinisnowcalmerthansouthkoreasaidrivenstockmarket",
   "alibabareleasesbiggestaimodelwithperformancerivalinganthropic",
+  "francejulyfinalmanufacturingpmi498vs500prelim",
   "marketoutlookfortheweekof3rd",
   "ethereumanalysisatthestartofthisweekbearsarealittlestrongerbutthistradingmapisthekeyforcryptotraders",
   "swissinflationholdssteadyinjulyasthreatofdeflationremains",
+  "italyjulymanufacturingpmi513vs523expected",
   "whatarethemaineventsfortoday",
   "fxoptionexpiriesfor3august10amnewyorkcut",
   "germanyretailsalesslumpinjunedespitestrongerpetrolstationsalesagain",
@@ -952,6 +954,7 @@
   "keyoilchokepointsremainstarvedoftrafficredseahormuztankertrafficstaysdeeplydepressed",
   "australiamanufacturingpmihits520asoutputgrowthreturnsinjuly",
   "bessentjapanconfirmfridaysjointyeninterventionvowfurtheraction",
+  "oiltumblesastrumpcancelsattackonirantoreachnucleardeal",
   "economicandeventcalendarinasia03august2026",
   "reportsofiranfiringcruisemissileatusoiltankeralsouknavyreportsincident",
   "mrsaaranocutpetrolpricesasdepotsmatchdangoterefineryratedespiterisingcrudeoilprices",
@@ -1358,9 +1361,6 @@
   "usstrikesiranagainasconflictspreadsacrossmiddleeast",
   "topimfofficialsvisitvenezuelaforfirsttimeintwodecades",
   "blackseaattacksdisruptsunfloweroilflowspushingindiatowardnewsuppliers",
-  "southkoreaskospirises14",
-  "japanjuneprelimindustrialproduction13mmvs07expected",
-  "japanunemploymentrate25vs25expected",
-  "fedholdsratein93votemarketoutlook"
+  "southkoreaskospirises14"
  ]
 }
