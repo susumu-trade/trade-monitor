@@ -412,6 +412,14 @@
     "previous": ""
    },
    {
+    "title": "FOMC Member Schmid Speaks",
+    "country": "USD",
+    "date": "2026-08-04T20:15:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
     "title": "ANZ Commodity Prices m/m",
     "country": "NZD",
     "date": "2026-08-04T21:00:00-04:00",
@@ -844,7 +852,7 @@
     "previous": "4.1%"
    }
   ],
-  "cache_at": "2026-08-04T02:32:14.597757+09:00",
+  "cache_at": "2026-08-04T02:44:19.330294+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -869,8 +877,8 @@
   "japantoannouncetokyowashingtontookjointactiononyensourcessay",
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "georgiasonlyoilrefineryiscuttingtieswithrussianoilduetosanctionsreuters",
-  "makingsenseofthetrumptreasurysoddfxintervention",
   "morningbidyenstodolistgetsharderfromherebyreuters",
+  "makingsenseofthetrumptreasurysoddfxintervention",
   "japanconfirmsjointfxinterventionwithussayswonthesitateformore",
   "oilpricesmixedamidattacksongulfexportfacilities",
   "japansfightwithyenbearsgoesonafterjointrescue",
@@ -893,10 +901,10 @@
   "japanusconfirmjointyenbuyinginterventionsignalmoreaction",
   "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
   "indiahikeswindfalltaxondieselpetrolandjetfuel",
-  "whyirantalksmarktacticalshiftnotendofconfrontation",
   "japanconfirmsjointyeninterventionwithussignalsreadinessformoreaction",
   "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
   "oilpricesdropaftertrumpcancelsattackonirantoseekdeal",
+  "biginvestorsthinkitmightbetimetobuyinsouthkorea",
   "totalenergiestakesovershellswindsolarassetsineurope",
   "keyglobaltriggersthatcouldmovemarketsthisweek",
   "southkoreascentralbanktobuygoldfromdomesticproducers",
@@ -917,8 +925,8 @@
   "ustreasurysfirepowerforyensupportmaybelimitedjpmsays",
   "oilslipsastrumpholdsoffiranattacksaystalkstoresume",
   "brazilsoiloutputhitsrecordaswardrivesupnonopecsupply",
-  "ukrainesshiftingstrikesdeepenuncertaintyaroundrussianoil",
   "usdjpyususeseurostobuyyentoavoidweakerdollarstrategistssay",
+  "ukrainesshiftingstrikesdeepenuncertaintyaroundrussianoil",
   "istheangstoveraispendingandfedinactionwarranted",
   "oilslumpsastrumpholdsoffiranattacksaystalkstoresume",
   "usjapanandsouthkoreajoinforcestosupportyenforecastasof03082026",
@@ -933,19 +941,20 @@
   "watchwarshdoesnotbelieveincurrentdatasourceswalser",
   "howleverageturned2026sbestperforminghedgefundintoitsfastestunwind",
   "gasnotoiliswhereusenergydominancematters",
-  "trumpholdsoffiranstrikesonpledgeahormuzdealisclose",
   "iranwarspursasurgeinstocksalesfromusshalecompanies",
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "globallnghuntintensifiesasmiddleeastwarcutssupply",
   "whyreopeningthestraitofhormuzwillnolongersolvetheglobalenergycrisis",
   "higherpalmoilpricesliftoutlookforsgxlistedplantersaheadofq2results",
+  "ciccanalysishowfarhasthismarketcorrectiongonebeyondaiwhatelseisworthbuying",
   "watchwhytheusissteppingintopropupjapansyen",
   "watchwhytheustreasuryandjapanaresupportingtheyen",
   "watchsecularbullmarketwilllastrestofdecadebartelssays",
   "fxdailysnapshot",
-  "watchwhybondsareatcenterofusjapaninterventiononyen",
   "oilfallsaftertrumpcallsoffiranattack",
+  "watchwhybondsareatcenterofusjapaninterventiononyen",
   "watchwheredoesoilgonextafterthehormuzcrisis",
+  "awsceosaysaibusinessisjustmassive",
   "watchyentradersbraceforinterventionastrumpbacksjapan",
   "spidermantheodysseyssuccessliftsindiancinemastocks",
   "kkrraises192billionforbiggesteverinfrastructurefund",
@@ -962,7 +971,6 @@
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
   "in5questionshowthestraitofhormuzismanagedandwhatcouldchange",
   "russianoilrefiningfallsto24yearlowafterukrainiandronestrikesbloomberg",
-  "ciccanalysishowfarhasthismarketcorrectiongonebeyondaiwhatelseisworthbuying",
   "derivativestradingsinksatnseonrbicurbs",
   "zimbabweovertakesafricasgianttobecomecontinentbestperformingstockmarket",
   "zimbabweovertakesnigeriaasafricasbestperformingstockmarket",
@@ -991,8 +999,9 @@
   "marketoutlookfortheweekof3rd",
   "ethereumanalysisatthestartofthisweekbearsarealittlestrongerbutthistradingmapisthekeyforcryptotraders",
   "swissinflationholdssteadyinjulyasthreatofdeflationremains",
-  "biginvestorsthinkitmightbetimetobuyinsouthkorea",
+  "whyirantalksmarktacticalshiftnotendofconfrontation",
   "yenbearishbetsfaceunwindriskafterusjapanintervention",
+  "trumpholdsoffiranstrikesonpledgeahormuzdealisclose",
   "industrialssectorampindustryperformance",
   "trumpsaysirantalkstobeginmondayafterscrappingattack",
   "ukjulyfinalmanufacturingpmi519vs528prelim",
@@ -1362,7 +1371,6 @@
   "pbocsweakerdailyfixingtotemperyuangainsanalystssaycnyusd",
   "whyeuropeswildfiresaresohardtoputout",
   "thehighestyieldingstocksonthetsxplusriskdata",
-  "rarejapankoreajointinterventionshakesupyenandwonkelo",
-  "dollareasesagainstyenasinterventionriskskeeptraderswarybyreuters"
+  "rarejapankoreajointinterventionshakesupyenandwonkelo"
  ]
 }
