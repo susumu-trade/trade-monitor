@@ -863,7 +863,7 @@
     "previous": "4.1%"
    }
   ],
-  "cache_at": "2026-08-09T04:09:37.063804+09:00",
+  "cache_at": "2026-08-09T04:21:42.838809+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -883,13 +883,13 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "theweekinbreakingviewsayenforintervention",
-  "russiacutsoiloutputinaprilsourcessayenergynewstopheadlinescommentariesfeaturesampevents",
   "uaesaysiranattackedadnocvesselwithmissileinstraitofhormuz",
+  "russiacutsoiloutputinaprilsourcessayenergynewstopheadlinescommentariesfeaturesampevents",
+  "libyaswahaoilsaysitcontainedleakonzaqoutsidrapipelinepumpingresumedafterrepairs",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
   "democratsplantrumpinvestigationsoverimpeachmentiftheywinhousesourcessay",
   "exclusivesyriatellsusitiswillingtodrasticallydroprussianoilimportssourcessaybyreuters",
-  "libyaswahaoilsaysitcontainedleakonzaqoutsidrapipelinepumpingresumedafterrepairs",
+  "theweekinbreakingviewsayenforintervention",
   "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "usstocksbondsrallyaftersoftjobsreportyenbouncesback",
@@ -899,11 +899,10 @@
   "ussuffersunexpectedjoblossesinjulymarketsdialbackratehikeexpectations",
   "usnaturalgassupplyoutlookhingesonthreekeyshalebasinsmaguire",
   "iransaysdealonstraitofhormuzisclosebutisnotenoughtoopenthewaterway",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "momdontcallmeinsidethailandsdeadlyschoolshooting",
   "newjerseys25billionforeverchemicalssettlementswithdupont3motherswincourtapproval",
   "thaiteenagersdeadlyrampagefromhisquiethometoashootingspreeatschool",
-  "canadadiscussingtradeconcessionswithustoavoidnewtariffssayssource",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "dollardropsasweakusjobsdatapushesoutfedhikeexpectations",
   "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
   "willsmartglassesbethenextsmartphone",
@@ -914,6 +913,7 @@
   "biginvestorsthinkitmightbetimetobuyinsouthkorea",
   "bigtechjoinscalgarystampedeoilbashascanadacourtsdatacentersbyreuters",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
+  "canadadiscussingtradeconcessionswithustoavoidnewtariffssayssourcebyreuters",
   "jobsshockeasesratehikepressuresampp500hitsrecordhigh",
   "iranwarnshormuzstraitnotfullyopendespiteomandealtalks",
   "russiandroneskill3yearoldboyandgrandparents",
@@ -951,7 +951,6 @@
   "usstocksjumpasemployersunexpectedlycut23000jobsraisinghopesthatratehikescanwait",
   "the20mostactivelytradedetfs",
   "bitcoinetheretfsdraw11billioninbestinflowweeksinceaprildespitelowvolume",
-  "everyonegotthejobsnumberwrongwhyitwontbethelasttime",
   "energyservicessettobenefitonceiranwarendsbarclayssays",
   "canadausstockmarketsrisefollowinglabourdatafrombothcountries",
   "ukrainepledgestousanottotargettankersinfrastructurecriticaltokazakhoilexportsmediainterfax",
@@ -986,6 +985,8 @@
   "fxoptionexpiriesfor7august10amnewyorkcut",
   "oilpricesnudgebackupalittletodaybutstillpoisedforbackto",
   "investingliveasiapacificfinancialmarketnewsgulfonedgeassaudiattackwarningsharpens",
+  "everyonegotthejobsnumberwrongwhyitwontbethelasttime",
+  "canadadiscussingtradeconcessionswithustoavoidnewtariffssayssource",
   "oilgainsonpendingiranomandealoverhormuz",
   "whymarketsthinktheusiswinningtheblockade",
   "dailynaturalgasmarketupdate5726",
@@ -1381,7 +1382,6 @@
   "venezuelaoilwherehasthemoneygone",
   "victorniederhofferwillbemissed",
   "goldhitssixweekhighsonchinademandasbitcoinignoresfreshsampp500record",
-  "howbimodalityispercolatingupintomacromarkets",
-  "usstocksswayinmixedtradingasmoreearningsreportsrollin"
+  "howbimodalityispercolatingupintomacromarkets"
  ]
 }
