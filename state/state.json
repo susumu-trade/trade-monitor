@@ -655,7 +655,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-10T07:49:48.096329+09:00",
+  "cache_at": "2026-08-10T08:01:52.183481+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -677,7 +677,7 @@
  "news_seen2": [
   "germantradedeficitwithchinagrowsasbeijingrelieslessoneuropeanindustry",
   "chinasnationalteambattlesaistockrollercoaster",
-  "yemenshouthisattacksaudiaramcojazanrefinery",
+  "yemenshouthisattacksaudirefineryafterkingdomsignsdefencepactal",
   "houthissaytheyattackedsaudiaramcosrefineryinjazannoinjuriesreported",
   "biginvestorsthinkitmightbetimetobuyinsouthkorea",
   "oilslidesasmiddleeastuncertaintykeepsmarketsonedge",
@@ -691,22 +691,20 @@
   "iransaysomandealisinfinalstagesbutusmustacttoopenhormuz",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "oilpricesmixedamidattacksongulfexportfacilities",
-  "iransaysdealonstraitofhormuzisclosebutnotenoughtoopenthewaterway",
-  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
-  "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
   "proposedhormuzdealwouldgiveirancontrolofinboundtrafficsourcessay",
+  "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
   "trustinnewsinthephilippinesfell10percentagepointsto28in2026thesharpestsingleyeardropsincethecountrywasfirstcoveredbyther",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "icesaysitexpectstoequipeveryfieldofficerwithbodycamerasbytheendofaugustworldnews",
+  "iransaysdealonstraitofhormuzisclosebutnotenoughtoopenthewaterwayworldnews",
   "houthiattackskill11inyementargetsaudioilrefinery",
+  "icesaysitexpectstoequipeveryfieldofficerwithbodycamerasbytheendofaugustworldnews",
   "germanministerwarnsofdailyhybridwarfareaftersuspecteddroneattackworldnews",
   "saudiarabiaturkeypakistanpledgemutualdefenceasmiddleeastturmoilescalates",
   "polymarkettvlsoarsto3406minbullishwin",
   "chinaunleashes28trillioncapitalmarketstochallengeusinai",
   "australianwheatcropreboundsatcrucialtimeforglobalsupply",
-  "forbesrealtimebillionaireslisttheworldsrichestpeople",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "96billionjapanbondlossesputamericadebtandbitcoinonalert",
+  "forbesrealtimebillionaireslisttheworldsrichestpeople",
   "barrickchairmansplannedoverhaulmeetsinvestorbacklash",
   "stocksrallytonearrecordhighsweeklymarketrecap",
   "turkiyeurgesmoratoriumonblackseavesselattacks",
@@ -739,6 +737,10 @@
   "investingliveeuropeanmarketswrapgoldadvancesdollarmutedaheadofnfp",
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "eurusdstallsatakeytrendlineaheadoftheusnfpandcpireportswhatsnext",
+  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
+  "iransaysdealonstraitofhormuzisclosebutnotenoughtoopenthewaterway",
+  "yemenshouthisattacksaudiaramcojazanrefinery",
   "alleyesontheusjobsreportnow",
   "japansbiginsurersface96billioninbondlossesasratesrise",
   "eucallsgassupplygroupmeetinginresponsetoiranconflict",
@@ -1172,8 +1174,6 @@
   "iranisreportedlydraftingastrategicplanthatwouldrestrictaccessthroughthestraitofhormuz",
   "whatarethetechnicalsdrivingthespandnasdaqindicestoday",
   "japansaprilyenbuyinginterventionsetsfreshdailyrecord",
-  "yenanddollardriftonirandealconcernspayrolljitters",
-  "exjapanpmwarnsfxactionwontsaveyenwithout23trilliongrowthstrategy",
-  "fedsdalysupportedratedecisionwarnsofinflationrisks"
+  "yenanddollardriftonirandealconcernspayrolljitters"
  ]
 }
