@@ -655,7 +655,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-10T06:41:20.000455+09:00",
+  "cache_at": "2026-08-10T06:49:24.522555+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -675,12 +675,13 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "yemenshouthisattacksaudirefineryafterkingdomsignsdefencepact",
+  "germantradedeficitwithchinagrowsasbeijingrelieslessoneuropeanindustry",
+  "chinasnationalteambattlesaistockrollercoaster",
   "houthissaytheyattackedsaudiaramcosrefineryinjazannoinjuriesreported",
   "oilslidesasmiddleeastuncertaintykeepsmarketsonedge",
   "amazons765gwtexasgasplantcouldbecomeusbiggestsourceofco2report",
-  "germantradedeficitwithchinagrowsasbeijingrelieslessoneuropeanindustry",
   "threeinfiveamericansfavorstrongeroversightofsocialmediacompaniesreutersipsospollfindsbyreuters",
+  "chinajulyfactorygateinflationeasesto3monthlowcpislows",
   "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
   "amazondatacenterplantintexascouldbecomeamericasbiggestpolluter",
   "alibabaplanstochargebigusersofitsnextopensourceaimodelreport",
@@ -688,11 +689,12 @@
   "proposedhormuzdealwouldgiveirancontrolofinboundtrafficsourcessay",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "trustinnewsinthephilippinesfell10percentagepointsto28in2026thesharpestsingleyeardropsincethecountrywasfirstcoveredbyther",
-  "chinajulyfactorygateinflationeasesto3monthlowcpislows",
-  "icesaysitexpectstoequipeveryfieldofficerwithbodycamerasbytheendofaugustworldnews",
+  "yemenshouthisattacksaudirefineryafterkingdomsignsdefencepact",
   "oilpricesmixedamidattacksongulfexportfacilities",
   "iransaysdealonstraitofhormuzisclosebutnotenoughtoopenthewaterway",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
+  "icesaysitexpectstoequipeveryfieldofficerwithbodycamerasbytheendofaugustworldnews",
+  "germanministerwarnsofdailyhybridwarfareaftersuspecteddroneattackworldnews",
   "saudiarabiaturkeypakistanpledgemutualdefenceasmiddleeastturmoilescalates",
   "polymarkettvlsoarsto3406minbullishwin",
   "chinaunleashes28trillioncapitalmarketstochallengeusinai",
@@ -706,6 +708,7 @@
   "watchinflationdatakeepsfedratehikeinplay",
   "koreavolatilityspikeebbsasleveragedtradesareflushedout",
   "80stocksgainasnigerianexchangeclosesweekwithstrongmarketperformance",
+  "therearereportsthatiranmissileshavehitatankeroffomaninhormuzsoutherncorridor",
   "goldhitssevenweekhighasweakusjobsdatacutsratehikeoddswhatsnext",
   "iranvowshormuzstaysshutuntilusmeetsdemandsashouthiswidenredseablockade",
   "trumpwearelowkeyingitasstraitofhormuzdealdrifts",
@@ -747,7 +750,6 @@
   "okloat47thenucleardarlingdown75fromitshighwhatwallstreetismissinglizzokafdc4cxhx",
   "dailynaturalgasmarketupdate5826",
   "theweekinbreakingviewsayenforintervention",
-  "germanministerwarnsofdailyhybridwarfareaftersuspecteddroneattackworldnews",
   "ustreasurypressuresharrysargeanttodivestfromvenezuelaoilventurebusiness",
   "iranwarnshormuzstraitnotfullyopendespiteomandealtalks",
   "ustreasurypressuresharrysargeanttodivestfromvenezuelaoilventure",
@@ -1172,8 +1174,6 @@
   "usdollarrisesagainstyenasmarketseyeirandealjobsreport",
   "agoogleinsiderisrevealingthedramabehindyesterdaysunsettlingshakeup",
   "commerzbankceosaystakeoverbyunicreditcancreatevalue",
-  "accordingtobloombergnews64ofyoungpeoplewhotradestockseverydayreportedasenseoffail",
-  "europesgoldenheatwave",
-  "saudicrudeshipmentstousplungetozeroasoilrefinerspivot"
+  "accordingtobloombergnews64ofyoungpeoplewhotradestockseverydayreportedasenseoffail"
  ]
 }
