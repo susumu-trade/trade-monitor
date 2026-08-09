@@ -119,6 +119,14 @@
     "previous": "3.7%"
    },
    {
+    "title": "FOMC Member Hammack Speaks",
+    "country": "USD",
+    "date": "2026-08-10T15:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
     "title": "Bank Holiday",
     "country": "JPY",
     "date": "2026-08-10T19:00:00-04:00",
@@ -655,7 +663,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-10T08:42:09.374940+09:00",
+  "cache_at": "2026-08-10T08:50:12.913236+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -694,6 +702,7 @@
   "proposedhormuzdealwouldgiveirancontrolofinboundtrafficsourcessay",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
   "trustinnewsinthephilippinesfell10percentagepointsto28in2026thesharpestsingleyeardropsincethecountrywasfirstcoveredbyther",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "iransaysdealonstraitofhormuzisclosebutnotenoughtoopenthewaterwayworldnews",
   "icesaysitexpectstoequipeveryfieldofficerwithbodycamerasbytheendofaugustworldnews",
   "houthiattackskill11inyementargetsaudioilrefinery",
@@ -701,13 +710,14 @@
   "polymarkettvlsoarsto3406minbullishwin",
   "chinaunleashes28trillioncapitalmarketstochallengeusinai",
   "australianwheatcropreboundsatcrucialtimeforglobalsupply",
+  "forbesrealtimebillionaireslisttheworldsrichestpeople",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "datacentresareonatearbutpropertyfundwarnsallisnotwell",
   "96billionjapanbondlossesputamericadebtandbitcoinonalert",
-  "forbesrealtimebillionaireslisttheworldsrichestpeople",
   "barrickchairmansplannedoverhaulmeetsinvestorbacklash",
   "stocksrallytonearrecordhighsweeklymarketrecap",
   "turkiyeurgesmoratoriumonblackseavesselattacks",
+  "howtheusistryingtoendsolartariffwhackamole",
   "watchirantalksofferlittlereliefforhormuzshipping",
   "watchinflationdatakeepsfedratehikeinplay",
   "koreavolatilityspikeebbsasleveragedtradesareflushedout",
@@ -737,7 +747,6 @@
   "usjulynonfarmpayrolls",
   "canadajulyemploymentchange751kvs15kexpected",
   "investingliveeuropeanmarketswrapgoldadvancesdollarmutedaheadofnfp",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "germanministerwarnsofdailyhybridwarfareaftersuspecteddroneattackworldnews",
@@ -752,7 +761,6 @@
   "trumpsaysaratehikeisntcompletelyuptowarshitsuptotheboard",
   "goldstayssupportedamidmiddleeastdeescalationbuttheuscpicoulderasethegains",
   "indianrefinersturntowestafricancrudeamidmiddleeastsupplydisruptions",
-  "howtheusistryingtoendsolartariffwhackamole",
   "chinagoldbuyingspreecontinuesinjulyasreservesclimbfora21stconsecutivemonth",
   "whatisthedistributionofforecastsfortheusnfp",
   "whatarethemaineventsfortoday",
