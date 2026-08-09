@@ -655,7 +655,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-10T00:28:46.641846+09:00",
+  "cache_at": "2026-08-10T00:40:50.978416+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -675,8 +675,8 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "theweekinbreakingviewsayenforintervention",
   "yemenshouthisattacksaudirefineryafterkingdomsignsdefencepact",
+  "theweekinbreakingviewsayenforintervention",
   "oilslidesasmiddleeastuncertaintykeepsmarketsonedge",
   "pentagondemandsfasterweaponsproductionasiranwardrainsusstockpiles",
   "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
@@ -685,8 +685,9 @@
   "alibabaplanstochargebigusersofitsnextopensourceaimodelreport",
   "iransaysomandealisinfinalstagesbutusmustacttoopenhormuz",
   "proposedhormuzdealwouldgiveirancontrolofinboundtrafficsourcessay",
-  "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "germantradedeficitwithchinagrowsasbeijingrelieslessoneuropeanindustry",
+  "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
+  "trustinnewsinthephilippinesfell10percentagepointsto28in2026thesharpestsingleyeardropsincethecountrywasfirstcoveredbyther",
   "oilpricesmixedamidattacksongulfexportfacilities",
   "okloat47thenucleardarlingdown75fromitshighwhatwallstreetismissinglizzokafdc4cxhx",
   "iransaysdealonstraitofhormuzisclosebutnotenoughtoopenthewaterway",
@@ -696,13 +697,12 @@
   "polymarkettvlsoarsto3406minbullishwin",
   "barrickchairmansplannedoverhaulmeetsinvestorbacklash",
   "dailynaturalgasmarketupdate5826",
-  "watchinflationdatakeepsfedratehikeinplay",
+  "watchirantalksofferlittlereliefforhormuzshipping",
   "forbesrealtimebillionaireslisttheworldsrichestpeople",
   "stocksrallytonearrecordhighsweeklymarketrecap",
   "turkiyeurgesmoratoriumonblackseavesselattacks",
-  "watchirantalksofferlittlereliefforhormuzshipping",
-  "ustreasurypressuresharrysargeanttodivestfromvenezuelaoilventure",
-  "trumpampsuppressureonbillionairesargeanttoexitvenezuela",
+  "watchinflationdatakeepsfedratehikeinplay",
+  "ustreasurypressuresharrysargeanttodivestfromvenezuelaoilventurebusiness",
   "80stocksgainasnigerianexchangeclosesweekwithstrongmarketperformance",
   "newsquawkweekaheadrbaannouncementandusretailsales",
   "chinasjulycpicoolstosix",
@@ -729,7 +729,8 @@
   "whatisthedistributionofforecastsfortheusnfp",
   "whatarethemaineventsfortoday",
   "fxoptionexpiriesfor7august10amnewyorkcut",
-  "ustreasurypressuresharrysargeanttodivestfromvenezuelaoilventurebusiness",
+  "ustreasurypressuresharrysargeanttodivestfromvenezuelaoilventure",
+  "trumpampsuppressureonbillionairesargeanttoexitvenezuela",
   "japanintervenestopropupyenaheadofbojpolicydecisionsourcesays",
   "germanministerwarnsofdailyhybridwarfareaftersuspecteddroneattackworldnews",
   "turkiyerestrictsblackseatrafficasdroneattacksoncommercialvesselsspike",
@@ -1173,7 +1174,6 @@
   "remitlyisdisruptingglobalremittancemarketsonmultiplefronts",
   "usinitialjoblessclaims199kversus202kestimate",
   "watchformerjapanpmonyencommunicationwithbojandmarkets",
-  "watchjapanskishidaongrowthstrategyandyenintervention",
-  "watchitmakessenseforgoldtotradehigher3minutesmliv"
+  "watchjapanskishidaongrowthstrategyandyenintervention"
  ]
 }
