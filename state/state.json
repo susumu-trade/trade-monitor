@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-08-09",
+  "last_digest": "2026-08-10",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -655,7 +655,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-10T06:49:24.522555+09:00",
+  "cache_at": "2026-08-10T07:01:28.741137+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -677,7 +677,9 @@
  "news_seen2": [
   "germantradedeficitwithchinagrowsasbeijingrelieslessoneuropeanindustry",
   "chinasnationalteambattlesaistockrollercoaster",
+  "yemenshouthisattacksaudiaramcojazanrefinery",
   "houthissaytheyattackedsaudiaramcosrefineryinjazannoinjuriesreported",
+  "biginvestorsthinkitmightbetimetobuyinsouthkorea",
   "oilslidesasmiddleeastuncertaintykeepsmarketsonedge",
   "amazons765gwtexasgasplantcouldbecomeusbiggestsourceofco2report",
   "threeinfiveamericansfavorstrongeroversightofsocialmediacompaniesreutersipsospollfindsbyreuters",
@@ -686,27 +688,28 @@
   "amazondatacenterplantintexascouldbecomeamericasbiggestpolluter",
   "alibabaplanstochargebigusersofitsnextopensourceaimodelreport",
   "iransaysomandealisinfinalstagesbutusmustacttoopenhormuz",
-  "proposedhormuzdealwouldgiveirancontrolofinboundtrafficsourcessay",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
-  "trustinnewsinthephilippinesfell10percentagepointsto28in2026thesharpestsingleyeardropsincethecountrywasfirstcoveredbyther",
-  "yemenshouthisattacksaudirefineryafterkingdomsignsdefencepact",
   "oilpricesmixedamidattacksongulfexportfacilities",
   "iransaysdealonstraitofhormuzisclosebutnotenoughtoopenthewaterway",
+  "proposedhormuzdealwouldgiveirancontrolofinboundtrafficsourcessay",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
+  "trustinnewsinthephilippinesfell10percentagepointsto28in2026thesharpestsingleyeardropsincethecountrywasfirstcoveredbyther",
   "icesaysitexpectstoequipeveryfieldofficerwithbodycamerasbytheendofaugustworldnews",
+  "houthiattackskill11inyementargetsaudioilrefinery",
   "germanministerwarnsofdailyhybridwarfareaftersuspecteddroneattackworldnews",
   "saudiarabiaturkeypakistanpledgemutualdefenceasmiddleeastturmoilescalates",
   "polymarkettvlsoarsto3406minbullishwin",
   "chinaunleashes28trillioncapitalmarketstochallengeusinai",
-  "forbesrealtimebillionaireslisttheworldsrichestpeople",
+  "australianwheatcropreboundsatcrucialtimeforglobalsupply",
   "barrickchairmansplannedoverhaulmeetsinvestorbacklash",
+  "watchirantalksofferlittlereliefforhormuzshipping",
+  "watchinflationdatakeepsfedratehikeinplay",
+  "koreavolatilityspikeebbsasleveragedtradesareflushedout",
+  "forbesrealtimebillionaireslisttheworldsrichestpeople",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "japansbiginsurersface96billioninbondlossesasratesrise",
   "stocksrallytonearrecordhighsweeklymarketrecap",
   "turkiyeurgesmoratoriumonblackseavesselattacks",
-  "watchirantalksofferlittlereliefforhormuzshipping",
-  "watchinflationdatakeepsfedratehikeinplay",
-  "koreavolatilityspikeebbsasleveragedtradesareflushedout",
   "80stocksgainasnigerianexchangeclosesweekwithstrongmarketperformance",
   "therearereportsthatiranmissileshavehitatankeroffomaninhormuzsoutherncorridor",
   "goldhitssevenweekhighasweakusjobsdatacutsratehikeoddswhatsnext",
@@ -733,12 +736,12 @@
   "eurusdstallsatakeytrendlineaheadoftheusnfpandcpireportswhatsnext",
   "alleyesontheusjobsreportnow",
   "fundingpipssignalsthenextevolutionofproptrading",
-  "trumpsaysaratehikeisntcompletelyuptowarshitsuptotheboard",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
-  "goldstayssupportedamidmiddleeastdeescalationbuttheuscpicoulderasethegains",
-  "houthiattackskill11inyementargetsaudioilrefinery",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "eucallsgassupplygroupmeetinginresponsetoiranconflict",
+  "yemenshouthisattacksaudirefineryafterkingdomsignsdefencepact",
+  "trumpsaysaratehikeisntcompletelyuptowarshitsuptotheboard",
+  "goldstayssupportedamidmiddleeastdeescalationbuttheuscpicoulderasethegains",
   "indianrefinersturntowestafricancrudeamidmiddleeastsupplydisruptions",
   "howtheusistryingtoendsolartariffwhackamole",
   "chinagoldbuyingspreecontinuesinjulyasreservesclimbfora21stconsecutivemonth",
@@ -820,7 +823,6 @@
   "watchuniversityofcaliforniafacultypushtobringbacksatandactscoreconsideration",
   "canadaracesfordealbeforetrumps50tariffinflamesfeud",
   "usfiscalandmonetarypoliciespointingindifferentdirections",
-  "biginvestorsthinkitmightbetimetobuyinsouthkorea",
   "cftcwarnspredictionmarketsonamericanstylecasinoodds",
   "usstocksbondsrallyaftersoftjobsreportyenbouncesback",
   "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
@@ -1172,8 +1174,6 @@
   "tullowoilraisescashflowforecastto250monstrongghanaoutputhigheroilprices",
   "theusdjpymakesabreakforit",
   "usdollarrisesagainstyenasmarketseyeirandealjobsreport",
-  "agoogleinsiderisrevealingthedramabehindyesterdaysunsettlingshakeup",
-  "commerzbankceosaystakeoverbyunicreditcancreatevalue",
-  "accordingtobloombergnews64ofyoungpeoplewhotradestockseverydayreportedasenseoffail"
+  "agoogleinsiderisrevealingthedramabehindyesterdaysunsettlingshakeup"
  ]
 }
