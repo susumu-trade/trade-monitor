@@ -663,7 +663,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-11T04:21:55.050143+09:00",
+  "cache_at": "2026-08-11T04:30:03.526197+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -683,19 +683,19 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "oilpricesjumpwallstreetunderpressurewithhormuzinflationinfocus",
   "exclusivebptosell20stakeinvenezuelascocuinagasfieldtotrinidadsngcsourcessay",
-  "oilspilloffomanfromtankerundersanctionsagainstrussiaspreadsoverhugearea",
-  "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
-  "chinaisbalancingasiascrudeoildemandbyitself",
   "glencoresexposuretoradiantworldmorethan500millionsourcessay",
+  "oilspilloffomanfromtankerundersanctionsagainstrussiaspreadsoverhugearea",
+  "chinaisbalancingasiascrudeoildemandbyitself",
   "opecoiloutputrisesfurtherinjulyledbygulfproducersreuterssurveyshows",
   "omansaysgroundedtankeroilspillcovers400squarekm",
   "dollargainsyenweakensasmarketseyeuscpi",
+  "newconocophillipsceoinherits7billioncashflowpledgeridingonalaskaoilproject",
   "unemploymentrateremainsfedslabormarketlodestar",
-  "adnocgassecondquarterprofitfalls52ashormuzclosurehitssales",
-  "wallstmutedasmarketsmonitorhormuzsituationdataawaited",
+  "wallstreeteasesashopesforimminenthormuzdealfadeinteldrops",
   "indiashindustancopperplanstosellcopperconcentratesourcedfromchiletohindalcoadanisourcessay",
+  "oilpricesjumpwallstreetunderpressurewithhormuzinflationinfocus",
+  "adnocgassecondquarterprofitfalls52ashormuzclosurehitssales",
   "torontostocksslipasbarricktumblesusirantalksinfocus",
   "polandandbalticsshieldinfrastructurefearingarussianfalseflagstrike",
   "indianretailerslossesondomesticlpgsalesnarrowinaugust",
@@ -703,6 +703,7 @@
   "golddriftsnearsevenweekhighonbuyingmomentumasinflationdatalooms",
   "bojsratehikepathrunsintotakaichisbondmarketproblems",
   "investorviewfastestroutetocleanerbatteriesrunsthroughasia",
+  "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "japanincsstrengthsgobeyondyenweakness",
   "exclusiveblackstoneownedsafeharbornears15billiondealtobuymarinemaxsourcessay",
   "australiansharesdipaswestpacweighsonbanksaheadofrbadecision",
@@ -773,12 +774,12 @@
   "watchhormuzdealelusivewallstreetseesbondmarketangsttheasiatrade8102026",
   "rotationfromleveragedetfsfuels30jumpinkoreasmallcaps",
   "jpmorganstrategistsraisesampp500targetasaicapexpaysoff",
+  "philippinecentralbankkeepsratehikeontabledespiteweakgdpgrowth",
   "emergingmarketstockvaluationssinkbelowhalfofsampp500s",
   "watchfedratehikeindecemberispossiblemacquariesthierrywizmansays",
   "iransoilterminalslookidleasuskeepsupnavalblockade",
-  "tsmcsalesrise45asdemandforaihardwarestaysstrong",
-  "watchuschallengerreportshows33429jobcutsinjuly",
   "treasurywineflags395millionwritedownoverexcessussupply",
+  "watchuschallengerreportshows33429jobcutsinjuly",
   "deepxceoonbusinessstrategynewfunding",
   "watchitsnottimetoraiseratessaysstatestreetshung",
   "watchnetanyahurejectsusbackedhamasdisarmamentproposal",
@@ -809,6 +810,8 @@
   "marketoutlookfortheweekof10th",
   "whatarethemaineventsfortoday",
   "fxoptionexpiriesfor10august10amnewyorkcut",
+  "wallstmutedasmarketsmonitorhormuzsituationdataawaited",
+  "tsmcsalesrise45asdemandforaihardwarestaysstrong",
   "oilrises4asiranusbothdemandcompensationandhormuzhopesfade",
   "energysectorampindustryperformance",
   "wallstreetbankinggiantupdatessampp500targetfor2026",
@@ -832,7 +835,6 @@
   "hindustancopperplanstosellchileminedcopperconcentratetohindalcoandadani",
   "amazons765gwtexasgasplantcouldbecomeusbiggestsourceofco2report",
   "thesecretingredientfarmersaddtotheirdairycowsdietsforrichermilk",
-  "newconocophillipsceoinherits7billioncashflowpledgeridingonalaskaoilproject",
   "ukrainecutsgrainexportforecastduetorussiaattackonseaports",
   "asiastocksfirmoiledgesupamidgulfconfusion",
   "indianrupeebondstotrackoilpriceslocalandusinflationdatainfocus",
@@ -1180,8 +1182,6 @@
   "russiaturnstosouthkoreaforfuelasrefinerycrisisdeepens",
   "japanspensionwhalegpifhas152billiongainonstockrally",
   "dollarheadsforweeklygainasmarketsawaitkeyjobsdataforecastasof07082026",
-  "40yearsofinvestinginsingaporeand8fundsampetfstoshowforit",
-  "everybodywantsenergysecurityposttheiranwarbuthow",
-  "chinascentralbankaddsgoldinhongkongtosupporthub"
+  "40yearsofinvestinginsingaporeand8fundsampetfstoshowforit"
  ]
 }
