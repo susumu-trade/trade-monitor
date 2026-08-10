@@ -663,7 +663,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-10T14:10:16.309273+09:00",
+  "cache_at": "2026-08-10T14:22:21.167985+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -684,10 +684,10 @@
  },
  "news_seen2": [
   "indianrupeebondstotrackoilpriceslocalandusinflationdatainfocus",
-  "chinaisbalancingasiascrudeoildemandbyitself",
+  "dollarneartwomonthtroughasusinflationdataawaited",
   "asiastocksedgehigheroilupamidgulfconfusionbyreuters",
   "chinasnationalteambattlesaistockrollercoaster",
-  "dollarneartwomonthtroughasusinflationdataawaited",
+  "chinaisbalancingasiascrudeoildemandbyitself",
   "yemenshouthisattacksaudiaramcojazanrefinery",
   "asiastocksedgehigheroilupamidgulfconfusion",
   "reliancebookssupertankeratrecordfreightpricetoliftiraqicrude",
@@ -699,6 +699,7 @@
   "ukraineszelenskiysaysupto50000northkoreantroopstobedeployedinrussiaworldnews",
   "oilrisesonuncertaintyoverreopeningofhormuz",
   "iransrevolutionaryguardsaysreopeningstraitofhormuzdoesnotdependontalkswithoman",
+  "australiansharesdipaswestpacweighsonbanksaheadofrbadecision",
   "chinashock20reshuffleswinnersandlosers",
   "iransaysomandealisinfinalstagesbutusmustacttoopenhormuz",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
@@ -712,17 +713,16 @@
   "westpaceconomistfedlikelytoholdafterjobsreport",
   "indonesianstocksnearbullmarketaseconomicworriesrecede",
   "emergingmarketstockscurrenciesgainaftersoftusjobsdata",
+  "rotationfromleveragedetfsfuels30jumpinkoreasmallcaps",
   "chinasinflationcoolsasiranwaroilshockstartstoease",
   "watchnysepresidentonasiabusinessipopipeline",
-  "rotationfromleveragedetfsfuel30jumpinkoreasmallcaps",
   "oilextendsgainasomaniranaccordonhormuzremainselusive",
   "deepxceoonbusinessstrategynewfunding",
   "treasurywineflags395millionwritedownoverexcessussupply",
+  "highspeedtradersshunindiasauctionoverstrictshortsalehurdle",
   "bojflagsupsidepricerisksandpossiblefasterratehikes",
   "watchdeepxceoonbusinessstrategynewfunding",
   "chinaunleashes28trillioncapitalmarketstochallengeusinai",
-  "highspeedtradersshunindiasauctionoverstrictshortsalehurdle",
-  "watchwestpaceconomistfedlikelytoholdafterjobsreport",
   "indiasupipaymentsdevelopertargetsdiasporaforgrowth",
   "australianwheatcropreboundsatcrucialtimeforglobalsupply",
   "barrickchairmansplannedoverhaulmeetsinvestorbacklash",
@@ -756,7 +756,8 @@
   "chinasjulycpicoolstosix",
   "investingliveamericasmarketnewswrapnonfarmpayrollsturnnegativedollardrops",
   "thechartthatshouldworryeverynewgrad",
-  "australiansharesdipaswestpacweighsonbanksaheadofrbadecision",
+  "watchwestpaceconomistfedlikelytoholdafterjobsreport",
+  "rotationfromleveragedetfsfuel30jumpinkoreasmallcaps",
   "usofficialsaysthereisprogressoniran",
   "stocksrallytonearrecordhighsweeklymarketrecap",
   "howtheusistryingtoendsolartariffwhackamole",
@@ -1181,7 +1182,6 @@
   "oilpricessteadyasinvestorscautiousoveriranomantalks",
   "watchbmischowdhuryoncoppergoldoilmarkets",
   "morningbidgoldstirs",
-  "trumpsignedorderontariffstradeactionsonpolysilicon",
-  "investingliveasiapacificfxnewswrap6augusdmoveshigherwithyieldsaheadofusjobsreport"
+  "trumpsignedorderontariffstradeactionsonpolysilicon"
  ]
 }
