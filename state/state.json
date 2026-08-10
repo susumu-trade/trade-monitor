@@ -663,7 +663,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-10T17:29:49.939755+09:00",
+  "cache_at": "2026-08-10T17:37:53.582965+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -683,8 +683,8 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "chinaisbalancingasiascrudeoildemandbyitself",
   "breakingviewsjapanincsstrengthsgobeyondyenweakness",
+  "chinaisbalancingasiascrudeoildemandbyitself",
   "5keymarketthemestowatchthisweek",
   "asiastocksfirmoiledgesupongulfmorass",
   "chinasnationalteambattlesaistockrollercoaster",
@@ -695,7 +695,7 @@
   "irantieshormuzreopeningtousconcessionsonseveraldemands",
   "russiacutsoiloutputinaprilsourcessay",
   "dollarclimbsfromtwomonthtroughasoilgainsinflationdataeyed",
-  "threeinfiveamericansfavorstrongeroversightofsocialmediacompaniesreutersipsospollfindsbyreuters",
+  "amazons765gwtexasgasplantcouldbecomeusbiggestsourceofco2report",
   "iransrevolutionaryguardsaysreopeningstraitofhormuzdoesnotdependontalkswithoman",
   "oilrisesonuncertaintyoverreopeningofhormuz",
   "indianrupeebondstotrackoilpriceslocalandusinflationdatainfocus",
@@ -703,12 +703,11 @@
   "bojsratehikepathrunsintotakaichisbondmarketproblems",
   "chinashock20reshuffleswinnersandlosers",
   "iransaysomandealisinfinalstagesbutusmustacttoopenhormuz",
-  "amazons765gwtexasgasplantcouldbecomeusbiggestsourceofco2report",
+  "threeinfiveamericansfavorstrongeroversightofsocialmediacompaniesreutersipsospollfindsbyreuters",
   "nigeriain1mineconomicbusinessandfinancialmarketheadlines100826",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
   "golddriftslowerfromsevenweekpeakusinflationdatalooms",
   "yemenshouthisattacksaudirefineryafterkingdomsignsdefencepact",
-  "alibabaplanstochargebigusersofitsnextopensourceaimodelreport",
   "onegreenenergystockwithdecentlongtermgrowthprospectstac",
   "malaysianeconomyontrackfor45growth",
   "iranissuesusultimatumoverstraitofhormuzᐉnewsfromfaktibgworld",
@@ -726,7 +725,6 @@
   "chinasinflationcoolsasiranwaroilshockstartstoease",
   "wheathitshighestinaweekonsupplydisruptionsinblacksea",
   "watchhormuzdealelusivewallstreetseesbondmarketangsttheasiatrade8102026",
-  "fxdailysnapshot",
   "treasurywineflags395millionwritedownoverexcessussupply",
   "deepxceoonbusinessstrategynewfunding",
   "highspeedtradersshunindiasauctionoverstrictshortsalehurdle",
@@ -742,11 +740,13 @@
   "jetstarqatarairnearmissatsydneytriggerssafetyprobe",
   "plus500reportsinterimresultsforthesixmonthperiod",
   "barrickchairmansplannedoverhaulmeetsinvestorbacklash",
+  "eurozonesetforfirmergrowthafterbumpersecondquarter",
   "energyservicessettobenefitonceiranwarendsbarclayssays",
   "96billionjapanbondlossesputamericadebtandbitcoinonalert",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "globalstockmarketsjapanontopwith29returnsindialagsothermajormarketsin2026sofar",
   "80stocksgainasnigerianexchangeclosesweekwithstrongmarketperformance",
+  "eurozoneaugustsentixinvestorconfidence09vs",
   "goldpriceforecastwhy4432coulddecidewhetherthebullishmoveextends",
   "rbapreviewhawkishholdwidelyexpectedtradersattentivetopotentialdovishsurprises",
   "iranforeignministryreaffirmsthattherearenonegotiationswiththeuscurrently",
@@ -772,6 +772,8 @@
   "oilhasopenedfortheweeksfuturestradeonglobexuparound2afteratenseweekend",
   "therearereportsthatiranmissileshavehitatankeroffomaninhormuzsoutherncorridor",
   "goldhitssevenweekhighasweakusjobsdatacutsratehikeoddswhatsnext",
+  "alibabaplanstochargebigusersofitsnextopensourceaimodelreport",
+  "fxdailysnapshot",
   "australiansharesdipaswestpacweighsonbanksaheadofrbadecision",
   "iranvowshormuzstaysshutuntilusmeetsdemandsashouthiswidenredseablockade",
   "houthissaytheyattackedsaudiaramcosrefineryinjazannoinjuriesreported",
@@ -1180,8 +1182,6 @@
   "rwetrumpadministrationreach122billionagreementtocanceloffshorewindleases",
   "exclusiveiranwarnsgulfstatestelltrumptodesistorwehityouhard",
   "bangladeshgassuppliesimproveafterlngterminalrestarts",
-  "chinahasrampeduprussianoilimportsamidmiddleeastsupplyproblemssaysreuters",
-  "thomsonreutersbuythisdividendaristocratwhileitsonsalenasdaqtri",
-  "usstockssampp500dowtoopenslightlyhigheronmideastdealhopeschipsoftwarestockstumble"
+  "chinahasrampeduprussianoilimportsamidmiddleeastsupplyproblemssaysreuters"
  ]
 }
