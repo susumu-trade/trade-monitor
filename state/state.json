@@ -663,7 +663,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-10T11:36:24.443735+09:00",
+  "cache_at": "2026-08-10T11:44:30.724810+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -683,8 +683,8 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "indianrupeebondstotrackoilpriceslocalandusinflationdatainfocus",
   "dollarneartwomonthtroughasusinflationdataawaited",
+  "indianrupeebondstotrackoilpriceslocalandusinflationdatainfocus",
   "asiastocksedgehigheroilupamidgulfconfusionbyreuters",
   "chinasnationalteambattlesaistockrollercoaster",
   "yemenshouthisattacksaudiaramcojazanrefinery",
@@ -692,18 +692,19 @@
   "asiastocksedgehigheroilupamidgulfconfusion",
   "houthissaytheyattackedsaudiaramcosrefineryinjazannoinjuriesreported",
   "biginvestorsthinkitmightbetimetobuyinsouthkorea",
+  "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "irantieshormuzreopeningtousconcessionsonseveraldemands",
   "iransconflictingdemandsleavedealoutofreachnuclearissueuntouched",
   "amazons765gwtexasgasplantcouldbecomeusbiggestsourceofco2report",
-  "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
-  "alibabaplanstochargebigusersofitsnextopensourceaimodelreport",
   "oilrisesonuncertaintyoverreopeningofhormuz",
+  "australiansharesdipaswestpacweighsonbanksaheadofrbadecision",
+  "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
   "chinashock20reshuffleswinnersandlosers",
-  "oilpricesmixedamidattacksongulfexportfacilities",
+  "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
   "iransaysomandealisinfinalstagesbutusmustacttoopenhormuz",
+  "alibabaplanstochargebigusersofitsnextopensourceaimodelreport",
   "trustinnewsinthephilippinesfell10percentagepointsto28in2026thesharpestsingleyeardropsincethecountrywasfirstcoveredbyther",
   "houthiattackskill11inyementargetsaudioilrefinery",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "germanministerwarnsofdailyhybridwarfareaftersuspecteddroneattackworldnews",
   "eucallsgassupplygroupmeetinginresponsetoiranconflict",
   "polymarkettvlsoarsto3406minbullishwin",
@@ -721,6 +722,7 @@
   "stocksrallytonearrecordhighsweeklymarketrecap",
   "turkiyeurgesmoratoriumonblackseavesselattacks",
   "80stocksgainasnigerianexchangeclosesweekwithstrongmarketperformance",
+  "kosdaqcircuitbreakertriggeredaskoreantechstockssurgekospinikkeirise",
   "rbapreviewwestpacsayssoftq2cpigivesrbaroomtoholdat435",
   "chinasstockpilesaremaskingthetruescaleofthehormuzshock",
   "recapbojdebatedfasterratehikepaceinjulysummaryshows",
@@ -745,11 +747,11 @@
   "usofficialsaysthereisprogressoniran",
   "earningsweekaheadpreviewtheseasonslastbigweekbelongstotheneoclouds",
   "bakerhughesusweeklyoilrigcountunchangedat588",
-  "bitcoinholds65000asethereumtestssupportisthecryptobreakoutstillalive",
-  "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "datacentresareonatearbutpropertyfundwarnsallisnotwell",
+  "oilpricesmixedamidattacksongulfexportfacilities",
+  "bitcoinholds65000asethereumtestssupportisthecryptobreakoutstillalive",
   "germantradedeficitwithchinagrowsasbeijingrelieslessoneuropeanindustry",
-  "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
   "icesaysitexpectstoequipeveryfieldofficerwithbodycamerasbytheendofaugustworldnews",
   "iransaysdealonstraitofhormuzisclosebutnotenoughtoopenthewaterwayworldnews",
   "ukraineszelenskiysaysupto50000northkoreantroopstobedeployedinrussiaworldnews",
@@ -1180,8 +1182,6 @@
   "canadiannaturalsaysoilsandsexpansionspauseduntilgovernmentagreementsfinalized",
   "emergingmarketsgetahardlessonintechhype",
   "oilsurgesasstraitofhormuzshippingfearsliftriskpremium",
-  "watchfedsmusalemexpressespreferencetoraiserates",
-  "bptoacquirewoodsidesstakeincalypsoproject",
-  "usjapanactionundercutsg7shistoricfxrole"
+  "watchfedsmusalemexpressespreferencetoraiserates"
  ]
 }
