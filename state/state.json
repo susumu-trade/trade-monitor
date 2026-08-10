@@ -663,7 +663,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-10T14:30:26.984804+09:00",
+  "cache_at": "2026-08-10T14:42:33.238098+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -683,11 +683,11 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "breakingviewsjapanincsstrengthsgobeyondyenweakness",
   "dollarneartwomonthtroughasusinflationdataawaited",
-  "chinaisbalancingasiascrudeoildemandbyitself",
   "asiastocksedgehigheroilupamidgulfconfusionbyreuters",
   "chinasnationalteambattlesaistockrollercoaster",
-  "indianrupeebondstotrackoilpriceslocalandusinflationdatainfocus",
+  "chinaisbalancingasiascrudeoildemandbyitself",
   "yemenshouthisattacksaudiaramcojazanrefinery",
   "asiastocksedgehigheroilupamidgulfconfusion",
   "reliancebookssupertankeratrecordfreightpricetoliftiraqicrude",
@@ -697,15 +697,15 @@
   "irantieshormuzreopeningtousconcessionsonseveraldemands",
   "amazons765gwtexasgasplantcouldbecomeusbiggestsourceofco2report",
   "ukraineszelenskiysaysupto50000northkoreantroopstobedeployedinrussiaworldnews",
-  "oilrisesonuncertaintyoverreopeningofhormuz",
+  "indianrupeebondstotrackoilpriceslocalandusinflationdatainfocus",
   "iransrevolutionaryguardsaysreopeningstraitofhormuzdoesnotdependontalkswithoman",
+  "oilrisesonuncertaintyoverreopeningofhormuz",
   "australiansharesdipaswestpacweighsonbanksaheadofrbadecision",
   "chinashock20reshuffleswinnersandlosers",
   "iransaysomandealisinfinalstagesbutusmustacttoopenhormuz",
-  "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
   "golddriftslowerfromsevenweekpeakusinflationdatalooms",
+  "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
   "alibabaplanstochargebigusersofitsnextopensourceaimodelreport",
-  "trustinnewsinthephilippinesfell10percentagepointsto28in2026thesharpestsingleyeardropsincethecountrywasfirstcoveredbyther",
   "polymarkettvlsoarsto3406minbullishwin",
   "yenunderperformsg10peersasinterventionboostfades",
   "sectorampindustryperformance",
@@ -727,14 +727,17 @@
   "chinaunleashes28trillioncapitalmarketstochallengeusinai",
   "sheinipovaluetofallshortof30billiontargetedbysomeinvestorsbisays",
   "indiasupipaymentsdevelopertargetsdiasporaforgrowth",
+  "indiasfxreservesclimbtowardrecordonforeigninflows",
   "australianwheatcropreboundsatcrucialtimeforglobalsupply",
   "jetstarqatarairnearmissatsydneytriggerssafetyprobe",
   "barrickchairmansplannedoverhaulmeetsinvestorbacklash",
+  "europeshotstockmarketsarecreatingabuzzamonginvestors",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "96billionjapanbondlossesputamericadebtandbitcoinonalert",
   "globalstockmarketsjapanontopwith29returnsindialagsothermajormarketsin2026sofar",
   "turkiyeurgesmoratoriumonblackseavesselattacks",
   "80stocksgainasnigerianexchangeclosesweekwithstrongmarketperformance",
+  "fxoptionexpiriesfor10august10amnewyorkcut",
   "usdjpyerasesthenon",
   "investingliveasiapacificfinancialmarketnewsnohormuzdealinsight",
   "icymicitiliftsq3brentforecastto80dollarsasiranwardragson",
@@ -759,6 +762,7 @@
   "newsquawkweekaheadrbaannouncementandusretailsales",
   "chinasjulycpicoolstosix",
   "investingliveamericasmarketnewswrapnonfarmpayrollsturnnegativedollardrops",
+  "trustinnewsinthephilippinesfell10percentagepointsto28in2026thesharpestsingleyeardropsincethecountrywasfirstcoveredbyther",
   "thechartthatshouldworryeverynewgrad",
   "watchwestpaceconomistfedlikelytoholdafterjobsreport",
   "rotationfromleveragedetfsfuel30jumpinkoreasmallcaps",
@@ -1178,10 +1182,6 @@
   "sinopecstepsuprussianoilimportstooffsetmideastsupplycutstradersandtrackersaymoneynews",
   "nigeriain1mineconomicbusinessandfinancialmarketheadlines060826",
   "watcheuropefacesclimatecrisisstrainmarketssnapshot",
-  "goldtouchessevenweekpeakonstraitofhormuzreopeninghopes",
-  "watchwhytheyenissurrenderinginterventiongains",
-  "watchjuryoutonyenbeforecrucialjobsdata3minutesmliv",
-  "howasardinetravelsfromoceancurrentstoyourpantry",
-  "mexicoexpertpanelrecommendssaltwateronlyfrackingbanintampicomisantla"
+  "goldtouchessevenweekpeakonstraitofhormuzreopeninghopes"
  ]
 }
