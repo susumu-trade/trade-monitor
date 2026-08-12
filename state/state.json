@@ -663,7 +663,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-13T03:31:21.494250+09:00",
+  "cache_at": "2026-08-13T03:39:25.703702+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -691,16 +691,17 @@
   "globalstocksholdgainsafterinlineuscpi",
   "ukrainedroneshitrussianoilgrainsitesasputinwarnseuropeovershipseizures",
   "usmustreturntointerimdealnoceasefireextensiontalkssenioriraniansourcesays",
-  "eiaraisesoilpriceforecastsamidhormuzdisruptions",
   "oilslidesasmiddleeastuncertaintykeepsmarketsonedge",
   "flightawarewithdrawslawsuitagainstkalshioverflightcancellationmarkets",
   "europeanstockseasefromrecordhighsasinvestorsweighearningsmiddleeastrisks",
   "dollarslipsasinlinecpitempersratehikebets",
   "russiasorskrefineryhaltedprocessingafteraugust11droneattacksourcessay",
+  "saudiredseaoilexportsgodarkashouthiattackthreatgrows",
   "tkmsseesincreaseddemandfrommiddleeastfollowingiranwar",
   "exclusivehsbcglobalinsurancebusinessheadmoncreiffetoleavesourcessay",
   "chairofindiastatatostepdownaftertensionwithcontrollingcharity",
   "goldedgeslowerasmarketsawaitkeyusinflationdata",
+  "eiaraisesoilpriceforecastsamidhormuzdisruptions",
   "usnaturalgassupplyoutlookhingesonthreekeyshalebasinsmaguire",
   "newsbyaccessnewswireontradingview20260812",
   "irandeniestruceextensionwithusamidnewshippingattacksdailysabah",
@@ -715,7 +716,6 @@
   "carboncaptureedgesforwarddespitecostchallenge",
   "ieaslashes2026supplyforecastashormuzreopeningremainselusivebyreuters",
   "iransaysnonhostileshipscantransitstraitofhormuzftreports",
-  "tehranusdidntdiscussceasefireextensionreport",
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
   "oilrisesafterattacksonshipsinhormuzbabelmandeb",
   "russiaslargestpetrochemicalcomplexhaltsoperationsafterdroneattackreuters",
@@ -738,8 +738,8 @@
   "usstockfuturesclimbbeforekeyinflationprintmarketswrap",
   "howchipotlemovedfasttokeepmorecustomersfromgettingsick",
   "bloombergipoeverythingyouneedtoknowaboutbloomberg",
-  "goldsteadiesastraderswatchusinflationforratehikeclues",
   "oilholdsgainaspakistansaysusandiranclosetohormuzdeal",
+  "goldsteadiesastraderswatchusinflationforratehikeclues",
   "polymarketissufferingfromaterribleworldcupcomedown",
   "skhynixsamsungsharesrallyastemasekreportboostsoptimism",
   "chinasauthoritiesmounttaxcollectioncrackdowninsignoffiscalworry",
@@ -748,7 +748,6 @@
   "bitwisecuts14ofjobswithcryptoindustryunderpressure",
   "jpmorganboostssingaporestockstargetaseconomicgrowthholds",
   "oilsupplydisruptionstocontinuethrough2027",
-  "democraticsocialistadvancehitsawallinwisconsinprimary",
   "pakistansaysdealiscloseevenasiranushardenstances",
   "hormuzclosurehelpsemergingmarketcompanybondsbeatuspeers",
   "globalinvestorsfavortaiwanoverkoreastocksafteraiselloff",
@@ -785,6 +784,7 @@
   "wintermutetargetsover50ofrevenuefromoutsidecryptoby2027",
   "wintermuteplans1billioninvestmenttoexpandbeyondcrypto",
   "seccryptoregulationmovestoconnectcryptoandstockmarkets",
+  "theusgovernmentdeficitinjulywasthehighestinanymonthsince2021",
   "canadianconsumerscontinuedspendingthroughanotherchallengingquarter",
   "ustreasurysells10yearnotesatahighyieldof4683",
   "warningthereisalongwaytogountilthenextfedmeeting",
@@ -809,7 +809,9 @@
   "easymarketsreportsmorecautioustradingasgoldandoilleadq2activity",
   "italyinflationeasesjustatouchinjulycorepricekeepsteadythough",
   "whatisthedistributionofforecastsfortheuscpi",
+  "tehranusdidntdiscussceasefireextensionreport",
   "bitcoinforecasttodaywhybtcisstrugglingbelow64000",
+  "democraticsocialistadvancehitsawallinwisconsinprimary",
   "nigeriaconsiderscrudesupplyreformstoaiddangoteotherrefiners",
   "somemiddleeastoiloutputwillstayshutthroughnextyearuseiasays",
   "heatwaveandsolareclipsesendeuropepowerpricessoaring",
@@ -828,7 +830,6 @@
   "whopaysfortheaishovels",
   "uspowerusetobeatrecordhighsin2026and2027asaiusesurgeseiasays",
   "oilpricesdipasinvestorsweighlowerdemandforecastsagainstusirantalksdeadlock",
-  "saudiredseaoilexportsgodarkashouthiattackthreatgrows",
   "usseesiranwaroilsupplydisruptionslastingthrough2027",
   "gheitsaysbpwillbeabletohandleoilspillliabilityvideochevyd8vmaviovm",
   "fxoptionexpiriesfor12august10amnewyorkcut",
@@ -1181,7 +1182,6 @@
   "theotherwaytoreducegovernmentdebt",
   "goldsteadiesafterscalingtwomonthhighmarketsawaitinflationdata",
   "frenchtradersucdenwarnsofsugaroversupplyasfuturesrally",
-  "indiasummonsairindiaceooverphuketdelhiflightsaltitudelosssourcesays",
-  "bankofkorealikelytoraiseinterestratesfurtheroutgoingdeputychiefsays"
+  "indiasummonsairindiaceooverphuketdelhiflightsaltitudelosssourcesays"
  ]
 }
