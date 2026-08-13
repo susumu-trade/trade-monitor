@@ -543,14 +543,6 @@
     "previous": "-2.4%"
    },
    {
-    "title": "RBA Gov Bullock Speaks",
-    "country": "AUD",
-    "date": "2026-08-13T19:30:00-04:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": ""
-   },
-   {
     "title": "German WPI m/m",
     "country": "EUR",
     "date": "2026-08-14T02:00:00-04:00",
@@ -671,7 +663,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-14T08:35:16.491240+09:00",
+  "cache_at": "2026-08-14T08:43:21.117511+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -707,8 +699,8 @@
   "uscouldnotverifyisraeliwarningsofiranplotsagainsttrumpsourcessay",
   "amdlookstoraise4billionto5billionindebtofferingsourcesays",
   "europesrenewablesboomisbecomingagasdemandbust",
-  "chinatokeepimposingantidumpingdutiesonindiansinglemodeopticalfibreimports",
   "chinasstateownedcmrgaskssometraderstobuyironoreonitsplatformsourcessay",
+  "chinatokeepimposingantidumpingdutiesonindiansinglemodeopticalfibreimports",
   "indiaspetronetsaysnoclarityonseptemberlngsuppliesfromqatar",
   "indiasedibleoilimportshit10monthhighinjulyonfestivaldemand",
   "stocksriseasratehikebetsfalloilpricesdropglobally",
@@ -719,7 +711,6 @@
   "reutersukraineproposesamutualhalttoblackseastrikes",
   "norskhydrosalunorterampsupproductionafterdealwithgassupplier",
   "oildropsascrateringdemandforecastsovershadowdeadlockedstraitofhormuzpeacetalks",
-  "oilcantheworldwithstandsixmoremonthsofwar",
   "marketattentioncouldshifttooildemandwhilebettingontrumpsstrategyofno",
   "oilslipsonweakerdemandoutlookandhigherusstocksamidsupplydisruptionskelo",
   "russianrefineryshutsdowncompletelyafterukrainiandroneattack",
@@ -732,7 +723,6 @@
   "italyssaracurtisbreaks50mbackstrokeworldrecordforsecondtimeintwodays",
   "rotterdamportexplosioncausesonedeathpolicesay",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
-  "oilslipsonweakerdemandoutlookandhigherusstocksamidsupplydisruptions",
   "oileasesasweakerdemandoutlookcountersmideastsupplyconcerns",
   "russell2000hitsrecordhighasthursdaysppisettochallengesmallcapindexs95pointadvance",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
@@ -746,7 +736,6 @@
   "yeninterventionbuystimebutthebojholdsthekey",
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
   "aninfluxofmiddleeasternoilisfinallyhittingamericanshores",
-  "aiwilldriveastrongusearningsseasongoldmanssnidersays",
   "winklevossesgeminipostsanotherlossrevenueincreases",
   "goldmanskaplanbackskickthecanfedcautiononratehikes",
   "whyeuropeisstrugglingtobuilditsgasstocksbeforewinter",
@@ -757,6 +746,7 @@
   "heatwaveandworldcuphandukeconomyasurpriseboost",
   "whythefedislikelytoholdratestdstrategist",
   "australiastopgoldminerspurnselliottpushtorevampboard",
+  "aiwilldriveastrongusearningsseasongoldmanssnidersays",
   "silveretfslvwhatalongdatedcallbuysyouinsteadoftheshares",
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "oiledgesloweraftersixdaygainwithhormuzimpasseinfocus1",
@@ -815,9 +805,11 @@
   "oilextendsdropto3anditsnotclearwhatsdrivingit",
   "crudeoilpricebreakslowerandmovesbelowthe100hourma",
   "thesellersareholdingthestrongesthandintheusdcad",
+  "oilcantheworldwithstandsixmoremonthsofwar",
+  "oilslipsonweakerdemandoutlookandhigherusstocksamidsupplydisruptions",
+  "professorsallegedroleinchinaprogramsleadstobanfromusfunding",
   "theussaysmoreoilisleavingthemiddleeastbutisitreally",
   "silverlakeintalkstobuyworkdaysourcessay",
-  "professorsallegedroleinchinaprogramsleadstobanfromusfunding",
   "cclasbevansaysbpsstrategyformationtrailsrivalsmassimocacciariijixzf5jip",
   "cerebrasslumpsasmixedquarterlyresultstestaigrowthnarrative",
   "fedshammackneedsomerestraintfrommonpoltobringdowninflation",
