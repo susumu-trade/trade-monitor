@@ -663,7 +663,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-13T14:04:34.164716+09:00",
+  "cache_at": "2026-08-13T14:12:37.675351+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -683,16 +683,17 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "oildropsonlowerdemandforecastsdespitedeadlockinusirantalks",
   "oilpricesedgeupasinvestorsweighusirantalksdeadlockagainstlowerdemand",
-  "australiasoriginenergybeatsannualprofitviewseesstrongerenergymarketsearnings",
+  "oileasesasweakerdemandoutlookcountersmideastsupplyconcernsbyreuters",
   "japanstoponlinebrokeragestoofferdaytimetradingofusstocks",
   "russianoilrefineryinorskhashaltedoperationsduetodroneattacksaysreuters",
-  "global2026oilsupplyshortfalltodeepenashormuzreopeningremainselusiveieasays",
-  "saudiredseaoilexportsgodarkashouthiattackthreatgrows",
+  "australiasoriginenergybeatsannualprofitviewseesstrongerenergymarketsearnings",
   "optimismgrowsforbroaderjapanesestocksamidchipconcerns",
-  "dollargainsyenslipsasuscpimeetsexpectations",
+  "saudiredseaoilexportsgodarkashouthiattackthreatgrows",
   "cerebrassharesplummet16afterresultsfailtoimpressinvestors",
-  "oildropsonlowerdemandforecastsdespitedeadlockinusirantalks",
+  "dollargainsyenslipsasuscpimeetsexpectations",
+  "global2026oilsupplyshortfalltodeepenashormuzreopeningremainselusiveieasays",
   "europeanstockseasefromrecordhighsasinvestorsweighearningsmiddleeastrisks",
   "flightawarewithdrawslawsuitagainstkalshioverflightcancellationmarkets",
   "fedexpectedtoleaveratesunchangednextmonthaftersoftinflationdata",
@@ -796,8 +797,8 @@
   "usstocksclosedmixedthedowislowernasdaqindicesleadtheupsidecharge",
   "economicandeventcalendarinasiathursdayaugust132026",
   "whitehousepresssecretaryleavittwillbedepartingherroleattheendofthemonth",
-  "ieaglobaloilsupplytodeclineby43millionbpdin2026prevforecast37millionbpddrop",
   "iranbattlesoilspillnearkeypersiangulfislandofqeshm",
+  "ieaglobaloilsupplytodeclineby43millionbpdin2026prevforecast37millionbpddrop",
   "goldmansachsgetsapprovalforsaudiequitiestradinglicence",
   "howchipotlemovedfasttokeepmorecustomersfromgettingsick",
   "democraticsocialistadvancehitsawallinwisconsinprimary",
@@ -1181,7 +1182,6 @@
   "nofullhormuzflowsuntilfirsthalfof2027uaesoilgiantsays",
   "exclusivebptosell20stakeinmanakingasfieldtotrinidadsngc",
   "whydidnvidiastockfallonmondaydespitea500billionwallstreetaideal",
-  "adozenshipsswitchoiloutsidehormuzasustoutstransits",
-  "wallstreetdriftsnearitsalltimehighasoilpriceskeepswinging"
+  "adozenshipsswitchoiloutsidehormuzasustoutstransits"
  ]
 }
