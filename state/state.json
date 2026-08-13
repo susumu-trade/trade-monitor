@@ -663,7 +663,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-13T14:24:42.167189+09:00",
+  "cache_at": "2026-08-13T14:32:46.869107+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -684,12 +684,12 @@
  },
  "news_seen2": [
   "oildropsonlowerdemandforecastsdespitedeadlockinusirantalks",
-  "oilpricesedgeupasinvestorsweighusirantalksdeadlockagainstlowerdemand",
   "oileasesasweakerdemandoutlookcountersmideastsupplyconcernsbyreuters",
-  "japanstoponlinebrokeragestoofferdaytimetradingofusstocks",
+  "oilpricesedgeupasinvestorsweighusirantalksdeadlockagainstlowerdemand",
+  "optimismgrowsforbroaderjapanesestocksamidchipconcerns",
   "russianoilrefineryinorskhashaltedoperationsduetodroneattacksaysreuters",
   "australiasoriginenergybeatsannualprofitviewseesstrongerenergymarketsearnings",
-  "optimismgrowsforbroaderjapanesestocksamidchipconcerns",
+  "japanstoponlinebrokeragestoofferdaytimetradingofusstocks",
   "saudiredseaoilexportsgodarkashouthiattackthreatgrows",
   "cerebrassharesplummet16afterresultsfailtoimpressinvestors",
   "dollargainsyenslipsasuscpimeetsexpectations",
@@ -702,7 +702,6 @@
   "ukitalyamongstatesconsideredtoverifyhezbollahdisarmamentsourcessay",
   "usmustreturntointerimdealnoceasefireextensiontalkssenioriraniansourcesays",
   "exclusivehsbcglobalinsurancebusinessheadmoncreiffetoleavesourcessay",
-  "biggestfragilitybehindtürkiyesindustrialstrength",
   "ukrainedroneshitrussianoilgrainsitesasputinwarnseuropeovershipseizures",
   "oilpricesinchupamidhormuztalksusinflationdata",
   "newsbyaccessnewswireontradingview20260812",
@@ -723,12 +722,12 @@
   "nyccouncilprobespolymarketandkalshioverfaketradevideosandpredatoryads",
   "usinflationholdsat34asiranceasefirelimitsenergycosts",
   "bankofamericagivesdoubledigitpricepredictionforgooglestock",
-  "oildropsafterfivedaygainwithfocusonhormuzanddeficits",
   "asianstockspoisedtogainonbenignusinflationmarketswrap",
+  "oildropsafterfivedaygainwithfocusonhormuzanddeficits",
   "yentradesnear160levelastraderswatchforintervention",
   "whythefedislikelytoholdratestdstrategist",
-  "theoilsupplycrunchisworseningasiranconflictdragson",
   "koreanstocksrise22intendaysaschiprallyregainssteam",
+  "goldsteadiesaftertameusinflationdataeasesratehikebets",
   "usstockfuturesriseastechrallyresumesbeforekeycpidata",
   "oiledgesloweraftersixdaygainwithhormuzimpasseinfocus1",
   "russiadailyoiloutputalmostmillionbarrelsbelowopecquota",
@@ -746,7 +745,7 @@
   "firstlooksupermicrooraclebankofamericatoyotainfocu",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "uscoreinflationcomesinsubduedeasingpressureonfed",
-  "goldsteadiesaftertameusinflationdataeasesratehikebets",
+  "theoilsupplycrunchisworseningasiranconflictdragson",
   "potentialpeakearningssetthestagefordisappointingstocks",
   "chinasstubborncommoditymarketsdefyeconomicrulebook",
   "watchyardeniraisessampp500targetonfabulousearningsmomentum",
@@ -774,6 +773,7 @@
   "supermicroq4revenuemorethandoublesto111billionwith72billionfy2027guidance",
   "wintermuteplans1billioninvestmenttoexpandbeyondcrypto",
   "seccryptoregulationmovestoconnectcryptoandstockmarkets",
+  "itsontojacksonholenext",
   "investingliveasiapacificmarketnewsoileasesasuae",
   "nzddripslowerstillonrbnzinflationexpectationssurveydropfromprior",
   "asiastocksnikkeitopixandkospiallrallyonchipstrengthandearningsoptimism",
@@ -798,6 +798,8 @@
   "thewhatdimisscatchupposttrumpclaimshormuzoilsupportedcpiinline",
   "usstocksclosedmixedthedowislowernasdaqindicesleadtheupsidecharge",
   "economicandeventcalendarinasiathursdayaugust132026",
+  "biggestfragilitybehindtürkiyesindustrialstrength",
+  "japansproducerpricegainsstayhighasbojmullsratepath",
   "whitehousepresssecretaryleavittwillbedepartingherroleattheendofthemonth",
   "nebiusreports514jumpinaicloudsalesasdemandbooms",
   "ieaglobaloilsupplytodeclineby43millionbpdin2026prevforecast37millionbpddrop",
@@ -1180,8 +1182,6 @@
   "intelraises20billioninupsizedsharesaleforaiplans",
   "investingliveeuropeanfxnewswraprbaholdssteadyiran",
   "nofullhormuzflowsuntilfirsthalfof2027uaesoilgiantsays",
-  "exclusivebptosell20stakeinmanakingasfieldtotrinidadsngc",
-  "whydidnvidiastockfallonmondaydespitea500billionwallstreetaideal",
-  "adozenshipsswitchoiloutsidehormuzasustoutstransits"
+  "exclusivebptosell20stakeinmanakingasfieldtotrinidadsngc"
  ]
 }
