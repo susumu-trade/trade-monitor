@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-08-14",
+  "last_digest": "2026-08-15",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -666,7 +666,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-08-15T06:55:46.650941+09:00",
+  "cache_at": "2026-08-15T07:03:50.728923+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -737,6 +737,7 @@
   "emassetsbuoyedbyeasingusrateworriesgainsinaileaders",
   "usdjpyshrugsoffsofterusdataandfasterbojhiketalk",
   "whymarketsthinktheusiswinningtheblockade",
+  "severalrussianregionsreintroducefuelrationing",
   "shelllosesfiveyearlegalfightwithsouthafricanactivists",
   "oilspillsshowcostofkeepingmiddleeastbarrelsflowing",
   "winklevossesgeminipostsanotherlossrevenueincreases",
@@ -748,8 +749,6 @@
   "anglostrikesyearlongironoredealwithchinasstatebuyer",
   "watchziembaoilmarketoverlooksbuffersamidlongconflict",
   "watchmakingsignificantprogressonroboticsdeepmindsparada",
-  "uberandchinasponyaitodeploy2000robotaxisineurope",
-  "severalrussianregionsreintroducefuelrationing",
   "lngsupplycutfurtheraftercyclonehitsaustralianplants",
   "globalmarketssurgeasaustraliafacesmixedearningsratesandhousingpressures",
   "geopoliticalstalematecoolingjobsandinflationmarketoutlook",
@@ -761,8 +760,9 @@
   "whywork9to5whenyoucanincomestack",
   "watchgoldhasbeeninbullmarketfor25yearswilsonsays",
   "energytradersusedronestocashinonbetterweatherforecasts",
-  "watchrisksswirlamidrisingusbondyieldsmarketsnapshot",
   "beatendownocadosharesshowsignsofrevivalwith45rally",
+  "uberandchinasponyaitodeploy2000robotaxisineurope",
+  "prabowoplansindonesiancommodityexchangetocontrolprices",
   "africandomesticdebtoutshinesempeersashighyieldchaseintensifies",
   "watchwhyacostlyusbondsaleisawarningtobessent",
   "whyspeculativeinvestorsarebettingonrbaratehikeinnovember",
@@ -772,7 +772,6 @@
   "16beatendownaistocksthatarebelovedbybofaanalysts",
   "icicijoinsindianbankschasingdollarloansswellingdemand",
   "sampptsxcompositeindexdowninlatemorningtradingfridayusmarketsalsolower",
-  "commentaryfortheoilmarketthestraitofhormuzisntclosed",
   "oilpricesslide2asusinventoriessurgedemandoutlookweakens",
   "mtnnigerialeadstradedvalueasngxcloseslower",
   "investingliveamericasfxnewswrap14augstocksfinishmixedasyieldsriseandthedollarfalls",
@@ -800,8 +799,10 @@
   "swisseconomyestimatedtopostquarterlygrowthof15inthesecondquarter",
   "frenchinflationacceleratesagaininjulycorepricesmoveupaswell",
   "fxoptionexpiriesfor14august10amnewyorkcut",
+  "oilrisesasinvestorsfearfurthermiddleeastescalation",
+  "watchrisksswirlamidrisingusbondyieldsmarketsnapshot",
+  "commentaryfortheoilmarketthestraitofhormuzisntclosed",
   "useyesindefiniteirannavalblockadeasoilsupplyshortfalldeepens",
-  "prabowoplansindonesiancommodityexchangetocontrolprices",
   "putiniswillingtomeetusenvoysagainonukrainelavrovsays",
   "energyservicessettobenefitonceiranwarendsbarclayssays",
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
@@ -822,7 +823,6 @@
   "trioofeconomicforcescouldboostelectricvehicleswoodmacsays",
   "aluminiumonthiniceaslmestockshit36yearlowreuterssays",
   "bitcoinloseskey64000leveltheimportantsupportlevelsbtcmustholdnext",
-  "oilrisesasinvestorsfearfurthermiddleeastescalation",
   "tsxrisesnearly100pointsontechstocksusmarketsalsopositive",
   "workdaysharespostbestdayin10yearsonsilverlaketakeoverreport",
   "reutersukraineproposesamutualhalttoblackseastrikes",
