@@ -655,7 +655,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-14T18:08:19.484417+09:00",
+  "cache_at": "2026-08-14T18:16:23.109244+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -675,7 +675,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "oilrisesafterusthreatensindefiniteblockadeofiran",
+  "oilrisesafterusthreatensindefiniteblockadeofiransetforweeklygains",
   "bojeyeingseptemberratehikefasterpaceoftighteningsourcessay",
   "workdaysharespostbestdayin10yearsonsilverlaketakeoverreport",
   "bpawardedlicenseforvenezuelalorangasfieldsinpartnershipwithxrganducc",
@@ -700,7 +700,6 @@
   "phlxsemiconductorindexrebounds3asppiandappliedmaterialsloom",
   "bangladeshcurbspoweruseamidworseninggasshortages",
   "oilpricesdroponlowerdemandforecastsdespitedeadlockinusirantalks",
-  "theussaysmoreoilisleavingthemiddleeastbutisitreally",
   "goldmanintalkswithinvestorsonnvidiafinancingdealafterlandingprizedrolesourcessay",
   "indiaspetronetsaysnoclarityonseptemberlngsuppliesfromqatar",
   "indiasedibleoilimportshit10monthhighinjulyonfestivaldemand",
@@ -714,6 +713,7 @@
   "oilsettlesdown2onweakdemandoutlookheftyuscrudebuild",
   "russianrefineryshutsdowncompletelyafterukrainiandroneattack",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
+  "iraqicrudeoutsidehormuz1importanttotalenergiesmove",
   "americanairlineseyesdeltaprofitgapwithleadershipchangesastradingbegins",
   "metaandnetflixsurgeliftingcommunicationservicesabovesampp500by091point",
   "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
@@ -721,6 +721,7 @@
   "shellhitbymassivehackattack",
   "sheinlosesukcopyrightlawsuitagainstrivaltemuinkeyecommercerulingworldnews",
   "whatishappeningwiththe86yearolddruglaw",
+  "reutersukraineofferedrussiaatruceintheblacksea",
   "oilsteadiesafterusthreatenstoblockadeiranindefinitely",
   "goldretreatsonprofittakingafterhittingtwomonthpeakfollowinginflationdata",
   "rupeesrbicushionedweaknessmayfindrelieffromsofteroil",
@@ -728,8 +729,8 @@
   "blackrocksriedersaysyenreboundhingesonbojhawkishness",
   "yeninterventionbuystimebutthebojholdsthekey",
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
-  "tankersaregoingdarkforlongertogetoiloutofmiddleeast",
   "stockschurnasusthreatsagainstiranliftcrudemarketswrap",
+  "tankersaregoingdarkforlongertogetoiloutofmiddleeast",
   "indianrefinerssnapupcrudemonthsaheadaswarsupendsupply",
   "asianmemorychipmakersriseassandiskoutlookliftsconfidence",
   "chinatechearningsrenewfocusonhardwarestocksoverinternet",
@@ -748,7 +749,7 @@
   "emassetsbuoyedbyeasingusrateworriesgainsinaileaders",
   "africandomesticdebtoutshinesempeersashighyieldchaseintensifies",
   "aninfluxofmiddleeasternoilisfinallyhittingamericanshores",
-  "uaeqatarifirmsdebutinvenezuelathroughbpledgasdeal",
+  "watchwhyacostlyusbondsaleisawarningtobessent",
   "whyspeculativeinvestorsarebettingonrbaratehikeinnovember",
   "pbocsfirstmidmonthovernightreverserepoboostsbonds",
   "russianregionsreportnewfuelcrunchaskyivhitsrefineries",
@@ -766,6 +767,7 @@
   "cxmtovertakestencenttobecomemostvaluablechinesecompany",
   "africasbusinessactivityhitssevenmonthhighdespitemiddleeasttensions",
   "oilpricesslide2asusinventoriessurgedemandoutlookweakens",
+  "chinanewbankloanscontractagaininjulythesecondtimethisyear",
   "eurozoneq2gdpsecondestimate04vs04qqprelim",
   "dollarnudgesloweronthedayamidmixedmarketmood",
   "swisseconomyestimatedtopostquarterlygrowthof15inthesecondquarter",
@@ -790,12 +792,14 @@
   "nzmanufacturinggrowthcoolsto543injulyafterjunessurge",
   "fedsgoolsbeesaysinflationdataimprovinghopestariffeffectsfade",
   "reddittojoinsp500indexshareshavejumpedhigherinafterhourstrade",
+  "theussaysmoreoilisleavingthemiddleeastbutisitreally",
+  "uaeqatarifirmsdebutinvenezuelathroughbpledgasdeal",
   "icymihawkishfedshammacksaysactingnowoninflationisreallycritical",
+  "oilrisesafterusthreatensindefiniteblockadeofiran",
   "tsxrisesnearly100pointsontechstocksusmarketsalsopositive",
   "energytradersusedronestocashinonbetterweatherforecasts",
   "oilsettlesdowncirca2onweakdemandoutlookandheftyuscrudebuild",
   "theusthreatensindefinitenavalblockadeofiranasoilcrisisresurges",
-  "watchwhyacostlyusbondsaleisawarningtobessent",
   "indiasjulytradegapwidensasimportsriseonrobustdemand",
   "secabruptlypullsfridaycryptorulesmeetingcitesschedulingissue",
   "asianstockssetforgainsasusinflationcoolsmarketswrap",
@@ -804,10 +808,8 @@
   "watchoilsrallystallsashormuzdeadlockbringsflowsintofocus",
   "openaisrevenuerunratetops40billionaheadofipo",
   "marketattentioncouldshifttooildemandwhilebettingontrumpsstrategyofno",
-  "reutersukraineofferedrussiaatruceintheblacksea",
   "oilsteadiesafterusthreatensindefiniteblockadeofiran",
   "chinasstateownedcmrgaskssometraderstobuyironoreonitsplatformsourcessay",
-  "iraqicrudeoutsidehormuz1importanttotalenergiesmove",
   "heatwaveandworldcuphandukeconomyasurpriseboost",
   "fintechstartupnavisaidtohirebanksfor315millionipo",
   "fitchaffirmsusataakeepsoutlookstableamidgrowthslowdown",
@@ -1172,8 +1174,6 @@
   "watchcoreweavesupermicrocomputerearningsfuelglobaltechrallydaybreakeurope8122026",
   "oildipsondemandforecastsglobalequitiesgain",
   "techandchipstocksareleadingthenasdaq100higherwhatarethetechnicalstellingtradersinsomeofthechipstocks",
-  "theusdmovesloweraftercpidatacomesinasexpectedwhataretraderswatchingtechnicallyfindouthere",
-  "abnamrobeatsonprofitboostskeyrevenuesourceoutlook",
-  "canadabuildingpermitsforjune185vs08estimate"
+  "theusdmovesloweraftercpidatacomesinasexpectedwhataretraderswatchingtechnicallyfindouthere"
  ]
 }
