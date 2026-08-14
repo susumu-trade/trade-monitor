@@ -663,7 +663,7 @@
     "previous": "0.3%"
    }
   ],
-  "cache_at": "2026-08-14T13:04:08.249864+09:00",
+  "cache_at": "2026-08-14T13:12:13.627888+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -683,16 +683,16 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "oilsettlesdown2onweakdemandoutlookheftyuscrudebuild",
   "areglobaloilstocksbigenoughtoweatheranothersixmonthsofusiranwar",
   "workdaysharespostbestdayin10yearsonsilverlaketakeoverreport",
-  "bpawardedlicenseforvenezuelalorangasfieldsinpartnershipwithxrganducc",
   "ussaysitcankeepnavalblockadeoniranindefinitelyvowsmoreeconomicpressure",
+  "bpawardedlicenseforvenezuelalorangasfieldsinpartnershipwithxrganducc",
   "exclusivesilverlakeintalkstobuyworkdaysourcessay",
   "russianseaborneoilproductexportsdropped33injulydatafromsourcesshows",
   "jaredkushnermayvisitisraelnextweekfortalksongazasourcesays",
   "exclusiveukraineoffersrussiatruceinblackseaasfoodsupplyfearsmountsourcesays",
   "aluminiumonthiniceaslmestockshit36yearlow",
+  "goldmanintalkswithinvestorsonnvidiafinancingdealafterlandingprizedrolesourcessay",
   "exclusivevantagedatacentersexploresipoat100billionvaluationorsalesourcessay",
   "chinasstateownedcmrgaskssometraderstobuyironoreonitsplatformsourcessay",
   "ukrainianattackshutsrussiasorskrefineryformonthscausingfuelproblems",
@@ -704,12 +704,14 @@
   "whyukfoodinflationhasyettosurge",
   "stocksriseasratehikebetsfalloilpricesdropglobally",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
-  "salvageeffortunderwayforstrickentankerspillingoiloffoman",
   "ukrainianstrikesonrefineriescause55dropinrussiasseaborneoilproductexports",
+  "salvageeffortunderwayforstrickentankerspillingoiloffoman",
+  "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
   "useyesindefiniteirannavalblockadeasoilsupplyshortfalldeepensworldnews",
   "globalmarketsasianstockssetforweeklygainonfadingusratehikewagers",
   "reutersukraineproposesamutualhalttoblackseastrikes",
   "norskhydrosalunorterampsupproductionafterdealwithgassupplier",
+  "oilsettlesdown2onweakdemandoutlookheftyuscrudebuild",
   "oildropsascrateringdemandforecastsovershadowdeadlockedstraitofhormuzpeacetalks",
   "marketattentioncouldshifttooildemandwhilebettingontrumpsstrategyofno",
   "russianrefineryshutsdowncompletelyafterukrainiandroneattack",
@@ -738,8 +740,9 @@
   "yeninterventionbuystimebutthebojholdsthekey",
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
   "silveretfslvwhatalongdatedcallbuysyouinsteadoftheshares",
-  "winklevossesgeminipostsanotherlossrevenueincreases",
+  "easingindiarupeevolatilitymayhelpattractmoreforeignmoney",
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
+  "winklevossesgeminipostsanotherlossrevenueincreases",
   "goldmanskaplanbackskickthecanfedcautiononratehikes",
   "aninfluxofmiddleeasternoilisfinallyhittingamericanshores",
   "whyeuropeisstrugglingtobuilditsgasstocksbeforewinter",
@@ -750,7 +753,6 @@
   "canadianenergystockseyefirstrecordsince2008asoilsoars",
   "oiledgesloweraftersixdaygainwithhormuzimpasseinfocus1",
   "bofatoplow250billionintocriticalinfrastructureprojects",
-  "energyservicessettobenefitonceiranwarendsbarclayssays",
   "southafricasgastopowerauctionoversubscribedforfirsttime",
   "fedshammackpushesimmediateratehikesputtingcryptomarketandstocksonalert",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
@@ -805,9 +807,9 @@
   "economicandeventcalendarinasiafridayaugust142026",
   "eithersoftwaregetszeroedoutoraidoes",
   "theaibuildoutistrulyonefortheages",
-  "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
-  "judgeorderskalshitostopofferingmostwagersinwashington",
   "arerisingbondyieldsandelevatedleveragearecipeformarketturmoil",
+  "energyservicessettobenefitonceiranwarendsbarclayssays",
+  "judgeorderskalshitostopofferingmostwagersinwashington",
   "cerebrassharestumbleaftergrowthunderwhelmsinvestors",
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
   "oilcantheworldwithstandsixmoremonthsofwar",
@@ -1180,8 +1182,6 @@
   "oilpricesdipasinvestorsweighlowerdemandforecastsagainstusirantalksdeadlock",
   "ftslexcolumnistbolandoncostsofbpoilspillvideowaterloo2wlg9s9kpb",
   "sampptsxcompositeindexupinlatemorningtradingwednesdayusmarketsmixed",
-  "cashequitiesmonolithmarketaddsdirectaccesstolistedglobalshares",
-  "usdjpystallsaheadofakeyuscpireportbojexpectedtoraiseratesinseptember",
-  "gmsetsup45billionplantoensuresupplyofcriticalparts"
+  "cashequitiesmonolithmarketaddsdirectaccesstolistedglobalshares"
  ]
 }
