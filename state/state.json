@@ -666,7 +666,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-08-16T03:21:33.393703+09:00",
+  "cache_at": "2026-08-16T03:33:39.887547+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -686,13 +686,13 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "exclusivejanestreettook15billionhitinjulytiedtosituationalawarenessaiselloffsourcessay",
+  "sampp500endslowerasinvestorsweighdatamiddleeasttensions",
   "sheskharisterminalinrussiasnovorossiysksuspendsoperationsafterdroneattackreuters",
   "vixholdsat1456despite6oiljoltasanalystsflagincreasedtailrisk",
-  "sampp500endslowerasinvestorsweighdatamiddleeasttensions",
+  "exclusivejanestreettook15billionhitinjulytiedtosituationalawarenessaiselloffsourcessay",
+  "twohugeoilspillsoffomanthreatenpotentialdisaster",
   "russiancrudeexportsstopatkeynovorossiyskterminalreuters",
   "novorossiyskoilterminalsuspendsoperationsafterdroneattackreuters",
-  "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
   "jpmorgandebankedpolymarketlastyearoverregulatoryconcernssourcesays",
   "hormuztrafficslowsfurtherafterusthreatensmoreeconomicpressureoniran",
   "oilclimbsover1ontankerattacksnoprogreesonpeace",
@@ -706,6 +706,7 @@
   "alphabetsspacexbetgrows100foldoveradecadeto94billion",
   "a50millionhostageransomfundedalqaedasmalioffensiveunsays",
   "exclusivelibyashaftarplayedkeyroleinreleaseofushostageheldbyislamicstatesourcessay",
+  "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
   "icewithdraws125msolesourcethomsonreuterssurveillancedatadeal",
   "usnaturalgassupplyoutlookhingesonthreekeyshalebasinsmaguire",
   "paypalsharesendat6167surpassingrecent6050buyoutbid",
@@ -716,13 +717,12 @@
   "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "dowjonesfalls108pointsassmallcapsopena17pointweeklygap",
   "dronethreathaltsrussiasmainblackseaoilterminalwhichnormallyships700000barrelsaday",
-  "belgiums9milliongoldfindistinybesidetheflowsdrivinggld",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
-  "japanusediphoneserversalessurgeasmemorypricessoar",
   "lngsupplyrisesto828mmcfdtakingnatlgassupplyto2438mmcfd",
   "uaesaysiranattackedadnocvesselinhormuzurgeswaterwaysreopening",
   "oilsteadiesafterusthreatensindefiniteblockadeofiran",
   "oilpricesclimb",
+  "belgiums9milliongoldfindistinybesidetheflowsdrivinggld",
   "fourcrewkilledinredseaattackwhilemissilestrikereportedingulf",
   "trumpstraitofhormuzbecomesusterritoryᐉnewsfromfaktibgworld",
   "senegalraisesfuelpricesasoilshockdrivesupsubsidycosts",
@@ -784,6 +784,7 @@
   "dollarnudgesloweronthedayamidmixedmarketmood",
   "swisseconomyestimatedtopostquarterlygrowthof15inthesecondquarter",
   "frenchinflationacceleratesagaininjulycorepricesmoveupaswell",
+  "japanusediphoneserversalessurgeasmemorypricessoar",
   "putinsaysrussianorthkoreacoordinatingonregionalsecuritykcnareportsworldnews",
   "saudiaramcoseekstoreroutecrudeawayfromstraitofhormuzsourcessay",
   "twoslicksappearingulfashugeoilspilloffomanthreatensdisasterbyreuters",
@@ -1184,7 +1185,6 @@
   "fxdailysnapshot",
   "trumpclaimsushastotalcontrolofhormuzasshiptrafficfallstolowestlevelinaweek",
   "watchhongcrowleytwosidesofthesamecoinsaysrepublicanrepsteil",
-  "ukq2preliminarygdp04vs04qqexpected",
-  "bpssvanbergsaysrosneftagreementgooddealforusjeffbraziercomfhm8t8x"
+  "ukq2preliminarygdp04vs04qqexpected"
  ]
 }
