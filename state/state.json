@@ -666,7 +666,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-08-16T00:30:16.374985+09:00",
+  "cache_at": "2026-08-16T00:38:20.274316+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -686,14 +686,14 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "hormuztrafficslowsfurtherafterusthreatensmoreeconomicpressureoniran",
-  "sheskharisterminalinrussiasnovorossiysksuspendsoperationsafterdroneattackreuters",
   "exclusivejanestreettook15billionhitinjulytiedtosituationalawarenessaiselloffsourcessay",
+  "sheskharisterminalinrussiasnovorossiysksuspendsoperationsafterdroneattackreuters",
   "vixholdsat1456despite6oiljoltasanalystsflagincreasedtailrisk",
+  "jpmorgandebankedpolymarketlastyearoverregulatoryconcernssourcesays",
   "russiancrudeexportsstopatkeynovorossiyskterminalreuters",
   "usnaturalgassupplyoutlookhingesonthreekeyshalebasinsmaguire",
   "russiashutsdownkeyblackseaexportterminalinnovorossiyskafterdroneattackreutersreports",
-  "jpmorgandebankedpolymarketlastyearoverregulatoryconcernssourcesays",
+  "hormuztrafficslowsfurtherafterusthreatensmoreeconomicpressureoniran",
   "sampp500endslowerasinvestorsweighdatamiddleeasttensions",
   "oilclimbsover1ontankerattacksnoprogreesonpeace",
   "twoslicksappearingulfashugeoilspilloffomanthreatensdisaster",
@@ -724,6 +724,7 @@
   "oilpricesclimb",
   "indiaincreasesitspurchasesofrussianoiltorecordhighwithrussiasshareofcountrysimportsexceeding50reuters",
   "belgiums9milliongoldfindistinybesidetheflowsdrivinggld",
+  "fourcrewkilledinredseaattackwhilemissilestrikereportedingulf",
   "ukrainianfarmersmaybeunabletoselltheirharvestorraisefundsfornextplantingseasonduetorussianattacksreuters",
   "trumpstraitofhormuzbecomesusterritoryᐉnewsfromfaktibgworld",
   "senegalraisesfuelpricesasoilshockdrivesupsubsidycosts",
@@ -733,18 +734,19 @@
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
   "goldsteadiesastradersweighfedratepathandmideasttension",
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
-  "chinafilmssalessoarasonlinescornattractscuriousviewers",
-  "americansrelationshipwithgaspricesiscomplicated",
   "emassetsbuoyedbyeasingusrateworriesgainsinaileaders",
+  "electionangstfuelsbruisingweekinbrazilmarkets",
   "modimapsindiasgrowthpushashereachesouttostudents",
   "xiurgesshifttopreventionindisastermanagementxinhuasays",
-  "usnaturalgasrisesonhotweathershifthigherlngflows",
   "chinaprotestsjapanpmdefenseministersyasukuniactions",
-  "goldmannomurasayaimaychangeindiasjobsmorethanitdestroysthem",
+  "usnaturalgasrisesonhotweathershifthigherlngflows",
   "nvidiahas21billionspacexstake30billioninintelshares",
+  "chinafilmssalessoarasonlinescornattractscuriousviewers",
+  "goldmannomurasayaimaychangeindiasjobsmorethanitdestroysthem",
   "anthropicrevenuesurgestoover115billioninsecondquarter",
   "usthreattoboosteconomicpressureoniranunnervesoilmarket",
   "ukstepsupscrutinyofdefensesupplychainafterchinascare",
+  "americansrelationshipwithgaspricesiscomplicated",
   "themysterybehindcanadasrunawaybankstockrally",
   "russianregionsreportnewfuelcrunchaskyivhitsrefineries",
   "economicsweekahead",
@@ -786,7 +788,6 @@
   "frenchinflationacceleratesagaininjulycorepricesmoveupaswell",
   "oilexportsvianovorossiyskhavebeenhaltedfollowingadroneattackreuters",
   "fxweekly",
-  "fourcrewkilledinredseaattackwhilemissilestrikereportedingulf",
   "irandefiantonstraitastrumptellsamericanstoaccepthighgasprices",
   "usretailsalespostfirstdeclineinninemonthsinjuly",
   "fxoptionexpiriesfor14august10amnewyorkcut",
@@ -1184,7 +1185,6 @@
   "chinachipdesignerkiwimooreplanshongkongipoat2billionvaluationsourcessay",
   "oildropsonlowerdemandforecastsdespitedeadlockinusirantalks",
   "oilfallsonweakerglobaldemandoutlookanduscrudebuildup",
-  "anthropicintalkstobuydecartaisourcesays",
-  "fedexpectedtoleaveratesunchangednextmonthaftersoftinflationdata"
+  "anthropicintalkstobuydecartaisourcesays"
  ]
 }
