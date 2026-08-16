@@ -842,7 +842,7 @@
     "previous": "-16"
    }
   ],
-  "cache_at": "2026-08-17T07:31:00.039107+09:00",
+  "cache_at": "2026-08-17T07:39:04.016132+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -862,8 +862,8 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "trumpwantsmoreeconomicpressureoniranwhatarehisoptions",
   "anewplazaaccordjapansbattleagainstyenbearsentersnewphase",
+  "trumpwantsmoreeconomicpressureoniranwhatarehisoptions",
   "moroccoarrests111migrantsheadedforspainsceutainsecuritycrackdown",
   "amazonfaces22declineinjulyonlinesalesasawsremainsabuffer",
   "oilpricesclimb",
@@ -885,12 +885,14 @@
   "covertmideastoilflowsarekeepingglobalpricesincheck",
   "bontasaysmetaputprofitoverchildrenssafety",
   "watchbythewayheadlineroundup",
+  "watchdonaldslookstobuildondesantislegacy",
   "metafaceslandmarktrialoveryouthharmclaims",
+  "israelstrikeslebanonasendofusiranceasefirelooms",
   "malaysiasdaphandsanwarreprievewithvotetostayincabinet",
   "watchcrowdedfloridaraceputstrumpsclouttotest",
   "watchinsidethebusinessofultraluxurytravel",
-  "watchlongevityboomreachesamericaspets",
   "bigoilisbracingforlowerpricesandrightlyso",
+  "watchlongevityboomreachesamericaspets",
   "peterthielreportsstakeinargentineshaleoilexportervista",
   "soiranclosesthestraitofhormuzletsseewhatbessentseconomicisolationofirancouldlooklike",
   "israelieconomyreboundsafterslumpsparkedbyiranwar",
@@ -925,7 +927,6 @@
   "usstockshitrecordsagainbutoilandearningsrisksaregrowingwhatcanyoutrade",
   "kickstartthenasessionforaugste14usdfallsacrosstheboardasbojratehiketalkliftstheyen",
   "investingliveeuropeansessionwrapdollarfallsgoldreboundsamidmixedmarkets",
-  "watchdonaldslookstobuildondesantislegacy",
   "threereasonswhybojratehikeswillnotsavetheyen",
   "chinaplanstospeedupnewenergyrecyclingwasterulescctv",
   "golds10rallydrives289tonnecentralbankpurchasestoward4380challenge",
@@ -1360,7 +1361,6 @@
   "europeansharescloselowerdespitetheustechpushhigher",
   "fortheoilmarketthestraitofhormuzisntclosed",
   "dieselpricesovertakejetfuelineuropeasglobalshortagewidens",
-  "uscouldnotverifyisraeliwarningsofiranplotsagainsttrumpsourcessay",
-  "professorsallegedroleinchinaprogramsleadstobanfromusfunding"
+  "uscouldnotverifyisraeliwarningsofiranplotsagainsttrumpsourcessay"
  ]
 }
