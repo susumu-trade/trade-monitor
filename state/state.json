@@ -842,7 +842,7 @@
     "previous": "-16"
    }
   ],
-  "cache_at": "2026-08-17T03:00:19.045080+09:00",
+  "cache_at": "2026-08-17T03:12:23.855181+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -862,17 +862,17 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "trumpwantsmoreeconomicpressureoniranwhatarehisoptions",
   "moroccoarrests111migrantsheadedforspainsceutainsecuritycrackdown",
-  "nvidiaeyesinvesting3billioninsbenergyunderopenaidatacenterdealinformationsays",
   "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "spacexstockfacesnextunlockat34xfridaytradevolume",
   "ukrainestrikesrussianmilitaryindustrialplantandseveralstrategictargets",
-  "indiasetstargetsforoilcompaniestoboostcookinggasoutputamidwestasiawar",
+  "nvidiaeyesinvesting3billioninsbenergyunderopenaidatacenterdealinformationsays",
+  "israelsgazawarexpenditurehits136billionhaaretzreports",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
   "talibanmarksfiveyearsinpowerasafghanistanfacesdeepeningcrises",
   "twohugeoilspillsoffomanthreatenpotentialdisaster",
   "nisourcesharesrise95amidindianapoweroutageschallengingregulatedmodel",
-  "israelsgazawarexpenditurehits136billionhaaretzreports",
   "uaesaysiranattackedadnocvesselinhormuzurgeswaterwaysreopening",
   "golds10rallydrives289tonnecentralbankpurchasestoward4380challenge",
   "sampp500nearsjpmorgans8000yearendgoalwith214pointmarginaheadofretaildata",
@@ -917,6 +917,7 @@
   "eurozoneq2gdpsecondestimate04vs04qqprelim",
   "dollarnudgesloweronthedayamidmixedmarketmood",
   "swisseconomyestimatedtopostquarterlygrowthof15inthesecondquarter",
+  "indiasetstargetsforoilcompaniestoboostcookinggasoutputamidwestasiawar",
   "ataleof2buildingshowquakerescueeffortsdifferedincolombiaandvenezuelaworldnews",
   "icewithdraws125msolesourcethomsonreuterssurveillancedatadeal",
   "materialssectorampindustryperformance",
@@ -1360,7 +1361,6 @@
   "atradersguidetoprabowos2027indonesiastatebudgetspeech",
   "fedshammackneedsomerestraintfrommonpoltobringdowninflation",
   "cerebrassharesplummet16afterresultsfailtoimpressinvestors",
-  "silverlakeintalkstobuyworkdaysourcessay",
-  "cerebrasslumpsasmixedquarterlyresultstestaigrowthnarrative"
+  "silverlakeintalkstobuyworkdaysourcessay"
  ]
 }
