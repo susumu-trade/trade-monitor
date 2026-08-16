@@ -842,7 +842,7 @@
     "previous": "-16"
    }
   ],
-  "cache_at": "2026-08-17T07:39:04.016132+09:00",
+  "cache_at": "2026-08-17T07:51:09.440172+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -862,8 +862,8 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "anewplazaaccordjapansbattleagainstyenbearsentersnewphase",
   "trumpwantsmoreeconomicpressureoniranwhatarehisoptions",
+  "anewplazaaccordjapansbattleagainstyenbearsentersnewphase",
   "moroccoarrests111migrantsheadedforspainsceutainsecuritycrackdown",
   "amazonfaces22declineinjulyonlinesalesasawsremainsabuffer",
   "oilpricesclimb",
@@ -877,10 +877,8 @@
   "fordstockfacestraderulecostequalto19ofprofitforecast",
   "uaesaysiranattackedadnocvesselinhormuzurgeswaterwaysreopening",
   "nisourcesharesrise95amidindianapoweroutageschallengingregulatedmodel",
-  "sampp500nearsjpmorgans8000yearendgoalwith214pointmarginaheadofretaildata",
   "silverlakeintalkstobuyworkdayreutersreports",
   "watchfedsinternalratedebatefacesnewscrutiny",
-  "watchbeefpricesstayhighasuscattlesupplyshrinks",
   "watchbloombergthisweekendmetaontrialtheracetoreplacegovdesantisandpetlongevity",
   "covertmideastoilflowsarekeepingglobalpricesincheck",
   "bontasaysmetaputprofitoverchildrenssafety",
@@ -888,12 +886,12 @@
   "watchdonaldslookstobuildondesantislegacy",
   "metafaceslandmarktrialoveryouthharmclaims",
   "israelstrikeslebanonasendofusiranceasefirelooms",
+  "watchbeefpricesstayhighasuscattlesupplyshrinks",
   "malaysiasdaphandsanwarreprievewithvotetostayincabinet",
   "watchcrowdedfloridaraceputstrumpsclouttotest",
   "watchinsidethebusinessofultraluxurytravel",
   "bigoilisbracingforlowerpricesandrightlyso",
   "watchlongevityboomreachesamericaspets",
-  "peterthielreportsstakeinargentineshaleoilexportervista",
   "soiranclosesthestraitofhormuzletsseewhatbessentseconomicisolationofirancouldlooklike",
   "israelieconomyreboundsafterslumpsparkedbyiranwar",
   "colombiaasksustopausetariffsindeadlyquakesaftermath",
@@ -901,6 +899,7 @@
   "ngxrecordsn176bnturnoverasinvestorssellmajorstocks",
   "nomoren1357cbnreleaseslatestexchangeratesasnairagainsn808",
   "colombiaearthquaketrumpreceivesappealfortariffsᐉnewsfromfaktibgworld",
+  "nzservicessectorholdsabovebreakevenforsecondmonthaspmieasesto506prior509",
   "globexisopenforthenewweekoilatouchhighernotmuch",
   "chinadelaysjulyeconomicdatareleasetolateafternoonslot",
   "trumporderscutstosouthkoreadrillslinksmovetocostofiranwar",
@@ -925,6 +924,8 @@
   "canadamanufacturingsalesforjune01vs",
   "usjulyretailsales",
   "usstockshitrecordsagainbutoilandearningsrisksaregrowingwhatcanyoutrade",
+  "sampp500nearsjpmorgans8000yearendgoalwith214pointmarginaheadofretaildata",
+  "peterthielreportsstakeinargentineshaleoilexportervista",
   "kickstartthenasessionforaugste14usdfallsacrosstheboardasbojratehiketalkliftstheyen",
   "investingliveeuropeansessionwrapdollarfallsgoldreboundsamidmixedmarkets",
   "threereasonswhybojratehikeswillnotsavetheyen",
@@ -1360,7 +1361,6 @@
   "bondtraderskeepcointosswageronseptemberfedhikepostcpi",
   "europeansharescloselowerdespitetheustechpushhigher",
   "fortheoilmarketthestraitofhormuzisntclosed",
-  "dieselpricesovertakejetfuelineuropeasglobalshortagewidens",
-  "uscouldnotverifyisraeliwarningsofiranplotsagainsttrumpsourcessay"
+  "dieselpricesovertakejetfuelineuropeasglobalshortagewidens"
  ]
 }
