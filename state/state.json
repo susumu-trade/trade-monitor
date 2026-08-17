@@ -130,14 +130,6 @@
     "previous": "1.1%"
    },
    {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-08-17T02:02:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-5.0%"
-   },
-   {
     "title": "Fixed Asset Investment ytd/y",
     "country": "CNY",
     "date": "2026-08-17T03:00:00-04:00",
@@ -288,6 +280,14 @@
     "impact": "Low",
     "forecast": "4.8%",
     "previous": "4.9%"
+   },
+   {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-08-18T02:02:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-5.0%"
    },
    {
     "title": "ZEW Economic Sentiment",
@@ -842,7 +842,7 @@
     "previous": "-16"
    }
   ],
-  "cache_at": "2026-08-17T13:40:43.336405+09:00",
+  "cache_at": "2026-08-17T13:48:46.419220+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -889,6 +889,7 @@
   "indiangasolineimportedintorussiaturnedouttobetwiceasexpensiveas",
   "sectorampindustryperformance",
   "goldsteadynear4400astradersweighusdataandratepath",
+  "thaibahtrallymayfadeondovishcentralbankanalystssay",
   "oiledgeshigherasmiddleeasttensionslingermarketswrap",
   "hongkongcourtordersunitofsdiccommoditiestoliquidate",
   "japansbondyieldsclimbonbojhikebetsfiscalconcerns",
@@ -898,7 +899,6 @@
   "cotonforexandcommoditiesweekto11august2026",
   "watchtrumpsayshescurtailingdrillswithsouthkorea",
   "nationalaustraliabankprofitedgesuponbusinessbankgrowth",
-  "covertmideastoilflowsarekeepingglobalpricesincheck",
   "watchcrowdedfloridaraceputstrumpsclouttotest",
   "watchbythewayheadlineroundup",
   "bloombergsaysdarktradeoilshuttlesarethereasoniranwarhasntspikedoilprices",
@@ -909,6 +909,7 @@
   "israelieconomyreboundsafterslumpsparkedbyiranwar",
   "theamericaschallengetomiddleeastoilwontletup",
   "goldmansaysmarketstoohawkishonbettingfedwillhikerates",
+  "covertmideastoilflowsarekeepingglobalpricesincheck",
   "metafaceslandmarktrialoveryouthharmclaims",
   "bitcointo10000afaustianbargainbloombergstopstrategistupdatesbtcpriceoutlook",
   "usiranwarsecretshippingthroughstraitofhormuzreporthintsatwhatskeepingoilpricesincheck",
@@ -1360,7 +1361,6 @@
   "oileasesasweakerdemandoutlookcountersmideastsupplyconcerns",
   "investingliveamericasmarketnewswrapsp500hitsafreshrecord",
   "whyeuropeisstrugglingtobuilditsgasstocksbeforewinter",
-  "secdelayscryptoregulationmeetinginlatestindustrysetback",
-  "economicandeventcalendarinasiafridayaugust142026"
+  "secdelayscryptoregulationmeetinginlatestindustrysetback"
  ]
 }
