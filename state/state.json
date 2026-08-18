@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-08-18",
+  "last_digest": "2026-08-19",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -850,7 +850,7 @@
     "previous": "-16"
    }
   ],
-  "cache_at": "2026-08-19T06:53:46.678274+09:00",
+  "cache_at": "2026-08-19T07:01:52.199475+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -878,12 +878,12 @@
   "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
   "chinasstateshippersdeployoiltankersoutsidegulfavoidchokepointssourcessay",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
-  "chinasurprisesoilmarketsagainwithareturntostockpilinginjuly",
   "oilclosesatthreeweekhighashopesofusiranpeacedealfade",
   "canadaspipelineambitionshingeonuncertainoutputexpansion",
   "indiaweighslimiteddutyfreesugarimportstoreininrecordpricessourcessay",
   "europeansharesslipasoilpricesandbondyieldssurgeonmiddleeastfears",
   "nigeriasdangoterefinerysecures1billionunderwritingaheadofipo",
+  "chinasurprisesoilmarketsagainwithareturntostockpilinginjuly",
   "nasdaqslidesyieldselevatedasmideastconflictfearsgrow",
   "breakingviewsthegreatbondtailwindforstocksisover",
   "indiascentralbankintervenesacrossmarketstosteadyrupeeasoilusyieldsclimb",
@@ -892,6 +892,7 @@
   "cnergyicoincreasesuscrudetoreducerisks",
   "liveupdatesisraelturkeywasabouttodeploytroopsattargetedsyrianairbase",
   "whyopenweightaiisthenewfrontierintheuschinatechrace",
+  "ukmtoreportsincidentinthestraitofhormuzreuters",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "usnatgasoutputanddemandtohitrecordhighsin2026eiasays",
   "wewillbethereinukraineshourofneedukrejectskremlinthreatsoverdronesupplies",
@@ -925,20 +926,19 @@
   "jpmorganssantossaysaitentacleriskspansbondsandstocks",
   "siemensenergyceoseesdatacenterboomlastingonpowerneeds",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
+  "globalbondslumpsendslongtermborrowingcoststohighestindecades",
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "bofapollseesfewbearsleftasinvestorspileintostocks",
-  "jpmorgansfallerturnsselectiveaseuropeanstocksgetpricier",
   "lngsupplycutfurtheraftercyclonehitsaustralianplants",
+  "jpmorgansfallerturnsselectiveaseuropeanstocksgetpricier",
   "pragmaticprabowocalmswearyinvestorsstocksenterbullrun",
   "dangoterefinerysecures400millionaheadofplannedipo",
-  "oilgainsastheussignalsnorushtoendconflictwithiran",
   "saudisoffertoselloilnearomanapossiblesigntheyresailingdarkthroughhormuz",
   "chipstocksgethitasglobalbondanxietybuildsmarketswrap",
   "goldholdstwodaygainonreducedratehikeexpectations",
   "asiponearsanthropicsrevenuerunratesoarspast65billion",
   "threequietweeksatthecpcterminalnearnovorossiyskendedsundayeveningwhenadronefoundagreektankerfreshlyloadedwithrussianoil",
   "usstockindexfuturesdropasbondyieldsoilpricesrise",
-  "globalbondslumpsendslongtermborrowingcoststohighestindecades",
   "energystockssoartorecordasoilrisesontrumpshardline",
   "genzluxurybuyersarescanningresalefirstrealrealceosays",
   "israelscentralbankchiefsaysnextratedecisionislive",
@@ -955,6 +955,7 @@
   "watchbhpceochinaironoredemandremainssteady",
   "indiaweighssugarimportdutycuttocurbrecordlocalprices",
   "mampgbackskoreanbondsseestoomanyratehikespricedin",
+  "watchbankofisraelsyaronsaysnextpolicymeetingwillbealiveone",
   "guggenheimtiessinkbondsof135billioninsurersammons",
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
@@ -970,6 +971,7 @@
   "stockmarkettodaysampp500fallsaschiprouttreasuryyieldspressurewallstreet",
   "crudeoilpricesbrenttops91asirantensionspushwtiabove85",
   "hightensionukrainianattacksontherussianoilindustrycontinueᐉnewsfromfaktibgworld",
+  "previewwhattowatchasjulyfomcminutesdropwednesday",
   "iranrejectsuaemissileaccusationwarnsagainstunfoundedclaims",
   "oilcatchuppriceshitthreeweekhighasiranvowsoffensivestancedeniesuaemissileclaim",
   "oilprivatesurveyofinventoryshowsheadlinecrudeoildrawandhugedieseldraw",
@@ -994,6 +996,7 @@
   "qatarsaysiranomanhormuzagreementcouldclearpathforbroaderus",
   "ecbpolicymakerlanesaysinflationoutlookishighlydependentonus",
   "germanyaugustzewsurveycurrentconditions611vs",
+  "oilgainsastheussignalsnorushtoendconflictwithiran",
   "thebondmarketisoneofthekeyspotstowatchatthemoment",
   "europeansharesedgelowerasluxurystocksweighusirantensionslinger",
   "braceforafloodofoilassoonashormuzreopens",
@@ -1067,7 +1070,6 @@
   "techstocksweighonwallstreetasiranstalemateliftsoilyields",
   "ustoincreasetomahawkmissileproductionmorethan16foldunder229billiondeal",
   "watchinflationwillpersistentlystayabovethefedstargethoopersays",
-  "ukmtoreportsincidentinthestraitofhormuzreuters",
   "eiahigherblendingtargetsdriverinpricesclosetorecordhighs",
   "citadelsecuritiessaysspikingyieldsreflectfedpolicyrisk",
   "trumpapprovalfallsto33lowestofhispresidencyreutersipsospollfinds",
@@ -1367,8 +1369,6 @@
   "watchalibabareportsworldbeating3billiondownloadsforqwenthechinashow8172026",
   "oilweekendrecapwhatsaheadiranvowstokeephormuzshuttrumptellsamericanstoaccepthighgasprices",
   "dollardipsasfedhikebetseasetreasuriesgainmarketswrap",
-  "chinesesteelproductiontumblesaseconomicconditionsworsen",
-  "moroccoarrests111migrantsheadedforspainsceutainsecuritycrackdown",
-  "mondayopenindicativeforexprices17august2026"
+  "chinesesteelproductiontumblesaseconomicconditionsworsen"
  ]
 }
