@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-08-21",
+  "last_digest": "2026-08-22",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -878,7 +878,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-08-22T06:53:37.450314+09:00",
+  "cache_at": "2026-08-22T07:01:41.511910+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -929,11 +929,10 @@
   "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "usnatgasoutputanddemandtohitrecordhighsin2026eiasays",
-  "pbocisexpectedtosettheusdcnyreferencerateat67262reutersestimate",
   "tajikistanseeks255mntonsofoilandfuelfromiranamidsupplydiversification",
-  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
+  "oilrefininghasbeenunderinvestedsaudiaramcosays",
   "howtethersbitcoinminingplansinuruguayunraveled",
+  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "europeanbuyersholdtalkstoshipcanadianlngviapanamacanaltodiversifysupply",
   "oilsetforsecondweeklygainasusrampsuppressureoniranmoneynews",
   "fuelshortagedisruptslufthansaflightsfromnamibiatoeurope",
@@ -949,6 +948,7 @@
   "youaskedweansweredmarketsmaynotbuythebuybackspostbyjohanpalmberginsights",
   "priceshockisboonforoilstockscurseforrenewables",
   "oilsetforweeklysurgeasusseekstothrottleiranseconomy",
+  "silvertests70andbreakskeyresistance",
   "saudisshuttleoilnorthonsinokortankerstoevadehouthis",
   "usnaturalgasrisesonhotterweathertexaspowerforecasts",
   "daliosayssellbondsbuygoldbitcoinasdebtcrisislooms",
@@ -959,8 +959,6 @@
   "chinamaterialsstocksemergefromslumpasnewmarketleaders",
   "paschiofferstobuybpmbancageneralifor34billion",
   "whydatacenterpushbackisauniqueformofnimbyism",
-  "trowepricesaysnigeriaattractiveevenafter64stockrally",
-  "silvertests70andbreakskeyresistance",
   "indiabondtradersleftreelingaftersurprisinglyhawkishrbiminutes",
   "watchdollardepreciationissustainable3minutesmliv",
   "goldpricegetsusbondpolicyboost",
@@ -994,6 +992,7 @@
   "golderasesits2026gainssellholdorbuythedip",
   "tsxgainsmorethan250pointsasinvestorsbrushoffustraderisks",
   "firsteagleglobalequityetfq22026commentarynysefege",
+  "boeingengineersrejectcontractandauthorizestrike",
   "zimbabwesaysimftargetsontrack",
   "nasdaqandspindicesaresettlingbetweenriskbiasdefiningmasastheweekcomestoaclose",
   "usdjpysetsthecloseguardrailsfornextweekstrading",
@@ -1020,6 +1019,9 @@
   "ukaugustflashservicespmi528vs518expected",
   "germanyaugustflashmanufacturingpmi541vs520expected",
   "stockmarketsectorrotationexplainedwhereinvestorsaremovingtheirmoneynow",
+  "pbocisexpectedtosettheusdcnyreferencerateat67262reutersestimate",
+  "trowepricesaysnigeriaattractiveevenafter64stockrally",
+  "usnatgasoutputanddemandtohitrecordhighsin2026eiasays",
   "airbusbacksdownonreturntoofficeafterprotestssourcessay",
   "chinasteapotslookbeyondiranianoilamidusblockade",
   "indiasforexpilerisestosixmonthpeakonsustainedcapitalinflows",
@@ -1061,7 +1063,6 @@
   "goldrallyontreasurymarketsmeetsratechallengeminingstocksamplifygains",
   "stocksriseasbitcoinrallyliftscryptosharesmarketswrap",
   "dollarnearthreemonthlowontreasurybuybackworries",
-  "oilrefininghasbeenunderinvestedsaudiaramcosays",
   "canthomsonreuterstsxtriexpanditsinnovationjourney",
   "tankersstackupasvenezuelasellsoilfasterthanitsportscanhandlereutersexclusive",
   "oilsetforsecondweeklygainasusrampsuppressureoniran",
@@ -1396,7 +1397,6 @@
   "ethiopiascurrencysinksascentralbankburnsthroughdollars",
   "earningbillionshowfuelexportersinindiausarebenefittingamidwarledoilsupplydisruptions",
   "unurgeszambiatohaltarbitraryarrestsofoppositionmembers",
-  "montedeipaschiboardtodiscusstakeoverdefenceoptionsonthursday",
-  "nebiussharesdrop11as45billionbondfinances80ofquarterlyaibudget"
+  "montedeipaschiboardtodiscusstakeoverdefenceoptionsonthursday"
  ]
 }
