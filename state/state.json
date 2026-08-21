@@ -878,7 +878,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-08-21T12:20:50.609896+09:00",
+  "cache_at": "2026-08-21T12:28:54.989226+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -898,9 +898,10 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "oilsetforsecondweeklyriseasunsettledusiranwarcrimpssupply",
   "trumpthreatenstoisolateiranwhoareitstradingpartners",
-  "chinaboostsimportsofrussiancrudestymieingindiasrefiners",
   "oilhits3weekhighonmiddleeastsupplyconcernsamidwarimpasse",
+  "chinaboostsimportsofrussiancrudestymieingindiasrefiners",
   "saudiaramcosellsatleast4millionbarrelsofcrudeloadingoutsidehormuztochinasourcessay",
   "eunotconcernedaboutgassupplyorstoragefillingcommissionsays",
   "canadiandollarhitsnear3monthhighasoilpricesclimb",
@@ -911,13 +912,11 @@
   "samsungelectoconveneboardmeetingfridaytodiscussshareholderreturnplansayssource",
   "cryptosharesclimbaftertreasurysdoubledbuybacksboostriskassets",
   "anthropicplanstochangeenterprisedataretentionpolicysourcesays",
-  "kazakhstantoholdsnapelectionexpectedtotightenpresidentscontrol",
   "ghanasmineworkersdemandreleaseof345millionintrappedsavings",
-  "coalindiaplanssingaporetradinghubinhuntforcriticalmineralassetssourcessay",
   "sheintargetshongkongmarketdebutonseptember1sourcessay",
+  "coalindiaplanssingaporetradinghubinhuntforcriticalmineralassetssourcessay",
   "regionalpowerhousesweighnoconfidencevoteinbidtooustinfantinosourcessay",
   "fbiraidsdemocratswalwellshomeinsexualmisconductinvestigationsourcesays",
-  "oilsetforsecondweeklyriseasunsettledusiranwarcrimpssupply",
   "oilpricesmixedamidattacksongulfexportfacilities",
   "voxcutsjobsinfirstrestructuringsincejamesmurdochstakeoversourcesays",
   "morningbidhowlongcanthisbessentputlast",
@@ -958,12 +957,12 @@
   "oilsetforweeklysurgeasusseekstothrottleiranseconomy",
   "chinaspropertycrisisfromevergrandecollapsetospiralingprices",
   "dailynaturalgasmarketupdate52026",
-  "watchfmrlvmhexecbrownonestéecomebackconsumertrends",
   "thesampp500indexiscalmitsstocksarent",
   "chinabuyssaudicrudeinraretenderasimportsstaymuted",
   "bondyieldsareelephantinroomstockinvestorsareignoring",
   "ubssbawejasaysmarginpressureisariskforstocksin2027",
   "investorswarnusovershiftingfrompredictabledebtmanagement",
+  "bitcoinsshortsqueezeleavesrallyhuntingforrealbuyers",
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "nyseownersaysfirmtolookatpolymarketsnewfundinground",
   "thalessellingbondstohelpfunddealforseadronemakerexail",
@@ -987,7 +986,6 @@
   "usstocksfallasoilyieldsclimbwhilewalmartslumps",
   "germanysayslower60gasstoragetargetsufficientforwinter",
   "scottbessentismovingmarketseverywherewithalotatstake",
-  "bitcoinsshortsqueezeleavesrallyhuntingforrealbuyers",
   "paulsonarbitrationawardgetsreopenedoverevidenceissues",
   "watchchinasentencesevergrandeshuitolifeinprison",
   "goldgemsandrareearthsfuelacivilwarofepicproportions",
@@ -997,13 +995,14 @@
   "bessenttodetailusplanstoisolateiranseconomyonmonday",
   "pingansprofitrisesasstockmarketrallyboostsreturns",
   "uscanadatradedraftpilespressureonmexicotomatchterms",
+  "warningsignsareflashingatamericasoverheatinglandfills",
   "norwayreadiesformoreustariffsaftertradetalksindc",
   "starbucksshedsmorethan100jobsasitwrapsrestructuring",
   "germaneconomyfinallyonpathtorecoverybundesbanksays",
   "franklinplanstopushtokenizedassetsintotraditionalfunds",
   "cvcledgrouptobackstandardlifesukpensionrisktransfers",
-  "chevronwontpaytolltomoveshipsthroughhormuzceotellsbloombergtv",
   "fxdailysnapshot",
+  "chevronwontpaytolltomoveshipsthroughhormuzceotellsbloombergtv",
   "thebondmarketswingsbacktoworriesandknocksusstockslower",
   "firsteagleglobalequityetfq22026commentarynysefege",
   "fedsdalytellsbloombergfocusedonmandatesamidtreasuryactions",
@@ -1040,6 +1039,8 @@
   "wallstreetslidesastreasuryyieldswalmartmissandongoingwarhitstocks",
   "economicandeventcalendarinasiafridayaugust212026",
   "investingliveamericasnewswrapbessentdoublesdownonbuybackplan",
+  "kazakhstantoholdsnapelectionexpectedtotightenpresidentscontrol",
+  "watchfmrlvmhexecbrownonestéecomebackconsumertrends",
   "ustreasuryauctionsoff9billionof30",
   "177returnwithinhourswhymodernastockralliedaftercancervaccinetrialexplained",
   "fedsmusalemsayshikingratesnowcouldsavemoreaggressiveactionlater",
@@ -1396,7 +1397,6 @@
   "oasisurgeskakakucomtowithdrawsupportforeqtsbuyoutbid",
   "bostonfedpapersaysstrongproductivitybluntedtariffinflationimpact",
   "morganstanleymaintainsoilpriceforecastsandpredictsslowrecoveryinsupply",
-  "trumpsaysnotalksplannedwithirantehransaysstraitofhormuzstillshut",
-  "usstockslooktohalttheir3dayslideaspressurefromthebondmarketeases"
+  "trumpsaysnotalksplannedwithirantehransaysstraitofhormuzstillshut"
  ]
 }
