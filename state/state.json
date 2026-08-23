@@ -607,7 +607,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-08-23T23:18:54.760458+09:00",
+  "cache_at": "2026-08-23T23:26:58.345563+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -627,6 +627,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "putinwantstodraft300000newtroopszelenskiysays",
   "iransayspakistansarmychieftovisittehranonmonday",
   "whyisgeorgiaskulevirefineryabandoningrussianoilundereupressure",
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
@@ -646,21 +647,20 @@
   "iranuswarlatestnewsiranianmilitaryleaderwarnsgulfneighboursagainstjoiningtrumpseconomicddayontehrancondemnsusmeasureaste",
   "chinabuys80ofiransshippedoilwhyussanctionscouldputbeijinginabind",
   "saudisoillogisticsroiledagainbyhouthisredseathreat",
-  "bloombergipoeverythingyouneedtoknowaboutbloomberg",
   "malaysiarulesout19billiontakeoverofpassportsupplier",
-  "nvidiacustomersnotifiedaboutairelatedpricehikesabove15bloombergnewsreportsbyreuters",
-  "koreantraderschase40couponsasriskappetitesurvivesrout",
-  "nvidiacustomersnotifiedaboutairelatedpricehikesabove15",
   "kevinwarshtomakefirstjacksonholespeechasfedchair",
-  "trumpstockdisclosureshowsmorethan1000tradesinjune",
-  "ethiopiaeyesstakeindangotesplanned17billionkenyarefinery",
-  "chinasrongshengweighsalbertatobcpipelineoilsupplypact",
-  "pmcarneyyoureatwarwhenyougetattackedwegotattacked",
-  "pmcarneytospeakat11edtaftertradetalkswithusbreakdownliveupdateshere",
+  "koreantraderschase40couponsasriskappetitesurvivesrout",
   "india",
+  "bloombergipoeverythingyouneedtoknowaboutbloomberg",
   "scenesfromthe2026beijingworldhumanoidrobotgames",
   "ukrainedronesstrikesamaraoilrefineryecommercewarehouse",
   "whymodernascancervaccineisabreakthroughformrna",
+  "nvidiacustomersnotifiedaboutairelatedpricehikesabove15bloombergnewsreportsbyreuters",
+  "trumpstockdisclosureshowsmorethan1000tradesinjune",
+  "nvidiacustomersnotifiedaboutairelatedpricehikesabove15",
+  "ethiopiaeyesstakeindangotesplanned17billionkenyarefinery",
+  "chinasrongshengweighsalbertatobcpipelineoilsupplypact",
+  "pmcarneyyoureatwarwhenyougetattackedwegotattacked",
   "oilpricessurge6inweekasbrentnears95barrel",
   "isbitcoinat77kpreparingforanotherbreakoutthisbtcusdanalysisshowsaapotentialbullflagpointingto84k",
   "investingliveamericasfxnewswrap21augtrumpfoldsonbeeftariffs",
@@ -686,6 +686,7 @@
   "euroareabusinessactivityseesfurtherpickupinaugustdespitefrancegermanysoftness",
   "ecbskazākssaysseptemberdecisionwillbebasedondataaddsthereareprosandconstohikingfurther",
   "q3earningssentimentturnsdefensiveaswalmartdeepensthewarning",
+  "pmcarneytospeakat11edtaftertradetalkswithusbreakdownliveupdateshere",
   "irancondemnsusplanstoannouncenewsanctionsbyreuters",
   "irangrantspermissionforiraqioiltankerstopassthroughstraitofhormuzhow17outletsframedit",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
@@ -1125,7 +1126,6 @@
   "singaporepolicebeginlookingintoironoretraderradiantworldbloomberg",
   "skhynixmayaddanother130billiontoreturnsjpmorgansays",
   "soccerregionalpowerhousesweighnoconfidencevoteinbidtooustinfantinosources",
-  "ustreasurysecretarybessentsaysthelongdatedbondbuybackcouldbemorethan4billion",
-  "watchtreasuryactionnotafedgamechangerforseptembersaysevercoresguha"
+  "ustreasurysecretarybessentsaysthelongdatedbondbuybackcouldbemorethan4billion"
  ]
 }
