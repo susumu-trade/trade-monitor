@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-08-23",
+  "last_digest": "2026-08-24",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -607,7 +607,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-08-24T06:59:41.837711+09:00",
+  "cache_at": "2026-08-24T07:11:47.049425+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -629,12 +629,14 @@
  "news_seen2": [
   "iransayspakistansarmychieftovisittehranonmonday",
   "tethers120millionuruguaybitcoinminingprojectcollapsedoverapowercontractdisputereuters",
+  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "iransaysdesperatenewsanctionswillfailmediatorpakistansendsarmychieftotehran",
   "oilreboundsasfragileceasefirehormuzconcernskeepsupplyriskselevated",
   "putinwantstodraft300000newtroopszelenskiysays",
   "sinopecsh1profitrosedespiteoilsupplydisruptions",
   "oilpricesclimb",
   "11bodiesrecoveredaftermigrantboatsinksofftunisia",
+  "peacethroughstrengthtaiwanpresidentsaysonchinabattleanniversarybyreuters",
   "boeingengineersturndownofferstrikeloomsamidbacertificationpush",
   "syriaforeignministerseesisraelsecuritytalksresumingdespitenotrust",
   "iransaysnewsanctionsthreatenedbydesperateuswillfail",
@@ -649,9 +651,9 @@
   "japanborrowingcostsreach1996highswilltheweakyenhurtbitcoin",
   "bloombergipoeverythingyouneedtoknowaboutbloomberg",
   "firsteagleoverseasequityetfq22026commentary",
-  "uscanadatradetalksfellapartoverfineprintenvoysays",
+  "bitcoinsrallyleansonfearsthatfiscalstrainsaremounting",
   "iranannouncesgasdiscoveryafterwarworsensenergysqueeze",
-  "saudioillogisticsroiledagainbyhouthisredseathreat",
+  "uscanadatradetalksfellapartoverfineprintenvoysays",
   "malaysiarulesout19billiontakeoverofpassportsupplier",
   "koreantraderschase40couponsasriskappetitesurvivesrout",
   "kazakhstanvotesfornewparliamentastokayevpressesreforms",
@@ -669,6 +671,7 @@
   "pmcarneyyoureatwarwhenyougetattackedwegotattacked",
   "oilpricessurge6inweekasbrentnears95barrel",
   "coinbaseceourgessenatetopassclarityactsept15",
+  "bessenttounveiltoughestiransanctionsasrezaeithreatenstotaloilhalt",
   "goldmanflagschinastimulusriskasgrowthslipsfurtherbelowtarget",
   "weekendfedskashkarisaysbondmarketfunctioningwelldespiteyieldrise",
   "goingnucleariransecuritychiefwarnstehranmayseeknuclearweaponsafterusstrikes",
@@ -692,10 +695,12 @@
   "usdcadtradestoanewlowfortheweekgoingbacktomaywhatnexttechnically",
   "canadaretailsalesforjune06vs04estimate",
   "kickstartthenorthamericansessiontheusdislowervsthe3majorcurrencypairs",
+  "oilpricesmixedamidattacksongulfexportfacilities",
+  "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "investingliveeuropeanmarketswrapgoldrunshigherdollarstaysunderpressure",
+  "saudioillogisticsroiledagainbyhouthisredseathreat",
   "ministryseeksgovtsupportforcrosssubsidy",
   "irancondemnsusplanstoannouncenewsanctions",
-  "peacethroughstrengthtaiwanpresidentsaysonchinabattleanniversarybyreuters",
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "informationtechnologysectorampindustryperformance",
   "dollarfallsalongsidebondyieldsinfinalstretchoftheweek",
@@ -745,7 +750,6 @@
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "siemensenergyceoseesdatacenterboomlastingonpowerneeds",
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
-  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "globallnghuntintensifiesasmiddleeastwarcutssupply",
   "oilpricesriseaftershipattacksusirantalksdeadlock",
   "iranwarthestraitofhormuzoilshockisnowheadingwest",
@@ -807,7 +811,6 @@
   "hedgefundscutbearishbetsoneuropeandieseltotwoyearlow",
   "oilrisesastrumpthreatenssanctionsoniranpartners",
   "tsxgainsmorethan250pointsasinvestorsbrushoffustraderisks",
-  "oilpricesmixedamidattacksongulfexportfacilities",
   "oilrisesasinvestorsfearfurthermiddleeastescalation",
   "bessentsbondmaneuversgivingglobaldebasementtradenewlife",
   "gulfoilexportsjumpinjuneonrecorduaeflows",
@@ -817,7 +820,6 @@
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "irandeepenstradetieswithomanturkeyandiraqasusdeclaresgreatesteconomicisolationinhistory",
   "ukraineselectionquestionreachestheunnobodyhasactuallyaskedforhelp",
-  "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "lngsupplycutfurtheraftercyclonehitsaustralianplants",
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "airbusbacksdownonreturntoofficeafterprotestssourcessay",
@@ -1124,8 +1126,6 @@
   "watchwhyvanderbiltmaybethefutureofcollegesports",
   "fedsdalymusalemunitedoncredibilityconcernsasbondselloffpersistsbutsplitonpolicy",
   "saudiaramcosellsatleast4millionbarrelsofcrudeloadingoutsidehormuztochinasourcessay",
-  "usweighsreducingmilitarypresenceingulfasiranwarcosthits375bn",
-  "forthefirsttimesincethefalloftheassadregimelebanonhashandedoveraformergeneraltosyriareuters",
-  "samsungskhynixplanrecordshareholderreturnsinaiboom"
+  "usweighsreducingmilitarypresenceingulfasiranwarcosthits375bn"
  ]
 }
