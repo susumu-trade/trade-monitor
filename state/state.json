@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-08-24",
+  "last_digest": "2026-08-25",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -632,7 +632,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-08-25T06:59:11.407983+09:00",
+  "cache_at": "2026-08-25T07:07:18.098044+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -652,25 +652,25 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "usthreatenscountriesdoingbusinesswithiranbutholdsoffonpenaltiesfornow",
   "gulfboursesriseassaudiindexgainsforfifthsession",
+  "ieasbirolnotdiscussingasecondreleaseofstrategicoilreserves",
   "silvers77surgeencountersinvestmentdemandscrutiny",
   "russianotwillingtoacceptceasefireongrainshipszelenskyy",
   "reutersukrainiandronesknockedoutamajorrussianoilrefineryinpermforthesecondtimethisyear",
-  "ieasbirolnotdiscussingasecondreleaseofstrategicoilreserves",
+  "usthreatenscountriesdoingbusinesswithiranbutholdsoffonpenaltiesfornow",
   "sixcountrieswanteutalksinseptemberontaxingwindfallprofitsofoilcompanies",
   "chinasaysmiddleeastatcriticalpointcallsforcoolingtensionsanddialogue",
+  "breakingviewsoilselevatedpricecouldyetbecomeafloor",
   "pakistansmunirspoketotrumpaheadoftehranvisitsourcessay",
   "loomingussanctionsoniranputchinaoilbuyinginspotlight",
   "oildropsmorethan2despitenewussanctionsoniran",
   "usrefinersfacehistoricstresstestasglobalcrisislooms",
   "chineserefinersinopectoboostoilimportsfromoutsidethegulf",
-  "norwaywilldrillinarcticregardlessofeuspositionsaysenergyminister",
   "germanysunipersaysithasfilled70ofitscontractedgasstorage",
+  "norwaywilldrillinarcticregardlessofeuspositionsaysenergyminister",
   "indiarejectsadanilinkedoffshorefundsrequeststosettlenondisclosurecasessourcessay",
   "fewerthan20shipstransitkeystraitofhormuzoverweekenddatashows",
   "dollarhigherafteriransanctionslooniedropsafterusannouncestariffincreases",
-  "xiaomilaunchesnewxringchippartnerswithtsmcforproductionsourcessay",
   "indiafacesweakestmonsooninnearlytwodecadesaselninostrengthens",
   "norwaywillcontinueoilproductioninthearcticdespitetheeusstancereuters",
   "nasdaqslips06withmarketbreadthat151to1highlightingaisectorexposure",
@@ -684,8 +684,8 @@
   "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "oilfallsaheadofnewussanctionsasiranstaysdefiant",
   "oilfallsaheadofusannouncementofnewsanctionsoniran",
-  "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "tradersarebracingforanincreasinglyhawkishecbbyreuters",
+  "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "goldreachesthreemonthpeaknewmontsharesfallasrisingcostslimitgains",
   "coinsiliumgrouplimitedpredictivelabsachievesfurtherdevelopmentmilestonescoinsiliumincreasesinvestmentwithfurthersubscrip",
   "usthreatenseconomicwarasiranvowstohaltoil",
@@ -724,8 +724,8 @@
   "malaysiarulesout19billionbuyoutofpassportsupplier",
   "ussettounveilfreshiransanctionsasrialhitsrecordlow",
   "itsacarryworldemtradenotcheslongestrunsince2008",
-  "watchmarketseyebessentwarshnvidiaopeninterest8242026",
   "shippingoilthroughhormuzcosts20milliontotalceosays",
+  "watchmarketseyebessentwarshnvidiaopeninterest8242026",
   "goldholdsnearthreemonthhighasdebasementtradereturns",
   "highesteveroceantemperaturemeasuredassuperelniñoforms",
   "hongkonghomebuyersleftcoldbypricesinremotetechhub",
@@ -749,15 +749,16 @@
   "bessentstepsinonbondsyieldsfallgoldandbitcoinrally",
   "theweeklyfingerelniñogoldsquietmissionsilverscomebackandtrumpsbondmarkettantrum",
   "whymarketsthinktheusiswinningtheblockade",
-  "americansrelationshipwithgaspricesiscomplicated",
+  "wallstreetdriftsatthestartofaweekthatcouldswingstocksandbonds",
   "iranannouncesmajornaturalgasdiscovery",
-  "wallstreetdriftsaheadofabigweekthatcouldswingstocksandbonds",
+  "americansrelationshipwithgaspricesiscomplicated",
   "siemensenergyceoseesdatacenterboomlastingonpowerneeds",
   "whataretheunderlyingissueswithustreasurydebtandhowsignificantaretheywhatmeasuresareneededtoaddressthesechallengesandwhat",
   "themostoversoldandoverboughtstocksonthetsx",
   "growthbroadensacrossindiaincwhatan8quarterearningsreviewrevealsaboutsectorsrisksandretur",
   "thedebasementtradeisback",
   "goldhits4620astreasurybuybacksreignitethedollardebasementtrade",
+  "dollarslipstolowestsincemayastreasurydoublesbondbuybackswhatsnext",
   "bojlikelytohikenextmonthandagaininjanuarysaysex",
   "itsthetoothlessvsthecluelesssectoinvestigatesituationalawarenessnearcollapse",
   "oilslipsover2astradersshrugofffreshussanctionsoniran",
@@ -781,6 +782,8 @@
   "trumpsays50tariffsoncanadianautoscomingonjanuary12027",
   "usdchfstretcheshigherwithusdsellingbutfindswillingsellersagainsttechnicaltargets",
   "usdcadmoveshigherinto200daymaresistancekeybarometerforbuyersandsellers",
+  "xiaomilaunchesnewxringchippartnerswithtsmcforproductionsourcessay",
+  "wallstreetdriftsaheadofabigweekthatcouldswingstocksandbonds",
   "canadajulyadvancemanufacturingsales",
   "oilpricesmixedamidattacksongulfexportfacilities",
   "inflationbackinfocus5keythemessettodriveglobalmarketsthisweek",
@@ -800,7 +803,6 @@
   "oilslipsaheadofusannouncementofnewsanctionsoniran",
   "dollaredgesuplooniedropsafterusannouncestariffs",
   "ustreasurycouldtapthenearly1trilliontgatofundbondbuybacks",
-  "breakingviewsoilselevatedpricecouldyetbecomeafloor",
   "ustreasurytobroadenscopeofsecondarysanctionsoniransourcesaysbyreuters",
   "stockmarketsectorrotationupdateindustrialsjointechnologyincoolingoff",
   "investingliveeuropeannewswrapcanadiandollarextendslossesaftertradetalkscollapse",
@@ -1149,8 +1151,6 @@
   "zimbabwesaysimftargetsontrack",
   "saudisshuttleoilnorthonsinokortankerstoevadehouthis",
   "indiasettoapprove12billionincentiveplantomakebuildingequipmentsourcessay",
-  "trowepricesaysnigeriaattractiveevenafter64stockrally",
-  "indiatogivecanadasfairfaxtwoyearstoconsolidateholdingsforidbibankdealsourcessay",
-  "usnaturalgasrisesonhotterweathertexaspowerforecasts"
+  "trowepricesaysnigeriaattractiveevenafter64stockrally"
  ]
 }
