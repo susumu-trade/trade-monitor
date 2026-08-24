@@ -607,7 +607,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-08-24T09:46:57.478223+09:00",
+  "cache_at": "2026-08-24T09:59:02.103655+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -627,6 +627,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "asiamarketsflatinvestorsawaitiransanctionsnvidiaresults",
   "iransayspakistansarmychieftovisittehranonmonday",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "tethers120millionuruguaybitcoinminingprojectcollapsedoverapowercontractdisputereuters",
@@ -640,12 +641,12 @@
   "update9oilrisesastrumpthreatenssanctionsoniranpartners",
   "govttobuylngcargoat2393permmbtufromaramco",
   "tamptlngproductionrisesin2025",
-  "boeingengineersturndownofferstrikeloomsamidbacertificationpush",
   "oilpricesmixedamidattacksongulfexportfacilities",
   "peacethroughstrengthtaiwanpresidentsaysonchinabattleanniversarybyreuters",
   "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "oilreboundsasfragileceasefirehormuzconcernskeepsupplyriskselevated",
   "europeanbuyersholdtalkstoshipcanadianlngviapanamacanaltodiversifysupply",
+  "boeingengineersturndownofferstrikeloomsamidbacertificationpush",
   "syriaforeignministerseesisraelsecuritytalksresumingdespitenotrust",
   "iaeasaysadronetargetedzaporizhzhianuclearpowerplantsexternalradiationcontrollaboratory",
   "iransayspakistansarmychiefasimmunirtovisittehranonmonday",
@@ -676,6 +677,7 @@
   "ethiopiaeyesstakeindangotesplanned17billionkenyarefinery",
   "nvidiacustomersnotifiedaboutairelatedpricehikesabove15bloombergnewsreports",
   "coinbaseceourgessenatetopassclarityactsept15",
+  "nzmainoppositionpartypledgestorestorerbnzdualmandateonemploymentifelected",
   "pbocisexpectedtosettheusdcnyreferencerateat67248reutersestimate",
   "trumpmade1000plusstocktradesinjuneamidiranwartarifffights",
   "oileasesonglobexafterweekendiranescalationandsanctionsthreats",
@@ -1124,8 +1126,6 @@
   "ukconsumerconfidencehitstwoyearhighdespiteinflationwarning",
   "evergrandecreditorsowed45billionnowfacemorecomplexpath",
   "australiaprivatesectorgrowthsoftensascostpressuresintensifyinaugust",
-  "franceaugustbusinessconfidence98vs98expected",
-  "usstockmarkettoday08202026",
-  "newzealandjulytradebalancenz"
+  "franceaugustbusinessconfidence98vs98expected"
  ]
 }
