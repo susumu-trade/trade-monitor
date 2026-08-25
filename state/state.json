@@ -633,7 +633,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-08-26T03:03:13.743380+09:00",
+  "cache_at": "2026-08-26T03:15:19.019320+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -653,11 +653,11 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "sixmonthsintoiranwaralmosthalfofglobaloilflowsfromwarzones",
   "unitedstatessanctionsoiltraderwellbredoveriranlinks",
+  "newsinopecbosspressesresetforworldsbiggestoilrefiner",
   "japantosupportoilpipelinesthatbypassstraitofhormuz",
   "usandisraeliattacksonirantriggerlargestoilsupplycrisisreuterssayshow11outletsframedit",
-  "newsinopecbosspressesresetforworldsbiggestoilrefiner",
+  "sixmonthsintoiranwaralmosthalfofglobaloilflowsfromwarzones",
   "bangladeshcouldconsiderjoiningmeccapactintestforforeignties",
   "morningbideconomicsalvos",
   "russiatoextenddieselexportbanthroughseptembersourcessay",
@@ -690,6 +690,7 @@
   "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
   "sixmonthsintoiranwaralmosthalfofglobaloilflowsfromwarzonesbyreuters",
   "trumpwantsmoreeconomicpressureoniranwhatarehisoptions",
+  "russiasettoextenddieselexportbanafterukrainiandronestrikeshitrefineries",
   "japansdebtservicingcostsseenatrecordinnextfiscalyearkyodoreports",
   "pakistanandiranmadesignificantprogressintalksonconflictministersays",
   "europeanbuyersholdtalkstoshipcanadianlngviapanamacanaltodiversifysupply",
@@ -706,7 +707,6 @@
   "yendrainthepriceofjapanscapitaloutflows",
   "theeconomicwinnersandlosersoftheusisraeliranwar",
   "satelliteimageshowssurgeiniraqspersiangulfoilloadings",
-  "whymarketsthinktheusiswinningtheblockade",
   "bitwiseridestokenizationrushwithautomatedstockportfolios",
   "burnhamplansustripnextmonthtolobbytrumponukraineneeds",
   "watchmexicobondstradelikejunkafter130billionbailoutofpemex",
@@ -718,16 +718,17 @@
   "marketsslipasnvidiayieldsampthedebasementtradeloomtheclose8242026",
   "watchwhyinvestorsareworriedaboutnvidiaearnings",
   "turkeybracesforpotentialgassqueezeasustargetsirantrade",
+  "watchseclooksintotradingatsituationalawareness",
   "watchwhytrumpispickingnewtradefightwithcanada",
+  "whymarketsthinktheusiswinningtheblockade",
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "russiamullsextendingdieselexportbanamidukraineattacks",
   "usexpandssanctionsonoilmogulsnetworkinirancrackdown",
   "adnocextends27billionshipbuyingspreeasuaeexportssoar",
   "trumpstradewarsarelatestthreattojadedasiainvestors",
-  "watchoilanalysishowtheworldandenergymarketsadaptedtothestraitofhormuzcrisis",
   "watchwhybessentsiranddaythreathingesonhiswillingnesstohitchina",
-  "dronestrikesparksfireatoilrefineryinsouthernrussia",
   "watchnvidiamustproveitcanbetomorrowsaiplatform",
+  "dronestrikesparksfireatoilrefineryinsouthernrussia",
   "korealeveragedetfssee1billionoutflowasfervorcools",
   "bojspricegaugestaysabove2amidratehikespeculation",
   "watchtreasurybuybacksacloudoverratesmarketsapollossloksays",
@@ -746,7 +747,6 @@
   "siemensenergyceoseesdatacenterboomlastingonpowerneeds",
   "ciccwhataretheissueswithustreasurieshowcantheyberesolvedandwhataretheappropriateresponses",
   "firsteaglecreditopportunitiesfundq22026commentaryfcaax",
-  "goldpricetodaypriceofgoldperounce24hourspotchart",
   "wallstreetdriftsatthestartofaweekthatcouldswingstocksandbonds",
   "investorsneedacrashcourseinthebenefitsofbuybacks",
   "sampptsxcompositeupnearly200pointsusstockmarketsalsotradehigher",
@@ -784,11 +784,12 @@
   "franceaugustconsumerconfidence86vs87expected",
   "germanyq2finalgdp03vs02qqprelim",
   "fxoptionexpiriesfor25august10amnewyorkcut",
+  "goldpricetodaypriceofgoldperounce24hourspotchart",
+  "watchoilanalysishowtheworldandenergymarketsadaptedtothestraitofhormuzcrisis",
   "whythebondmarketmayberesettingexpectationsabouttheus",
   "ghanasgoldbodbuyershitbyfundingdelayssourcessay",
   "watchnvidiatomovemarketsmorethanwarsh3minutemliv",
   "canadasdollartumblesmostsincemidjuneonustraderift",
-  "russiasettoextenddieselexportbanafterukrainiandronestrikeshitrefineries",
   "americas40trilliondebtproblemisgettinghardertoignore",
   "goldholdsnearthreemonthhighasdebasementtradereturns",
   "exclusiveairindiaseeks15billionfromownerstatasingaporeairaslossesmountsourcessay",
@@ -1151,7 +1152,6 @@
   "iranuswarlatestnewsiranianmilitaryleaderwarnsgulfneighboursagainstjoiningtrumpseconomicddayontehrancondemnsusmeasureaste",
   "watchdatacenterexpansiontestsvoterpatience",
   "usdcadtradestoanewlowfortheweekgoingbacktomaywhatnexttechnically",
-  "oilpricessurge6inweekasbrentnears95barrel",
-  "canadaretailsalesforjune06vs04estimate"
+  "oilpricessurge6inweekasbrentnears95barrel"
  ]
 }
