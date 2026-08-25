@@ -284,7 +284,7 @@
     "country": "GBP",
     "date": "2026-08-26T06:00:00-04:00",
     "impact": "Low",
-    "forecast": "-34",
+    "forecast": "-35",
     "previous": "-26"
    },
    {
@@ -316,7 +316,7 @@
     "country": "USD",
     "date": "2026-08-26T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "0.5%",
+    "forecast": "0.6%",
     "previous": "0.6%"
    },
    {
@@ -324,7 +324,7 @@
     "country": "USD",
     "date": "2026-08-26T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "0.5%",
+    "forecast": "0.4%",
     "previous": "0.3%"
    },
    {
@@ -372,7 +372,7 @@
     "country": "AUD",
     "date": "2026-08-26T21:30:00-04:00",
     "impact": "Low",
-    "forecast": "0.4%",
+    "forecast": "0.3%",
     "previous": "0.8%"
    },
    {
@@ -396,7 +396,7 @@
     "country": "EUR",
     "date": "2026-08-27T02:00:00-04:00",
     "impact": "Low",
-    "forecast": "-29.2",
+    "forecast": "-29.5",
     "previous": "-29.6"
    },
    {
@@ -404,7 +404,7 @@
     "country": "EUR",
     "date": "2026-08-27T04:00:00-04:00",
     "impact": "Low",
-    "forecast": "3.4%",
+    "forecast": "3.5%",
     "previous": "3.3%"
    },
    {
@@ -632,7 +632,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-08-25T09:28:33.685639+09:00",
+  "cache_at": "2026-08-25T09:46:12.226671+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -659,6 +659,7 @@
   "thomsonreutersleveragesitsworldclassdataassetstolaunchitsownfrontiermodel",
   "ussecsubpoenaswallstreetlendersoversituationalawarenessmeltdownsourcesays",
   "sixcountrieswanteutalksinseptemberontaxingwindfallprofitsofoilcompanies",
+  "breakingviewsoilselevatedpricecouldyetbecomeafloor",
   "thehormuzcrudevolumedebatemaskstherealshortageofrefinedfuels",
   "chinasaysmiddleeastatcriticalpointcallsforcoolingtensionsanddialogue",
   "pakistansmunirspoketotrumpaheadoftehranvisitsourcessay",
@@ -677,8 +678,8 @@
   "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "japanfuturestradeintightrangeamidtighteningsupplyeasingoil",
   "nasdaqslips06withmarketbreadthat151to1highlightingaisectorexposure",
-  "usexpectedtobroadensecondarysanctionstoisolateiranoneconomicdday",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
+  "usexpectedtobroadensecondarysanctionstoisolateiranoneconomicdday",
   "dowfuturesdropnvidiaresultsand47yieldchallengeequities",
   "germanysunipersigns15yeargasimportdealwithnorwaysequinor",
   "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
@@ -690,19 +691,18 @@
   "goldreachesthreemonthpeaknewmontsharesfallasrisingcostslimitgains",
   "oilfallsaheadofnewussanctionsasiranstaysdefiant",
   "usthreatenseconomicwarasiranvowstohaltoil",
-  "tsxunchangeddespite11mininggainsweighedbytariffandoiluncertainty",
   "umcsharesclimb6onaifoundryinvestmentdefyingmarketssemiconductordownturn",
   "exclusiveindiaplansfirsttokenisedbondissueinseptembersourcessay",
   "ustreasurytobroadenscopeofsecondarysanctionsoniransourcesays",
   "oilfallsaheadofusannouncementonnewiransanctionsmoneynews",
   "globalmarketssharesflatinasiabeforeiransanctionsnewsnvidiaresults",
+  "iransaysnewsanctionsthreatenedbydesperateuswillfail",
   "iranwarnstofinetankersinlatesthormuzescalation",
   "oilfallsaheadofusannouncementonnewiransanctions",
   "mediatorpakistantoholdtalksiniranonuseconomicdday",
   "balrampurchinidrops46fromsessionhighasindiassugartradedividesmarkets",
   "mtnshalfyearadjustedprofitrisesmorethan21",
   "usunveilseconomicddayofsanctionstoisolateiran",
-  "iransaysnewsanctionsthreatenedbydesperateuswillfail",
   "nasdaq100todayaugust242026theindexisdown5itsmedianmember18",
   "usiransanctionsoperationeconomicoutcasttargetstehranineconomicdday",
   "dowjonestodayonebankdelivered44offridays518pointrally",
@@ -720,14 +720,14 @@
   "iranfuelshortagessparklinesatpumpsasuspressurebites",
   "ussettounveilfreshiransanctionsasrialhitsrecordlow",
   "itsacarryworldemtradenotcheslongestrunsince2008",
-  "highesteveroceantemperaturemeasuredassuperelniñoforms",
   "carneysaysuswantstodestroycanadafirmsexaminesretaliationmoves",
-  "pimcoexpectselevatedtermpremiumsaysbondsareattractive",
+  "highesteveroceantemperaturemeasuredassuperelniñoforms",
   "dollargainsasusplantocutoffiranspurshavendemand",
   "malaysiarulesout19billionbuyoutofpassportsupplier",
+  "pimcoexpectselevatedtermpremiumsaysbondsareattractive",
   "alibabaraises10blninrecordhongkongsharesale",
-  "hedgefundsrampupdollarshortsintobessentsfiscalplan",
   "bessenthasnoeasyfixforwhatsreallydrivingyieldsup",
+  "hedgefundsrampupdollarshortsintobessentsfiscalplan",
   "globallnghuntintensifiesasmiddleeastwarcutssupply",
   "canadiandollartumblesastraderiftthreatensgrowthoutlook",
   "oildeclineswithuseconomicisolationplanforiraninfocus",
@@ -737,8 +737,8 @@
   "theiranianrialhasfallentoarecordlowbloomberg",
   "investorsneedacrashcourseinthebenefitsofbuybacks",
   "saudioillogisticsroiledagainbyhouthisredseathreat",
-  "usoilsanctionspushbeijingtotestwashingtonslimits",
   "asiansharesoilslipasmarketsawaitdetailsofussanctionsoniran",
+  "usoilsanctionspushbeijingtotestwashingtonslimits",
   "abovethenoiseaiearningsandpermabears",
   "bessentstepsinonbondsyieldsfallgoldandbitcoinrally",
   "wallstreetdriftsatthestartofaweekthatcouldswingstocksandbonds",
@@ -752,6 +752,8 @@
   "thedebasementtradeisback",
   "growthbroadensacrossindiaincwhatan8quarterearningsreviewrevealsaboutsectorsrisksandretur",
   "goldhits4620astreasurybuybacksreignitethedollardebasementtrade",
+  "bankofkorearatecallacointossaseconomistssplitonaugusthike",
+  "asianequitesshuntedloweratopeningsouthkoreaandjapanbothdown",
   "pbocisexpectedtosettheusdcnyreferencerateat67219reutersestimate",
   "goldholdsnearthree",
   "legendaryinvestordruckenmillersaystreasuryissuppressingthebondmarketswarningsignal",
@@ -774,7 +776,10 @@
   "trumponcanadasomeoneshouldgettheseclownstofallinline",
   "bessentsaysnooneisoutsidethereachofussanctionsoniranincludingchina",
   "bitcoincontinuestherunhigherandlookstowardswingareaandretracementtarget",
+  "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
+  "shellshelvesaphroditeoffshoregasprojectintrinidadsourcessay",
   "europeansharesclosemixedustechstockslags",
+  "tsxunchangeddespite11mininggainsweighedbytariffandoiluncertainty",
   "ussettoimposea75tariffonchinesegoods",
   "hedgefundsrampupdollarshortsaheadofbessentsfiscalplan",
   "sndkstocktodayaugust242026sandiskfalls7afterpromising75margins",
@@ -792,7 +797,6 @@
   "othereventstowatch5keythemessettodriveglobalmarketsthisweek",
   "theweeklyfingerelniñogoldsquietmissionsilverscomebackandtrumpsbondmarkettantrum",
   "ieasbirolnotdiscussingasecondreleaseofstrategicoilreserves",
-  "breakingviewsoilselevatedpricecouldyetbecomeafloor",
   "goldholdsnearthreemonthhighasdebasementtradereturns",
   "chipandairelatedstocksaregettinghitsendingthenasdaqindiceslower",
   "inflationbackinfocus5keythemessettodriveglobalmarketsthisweek",
@@ -807,7 +811,6 @@
   "looniedowninlatemorningtradingasusimposestariffsandtrumpthreatensmore",
   "americansrelationshipwithgaspricesiscomplicated",
   "usdchfstretcheshigherwithusdsellingbutfindswillingsellersagainsttechnicaltargets",
-  "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
   "whymarketsthinktheusiswinningtheblockade",
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
@@ -1148,9 +1151,6 @@
   "samsungelectronicsexpectsshareholderreturnsupto80billionthisyear",
   "iranianoilofferstochinesebuyersfallasusblockadebitessourcessaywnwn",
   "binancecryptopurchasesurgeunderscores46billioncompliancecostforpublicexchanges",
-  "usblockadepushesiranianoilpriceshigherinchinainternationalbusinesstimessingaporeedition",
-  "paschiofferstobuybpmbancageneralifor34billion",
-  "silvertests70andbreakskeyresistance",
-  "feelingblue"
+  "usblockadepushesiranianoilpriceshigherinchinainternationalbusinesstimessingaporeedition"
  ]
 }
