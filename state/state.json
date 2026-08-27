@@ -628,6 +628,14 @@
     "previous": ""
    },
    {
+    "title": "G20 Meetings",
+    "country": "All",
+    "date": "2026-08-29T11:15:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
     "title": "Jackson Hole Symposium",
     "country": "All",
     "date": "2026-08-29T12:15:00-04:00",
@@ -636,7 +644,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-08-27T23:38:58.611203+09:00",
+  "cache_at": "2026-08-27T23:47:02.372058+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -666,7 +674,7 @@
   "russianoilgiantlukoilhaltsallmainrefineriesafterukrainiandroneattacks",
   "alloflukoilsmajorrussianrefinerieshaltedafterdamage",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
-  "focuswallstbanksturnoneachotherascapitalfightnearsendgame",
+  "wallstbanksturnoneachotherascapitalfightnearsendgame",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "gulfstocksriseonhopesforrenewedusirandiplomacy",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
@@ -687,8 +695,8 @@
   "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
   "nvidianvdaq22027earningsresultsbeatrevenueandepsexpectations",
   "russias4thlargestoilrefineryhaltsprocessingafterdronestrike",
-  "globalgrainpricessoarasblackseasupplydisruptionseuropeanweatherextremesandmiddleeastriskscreateatriplethreat",
   "foreignministryreports55ukrainiansmissingafterfloodsinnepalandtibetrubryka",
+  "globalgrainpricessoarasblackseasupplydisruptionseuropeanweatherextremesandmiddleeastriskscreateatriplethreat",
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
   "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
   "oilextendslossesonhopesformiddleeasttalkstoeasesupplywoes",
@@ -717,14 +725,13 @@
   "watchtechstocksriseonnvidiasoutlookbokhikesratestheasiatrade8272026",
   "bitcoinrallystallsat80000astradersawaitinflationdata",
   "iraqoffersoiloutsidehormuzforfirsttimesincewarbegan",
-  "utahlabtestsoilfrackingtechniquesforgeothermalenergy",
   "germanyrunningshortofaicomputecapacityministersays",
   "copperclimbsfromrecordhighclosewithsupplystilltight",
-  "chinaweighsresponsetopossiblenextroundofustariffs",
-  "kuwaitandqataraddtogrowingoilflowsgettingthroughhormuz",
   "usaimstorevivecivilwareracourttoclaimiranoilasprize",
-  "spanishheistseesbronzeagegoldstoleninunderfourminutes",
+  "kuwaitandqataraddtogrowingoilflowsgettingthroughhormuz",
+  "chinaweighsresponsetopossiblenextroundofustariffs",
   "watchfwdceoonearningswealthsegment",
+  "spanishheistseesbronzeagegoldstoleninunderfourminutes",
   "whymarketsthinktheusiswinningtheblockade",
   "watchboksignalscautionaftersecondstraightratehikeinsightwithhaslindaamin8272026",
   "thefedsdollarpowercomeswithadiplomaticprice",
@@ -734,12 +741,12 @@
   "bojdeputychiefkeepsdooropentoseptemberrateincrease",
   "governmenttellsboetoboostinnovationindigitalcurrencies",
   "fxdailysnapshot",
-  "watchrescueeffortsongoingafterdeadlynepalflood",
   "howtheiranwarisdisruptingglobaloilandgassupply",
+  "watchrescueeffortsongoingafterdeadlynepalflood",
   "watchmetasettlessocialmedialawsuitfor18b",
   "optionsturnoversinksatindiastopexchangepreparingforipo",
-  "watchhundredsmissingafterdeadlynepalchinaflood",
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
+  "watchhundredsmissingafterdeadlynepalchinaflood",
   "huggingfaceunveils400singingskatingducklikerobot",
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "hormuzoilflowsrisingasgulfgiantsrampupaccelerates",
@@ -759,6 +766,7 @@
   "argentinalngseeksus15millioninfinancing",
   "tsxfallsnearly150pointsamidtradetensionsusmarketsalsonegative",
   "billackmansrulesforinvestinglikeamaverickhacksseason50cr3ivwe3w",
+  "danantarabetsus1bilonprivatecreditwithpartnersgroupbloomberg",
   "indianrefinerstodivertsugartolocalmarkettoeasecrunch",
   "sasolrefineryshutdowncurbsjohannesburgjetfuelsupply",
   "oilpricesfall2ashopesgrowforstraitofhormuzreopening",
@@ -789,6 +797,8 @@
   "putyourmoneytoworkthehalalwaydontinvestinjustpromises",
   "whatarethemaineventsfortoday",
   "fxoptionexpiriesfor27august10amnewyorkcut",
+  "utahlabtestsoilfrackingtechniquesforgeothermalenergy",
+  "focuswallstbanksturnoneachotherascapitalfightnearsendgame",
   "oilpricesextendlossesonexpectationstalkstoeasemiddleeastsupplywoesbyreuters",
   "watchdsccfozouonstrategyprofitability",
   "watchbraidwellskarnalonhowaicanimpactbioscience",
@@ -1153,8 +1163,6 @@
   "zoomstockfacesatwopartearningstestcoregrowthandanthropic",
   "goldlittlechangedwithusinflationdatainspotlight",
   "usexpandssanctionsonoilmogulsnetworkinirancrackdown",
-  "trumpbackedgrahamwinssouthcarolinarunoffddhqprojects",
-  "theaileaderscantbetrustedforaipredictions",
-  "dustattackonkrakenshowschallengeofpolicingcryptoflows"
+  "trumpbackedgrahamwinssouthcarolinarunoffddhqprojects"
  ]
 }
