@@ -769,7 +769,7 @@
     "date": "2026-09-03T05:03:00-04:00",
     "impact": "Low",
     "forecast": "",
-    "previous": ""
+    "previous": "3.54|2.4"
    },
    {
     "title": "French 10-y Bond Auction",
@@ -777,7 +777,7 @@
     "date": "2026-09-03T05:18:00-04:00",
     "impact": "Low",
     "forecast": "",
-    "previous": ""
+    "previous": "3.86|3.7"
    },
    {
     "title": "Challenger Job Cuts y/y",
@@ -866,6 +866,22 @@
     "impact": "Low",
     "forecast": "",
     "previous": "15B"
+   },
+   {
+    "title": "FOMC Member Hammack Speaks",
+    "country": "USD",
+    "date": "2026-09-03T15:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "date": "2026-09-03T15:05:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
    },
    {
     "title": "Household Spending y/y",
@@ -964,7 +980,7 @@
     "previous": "55.1"
    }
   ],
-  "cache_at": "2026-08-31T08:40:26.663533+09:00",
+  "cache_at": "2026-08-31T08:48:30.379190+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1006,8 +1022,8 @@
   "nepalfloodlatestlivenewsnewalertissuedforbhotekoshiriveramidwidespreaddeluge",
   "sectorampindustryperformance",
   "trumpsvenezuelaoilgrabreprisesindustrysneocolonialpast",
-  "bondinvestorswaryafterwarshfuelswagersthatfedispoisedtohike",
   "oiljumpsatweeksopenasusmilitaryhitsiranianlaunchers",
+  "bondinvestorswaryafterwarshfuelswagersthatfedispoisedtohike",
   "watchtheternuseraatapplebeginsbutcookisntleaving",
   "usjobsreportseenbackingwarshviewoflabormarket",
   "nepalracestofindmissingamidthreatsoffurtherflooding",
@@ -1017,10 +1033,9 @@
   "watchvenezuelaoildealraisesquestionsoverusrole",
   "watchauthorexplorescybersecurityrisksofdriverlesscars",
   "watchrepkrishnamoorthiwarnsiranwarweakensusinasia",
-  "watchpointedbloombergsweeklynewsquizforrisktakers",
   "trumpsoildealrilesbothsidesofvenezuelanpolitics",
+  "watchpointedbloombergsweeklynewsquizforrisktakers",
   "watchtrumpallysaysfedshouldholdratessteady",
-  "watchinsidethedangotefamilycorelessonsfromafricasrichestman",
   "trumpallysaysfedshouldholdratessteady",
   "watchhowyoutubefilmmakersarereshapinghollywoodstalentpipeline",
   "colombiaendstalkswithrebelsinblowtopetropeaceprocess",
@@ -1057,6 +1072,7 @@
   "theusdhasmovedhigheronmorehawkishfedchairwarsh",
   "fedswarshnumbersonpricestabilityaremoreconcerning",
   "univofmichiganfinalsentimentindexforaugust517vs510estimate",
+  "watchinsidethedangotefamilycorelessonsfromafricasrichestman",
   "watchicelandrejectsrestartingeumembershiptalks",
   "howwillwarshinfluencethetechnicalsforusdvssomeofthemajorcurrencies",
   "fedshammackitstimetoactwithratehikeswaitingwillcreatepain",
