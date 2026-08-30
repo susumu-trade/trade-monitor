@@ -964,7 +964,7 @@
     "previous": "55.1"
    }
   ],
-  "cache_at": "2026-08-30T22:21:01.140221+09:00",
+  "cache_at": "2026-08-30T22:29:06.753626+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -984,24 +984,25 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "gulfstocksfallasfedratehikebetsriseafterwarshremarks",
   "turkeysaudiarabiapakistantoholdfirstdefencepactmeetingsourcesays",
-  "venezuelasinterimpresidentsaysusenergydealwilllast25years",
-  "venezuelasaysitretainssovereigntyfollowingusoildeal",
   "europeancentralbankersfearusmovescouldjoltmarkets",
+  "venezuelasaysitretainssovereigntyfollowingusoildeal",
   "goldanduraniumrichnigershakenbyfreshcoupthreatassoldiersattackpresidency3yearsaftermilitarytakeover",
   "europeancentralbankersfearmoreuspolicyturbulencereutersreports",
   "trumpfoundanunusualsolutiontohisvenezuelaproblem",
-  "europescentralbankersfearmoreturbulenceintestyusrelations",
+  "venezuelasinterimpresidentsaysusenergydealwilllast25years",
   "japanwilluseblockchaintechnologyforstocksandbonds",
   "russiaisoneoftheworldstopoilproducerssowhyisitstillimportingpetrolfromindia",
-  "nepaltibetflooddeathtollhits750as3000remainmissing",
   "bessentsaysdisorderlyyenmovescandestabilizeglobalmarkets",
   "stillunknownwhatsreallybehindtrumpsbiggestoildealinworldhistory",
   "usnearsmassivedealforlongtermaccesstovenezuelanoilfieldsinsiderssay",
   "lukoilappsdisappearfromappstore",
+  "europescentralbankersfearmoreturbulenceintestyusrelations",
   "venezuelaoilproduction17keyfieldsforgrowth",
   "russiaextendsbanondieselexportsuntilseptember30",
   "ustotake35stakeinvenezuelanmogulbetancourtsoilventurewsjreports",
+  "nepaltibetflooddeathtollhits750as3000remainmissing",
   "trumpsaysusistakingpartialcontrolofvenezuelasvastoilreserves",
   "evencubasstraycatsarefeelingtheheatascrisisdeepens",
   "nepalfloodlatestlivenewsnewalertissuedforbhotekoshiriveramidwidespreaddeluge",
@@ -1018,6 +1019,7 @@
   "colombiaendstalkswithrebelsinblowtopetropeaceprocess",
   "watchwarshsaysinflationisntslowingvowstoreach2target",
   "atanepalhospitalhopeslowlyfadesdaysaftercatastrophe",
+  "watcha2000sweaterrevealsfashionstruecost",
   "fuelpricessurgeaspetrolmarketersraisepumppricesacrossnigeria",
   "investingliveamericasfxnewswrap28aug",
   "usstocksdontliketheratehiketiltcloselowerontheday",
@@ -1044,7 +1046,6 @@
   "eurozoneeconomicsentimentseesrecoveryextendinaugust",
   "usdjpyextendsgainsasfocusturnstofedchairwarshsspeech",
   "noguidancefromjacksonhole",
-  "watcha2000sweaterrevealsfashionstruecost",
   "kazakhstansoiloutputplummetsafterdroneattacksforcedexportingterminalclosuresourcessay",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "rivalfactionsstandoffinnigercapitalaftermutineersattackairportpresidency",
@@ -1482,7 +1483,6 @@
   "this700000audishowswhyrichcarbuyerslovehybrids",
   "putinmovestoescalatewarinukraineastalksatdeadend",
   "indexproviderstheimportanceofbeingearnest",
-  "watchgradingvalueofhighedrealestatekleinman",
-  "afternvidiaconfirmstheaiboomisalivecybersecuritystocksarerippinghigher"
+  "watchgradingvalueofhighedrealestatekleinman"
  ]
 }
