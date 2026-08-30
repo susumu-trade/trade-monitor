@@ -964,7 +964,7 @@
     "previous": "55.1"
    }
   ],
-  "cache_at": "2026-08-31T05:15:50.492172+09:00",
+  "cache_at": "2026-08-31T05:23:54.521461+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -984,19 +984,18 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "gulfstocksfallasfedratehikebetsriseafterwarshremarks",
-  "darblendcrudeoilreturnstothemarinefuelsmarket",
   "ustotake35stakeinvenezuelanmogulbetancourtsoilventurewsjreports",
-  "venezuelasaysitretainssovereigntyfollowingusoildeal",
+  "darblendcrudeoilreturnstothemarinefuelsmarket",
+  "europeancentralbankersunnervedbytestyusties",
+  "turkeysaudiarabiapakistantoholdfirstdefencepactmeetingsourcesays",
   "europeancentralbankersfearusmovescouldjoltmarkets",
   "europeancentralbankersfearmoreusturmoil",
-  "goldanduraniumrichnigershakenbyfreshcoupthreatassoldiersattackpresidency3yearsaftermilitarytakeover",
-  "turkeysaudiarabiapakistantoholdfirstdefencepactmeetingsourcesays",
   "ukrainedefencechiefpledgesclearwarplantowinearlyloanrelease",
-  "russiaisoneoftheworldstopoilproducerssowhyisitstillimportingpetrolfromindia",
-  "nepaltibetflooddeathtollhits750as3000remainmissing",
-  "europescentralbankersfearmoreturbulenceintestyusrelations",
   "venezuelasinterimpresidentsaysusenergydealwilllast25years",
+  "venezuelasaysitretainssovereigntyfollowingusoildeal",
+  "goldanduraniumrichnigershakenbyfreshcoupthreatassoldiersattackpresidency3yearsaftermilitarytakeover",
+  "russiaisoneoftheworldstopoilproducerssowhyisitstillimportingpetrolfromindia",
+  "gulfstocksfallasfedratehikebetsriseafterwarshremarks",
   "trumpsaysuswillrefillstrategicpetroleumreserveusingvenezuelanoil",
   "nepalfloodlatestlivenewsnewalertissuedforbhotekoshiriveramidwidespreaddeluge",
   "nigersaysitregainscontrolofairbaseaftersoldiersmutiny",
@@ -1026,6 +1025,7 @@
   "fuelpricessurgeaspetrolmarketersraisepumppricesacrossnigeria",
   "mondayopenindicativeforexprices31august2026",
   "usforceshavestrucktwoiranianlaunchersnearstraitofhormuz",
+  "economicandeventcalendarinasia31august2026",
   "investingliveamericasfxnewswrap28aug",
   "usstocksdontliketheratehiketiltcloselowerontheday",
   "audusdcorrectslowerbutkeepsbullishbiasthe200hourmaiseyedasakeybarometernow",
@@ -1048,6 +1048,8 @@
   "investingliveeuropeanmarketswrapamorepensivemoodinrunuptojacksonholenext",
   "goldstayslockedinaheadofwarshsjacksonholespeech",
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
+  "nepaltibetflooddeathtollhits750as3000remainmissing",
+  "europescentralbankersfearmoreturbulenceintestyusrelations",
   "eurozoneeconomicsentimentseesrecoveryextendinaugust",
   "usdjpyextendsgainsasfocusturnstofedchairwarshsspeech",
   "livetvschedule",
@@ -1056,7 +1058,6 @@
   "nepalwarnsofmorefloodsasrescueeffortsriskdisruption",
   "trumpsaysusistakingpartialcontrolofvenezuelasvastoilreserves",
   "nomurastrategicincomefundq22026commentary",
-  "europeancentralbankersunnervedbytestyusties",
   "europeancentralbankersfearmoreuspolicyturbulencereutersreports",
   "bessentsaysdisorderlyyenmovescandestabilizeglobalmarkets",
   "markets",
@@ -1482,7 +1483,6 @@
   "ukbusinessconfidencerisestofive",
   "japanaugust2026tokyoheadlinecpi19expected19prior2",
   "nzconsumerconfidenceholdsnearflatashouseholdsbraceforrbnzdecision",
-  "wsjreportnvidiapausesaicloudrevenuesharedealsamidantitrustandcontrolconcerns",
-  "iransaysitispreparinglistofconditionsforreopeningstraitofhormuz"
+  "wsjreportnvidiapausesaicloudrevenuesharedealsamidantitrustandcontrolconcerns"
  ]
 }
