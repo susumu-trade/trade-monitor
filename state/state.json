@@ -964,7 +964,7 @@
     "previous": "55.1"
    }
   ],
-  "cache_at": "2026-08-31T00:53:02.199388+09:00",
+  "cache_at": "2026-08-31T01:05:06.623937+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -984,19 +984,22 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "turkeysaudiarabiapakistantoholdfirstdefencepactmeetingsourcesays",
-  "markets",
   "gulfstocksfallasfedratehikebetsriseafterwarshremarks",
+  "markets",
+  "turkeysaudiarabiapakistantoholdfirstdefencepactmeetingsourcesays",
   "venezuelasaysitretainssovereigntyfollowingusoildeal",
   "europeancentralbankersfearusmovescouldjoltmarkets",
   "europeancentralbankersfearmoreuspolicyturbulencereutersreports",
+  "europeancentralbankersfearmoreusturmoil",
   "goldanduraniumrichnigershakenbyfreshcoupthreatassoldiersattackpresidency3yearsaftermilitarytakeover",
-  "ukrainedefencechiefpledgesclearwarplantowinearlyloanrelease",
   "europescentralbankersfearmoreturbulenceintestyusrelations",
+  "ukrainedefencechiefpledgesclearwarplantowinearlyloanrelease",
   "russiaisoneoftheworldstopoilproducerssowhyisitstillimportingpetrolfromindia",
+  "nepaltibetflooddeathtollhits750as3000remainmissing",
   "bessentsaysdisorderlyyenmovescandestabilizeglobalmarkets",
-  "lukoilappsdisappearfromappstore",
+  "usnearsmassivedealforlongtermaccesstovenezuelanoilfieldsinsiderssay",
   "venezuelasinterimpresidentsaysusenergydealwilllast25years",
+  "trumpsaysusistakingpartialcontrolofvenezuelasvastoilreserves",
   "ustotake35stakeinvenezuelanmogulbetancourtsoilventurewsjreports",
   "nepalfloodlatestlivenewsnewalertissuedforbhotekoshiriveramidwidespreaddeluge",
   "nigersaysitregainscontrolofairbaseaftersoldiersmutiny",
@@ -1006,6 +1009,7 @@
   "watchinsidethedangotefamilycorelessonsfromafricasrichestman",
   "watchvenezuelaoildealraisesquestionsoverusrole",
   "watchtrumpallysaysfedshouldholdratessteady",
+  "watchhowyoutubefilmmakersarereshapinghollywoodstalentpipeline",
   "watchicelandrejectsrestartingeumembershiptalks",
   "trumpsoildealrilesbothsidesofvenezuelanpolitics",
   "colombiaendstalkswithrebelsinblowtopetropeaceprocess",
@@ -1015,6 +1019,7 @@
   "stocksclimbasnvidialiftsaisentimentweeklymarketrecap",
   "hdfcbankfacesultimateinvestortestonnewceohunttomendgovernance",
   "defensiveconsumerstocksdeliverrobustperformanceamidstronginstitutionalinflows",
+  "nairamaintainsweeklonggainsagainstusdasnigeriasfxreserveshit533bn",
   "fuelpricessurgeaspetrolmarketersraisepumppricesacrossnigeria",
   "investingliveamericasfxnewswrap28aug",
   "usstocksdontliketheratehiketiltcloselowerontheday",
@@ -1041,9 +1046,7 @@
   "eurozoneeconomicsentimentseesrecoveryextendinaugust",
   "usdjpyextendsgainsasfocusturnstofedchairwarshsspeech",
   "noguidancefromjacksonhole",
-  "europeancentralbankersfearmoreusturmoil",
-  "usnearsmassivedealforlongtermaccesstovenezuelanoilfieldsinsiderssay",
-  "trumpsaysusistakingpartialcontrolofvenezuelasvastoilreserves",
+  "lukoilappsdisappearfromappstore",
   "burnhamfaceshurdlesbringingukasylumsystemunderpubliccontrolbloomberg",
   "metastockslidesaheadofq2earningsasaispendingadgrowthstayinfocus",
   "atanepalhospitalhopeslowlyfadesdaysaftercatastrophe",
@@ -1052,7 +1055,6 @@
   "russiaextendsbanondieselexportsuntilseptember30",
   "stillunknownwhatsreallybehindtrumpsbiggestoildealinworldhistory",
   "venezuelaoilproduction17keyfieldsforgrowth",
-  "nepaltibetflooddeathtollhits750as3000remainmissing",
   "trumpfoundanunusualsolutiontohisvenezuelaproblem",
   "japanwilluseblockchaintechnologyforstocksandbonds",
   "stablecoinsfacenewbiswarningoverlargescalepaymentuse",
@@ -1481,8 +1483,6 @@
   "billionaireagarwalsvedantaplansthirdrupeebondthisyear",
   "kalshiweatheroddsarecomingtoaweatherappnearyou",
   "australiapmalbanesehasaskedtreasurytomodelataxonwindfallgasprofitsabcreports",
-  "fedscollinsabsentnewtariffandoilshocksthereisreasontobelieveinflationwillease",
-  "oilpricesfall2ashopesgrowforstraitofhormuzreopening",
-  "aftersixmonthstheiranwarhasreacheditsendgameacostlystalemate"
+  "fedscollinsabsentnewtariffandoilshocksthereisreasontobelieveinflationwillease"
  ]
 }
