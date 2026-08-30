@@ -964,7 +964,7 @@
     "previous": "55.1"
    }
   ],
-  "cache_at": "2026-08-31T08:28:22.395259+09:00",
+  "cache_at": "2026-08-31T08:40:26.663533+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -984,28 +984,30 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "gulfstocksfallasfedratehikebetsriseafterwarshremarks",
+  "petrochinah1profitjumps22fuelsalesfallaschinademandweakens",
   "darblendcrudeoilreturnstothemarinefuelsmarket",
   "bessentsaysyenmovesprettycontainedandnotdisorderly",
-  "turkeysaudiarabiapakistantoholdfirstdefencepactmeetingsourcesays",
+  "gulfstocksfallasfedratehikebetsriseafterwarshremarks",
+  "nigersaysitregainscontrolofairbaseaftersoldiersmutiny",
   "venezuelasaysitretainssovereigntyfollowingusoildeal",
   "europeancentralbankersfearusmovescouldjoltmarkets",
   "europeancentralbankersfearmoreusturmoil",
   "goldanduraniumrichnigershakenbyfreshcoupthreatassoldiersattackpresidency3yearsaftermilitarytakeover",
+  "turkeysaudiarabiapakistantoholdfirstdefencepactmeetingsourcesays",
   "goldstwofrontbattleaghanaianpaymentsqueezecompoundsthefedshawkishshadow",
-  "europescentralbankersfearmoreturbulenceintestyusrelations",
   "ukrainedefencechiefpledgesclearwarplantowinearlyloanrelease",
   "russiaisoneoftheworldstopoilproducerssowhyisitstillimportingpetrolfromindia",
   "istanbultohostfirstcommitteemeetingofturkeysaudipakistandefencealliancereport",
+  "indiashdfcbankweighingdeputymdbharuchaoutsiderforceosourcessay",
+  "europescentralbankersfearmoreturbulenceintestyusrelations",
   "venezuelasinterimpresidentsaysusenergydealwilllast25years",
   "ustotake35stakeinvenezuelanmogulbetancourtsoilventurewsjreports",
   "trumpsaysuswillrefillstrategicpetroleumreserveusingvenezuelanoil",
   "nepalfloodlatestlivenewsnewalertissuedforbhotekoshiriveramidwidespreaddeluge",
-  "nigersaysitregainscontrolofairbaseaftersoldiersmutiny",
   "sectorampindustryperformance",
   "trumpsvenezuelaoilgrabreprisesindustrysneocolonialpast",
-  "oiljumpsatweeksopenasusmilitaryhitsiranianlaunchers",
   "bondinvestorswaryafterwarshfuelswagersthatfedispoisedtohike",
+  "oiljumpsatweeksopenasusmilitaryhitsiranianlaunchers",
   "watchtheternuseraatapplebeginsbutcookisntleaving",
   "usjobsreportseenbackingwarshviewoflabormarket",
   "nepalracestofindmissingamidthreatsoffurtherflooding",
@@ -1021,7 +1023,6 @@
   "watchinsidethedangotefamilycorelessonsfromafricasrichestman",
   "trumpallysaysfedshouldholdratessteady",
   "watchhowyoutubefilmmakersarereshapinghollywoodstalentpipeline",
-  "watchicelandrejectsrestartingeumembershiptalks",
   "colombiaendstalkswithrebelsinblowtopetropeaceprocess",
   "americancenturyshortdurationinflationprotectionbondq22026commentaryapoix",
   "stocksclimbasnvidialiftsaisentimentweeklymarketrecap",
@@ -1031,6 +1032,7 @@
   "nairamaintainsweeklonggainsagainstusdasnigeriasfxreserveshit533bn",
   "nomoren1250nnpcotherfillingstationsincreasepetrolprices",
   "fuelpricessurgeaspetrolmarketersraisepumppricesacrossnigeria",
+  "previewpathofleastresistanceasbexpectsconsensusrbnzhikethisweek",
   "morefrombessentpressesg20toconfrontchinas12trilliontradesurplus",
   "bessentsaysyenslideiscontainedbacksuedaaheadofg20talks",
   "reservebankofnewzealandshadowboardsplitmostback25bpratehikethisweek",
@@ -1055,6 +1057,7 @@
   "theusdhasmovedhigheronmorehawkishfedchairwarsh",
   "fedswarshnumbersonpricestabilityaremoreconcerning",
   "univofmichiganfinalsentimentindexforaugust517vs510estimate",
+  "watchicelandrejectsrestartingeumembershiptalks",
   "howwillwarshinfluencethetechnicalsforusdvssomeofthemajorcurrencies",
   "fedshammackitstimetoactwithratehikeswaitingwillcreatepain",
   "nepaltibetflooddeathtollhits750as3000remainmissing",
@@ -1113,7 +1116,6 @@
   "priceshockisboonforoilstockscurseforrenewables",
   "iranwarspursasurgeinstocksalesfromusshalecompanies",
   "oilpricesriseforafifthdayonsupplyconcernsamidchokepointthreats",
-  "indiashdfcbankweighingdeputymdbharuchaoutsiderforceosourcessay",
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
   "whymarketsthinktheusiswinningtheblockade",
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
@@ -1481,8 +1483,6 @@
   "chinaweighsresponsetopossiblenextroundofustariffs",
   "risingnatgaspriceswinteroutlook",
   "germanyrunningshortofaicomputecapacityministersays",
-  "regimeshiftbitcoinandthereturnofthedebasementtrade",
-  "goldawaitswarshsjacksonholespeech",
-  "bojdeputychiefkeepsdooropentoseptemberrateincrease"
+  "regimeshiftbitcoinandthereturnofthedebasementtrade"
  ]
 }
