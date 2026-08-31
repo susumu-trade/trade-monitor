@@ -980,7 +980,7 @@
     "previous": "55.1"
    }
   ],
-  "cache_at": "2026-08-31T11:02:02.622391+09:00",
+  "cache_at": "2026-08-31T11:10:07.000605+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1000,25 +1000,26 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "petrochinah1profitjumps22fuelsalesfallaschinademandweakens",
+  "ustreasurysbessentfacesg20diplomacytestamidtariffsiranwarbondturmoil",
   "mojtabakhameneiurgesgulfstatestouniteagainstusandisrael24outletscompared",
   "darblendcrudeoilreturnstothemarinefuelsmarket",
   "bessentsaysyenmovesprettycontainedandnotdisorderly",
-  "gulfstocksfallasfedratehikebetsriseafterwarshremarks",
+  "petrochinah1profitjumps22fuelsalesfallaschinademandweakens",
   "globalmarketssharesskidinasiaasoilyieldsstayhigh",
   "venezuelasaysitretainssovereigntyfollowingusoildeal",
   "europeancentralbankersfearmoreusturmoil",
+  "gulfstocksfallasfedratehikebetsriseafterwarshremarks",
   "usforcesstriketwoiranianlaunchersoniranslarakislandusofficialsays",
   "goldanduraniumrichnigershakenbyfreshcoupthreatassoldiersattackpresidency3yearsaftermilitarytakeover",
-  "turkeysaudiarabiapakistantoholdfirstdefencepactmeetingsourcesays",
-  "goldstwofrontbattleaghanaianpaymentsqueezecompoundsthefedshawkishshadow",
   "oiljumpsmorethan1afterusattackoniranslarakislandmoneynews",
   "sharesskidinasiaasoilyieldsstayhigh",
   "oiljumpsmorethan2afterusattackoniranslarakisland",
+  "turkeysaudiarabiapakistantoholdfirstdefencepactmeetingsourcesays",
   "breakingviewscommentarymerzmacronyuanfocusgetschinabackwards",
   "indiashdfcbankweighingdeputymdbharuchaoutsiderforceosourcessay",
   "europescentralbankersfearmoreturbulenceintestyusrelations",
   "venezuelasinterimpresidentsaysusenergydealwilllast25years",
+  "goldstwofrontbattleaghanaianpaymentsqueezecompoundsthefedshawkishshadow",
   "ukrainedefencechiefpledgesclearwarplantowinearlyloanrelease",
   "russiaisoneoftheworldstopoilproducerssowhyisitstillimportingpetrolfromindia",
   "istanbultohostfirstcommitteemeetingofturkeysaudipakistandefencealliancereport",
@@ -1498,7 +1499,6 @@
   "oilextendslossesonhopesmiddleeasttalkscouldeasesupplywoes",
   "usnaturalgassupplyoutlookhingesonthreekeyshalebasinsmaguire",
   "earlyeditionaugust272026",
-  "sixconsequencesaftersixmonthsofwariniranal",
-  "oilpricesfallamidexpectationsoftalksbetweeniranandqatarreuters"
+  "sixconsequencesaftersixmonthsofwariniranal"
  ]
 }
