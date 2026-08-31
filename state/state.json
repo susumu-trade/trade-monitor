@@ -980,7 +980,7 @@
     "previous": "55.1"
    }
   ],
-  "cache_at": "2026-08-31T19:22:41.673310+09:00",
+  "cache_at": "2026-08-31T19:30:46.105849+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1000,22 +1000,23 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "depletedusoilstashlosespotencyasiranwargrindson",
   "oilrisesover3asusiranresumesmilitaryattacks",
-  "asiasdieselexportstoafricajumpinaugustreplacemideastsupplydatashows",
   "oilpricesjumpmorethan1afterusstrike",
   "mojtabakhameneiurgesgulfstatestouniteagainstusandisrael24outletscompared",
   "darblendcrudeoilreturnstothemarinefuelsmarket",
+  "asiasdieselexportstoafricajumpinaugustreplacemideastsupplydatashows",
   "analysistoyotaandhondamaygetstuckwiththebillfortrumpscanadatariffs",
-  "trumpsaysiranskhargisbeingblowntosmithereensbutgivesnodetails",
   "g20usjobsdataratedecisions5keyglobalmarkettriggersthisweek",
   "presidenttinubuseconomicreformsnigeriasstruggletoturnsacrificeintoprogress",
   "takefivesummersoverbuckleup",
   "nigeriain1mineconomicbusinessandfinancialmarketheadlines310826",
   "scottbessentsaysyenmovesprettycontainedandnotdisorderly",
+  "trumpsaysiranskhargisbeingblowntosmithereensbutgivesnodetails",
   "bessentsaysyenmovesprettycontainedandnotdisorderly",
-  "depletedusoilstashlosespotencyasiranwargrindson",
   "stockscautiousonusiranescalationbondyieldshitmultiyearhighs",
   "venezuelasinterimpresidentsaysusenergydealwilllast25years",
+  "irandismissestrumpspostofattackonkeyenergyhubofkharg",
   "nigersaysitregainscontrolofairbaseaftersoldiersmutiny",
   "petrochinafirsthalfearningsstorywithdrawn",
   "shareseaseinasiaasoilclimbsyieldsstayhigh",
@@ -1026,8 +1027,8 @@
   "ussaysithasmissiledestroyersingulfandtwoamericanshipshavecrossedstrait",
   "usforcesstriketwoiranianlaunchersoniranslarakislandusofficialsays",
   "oiljumpsmorethan1afterusattackoniranslarakisland",
-  "turkeysaudiarabiapakistantoholdfirstdefensepactmeetingsourcesays",
   "ustakingpartialcontrolofvenezuelasoilreserves",
+  "turkeysaudiarabiapakistantoholdfirstdefensepactmeetingsourcesays",
   "goldstwofrontbattleaghanaianpaymentsqueezecompoundsthefedshawkishshadow",
   "ukrainedefencechiefpledgesclearwarplantowinearlyloanrelease",
   "indiansharessetforcautiousstartmscirejighdfcbankinfocus",
@@ -1050,8 +1051,8 @@
   "oilrisesonirantensionsusstockfuturesdipmarketswrap",
   "asianrefinersturntoargentinaasiranwardisruptsoilsupply",
   "chinadividendstocksreach11yearhighatexpenseofweaktech",
-  "watchtheternuseraatapplebeginsbutcookisntleaving",
   "goldbullsturntoexoticoptionsspreadsinorderlyrally",
+  "watchtheternuseraatapplebeginsbutcookisntleaving",
   "usjobsreportseenbackingwarshviewoflabormarket",
   "youtubestarmarkiplierisnowgoproslargestshareholder",
   "nepalracestofindmissingamidthreatsoffurtherflooding",
@@ -1066,6 +1067,7 @@
   "dangoteraisespetrolgantryprice3timesin9daysdepotpricesheadton1300",
   "nomoren1250nnpcotherfillingstationsincreasepetrolprices",
   "fuelpricessurgeaspetrolmarketersraisepumppricesacrossnigeria",
+  "thisgoldanalysismaybeshowingnewgoldbuyerscomingintoday",
   "ifxexpoasia2026hongkongsettowelcome5000globaltradingandfintechprofessionalsthisoctober",
   "aifofundinglaunchesproptradingindustrysfirstaitradingcoach",
   "golderasesmostofthetreasuryledgainsasfedchairwarshretightensfinancialconditions",
@@ -1091,7 +1093,6 @@
   "bofasayswarshsjacksonholespeechraisespressureforseptemberhike",
   "chinafactoryactivitybeatsforecastsbutstaysincontractioninaugust",
   "australianinventorydataforq2willbeadragongdpgrowth",
-  "irandismissestrumpspostofattackonkeyenergyhubofkharg",
   "turkeysaudiarabiapakistantoholdfirstdefencepactmeetingsourcesays",
   "ustreasurysbessentfacesg20diplomacytestamidtariffsiranwarbondturmoil",
   "chinaofficialaugustmanufacturingpmi498expected497prior492",
@@ -1498,7 +1499,6 @@
   "howradiantworldsprincehasbankschasingfakeinvoices",
   "cryptoofferingsexemptionmeetsrealityofwaningdemand",
   "bnyinvestmentexpertiseatthetablesummer2026",
-  "usstocksdriftafterexpectationsriseforthefedtohikeratestogetinflationundercontrol",
-  "frombarrelstobushelsandbullionasscarcitybroadensthecommodityrally"
+  "usstocksdriftafterexpectationsriseforthefedtohikeratestogetinflationundercontrol"
  ]
 }
