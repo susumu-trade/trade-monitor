@@ -988,7 +988,7 @@
     "previous": "55.1"
    }
   ],
-  "cache_at": "2026-09-01T18:09:39.067302+09:00",
+  "cache_at": "2026-09-01T18:18:16.942732+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1008,7 +1008,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "eurozoneaugustpreliminarycpi33vs33yyexpected",
+  "euroareainflationclimbsabove3inaugustonhigherenergyprices",
   "ukmortgageborrowingslowsinjulythoughconsumerborrowingcontinuestoholdup",
   "euroareafactorygrowthcontinuestoexpandinaugustdrivenbygermany",
   "usdjpycontinuestotestthewatersatthe160mark",
@@ -1033,6 +1033,7 @@
   "japanfinminkatayamaandbessentaffirmneedfororderlyyenmoves",
   "chinaprivatepmibeatsforecastlongestupturninfiveyearsaudsupport",
   "chinadataratingdogmanufacturingpmiaugust2026515vsexpected509prior509",
+  "eurozoneaugustpreliminarycpi33vs33yyexpected",
   "tdsecuritiesseesgoldriskto4200nearterm5350targetby2027",
   "ubssays3reasonsthevenezuelaoildealwontmovepricesmuchhormuzstillkey",
   "japanmanufacturingpmihits549asneworderssurgemostsince2018",
@@ -1506,7 +1507,6 @@
   "polymarketpredictiondataentersmainstreamwithbloombergterminalintegration",
   "economicsweekahead",
   "trumpteleprompterpays170000toendinsidertradingprobe",
-  "trumpannouncessweepingusgrabforcontrolofvenezuelasvastoilreserves",
-  "hondanissantoreachdealonjointdevelopmentofvehiclesoftwarenikkeireports"
+  "trumpannouncessweepingusgrabforcontrolofvenezuelasvastoilreserves"
  ]
 }
