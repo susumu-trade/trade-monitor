@@ -988,7 +988,7 @@
     "previous": "55.1"
    }
   ],
-  "cache_at": "2026-09-01T17:35:18.804257+09:00",
+  "cache_at": "2026-09-01T17:48:07.966667+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1008,6 +1008,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "ukmortgageborrowingslowsinjulythoughconsumerborrowingcontinuestoholdup",
   "euroareafactorygrowthcontinuestoexpandinaugustdrivenbygermany",
   "usdjpycontinuestotestthewatersatthe160mark",
   "masterthemomentglobalbrokerfisgappointsfootballlegendandrésiniestaasglobalbrandexperienceofficer",
@@ -1506,7 +1507,6 @@
   "trumpannouncessweepingusgrabforcontrolofvenezuelasvastoilreserves",
   "hondanissantoreachdealonjointdevelopmentofvehiclesoftwarenikkeireports",
   "bitwisesolanaetfclocks1billionmilestonesolpriceeyes120",
-  "bitwisesolanaetfsurpasses1billionaumsolpricerises",
-  "watchthreefinanceministersonavoidingdebtcrises"
+  "bitwisesolanaetfsurpasses1billionaumsolpricerises"
  ]
 }
