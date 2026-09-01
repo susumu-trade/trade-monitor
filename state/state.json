@@ -988,7 +988,7 @@
     "previous": "55.1"
    }
   ],
-  "cache_at": "2026-09-01T17:26:44.592047+09:00",
+  "cache_at": "2026-09-01T17:35:18.804257+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1010,8 +1010,10 @@
  "news_seen2": [
   "euroareafactorygrowthcontinuestoexpandinaugustdrivenbygermany",
   "usdjpycontinuestotestthewatersatthe160mark",
+  "masterthemomentglobalbrokerfisgappointsfootballlegendandrésiniestaasglobalbrandexperienceofficer",
   "francemanufacturingconfirmedtopickupalittleinaugust",
   "stockmoverstowatchtodaypcgandeixplungeasrblxcrwdtslaandslbrallynotableearningsreporterslatertoday",
+  "ukaugustfinalmanufacturingpmi517vs515prelim",
   "germanyaugustfinalmanufacturingpmi543vs541prelim",
   "italyaugustmanufacturingpmi496vs513expected",
   "spainmanufacturingfallsbackintocontractioninaugust",
@@ -1034,7 +1036,6 @@
   "newreportshowsscaleofchinasstatebackedequitymarketsupportstatecapitalandbuybacks",
   "pbocisexpectedtosettheusdcnyreferencerateat67170reutersestimate",
   "eurozoneaugustfinalmanufacturingpmi527vs528prelim",
-  "masterthemomentglobalbrokerfisgappointsfootballlegendandrésiniestaasglobalbrandexperienceofficer",
   "oilpricesriseaslatestfightingresurrectsmiddleeastsupplydisruptionrisks",
   "yieldsriseoiljumpsusandiranresumemilitaryattacks",
   "lngexportsthoughhormuzremainstalledevenasoilflowsrebound",
@@ -1506,7 +1507,6 @@
   "hondanissantoreachdealonjointdevelopmentofvehiclesoftwarenikkeireports",
   "bitwisesolanaetfclocks1billionmilestonesolpriceeyes120",
   "bitwisesolanaetfsurpasses1billionaumsolpricerises",
-  "watchthreefinanceministersonavoidingdebtcrises",
-  "trumpsaysvenezueladealwillgiveusstakein65billionbarrelsofoil"
+  "watchthreefinanceministersonavoidingdebtcrises"
  ]
 }
