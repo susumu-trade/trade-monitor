@@ -991,7 +991,7 @@
     "previous": "55.1"
    }
   ],
-  "cache_at": "2026-09-01T23:06:51.175107+09:00",
+  "cache_at": "2026-09-01T23:14:55.342730+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1012,10 +1012,11 @@
  },
  "news_seen2": [
   "bondselloffdeepensandstocksdropasoilpricesstokeinflationfears",
-  "blockadesucceedswheresanctionsfailedasiranoilexportsstall",
   "oilrisesasrenewedusiranstrikesstokesupplyfearsbyreuters",
+  "blockadesucceedswheresanctionsfailedasiranoilexportsstall",
   "russiasgrainescapetobalticraisesnewrisksforglobalwheatmarkets",
   "theuswillgaincontrolofrussianandchineseoilfieldsinvenezuelareuters",
+  "oilpricesriseasmiddleeastsupplyrisksreturn",
   "deadlyfloodstestnepalshydropowerambitions",
   "oilproductioninrussiawillfalltoa17yearlowreuters",
   "oilupmorethan2asrenewedusiranstrikesstokesupplyfears",
@@ -1029,8 +1030,6 @@
   "depletedusoilstashlosespotencyasiranwargrindson",
   "bessenttoldrussianministernoeconomicreliefuntilukrainewarendssourcesays",
   "firmsincludingchevronongcgevernovaontracktosignfinalpactsinvenezuelasourcessay",
-  "trumpvowstohitiranhardafterfirstexchangesoffireinamonth",
-  "oilpricesriseasmiddleeastsupplyrisksreturn",
   "bondselloffpressuresstocksasoilcrosses91abarrel",
   "oilsettlesupbymorethan25asusandiranresumemilitaryattacks",
   "saudiarabiaturkeyandpakistanagreetoestablishsecretariatunderjointdefencepact",
@@ -1061,19 +1060,18 @@
   "underusvenezuelaoildealsomechineseandrussianoperatorsloseoutofficialssay",
   "hormuzhostilitiespickupastwotankersreportedlystruck",
   "baiducfohenryheonhkprimarylisting",
-  "globalbondselloffsendsyieldstothehighestlevelsince2008",
   "binanceoffersaccesstooptionstiedtousstocksetfs",
   "goldholdsdeclineasmideastflareupraisesfedratehikebets",
   "yensbreachof160todollarputstradersoninterventionwatchjpyusd",
-  "watchelliottissaidtotakestakeinindustrialgassupplierairliquide",
+  "globalbondselloffsendsyieldstothehighestlevelsince2008",
   "japansfinancechiefplaysdownbessentsbojratehikepush",
   "informationtechnologysectorampindustryperformance",
   "asiarefinersscoopupargentineoilasiranwarhitssupply",
   "oilextendsadvanceasusiranescalationreviveshormuzrisks",
   "watchenergymarketscoldwinterputseuropeatriskofgassupplyshortagesaxobanksays",
   "japansfailedyeninterventionleavesbullsincontrolforecastasof01092026",
+  "watchelliottissaidtotakestakeinindustrialgassupplierairliquide",
   "howcookinggasbecameabarometerfortheiranwarsenergyshock",
-  "asianstockstofallasiranflareupboostsoilmarketswrap",
   "goldsteadiesaftertumblingaswarshspursfedratehikebets",
   "priceshockisboonforoilstockscurseforrenewables",
   "polymarketfundingledby1789valuesfirmat21billion",
@@ -1112,6 +1110,7 @@
   "bloombergtheuscannotfind100billionforanoildealwithvenezuela",
   "cryptoetfsbtcethsolxrpetfsrecord5billionininflows",
   "warshraisesthestakesfedchairsspeechincreaseshikeprobabilityusemploymentdataonthehorizonlunaroweeklyreport",
+  "joltsjobopenings7271mvs7300mestimate",
   "spglobalmanufacturingpmifinalforaugust539versus532preliminary",
   "fedsbarrinflationremainstoohighifinflationdoesnotmoderatesoonwillbetimeforahike",
   "ecbsnageldespitethemiddleeasttheglobaleconomyremainsinagrowthtrajectory",
@@ -1136,6 +1135,8 @@
   "germanyretailsalesslumpheavilyinjulyafterendoffueldiscounts",
   "ukhousepricesnudgeupalittleinaugustoverallactivitystaysmoretepidthough",
   "fxoptionexpiriesfor1september10amnewyorkcut",
+  "asianstockstofallasiranflareupboostsoilmarketswrap",
+  "trumpvowstohitiranhardafterfirstexchangesoffireinamonth",
   "ethusdanalysistodayethbullsleadabove247770",
   "fedsbarropentoratehikeifinflationdoesnotmoderate",
   "us30yearbondentersseptemberonworststretchsince2006",
@@ -1509,7 +1510,6 @@
   "mutinoussoldiersattackairportandpresidentialpalaceinnigercapital",
   "russiaextendsbanondieselexportsuntilseptember30",
   "stillunknownwhatsreallybehindtrumpsbiggestoildealinworldhistory",
-  "venezuelaoilproduction17keyfieldsforgrowth",
-  "trumpfoundanunusualsolutiontohisvenezuelaproblem"
+  "venezuelaoilproduction17keyfieldsforgrowth"
  ]
 }
