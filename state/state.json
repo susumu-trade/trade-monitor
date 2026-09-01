@@ -988,7 +988,7 @@
     "previous": "55.1"
    }
   ],
-  "cache_at": "2026-09-01T17:56:42.423139+09:00",
+  "cache_at": "2026-09-01T18:09:39.067302+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1008,12 +1008,14 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "eurozoneaugustpreliminarycpi33vs33yyexpected",
   "ukmortgageborrowingslowsinjulythoughconsumerborrowingcontinuestoholdup",
   "euroareafactorygrowthcontinuestoexpandinaugustdrivenbygermany",
   "usdjpycontinuestotestthewatersatthe160mark",
   "masterthemomentglobalbrokerfisgappointsfootballlegendandrésiniestaasglobalbrandexperienceofficer",
   "francemanufacturingconfirmedtopickupalittleinaugust",
   "stockmoverstowatchtodaypcgandeixplungeasrblxcrwdtslaandslbrallynotableearningsreporterslatertoday",
+  "italyaugustpreliminarycpi33vs33yyexpected",
   "ukaugustfinalmanufacturingpmi517vs515prelim",
   "germanyaugustfinalmanufacturingpmi543vs541prelim",
   "italyaugustmanufacturingpmi496vs513expected",
@@ -1505,8 +1507,6 @@
   "economicsweekahead",
   "trumpteleprompterpays170000toendinsidertradingprobe",
   "trumpannouncessweepingusgrabforcontrolofvenezuelasvastoilreserves",
-  "hondanissantoreachdealonjointdevelopmentofvehiclesoftwarenikkeireports",
-  "bitwisesolanaetfclocks1billionmilestonesolpriceeyes120",
-  "bitwisesolanaetfsurpasses1billionaumsolpricerises"
+  "hondanissantoreachdealonjointdevelopmentofvehiclesoftwarenikkeireports"
  ]
 }
