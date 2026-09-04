@@ -1002,7 +1002,7 @@
     "previous": "55.1"
    }
   ],
-  "cache_at": "2026-09-04T14:45:17.374290+09:00",
+  "cache_at": "2026-09-04T14:57:21.817251+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1022,16 +1022,16 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "germangasstoragegroupcallsforfeecutsstateloanstobooststocks",
-  "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "usdieselpriceshitrecordhighasconflictsintensifysupplycrunch",
+  "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
+  "germangasstoragegroupcallsforfeecutsstateloanstobooststocks",
   "pakistans5grolloutfacesusercriticismpowerconstraints",
   "howmuchoilisgoingthroughhormuzwhydatadoesntmatchusclaims",
   "yenheadedforstrongestweekinamonthdollarflataheadofpayrolldata",
   "russiacutsoiloutputinaprilsourcessayenergynewstopheadlinescommentariesfeaturesampevents",
   "commentarytradingdaywallercoolsfedhikehoopla",
-  "kazakhstansoiloutputplummetsafterdroneattacksforcedexportingterminalclosuresourcessay",
   "uspressureoniranstartingtotellassanctionsandblockadebite",
+  "kazakhstansoiloutputplummetsafterdroneattacksforcedexportingterminalclosuresourcessay",
   "fedswallerchannelshisinnerjohnlennonwithapleatogivedisinflationachance",
   "chineseaifirmmoonshotfilesconfidentiallyforhongkongiposourcessay",
   "brazilecbstudyinginstantpaymentslinkinpotentialfirstcrossbordermoveforpixsourcessay",
@@ -1048,8 +1048,8 @@
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "fingermotionannouncesnonbindingthreepartymouwithlykenaiandblueflareandprovidesupdateonalbertacorridorgassupplydiscussion",
   "usnatgasoutputanddemandtohitrecordhighsin2026eiasays",
-  "japansnikkeirisesonsoftbankrallybutsetforweeklyfall",
   "snowflakesaipoweredresultssendsharessoaringbuoysoftwarestocksbyreuters",
+  "japansnikkeirisesonsoftbankrallybutsetforweeklyfall",
   "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
   "yenralliessharplyasmarketsraisebetsonbankofjapanratehikes",
   "newsbyaccessnewswireontradingview20260903",
@@ -1085,7 +1085,6 @@
   "bloombergipoeverythingyouneedtoknowaboutbloomberg",
   "asiastockstogainasfedbetscooldollardropsmarketswrap",
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
-  "stocksriseasfedhikebetseasedollarsteadiesmarketswrap",
   "polymarketlaunchesperpetualoilfuturesin247tradingpush",
   "worldsunusuallyhighdollarexposurerisksfuelingselloff",
   "goldholdsgainastrumpswarcommentseaseinflationjitters",
@@ -1106,7 +1105,9 @@
   "theusstrugglestoendthesixmonthiranconflict",
   "worldbanksmishrapushesbackondoubtsoverindiagrowth",
   "russiansseenewallureincashaswarhitsclosertohome",
+  "smartringmakerourafilesforusipoasrevenuesurges",
   "barclayscauseescaseforreducingriskasseptemberunfolds",
+  "samaltmansaysopenaihasfumbledatcommunicatingaibenefits",
   "usgrabofvenezueladenieschinaoilbillionsindebtpayments",
   "usdieselhitsfouryearhighaswarsstrainglobalsupplies",
   "sffedviewsproductivitydrivengrowthconfrontselevatedinflation",
@@ -1121,7 +1122,6 @@
   "dailynavigator492026marketoutlook",
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
   "navigatingemconcentrationthroughanactivevalueapproach",
-  "nvidiaispaying14billionforacompanythatgivesitsbestworkawayforfree",
   "commentaryasuccessfulmouwillrequiretensofbillionsingovernmentsupport",
   "tsxrises15amidbasicmaterialsgainsusstockmarketsalsohigher",
   "trumpsaysiranisafailedstatewhilerezaeisetsconditionstoreopenhormuzhow24outletsframedit",
@@ -1129,7 +1129,6 @@
   "victoriassecretfallsonslowingpaceofsalesgrowth",
   "iransaysithaslaidmoreminesinstraitofhormuz",
   "googleavoidsbreakupasjudgeordersadtechunitchanges",
-  "putinsaysrussiaandukrainemustfirstagreeonpeacetogether",
   "europesgasgambleriskshigherpricesinglobalsupplyfight",
   "whatarethemaineventsfortoday",
   "investingliveasiapacificmarketnewsmarketstreadwateraheadofuspayrolls",
@@ -1156,7 +1155,9 @@
   "boepillseestheneedtoraisethebankrateto400gbpusdmoveshigheronthenews",
   "usstockindicesseetechnicalbiasshiftthespandnasdaqtechnicalbiasismorebullish",
   "ismnonmanufacturingpmiforaugust554versus542estimatestrongerthanexpectations",
-  "samaltmansaysopenaihasfumbledatcommunicatingaibenefits",
+  "nvidiaispaying14billionforacompanythatgivesitsbestworkawayforfree",
+  "putinsaysrussiaandukrainemustfirstagreeonpeacetogether",
+  "stocksriseasfedhikebetseasedollarsteadiesmarketswrap",
   "dhlabsatoexpandcrossbordertradeforafricansmes",
   "trumpmullsmorechiptariffstradersonyeninterventionwatchtheasiatrade932026",
   "usjobgrowthexpectedtoreboundinaugustunemploymentrateforecaststeadyat41",
@@ -1520,7 +1521,6 @@
   "wallstreetpoisedforanothersoftstartashigherbondyieldscontinuetobite",
   "oilretreatsfromonemonthhighastradersweighsupplyrisks",
   "watchnvidianears14billionhuggingfacedealbloombergtech09022026",
-  "bloombergbessentsbondgainswipedoutastreasuryyieldsjumpagain",
-  "aistartupcognitionsettoraisearound1billionata47billionvalue"
+  "bloombergbessentsbondgainswipedoutastreasuryyieldsjumpagain"
  ]
 }
