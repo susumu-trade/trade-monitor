@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-09-06",
+  "last_digest": "2026-09-07",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -717,7 +717,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-07T06:52:58.750313+09:00",
+  "cache_at": "2026-09-07T07:05:03.627792+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -741,7 +741,6 @@
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "evensupremeleadermojtabakhameneiisworriedaboutiranseconomyandsocialcohesion",
   "opecsettokeepoiloutputpolicyunchangedonsundaysourcessay",
-  "iranwarcausesashiftinoilandenergymarkets",
   "israelsnetanyahuorderswestbanksettleroutpoststoberemovedsourcessay",
   "usstrikesthreeiranianoiltankersafterirgcballisticmissileattacksonnavyships23outletscompared",
   "netanyahuorderswestbankoutpoststoberemovedamiduspressuresourcestellreuters",
@@ -749,14 +748,13 @@
   "usiranianforcesfireatvesselsinwatersneariranbyreuters",
   "oilpricesjumpover7aftertrumpsaysattacksoniranwillcontinue",
   "iraqraisesoilexportcapacityabove3millionbpd",
-  "usenvoysmakefirstkyivvisitamidukrainewarpeacepush",
-  "usstrikesiranianoilcarriersafterreportedattackontwowarships",
-  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "uscarrierabrahamlincolndepartsthailandafterrespitevisit",
-  "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
+  "usstrikesiranianoilcarriersafterreportedattackontwowarships",
   "opecsettokeepoctoberoiloutputpolicyunchangedasquotatalksloomsources",
+  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
+  "usenvoysmakefirstkyivvisitamidukrainewarpeacepush",
+  "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
   "usiranianforcesfireatvesselsinwatersneariran",
-  "usmilitaryturnsoffadtrackersondevicesamidwestasiatargetingreports",
   "oilendsweekhigheronrenewedusiranstrikesdieselhitsrecordmoneynews",
   "irantotackleeconomicissuessaysfurtherattackswillbemorepainful",
   "whyoilimportersarelearningtolivewithlongertraderoutes",
@@ -776,8 +774,9 @@
   "ukrainetotestitalianmichelangeloairdefensedomebloomberg",
   "russiasgiantvostokoilloadsfirstcrudeonarctictanker",
   "ecbpreparesforsecondinterestratehikeduetoinflationbloomberg",
-  "watchusslincolnsailorsdescribetollofdeployment",
+  "iranustradetankerattacksastehranwarnsofrestrictedzone",
   "applesnextbigrevealfoldableiphoneandiphone18proleadsept9lineup",
+  "watchusslincolnsailorsdescribetollofdeployment",
   "aninvestorsguidetochipmakerstheyearsmostdramaticstocks",
   "usstrikes3iraniantankersinretaliationforirgcattacks",
   "singaporestockshitnewhighswhilebondyieldsriseweeklymarketrecap",
@@ -807,6 +806,8 @@
   "usdtechnicalanalysiswhatlevelsareinplayfortheeurusdusdjpygbpusdaheadofthejobsdata",
   "lockedandloadedfortheaugusteditionofnon",
   "investingliveeuropeannewswrapmarketsconsolidateaheadofnfp",
+  "iranwarcausesashiftinoilandenergymarkets",
+  "usmilitaryturnsoffadtrackersondevicesamidwestasiatargetingreports",
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "usdjpypressuredasbojhikebetsrampup",
   "eurozoneretailsalesfallinjulyasconsumerspendingsoftens",
@@ -1235,7 +1236,6 @@
   "trumpconsideringbroadersemiconductortariffsonlaptopsservers",
   "deutschebankthedollarisnowleveragedtotheairace",
   "uslabormarketremainsstableservicesinputpricerisespointtoelevatedinflation",
-  "eunaturalgasstoragestandscurrentlyat65ofcapacitycommissionsays",
-  "chinastockscloseweekdownasairallylosessteam"
+  "eunaturalgasstoragestandscurrentlyat65ofcapacitycommissionsays"
  ]
 }
