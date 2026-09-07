@@ -717,7 +717,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-07T10:14:10.345165+09:00",
+  "cache_at": "2026-09-07T10:22:16.097753+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -737,7 +737,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "shipfuelshortageloomsasrefinersstrainedbywarfavourotherproducts",
+  "oilextendsgainsafterusandiranstrikeships",
   "opeckeepsoiloutputpolicyunchangedforoctober",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "evensupremeleadermojtabakhameneiisworriedaboutiranseconomyandsocialcohesion",
@@ -745,10 +745,10 @@
   "usstrikesthreeiranianoiltankersafterirgcballisticmissileattacksonnavyships23outletscompared",
   "globalbondselloffwhyyieldsaresurgingandwhyinvestorsshouldntabandonbonds",
   "indonesiasanakkrakataueruptionhaltsflightsschoolsfishing",
-  "usiranianforcesfireatvesselsinwatersneariranbyreuters",
   "iraqraisesoilexportcapacityabove3millionbpd",
-  "usenvoysmakefirstkyivvisitamidukrainewarpeacepush",
+  "usiranianforcesfireatvesselsinwatersneariranbyreuters",
   "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
+  "usenvoysmakefirstkyivvisitamidukrainewarpeacepush",
   "opecsettokeepoctoberoiloutputpolicyunchangedasquotatalksloomsources",
   "uscarrierabrahamlincolndepartsthailandafterrespitevisit",
   "usiranianforcesfireatvesselsinwatersneariran",
@@ -757,12 +757,11 @@
   "oilpricesjumpover7aftertrumpsaysattacksoniranwillcontinue",
   "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
   "opecdecidesnottochangeoilproductioninoctober",
-  "oilextendsgainsafterusandiranstrikeshipsbyreuters",
   "usandchinaeyetrumpxitalksonaiguardrailsdespitetechrift",
+  "analysisshipfuelshortageloomsasrefinersstrainedbywarfavourotherproducts",
   "netanyahuorderswestbankoutpoststoberemovedamiduspressuresourcestellreuters",
-  "usstrikesiranianoilcarriersafterreportedattackontwowarships",
+  "asiasharesbounceotherscautiousasoilrises",
   "oilendsweekhigheronrenewedusiranstrikesdieselhitsrecordmoneynews",
-  "usandiranianforcestradetitfortatfireatvesselsinwatersneariranasconflictdeepens",
   "whyoilimportersarelearningtolivewithlongertraderoutes",
   "ukrainerevivescoldwareramissilesasrussiandroneattacksputpressureonfighterfleet",
   "irantotackleeconomicissuessaysfurtherattackswillbemorepainful",
@@ -817,7 +816,10 @@
   "crudeoiltechnicalanalysiscrudeoilfuturesareupstronglythisweekbutlowerontheday",
   "oilclimbsonreportsofiranballisticmissilelaunches",
   "spandnasdaqcompositetechnicalanalysisthebroaderindicesaremixedbutwhatarethechartssaying",
-  "oilextendsgainsafterusandiranstrikeships",
+  "oilextendsgainsafterusandiranstrikeshipsbyreuters",
+  "usstrikesiranianoilcarriersafterreportedattackontwowarships",
+  "shipfuelshortageloomsasrefinersstrainedbywarfavourotherproducts",
+  "usandiranianforcestradetitfortatfireatvesselsinwatersneariranasconflictdeepens",
   "ecbpreparesforsecondinterestratehikeduetoinflationbloomberg",
   "watchrepstevenssayscanadiantariffsaresqueezingmichigan",
   "watchusslincolnsailorsdescribetollofdeployment",
@@ -1234,8 +1236,6 @@
   "uscontrolofvenezuelanoilthreatensbillionsowedtochina",
   "yensetforstrongestweekinamonthdollarsteadyaheadofusjobsdata",
   "russiagrowingrecklesswitheuattacksirelandsmartinsays",
-  "eutoseeprogressonsavingsunionbyyearendirishpmsays",
-  "oilralliesfortheweekasusiranfightingresumesdieselhitsrecordhigh",
-  "catchupwallersentstocksrocketinghigherintheus"
+  "eutoseeprogressonsavingsunionbyyearendirishpmsays"
  ]
 }
