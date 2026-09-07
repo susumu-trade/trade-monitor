@@ -717,7 +717,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-07T09:13:38.010577+09:00",
+  "cache_at": "2026-09-07T09:21:41.859889+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -737,12 +737,12 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "oilextendsgainsafterusandiranstrikeships",
   "opeckeepsoiloutputpolicyunchangedforoctober",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "evensupremeleadermojtabakhameneiisworriedaboutiranseconomyandsocialcohesion",
   "opecsettokeepoiloutputpolicyunchangedonsundaysourcessay",
   "opecdecidesnottochangeoilproductioninoctober",
-  "israelsnetanyahuorderswestbanksettleroutpoststoberemovedsourcessay",
   "usstrikesthreeiranianoiltankersafterirgcballisticmissileattacksonnavyships23outletscompared",
   "globalbondselloffwhyyieldsaresurgingandwhyinvestorsshouldntabandonbonds",
   "indonesiasanakkrakataueruptionhaltsflightsschoolsfishing",
@@ -751,18 +751,19 @@
   "usiranianforcesfireatvesselsinwatersneariranbyreuters",
   "iraqraisesoilexportcapacityabove3millionbpd",
   "usenvoysmakefirstkyivvisitamidukrainewarpeacepush",
-  "usstrikesiranianoilcarriersafterreportedattackontwowarships",
+  "israelsnetanyahuorderswestbanksettleroutpoststoberemovedsourcessay",
   "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "uscarrierabrahamlincolndepartsthailandafterrespitevisit",
   "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
+  "usstrikesiranianoilcarriersafterreportedattackontwowarships",
   "opecsettokeepoctoberoiloutputpolicyunchangedasquotatalksloomsources",
   "usiranianforcesfireatvesselsinwatersneariran",
   "oilendsweekhigheronrenewedusiranstrikesdieselhitsrecordmoneynews",
-  "irantotackleeconomicissuessaysfurtherattackswillbemorepainful",
   "severalfearedtrappedaftersixstoreybuildingcollapsesindelhi",
   "ukrainerevivescoldwareramissilesasrussiandroneattacksputpressureonfighterfleet",
   "whyoilimportersarelearningtolivewithlongertraderoutes",
   "usandiranianforcestradetitfortatfireatvesselsinwatersneariranasconflictdeepens",
+  "irantotackleeconomicissuessaysfurtherattackswillbemorepainful",
   "ustargetsturkishbankiniransanctionspushasseptember8deadlinelooms",
   "usandiranindirectconfrontationtankerssunkandmissilestrikesᐉnewsfromfaktibgworld",
   "oiledgeshigheronrenewedmiddleeasttensionsmarketswrap",
@@ -1235,7 +1236,6 @@
   "nasdaqsampp500futuresriseaheadofkeyjobsreport",
   "southafricanrandtreadswaterbeforeusjobsdataasmarketsassessfedratepath",
   "goldholdsgainastrumpswarcommentseaseinflationjitters",
-  "abudhabiaiinstitutereleasesfullyopensourcemodelswithtrainingdatacode",
-  "chinamaychallengebrazilinchickenexportmarketswithinadecaderabobanksays"
+  "abudhabiaiinstitutereleasesfullyopensourcemodelswithtrainingdatacode"
  ]
 }
