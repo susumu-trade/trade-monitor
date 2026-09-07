@@ -741,7 +741,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-07T17:30:51.243286+09:00",
+  "cache_at": "2026-09-07T17:43:36.965908+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -761,6 +761,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "eurozoneinvestorconfidencejumpstofour",
   "chinasgoldbuyingspreerollsonasreservesclimbagaininaugust",
   "marketoutlookfortheweekof7th",
   "europeanstockmarketopenacautiousmoodasoilandratefearskeepriskappetiteincheck",
@@ -785,6 +786,7 @@
   "inflationupnewsdieselbetssurgeashedgefundsturnmostbullishonoilsincemay",
   "chinainjects54billionintostatebanksandinsurerstoshoreupcapital",
   "opecstickstoflatoilquotasforoctoberdespitehormuzwardisruption",
+  "eurozoneseptembersentixinvestorconfidenceindex51vs20expected",
   "whyglobexstillopensonthenightbeforeausmarketholiday",
   "irantodeclarehormuzrestrictedzonewarnsofmorepainfulattackresponse",
   "mondayopenindicativeforexprices07september2026",
@@ -1258,8 +1260,6 @@
   "dieselcrunchhotismdatapointtoentrenchedinflationriskgoldequityrisks",
   "russiacutsoiloutputinaprilsourcessayenergynewstopheadlinescommentariesfeaturesampevents",
   "wearestalledusiranconflictstuckwithnoendinsight",
-  "anthropicfinalizing15billionpreipocreditfacility",
-  "usdieselpriceshitrecordhighasconflictsintensifysupplycrunch",
-  "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks"
+  "anthropicfinalizing15billionpreipocreditfacility"
  ]
 }
