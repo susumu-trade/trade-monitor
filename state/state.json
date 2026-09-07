@@ -741,7 +741,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-07T19:17:41.787133+09:00",
+  "cache_at": "2026-09-07T19:30:30.229103+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -761,6 +761,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "eurusdatacrossroadsastradersawaittheuscpiforthenextmajormove",
   "oilpricesclimbasusiranmissilestrikeskeephormuzriskselevated",
   "eurozoneq2gdpgetsatradeboostasgrowthacceleratesto06",
   "usdjpytumbleslowerbreaksbelow155forthefirsttimesincefebruary",
@@ -1259,7 +1260,6 @@
   "pacificsummitbacksconcernsoverchinamissiletestdespitenaurudissentworldnews",
   "wallstreetdipsafterstrongjobsdatafuelshawkishfedbets",
   "exclusivenigeriasdangoteseeksaround15billionwithrefineryiposourcessay",
-  "rbnzsignalsdecembernotoctoberforitsnextratehike",
-  "samaltmansaysopenaihasfumbledatcommunicatingaibenefits"
+  "rbnzsignalsdecembernotoctoberforitsnextratehike"
  ]
 }
