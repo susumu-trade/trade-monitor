@@ -289,7 +289,7 @@
     "country": "EUR",
     "date": "2026-09-08T02:00:00-04:00",
     "impact": "Low",
-    "forecast": "16.5B",
+    "forecast": "16.0B",
     "previous": "15.4B"
    },
    {
@@ -313,7 +313,7 @@
     "country": "USD",
     "date": "2026-09-08T06:00:00-04:00",
     "impact": "Low",
-    "forecast": "99.2",
+    "forecast": "99.4",
     "previous": "99.8"
    },
    {
@@ -329,7 +329,7 @@
     "country": "USD",
     "date": "2026-09-08T15:00:00-04:00",
     "impact": "Low",
-    "forecast": "13.2B",
+    "forecast": "11.9B",
     "previous": "14.2B"
    },
    {
@@ -369,7 +369,7 @@
     "country": "EUR",
     "date": "2026-09-09T02:45:00-04:00",
     "impact": "Low",
-    "forecast": "0.1%",
+    "forecast": "0.2%",
     "previous": "0.1%"
    },
    {
@@ -433,7 +433,7 @@
     "country": "GBP",
     "date": "2026-09-09T19:01:00-04:00",
     "impact": "Low",
-    "forecast": "-31%",
+    "forecast": "-30%",
     "previous": "-30%"
    },
    {
@@ -521,7 +521,7 @@
     "country": "USD",
     "date": "2026-09-10T10:00:00-04:00",
     "impact": "Low",
-    "forecast": "1.3%",
+    "forecast": "1.2%",
     "previous": "1.3%"
    },
    {
@@ -593,7 +593,7 @@
     "country": "GBP",
     "date": "2026-09-11T02:00:00-04:00",
     "impact": "Low",
-    "forecast": "-22.4B",
+    "forecast": "-22.6B",
     "previous": "-23.0B"
    },
    {
@@ -609,7 +609,7 @@
     "country": "GBP",
     "date": "2026-09-11T02:00:00-04:00",
     "impact": "Low",
-    "forecast": "-0.1%",
+    "forecast": "-0.2%",
     "previous": "-0.2%"
    },
    {
@@ -625,7 +625,7 @@
     "country": "CHF",
     "date": "2026-09-11T03:00:00-04:00",
     "impact": "Low",
-    "forecast": "-32",
+    "forecast": "-33",
     "previous": "-35"
    },
    {
@@ -633,7 +633,7 @@
     "country": "EUR",
     "date": "2026-09-11T04:00:00-04:00",
     "impact": "Low",
-    "forecast": "5.3%",
+    "forecast": "5.4%",
     "previous": "5.3%"
    },
    {
@@ -713,7 +713,7 @@
     "country": "USD",
     "date": "2026-09-11T14:00:00-04:00",
     "impact": "Low",
-    "forecast": "-202.4B",
+    "forecast": "-221.1B",
     "previous": "-432.3B"
    },
    {
@@ -733,7 +733,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-08T07:37:13.504420+09:00",
+  "cache_at": "2026-09-08T07:45:18.508391+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -773,15 +773,15 @@
   "indiarupeebondstobedrivenbyrbiinterventionliquidityaction",
   "huaweiunveilsfirsttriplefoldphonewithusfreecorechips",
   "japansnikkeirisesover2aschiprelatedstockstrackuspeershigher",
-  "southkoreapensionfundsuspendsfxhedgingaswonhitstwoyearhighsourcesays",
   "chinassilentembargoarecriticalmineralsthenewcoldwarslatestweapon",
-  "kazakhstansoiloutputplummetsafterdroneattacksforcedexportingterminalclosuresourcessay",
+  "southkoreapensionfundsuspendsfxhedgingaswonhitstwoyearhighsourcesays",
+  "techcompaniesarescoutingargentinepatagoniaforaidatacentresreutersreports",
   "germanydiscussesgasstoragehelpwithstateownedcompaniesuniperseandsefebloombergnews",
   "yentakescentrestageglobalmarkets5thingsinvestorsneedtowatchthisweek",
   "opecdecidesnottochangeoilproductioninoctober",
   "usandchinaeyetrumpxitalksonaiguardrailsdespitetechrift",
-  "hormuztraffichitsamaylowbrentsusd97pricerejectsaquickrecovery",
   "shippingtrafficthroughstraitofhormuzfallstolowestlevelsincemay",
+  "hormuztraffichitsamaylowbrentsusd97pricerejectsaquickrecovery",
   "iransaystoannouncenewrestrictedzoneinthegulfinthecomingdays",
   "iranwarnsusenergyassetsingulfarevulnerableafterlatestclashes",
   "hormuztrafficdipstolowestsincemayafterusiranianstrikesonships",
@@ -808,26 +808,27 @@
   "goldholdsdeclineastradersweighprospectsforfedratehike",
   "iranwarspursasurgeinstocksalesfromusshalecompanies",
   "chinaoildemandrevivalspurspricespikesfromcongotobrazil",
+  "japanlikelysoldtreasuriestofundrecordyenintervention",
   "sapporobeermovingproductiontousfromcanadaaftertariffs",
   "wartestedoiltradersdescendonsingaporeas100beckons",
   "qatarisbringingemptylngshipshomeinpossibleexportpivot",
   "emstocksjumpto2monthhighastechrallyoffsetshigheroil",
-  "japanlikelysoldtreasuriestofundrecordyenintervention",
   "watchhighexpectationsleavestocksvulnerablenoviskis",
   "iranustradetankerattacksassixmonthconflictescalates",
   "consumerdiscretionarysectorampindustryperformance",
+  "japanspreferrednetworksseeksipotokeepupinaichiprace",
   "iransaysstraitofhormuzdealwithomanjustdaysaway",
   "goldmanflagsriskof120oilifmideastshipattacksintensify",
-  "japanspreferrednetworksseeksipotokeepupinaichiprace",
   "preferrednetworksceoeyesipoamidaichiprace",
   "watchiranustradetankerattacksasconflictescalates",
-  "usdjpydrops1breaking155",
+  "sectorampindustryperformance",
   "ukchancellorhealeyvowsfiscalrigorinfirstbigspeech",
+  "usdjpydrops1breaking155",
   "equitybuybacksshiftingbuyerbasedrivesrecordhighactivity",
-  "globallnghuntintensifiesasmiddleeastwarcutssupply",
   "deadlyamazoncargoplanecrashovershootsrunwayinmiami",
-  "goldmansmoesees80upsideforkoreanstocksonmemoryboom",
+  "globallnghuntintensifiesasmiddleeastwarcutssupply",
   "usturnsdiplomaticscrewsoniranforatomicnoncompliance",
+  "goldmansmoesees80upsideforkoreanstocksonmemoryboom",
   "thefirehorseatmidyearwhencapitalflowsoutrunfundamentals",
   "trumpserratictariffshurteconomyhousedemocratsays",
   "amazoncargoplaneovershootsrunwayclosingmiamiairport",
@@ -841,13 +842,12 @@
   "treasuryetfsjustpostedoneoftheirdeepestweeklyoutflowssince2005",
   "lookbeyondbrenttoseethetruescaleoftheenergysqueeze",
   "commodityoutlookthemainthemesshaping2027",
-  "canadasieaoilpromiseaddslittlenewcrudetotightmarket",
-  "lngsupplycutfurtheraftercyclonehitsaustralianplants",
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
   "usdjpyweeklyoutlookcpitakescentrestageafterpayrollsrevivefedhikebets",
   "goldvsequityin2026whichassetdeliveredhigherreturns10yearreturnsofpreciousmetalsdebtan",
   "eurusdforecastecbandusinflationsettotesttherange",
   "bankofkorea200bstablecoinsweaken3localcurrencies",
+  "oiljumpsatreopenonsaudistrikesiranthreattogulfenergyassets",
   "ubsstilllikesgolddespitehawkishfedpivot",
   "ubstwofedhikesincomingbutequitybullcasestillintact",
   "goldmansachssaysgoldbullrunnotoverflags4000asbuyzoneintofomc",
@@ -872,14 +872,16 @@
   "usdjpytumbleslowerbreaksbelow155forthefirsttimesincefebruary",
   "golderaseswallerdrivengainsasratehikeoddsriseafterhotnfpalleyesonuscpinext",
   "eurozoneinvestorconfidencejumpstofour",
+  "kazakhstansoiloutputplummetsafterdroneattacksforcedexportingterminalclosuresourcessay",
+  "germanbusinessownersurgefasterreformsafterafdvictory",
   "chinasgoldbuyingspreerollsonasreservesclimbagaininaugust",
+  "canadasieaoilpromiseaddslittlenewcrudetotightmarket",
+  "lngsupplycutfurtheraftercyclonehitsaustralianplants",
   "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "thefedsfamilyfightspillsintotheopenbeforekeyratedecision",
-  "germanbusinessownersurgefasterreformsafterafdvictory",
   "marketoutlookfortheweekof7th",
   "siemensenergyceoseesdatacenterboomlastingonpowerneeds",
   "ecbratehikeexpectedasoilpricesfuelinflationmarketnewsnewsandstatistics",
-  "sectorampindustryperformance",
   "europeanstocksdipasoilriseoffsetstechgainsmarketswrap",
   "europeanstockmarketopenacautiousmoodasoilandratefearskeepriskappetiteincheck",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
@@ -901,7 +903,6 @@
   "iqeceowarnsofemergingchinasupplyriskforchipindustry",
   "standardcharteredoilcouldstaynear90asdiplomaticbreakthroughremainselusive",
   "fxoptionexpiriesfor7september10amnewyorkcut",
-  "techcompaniesarescoutingargentinepatagoniaforaidatacentresreutersreports",
   "acgtoacquirekeşkeklicencetoextendgoldproduction",
   "hormuztrafficdropstolowestlevelsincemayfollowingusandiranianattacksonships",
   "bloombergipoeverythingyouneedtoknowaboutbloomberg",
@@ -1251,7 +1252,6 @@
   "witkoffkushnerlikelytovisitmoscowandkyivonsept56",
   "usjobgrowthexpectedtoreboundinaugustunemploymentrateforecaststeadyat41",
   "usandalliespushiaeaboardtoreportirantounsecuritycouncildiplomatssay",
-  "katayamabecomesjapansvitallinkbetweenbessenttakaichiandmarkets",
-  "datashowsthatthegulfshippingtrafficviahormuzisbelowthe10dayaverage"
+  "katayamabecomesjapansvitallinkbetweenbessenttakaichiandmarkets"
  ]
 }
