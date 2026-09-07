@@ -741,7 +741,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-07T17:52:15.170172+09:00",
+  "cache_at": "2026-09-07T18:04:59.922093+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -761,6 +761,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "usdjpytumbleslowerbreaksbelow155forthefirsttimesincefebruary",
   "golderaseswallerdrivengainsasratehikeoddsriseafterhotnfpalleyesonuscpinext",
   "eurozoneinvestorconfidencejumpstofour",
   "chinasgoldbuyingspreerollsonasreservesclimbagaininaugust",
@@ -1259,7 +1260,6 @@
   "samaltmansaysopenaihasfumbledatcommunicatingaibenefits",
   "priceshockisboonforoilstockscurseforrenewables",
   "dieselcrunchhotismdatapointtoentrenchedinflationriskgoldequityrisks",
-  "russiacutsoiloutputinaprilsourcessayenergynewstopheadlinescommentariesfeaturesampevents",
-  "wearestalledusiranconflictstuckwithnoendinsight"
+  "russiacutsoiloutputinaprilsourcessayenergynewstopheadlinescommentariesfeaturesampevents"
  ]
 }
