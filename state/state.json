@@ -201,7 +201,7 @@
     "country": "JPY",
     "date": "2026-09-07T19:30:00-04:00",
     "impact": "Low",
-    "forecast": "3.9%",
+    "forecast": "3.8%",
     "previous": "3.4%"
    },
    {
@@ -217,7 +217,7 @@
     "country": "JPY",
     "date": "2026-09-07T19:50:00-04:00",
     "impact": "Low",
-    "forecast": "2.46T",
+    "forecast": "2.48T",
     "previous": "1.40T"
    },
    {
@@ -257,7 +257,7 @@
     "country": "CNY",
     "date": "2026-09-07T22:03:00-04:00",
     "impact": "Low",
-    "forecast": "795B",
+    "forecast": "805B",
     "previous": "767B"
    },
    {
@@ -265,7 +265,7 @@
     "country": "CNY",
     "date": "2026-09-07T22:04:00-04:00",
     "impact": "Low",
-    "forecast": "120.1B",
+    "forecast": "118.6B",
     "previous": "112.5B"
    },
    {
@@ -709,14 +709,6 @@
     "previous": "4.3%"
    },
    {
-    "title": "Fed Monetary Policy Report",
-    "country": "USD",
-    "date": "2026-09-11T11:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
     "title": "Federal Budget Balance",
     "country": "USD",
     "date": "2026-09-11T14:00:00-04:00",
@@ -741,7 +733,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-08T06:36:39.663386+09:00",
+  "cache_at": "2026-09-08T06:44:43.957558+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -779,8 +771,8 @@
   "stocksdentedbyinflationriskfromrisingoildiceygeopolitics",
   "anotherratehikejustforinsurancefivequestionsfortheecb",
   "indiarupeebondstobedrivenbyrbiinterventionliquidityaction",
-  "kazakhstansoiloutputplummetsafterdroneattacksforcedexportingterminalclosuresourcessay",
   "japansnikkeirisesover2aschiprelatedstockstrackuspeershigher",
+  "kazakhstansoiloutputplummetsafterdroneattacksforcedexportingterminalclosuresourcessay",
   "southkoreapensionfundsuspendsfxhedgingaswonhitstwoyearhighsourcesays",
   "chinassilentembargoarecriticalmineralsthenewcoldwarslatestweapon",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
@@ -836,8 +828,8 @@
   "lngsupplycutfurtheraftercyclonehitsaustralianplants",
   "watchhighexpectationsleavestocksvulnerablenoviskis",
   "sapporobeermovingproductiontousfromcanadaaftertariffs",
-  "japanspreferrednetworksseeksipotokeepupinaichiprace",
   "goldmanflagsriskof120oilifmideastshipattacksintensify",
+  "japanspreferrednetworksseeksipotokeepupinaichiprace",
   "ustoturndiplomaticscrewsoniranovernuclearnoncompliance",
   "preferrednetworksceoeyesipoamidaichiprace",
   "watchiranustradetankerattacksasconflictescalates",
@@ -883,13 +875,13 @@
   "chinasgoldbuyingspreerollsonasreservesclimbagaininaugust",
   "marketoutlookfortheweekof7th",
   "europeanstockmarketopenacautiousmoodasoilandratefearskeepriskappetiteincheck",
+  "goldeasesasstrongusjobsdataboostsfedratehikebets",
+  "commentarychinascrudeoilimportsstayedweakinaugustcanthiscontinue",
+  "southafricanprivatesectoractivityexpandsslightlyinaugustpmishows",
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
   "indianrupeedetachesfromrealityaftermultiplerbiinterventionsiranwaranduscpiinfocus",
   "yentakescentrestageglobalmarkets5thingsinvestorsneedtowatchthisweek",
   "bondmarketsshakenbutorderlyglobalmarkets5thingsinvestorsneedtowatchthisweek",
-  "goldeasesasstrongusjobsdataboostsfedratehikebets",
-  "commentarychinascrudeoilimportsstayedweakinaugustcanthiscontinue",
-  "southafricanprivatesectoractivityexpandsslightlyinaugustpmishows",
   "thefedsfamilyfightspillsintotheopenbeforekeyratedecision",
   "usdjpyremainsheavyasthenewweekgetsunderwaywhatarethetechnicalssaying",
   "whatarethemaineventsfortoday",
