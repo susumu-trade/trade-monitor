@@ -741,7 +741,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-10T04:58:42.320875+09:00",
+  "cache_at": "2026-09-10T05:10:50.159747+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -761,16 +761,17 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "brentcrudeoilrisesabove100abarrelasmiddleeastconflictintensifies",
+  "brentsettlesatover100abarrelasmiddleeastconflictintensifies",
   "oilpushespast100aswaveofusiranattacksexposesdwindlingsafetynet",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "japaneserubberfutureseaseasfirmeryenoutweighssupplyworries",
   "commentarywithyensurgingwhatwillfundfxcarrytradesnow",
   "sampp500fallsasoiltops100perbarrel",
   "whyisusallyiraqunabletodisarmiransmilitiaallies",
+  "brentcrudeoilrisesabove100abarrelasmiddleeastconflictintensifies",
   "usnaturalgasoutputdemandtohitrecordhighsin2026and2027eiasays",
-  "chinaoildemandtofall89in2026sinopecresearchsays",
   "commentaryoilpricesflyblindasthehormuzenigmadeepens",
+  "chinaoildemandtofall89in2026sinopecresearchsays",
   "iranandushittankersinbiggestwaveofattacksonshippingsincewarbegan",
   "dangotesproposedkenyanoilrefineryfaceshurdlesnotleastwithcrudesupply",
   "iraqseeksoutputquotaincreaseinopecauditbloombergnewsreports",
@@ -793,7 +794,6 @@
   "ukstocksdroptooveronemonthlowasoilpricesfuelinflationworries",
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "apolloblackstoneandkkrvieforshellstakeinlngcanadasourcessay",
-  "indianshareseyemutedstartasoilclimbsonintensifyingmideasttensions",
   "globalmarketsoiltops100europeanstocksdroponfreshgulfattacks",
   "globalbondselloffwhyyieldsaresurgingandwhyinvestorsshouldntabandonbonds",
   "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
@@ -831,8 +831,8 @@
   "asianchipstockssetforgainsbrentnears100marketswrap",
   "exbokgovernorsaysnoneedtopanicovershorttermwonmoves",
   "carneywarnscanadiansoftoughdaysaheadastradewarspiralsagain",
-  "howbinancekeepsdoingeuropeanbusinesswithoutlicense",
   "ussaysitdestroyedirantankersafternavyshiptargeted",
+  "howbinancekeepsdoingeuropeanbusinesswithoutlicense",
   "goldrangeboundasweakerdollaroffsetsratehikeandinflationrisks",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "asianmarketstodaychipstocksleadnikkeikospirallydespiteelevatedoilprices",
@@ -862,7 +862,6 @@
   "sampptsxcompositefallsnearly400pointsusstockmarketsalsotradelower",
   "japaneseyenhits7monthhigh",
   "oilat100isinflationgettingbakedinaheadofthefed",
-  "bitcoinyenanddebtscottbessentchallengestradersworldwide",
   "technicalanalysisofthesampp500asitnearssupportwhileeurgbpandthesilverpricerangetrade",
   "goldtechnicalsbuyersandsellersbattlebetweenkeysupportandresistanceasthemarketawaitsthenextshove",
   "usdjpyandtheiamthehousenowtrade",
@@ -884,14 +883,16 @@
   "goldtradeideaifpricesweepsbelow4431thisbuyzonegetsinteresting",
   "goldremainsunderpressureamidescalatingusiranattacksanduscpiriskswhattowatchnext",
   "europeanstocksslideas100oilrevivesinflationfearsaheadofecb",
+  "indianshareseyemutedstartasoilclimbsonintensifyingmideasttensions",
+  "chinarussiastressstrategictieswithnorthkoreainanniversarymessagestokimworldnews",
+  "venezuelasoilrollercoastertakesanewturn",
+  "bitcoinyenanddebtscottbessentchallengestradersworldwide",
   "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "exclusivepakistanwarnsirantoreininhouthisasriyadhstrikesback",
   "bloombergrussiaplanstointensifyattacksonukrainethroughthewinterandseriouspeacetalksareunlikelybefore2027",
   "aiinfrastructurestockssurgedwhilesoftwarefelldoestherotationcontinuewednesday",
   "oilpriceshitsixweekhighafterhouthisattacksaudisites",
-  "venezuelasoilrollercoastertakesanewturn",
   "thenasdaqconsolidatesatkeyresistanceastradersawaittheuscpireport",
-  "chinarussiastressstrategictieswithnorthkoreainanniversarymessagestokimworldnews",
   "couldfedadjustratesaheadofmidtermelectionsheresahistoricalguide",
   "goldetfflowsaugust2026",
   "swingstategopsenatecandidatestotakestageatmidtermconvention",
@@ -1259,7 +1260,6 @@
   "bondmarketsshakenbutorderlyglobalmarkets5thingsinvestorsneedtowatchthisweek",
   "watchbondyieldsat55wouldspelltroubleforstockssocgensglobalassetallocationheadwarns",
   "southkoreaq2gdpfinal06vsexpected06prior18",
-  "cotonforexandcommoditiesweekto1sept2026",
-  "shippingtrafficthroughstraitofhormuzfallstolowestlevelsincemay"
+  "cotonforexandcommoditiesweekto1sept2026"
  ]
 }
