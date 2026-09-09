@@ -445,6 +445,14 @@
     "previous": "4.9%"
    },
    {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "date": "2026-09-09T21:15:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+   },
+   {
     "title": "German Final CPI m/m",
     "country": "EUR",
     "date": "2026-09-10T02:00:00-04:00",
@@ -733,7 +741,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-09T20:41:46.748711+09:00",
+  "cache_at": "2026-09-09T20:49:52.837680+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -761,13 +769,13 @@
   "iraqseeksoutputquotaincreaseinopecauditbloombergnewsreports",
   "dangotesproposedkenyanoilrefineryfaceshurdlesnotleastwithcrudesupply",
   "commentaryoilpricesflyblindasthehormuzenigmadeepens",
-  "iranandushittankersinbiggestwaveofattacksonshippingsincewarbegan",
   "usmilitarysaysitdestroyedfiveiranianoilcarriersafterattemptedmissileattacks",
   "shippingtrafficviastraitofhormuzstaysbelow10dayaveragedatashows",
   "ukpublisheslegislationfortoughersanctionsoniranovernuclearprogramme",
   "insightcongoextendsstatecontroloverminingwithbidtolockdowngeologicaldata",
   "iranretaliatesagainstusalliesafteritsoiltankersdestroyed",
   "europeansharesmutedasoilrallyfuelscautionnovartistumbles",
+  "iranandushittankersinbiggestwaveofattacksonshippingsincewarbegan",
   "germangassupplydiversificationensuresimportsbutatapriceequinorsays",
   "exclusivechinasdeepseektapsciticsecuritiesfordomesticiposourcessay",
   "globaldieselsupplytostaytightthroughwinterindustryexecssay",
@@ -834,10 +842,11 @@
   "uberkicksoffdebuteurobondofferingwithfivepartsale",
   "whatthestrongeryenmeansforyourmoney",
   "amazonraisingatleast3billionfromfirststerlingbonds",
-  "watchchinainflationpicksupasenergycostsrise",
   "usescalatescanadatradewarwithproductbansnewtariffs",
+  "the14billionbettobringfusionoutofthelab",
   "watchbrentpushestoward100afterushitsiraniantankers",
   "elniño2026whatemdebtinvestorsneedtoknow",
+  "watchchinainflationpicksupasenergycostsrise",
   "whyamazonisdiversifyingitsaichipsupply",
   "swingstategopsenatecandidatestotakestageatmidtermconvention",
   "witkoffreports107millionfromentitythatheldcryptostake",
@@ -852,7 +861,6 @@
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
   "lngsupplycutfurtheraftercyclonehitsaustralianplants",
-  "putinmadewitkoffandkushnerwaitseveralhoursfortheirmeetingbloomberg",
   "energyservicessettobenefitonceiranwarendsbarclayssays",
   "sampptsxcompositefallsnearly400pointsusstockmarketsalsotradelower",
   "malaysianringgitfallstolowestversussingaporedollarsincenovember",
@@ -884,6 +892,7 @@
   "chinaaugustcpi08yyexpected08prior05",
   "pbocsetsusdcnymidpointtodayat67769vsestimateat67042",
   "trumpbanscanadianautosdairyandalcoholintradewarescalation",
+  "putinmadewitkoffandkushnerwaitseveralhoursfortheirmeetingbloomberg",
   "michaelbloombergwasfiredat39after15yearsonwallstreetheusedhis10millionpayouttobuilda",
   "watchmarketsawaitbessentsustreasurydebtbuybackdetails",
   "pbocisexpectedtosettheusdcnyreferencerateat67042reutersestimate",
@@ -1251,7 +1260,6 @@
   "indiarupeebondstobedrivenbyrbiinterventionliquidityaction",
   "oilrefininghasbeenunderinvestedsaudiaramcosays",
   "japansgdpgrowthrevisedhigherbackingbojhikecase",
-  "europeansharesdipashigheroilpricesweighnovartisslips",
-  "japansyenhitssevenmonthhightradersmullseachangeforembattledcurrency"
+  "europeansharesdipashigheroilpricesweighnovartisslips"
  ]
 }
