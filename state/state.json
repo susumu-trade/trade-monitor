@@ -733,7 +733,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-09T17:07:43.462841+09:00",
+  "cache_at": "2026-09-09T17:19:49.283421+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -753,11 +753,10 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "oilpriceshitsixweekhighafterhouthisattacksaudisites",
   "dangotesproposedkenyanoilrefineryfaceshurdlesnotleastwithcrudesupply",
+  "oilpriceshitsixweekhighafterhouthisattacksaudisites",
   "wallstreetslidesoilsurgesamidworriesoverinflationmiddleeast",
   "japaneserubberfutureseaseasfirmeryenoutweighssupplyworries",
-  "oilnears100asfreshmiddleeaststrikesraisesupplyrisks",
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "usmilitarysaysitdestroyedfiveiranianoilcarriersafterattemptedmissileattacks",
@@ -776,6 +775,7 @@
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
   "ukrainecontractingaround1000patriotmissilesfromalliesdefencechiefsays",
   "brentcruderisesabove100abarrelasmiddleeastconflictescalates",
+  "oilnears100asfreshmiddleeaststrikesraisesupplyrisks",
   "oilpricesnear100asfreshmiddleeaststrikesraisesupplyrisks",
   "usseeksmoreaccesstovenezuelasmineralwealthaftertappingitsoilsourcessay",
   "russiaandukraineresumestrikesafterbriefpause",
@@ -785,17 +785,15 @@
   "europeansharesmutedasoilrallyfuelscautionnovartistumbles",
   "openaioffersaiforchipdesigntoutscostadvantageoveropensourcecfosays",
   "harrypotterpublisherbloomsburysfoundernigelnewtonplotsceohandoverafter40years",
-  "netanyahuracestounifyisraelsrightwinginbidtoavertelectiondefeat",
   "yenstandstallasdollardriftsoilsruntowards100chillssentiment",
   "kazakhstansoiloutputplummetsafterdroneattacksforcedexportingterminalclosuresourcessay",
+  "yenstandstallasdollarwobblesoilsruntowards100chillssentiment",
   "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "miningandenergystocksliftaustraliansharesoncommodityboost",
   "worldbankforecasts24surgeinenergypricesin2026duetomiddleeastwar",
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
   "globalbondselloffwhyyieldsaresurgingandwhyinvestorsshouldntabandonbonds",
-  "yenstandstallasdollarwobblesoilsruntowards100chillssentiment",
-  "whyisntoilabove126despitesupplydisruptionsmoneynews",
   "russiasarcticlng2isseeking1billionfromasouthkoreancompanyduetosanctions",
   "indianshareseyemutedstartasoilclimbsonintensifyingmideasttensions",
   "oilheadsfor100asiastockssubduedasmiddleeasttensionsescalate",
@@ -835,6 +833,7 @@
   "watchoilpricescloserto100afterusattacksiraniantankers",
   "japansrisingyieldsstirdebateovergrowingrepatriationrisk",
   "watchchinainflationpicksupasenergycostsrise",
+  "watchbrentpushestoward100afterushitsiraniantankers",
   "watchspacexsharestogetaboostifnasdaq100increasesweighting",
   "swingstategopsenatecandidatestotakestageatmidtermconvention",
   "howustarifffearsaredrivingrecordcopperprices",
@@ -847,7 +846,6 @@
   "watchbrentoilpriceclimbstoward100withhormuzflowsconstrained",
   "mileiteststrumpsnewworldorderasoiloutputnearsinfalklandislands",
   "bitcoinslatesthackputskeycryptovulnerabilityinspotlight",
-  "healeysaysukborrowingtoohighinsignaloffiscalrigor",
   "japanfinallygetsitsstrongeryenforecastasof08092026",
   "putinmadewitkoffandkushnerwaitseveralhoursfortheirmeetingbloomberg",
   "theweekaheadalighterweekbutcpilooms",
@@ -883,6 +881,9 @@
   "usandirancontinuetotradestrikestehranhitsusbasesinjordan",
   "bitcoinisntaweekendhedgeitsjusttheonlymarketstillopen",
   "investingliveamericasfxnewswrap8septusdmixedyieldsrisetraderawaitinflationdata",
+  "netanyahuracestounifyisraelsrightwinginbidtoavertelectiondefeat",
+  "healeysaysukborrowingtoohighinsignaloffiscalrigor",
+  "whyisntoilabove126despitesupplydisruptionsmoneynews",
   "hormuztrafficfallsasiranthreatensusretaliation",
   "exclusivechinasdeepseektapsciticsecuritiesfordomesticiposourcessay",
   "thelongbondmarchisrewritingtheoldmarketplaybook",
@@ -1251,7 +1252,6 @@
   "europeanstockmarketopenacautiousmoodasoilandratefearskeepriskappetiteincheck",
   "ecbexpectedtoraiseratesagainglobalmarkets5thingsinvestorsneedtowatchthisweek",
   "ushasmorenaturalgasthanitcanuseaswarchokesglobalsupply",
-  "indianrupeedetachesfromrealityaftermultiplerbiinterventionsiranwaranduscpiinfocus",
-  "usdjpyremainsheavyasthenewweekgetsunderwaywhatarethetechnicalssaying"
+  "indianrupeedetachesfromrealityaftermultiplerbiinterventionsiranwaranduscpiinfocus"
  ]
 }
