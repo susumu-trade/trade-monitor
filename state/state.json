@@ -751,7 +751,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-12T06:14:19.437205+09:00",
+  "cache_at": "2026-09-12T06:22:25.012636+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -771,12 +771,12 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "yemenshouthisreachstrategicislandatmouthofvitalshippinglane",
   "saudioilsupplyhitsmorethanthreedecadelowafterhouthiattacksieasays",
-  "houthiscontrolkeyshippingrouteaftergainsalongyemensredseacoast",
   "explainerhowchinasoilmajorshelpedbeijingprepareforanenergycrisis",
+  "houthiscontrolkeyshippingrouteaftergainsalongyemensredseacoast",
   "qatarenergyseeksuslngdealsthroughto2031sourcessay",
   "exclusivewhitehouseweighshowtousedefenseproductionacttoexpandusoilrefiningcapacitysourcessay",
+  "yemenshouthisreachstrategicislandatmouthofvitalshippinglane",
   "uaesharesgainasregionalconflictfuelsoilsupplyconcerns",
   "chevronceosaysdepletedcrudeoilbufferscouldleadtohigherprices",
   "exclusivecoffeetradersbigshipmentsaresettoboostexchangestocksandweighonprices",
@@ -798,8 +798,8 @@
   "whitehouseweighshowtousedefenseproductionacttoexpandusoilrefiningcapacitysourcessay",
   "thomsonreutersannouncespricingofpublicofferingofus1300000000notesandcanadianprivateplacementofc1000000000notes",
   "thehouthishaveseizedperimislandnearthestrategicbabelmandebstrait",
-  "wallstreetdipsafteruswholesaleinflationdataoilclimbs",
   "straitofhormuzshiptransitsfalltosevenvesselsonthursday13outletscompared",
+  "wallstreetdipsafteruswholesaleinflationdataoilclimbs",
   "jpmorganamongbanksprovidingfinancingforkuwaitioilpipelinestakedeal",
   "oilfallsbutontrackfor8weeklygainonsupplyconcernsusdieselhitsrecordhigh",
   "houthisadvancealongyemenicoastthreateningsaudioilexportsinredsea",
@@ -823,23 +823,22 @@
   "fxweekly",
   "oilheadsforstrongweeklygainamidhormuzsupplyconcerns",
   "whymarketsthinktheusiswinningtheblockade",
-  "watchcpisetsupriskmanagementhikesforfedpimcoswildingsays",
   "ieawarnsoildemandmayhavetofallfurtherasiranwardrags",
-  "iransoilexportsstaychokedasusnavalblockadeholds",
   "ukrainesaysithitmajoroilrefineryinrussiasvolgaregion",
+  "iransoilexportsstaychokedasusnavalblockadeholds",
+  "watchcpisetsupriskmanagementhikesforfedpimcoswildingsays",
   "koreasleefacespushbackastrumpupspressureoverhormuz",
   "uscanadatradedetentewouldeaseinflationpressurespoilievresays",
   "stocksbondsriseasoildropoutweighscpidatamarketswrap",
   "consumerdiscretionarysectorampindustryperformance",
+  "worryingtimesforbondsas10yearyieldnears5",
   "pennsylvaniadatacenterlimitsareathreattogasfirmstradegroupsays",
   "bessentdismissesbuybackconcernsaystreasuriesstrong",
   "brentoiltradesnear107ashouthisaudifightingescalates",
-  "worryingtimesforbondsas10yearyieldnears5",
   "indiarussiaexploreusingdigitalcurrencypaymentsfortrade",
   "stellantissignsmemowithroshelforpossiblesaleofidleplant",
   "whyindiaincreasinglyneedschinaandviceversa",
   "risingbondyieldsaredrivingusstockstowardcorrectionterritorymarketspulse",
-  "polishcompaniesarebusyandinvestorslikeit",
   "gulfstatesmaymeetirannextweektodiscussfutureofhormuz",
   "watchuseconomyprobablyneedsthreefedratehikesbnpsmateosylagosays",
   "watchuseconomycorecpirisesmorethanexpectedinaugust",
@@ -873,6 +872,7 @@
   "meet10dividendcompoundersquietlybeatinginflation",
   "technicalanalysisofthedowaudusdandusnaturalgasfuturesastheyfindshorttermsupport",
   "goldfallsastradersraisefedhikebetsafteruspricereport",
+  "investingliveamericasfxnewswrap11septuscpiraisesoddsforfedratehike",
   "usstocksreboundsharplybutmajorindicesstillcloselowerfortheweek",
   "bitcoinsellersregaintheshort",
   "usdcadtechnicalsusdcadextendshigherbutstallsatkeytrendlineresistance",
@@ -898,6 +898,7 @@
   "irangainsstrongerleverageasoilsurgesabove100forcingurgentdiplomaticsolutions",
   "tradingwentaroundtheclockcansettlementkeepup",
   "ukjulymonthlygdp04vs00mmexpected",
+  "polishcompaniesarebusyandinvestorslikeit",
   "japansproducerpricegainsstayelevatedbackingbojhikes",
   "silverlakeintelbackedalterapreparesipothatcouldraiseover2billionasearlyas2026sourcessay",
   "sectorampindustryperformance",
@@ -1269,7 +1270,6 @@
   "ushitsseveraliranoiltankersinresponsetowarshipattack",
   "houthisseizekeyyemeniredseaportsourcessaythreateningglobalenergyflows",
   "tradersbetonfourratehikesfromecbandboeasoilsurges",
-  "31000mtpetrolimportscontinuesdespitedangoterefinerysupply",
-  "goldfirmsonweakerdollarasmarketsawaitusinflationdata"
+  "31000mtpetrolimportscontinuesdespitedangoterefinerysupply"
  ]
 }
