@@ -745,7 +745,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-11T09:32:29.059667+09:00",
+  "cache_at": "2026-09-11T09:40:33.768258+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -765,7 +765,6 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "yemenshouthiscloseinonbabelmandebstraitinnewthreattoshipping",
   "opecfurtherlowers2026globaloildemandgrowthforecast",
   "russiacutsoiloutputinaprilsourcessay",
   "dangoteoilrefinerybuys16millionbarrelsofnigeriancrudeforoctobersourcessay",
@@ -782,17 +781,19 @@
   "chinaindependentrefinersscrambleforoilunderpinningspotpremiums",
   "exclusivehowabilliondollarsanctionsdodgekeptchinesegoodsflowingtoiran",
   "supplysqueezeinmarinefueleasesasmarketadaptstoprolongedhormuzdisruption",
+  "exclusiveeucountriestoseekimportcurbsonchemicalsplasticssourcessay",
   "indiatopushbricsdigitalcurrencylinkdespitehurdlessourcessay",
   "hefeisboomrevealslimitsofchinasstateledmanufacturingpush",
   "kenyatogetsome400millionemergencyworldbankfundswithinsixweekssourcesays",
-  "exclusiveeucountriestoseekimportcurbsonchemicalsplasticssourcessay",
   "aiboomposesnewfinancialstabilityrisksbisheadsays",
+  "yemenshouthiscloseinonbabelmandebstraitinnewthreattoshipping",
   "damagedequipmentatryazanoilrefinerywilltakeweekstorepairreuters",
   "usconsideringoiltankerinsurancesupporttoeasemiddleeastcrudeshipmentssourcessay",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "thewarinthemiddleeasthasderailedopecsplanstoincreaseoilproductionreuters",
-  "brentrallygainsmomentumassupplybuffersweakenforecastasof10092026",
   "theryazanoilrefinerywhichsuppliesmoscowwithgasolinehasonce",
+  "brentrallygainsmomentumassupplybuffersweakenforecastasof10092026",
+  "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "grainpricesfaceacriticalusdatestaschinareturnstoussoybeans",
   "thomsonreutersannouncespricingofpublicofferingofus1300000000notesandcanadianprivateplacementofc1000000000notes",
   "silverlakeintelbackedalterapreparesipothatcouldraiseover2billionasearlyas2026sourcessay",
@@ -801,13 +802,13 @@
   "ryazanoilrefinerysuspendsoperationsfollowingukrainiandroneattackonseptember6reuters",
   "irandoesntcontrolthehouthispakistanwarnsirantoreininhouthisassaudistrikesescalatereport",
   "supplysqueezeinmarinefueleasesasmarketsadaptstoprolongedhormuzdisruption",
-  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "brentholdsabove100astankerattacksdampenhopesforhormuztrafficrecovery",
+  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "iranusingbartersystemwithchinatobypasssanctionssourcestellreuters",
   "reutersrussianmilitarytestednewtechnologyinnorthernatlantictodisableunderseacommunicationscables",
   "oilshockreversessouthafricassixmonthcurrentaccountsurplus",
-  "houthisseizekeyyemeniredseaportsourcessayenergyflowsatrisk",
   "usiranescalationofthesanctionswar",
+  "houthisseizekeyyemeniredseaportsourcessayenergyflowsatrisk",
   "moldovaandukrainesayzelenskysflightfromchisinauwasdelayedduetoadronethreatnorwaysprimeministersaidthepresidentsplanealmo",
   "morefuelshortagestocomewarnsafricasbiggestoilrefinery",
   "trumpoffers5000toeveryamericanifrepublicanswinmidtermelections",
@@ -828,7 +829,6 @@
   "thelongendisbreakinghighereverywhereatonce",
   "burgumleavesopenneedforcongressin5000dividendplan",
   "priceshockisboonforoilstockscurseforrenewables",
-  "watchnyctransitagencyprepares785mmansiontaxbondsale",
   "financialssectorampindustryperformance",
   "europegasjumpstohighestsince2022asgulfwarflaresagain",
   "dollarhasbestdayintwoweeksasppioiladdtofedbets",
@@ -877,6 +877,8 @@
   "trumps5000dividendcouldsparkamassiveriskonrallybutinflationmayerasethegains",
   "nigerianstockmarketcrashesfurtherasinvestorsselloffequities",
   "coinbaseenablespromisingstablecoinpushto1000banks",
+  "japanwholesaleinflationstayshotinaugustcementscaseforbojhike",
+  "pbocisexpectedtosettheusdcnyreferencerateat67174reutersestimate",
   "nikkeikospifallasusbondyieldsandinflationdataspookmarkets",
   "japanaugustppisurges76yyexpected74prior72",
   "fartcoinselloffhereswhatmosttradersmissaboutexchangeinflowsellingsignals",
@@ -899,9 +901,9 @@
   "broaderusstockindicesstallthefallaheadoftargetedsupportlevels",
   "bitcoinsellersdefendkeyresistanceandtakebackcontrolbackbelow100barmalevel",
   "oilpricesaresurgingagainbutoilcompanystocksaredownwhatgives",
+  "watchnyctransitagencyprepares785mmansiontaxbondsale",
   "uswholesaleinventories13inlinewithexpectations",
   "usaugustexistinghomesales398mvs398mexpected",
-  "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "wallstreetdipsoilcontinuesclimbaheadofusinflationdata",
   "australiasoftensgasreserveruleforlngexporters",
   "asyieldsusdmovehighergoldisfallingsharplythepricecracksbelowit100daymatrendline",
@@ -1262,8 +1264,6 @@
   "sampptsxcompositefallsnearly400pointsusstockmarketsalsotradelower",
   "iranretaliatesagainstusalliesafteritsoiltankersdestroyed",
   "howbinancekeepsdoingeuropeanbusinesswithoutlicense",
-  "witkoffreports107millionfromentitythatheldcryptostake",
-  "bitcoinyenanddebtscottbessentchallengestradersworldwide",
-  "bloombergrussiaplanstointensifyattacksonukrainethroughthewinterandseriouspeacetalksareunlikelybefore2027"
+  "witkoffreports107millionfromentitythatheldcryptostake"
  ]
 }
