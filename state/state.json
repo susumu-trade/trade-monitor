@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-09-12",
+  "last_digest": "2026-09-13",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -751,7 +751,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-13T06:59:48.954317+09:00",
+  "cache_at": "2026-09-13T07:11:55.593001+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -771,24 +771,25 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "houthiadvanceinyemenputsusinanewbind",
+  "saudisshutdownoilpipelineashouthistightengriponredseashipping",
   "saudiarabiashutscriticaloilpipelineafterdroneattackwhatitmeans",
+  "houthiadvanceinyemenputsusinanewbind",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
-  "theweekinnumbersapplesfoldablelaunchcrudeoilhits100",
+  "missilestargetingsaudioilrefineriesshotdownsourcessay",
   "saudiarabiashutseastwestoilpipelineafterdroneattackfromiraqhow24outletsframedit",
   "pemexoilleakputsoffshoreinfrastructurebackinfocus",
   "videowhyissaudiarabiashuttingakeyoilpipelinenowreutersworldnews",
   "oilfallsbutontrackforsharpweeklygainonsupplyconcernsusdieselhitsrecordhigh",
-  "saudiaramcoseekstoreroutecrudeawayfromstraitofhormuzsourcessay",
   "saudiarabiashutskeyoilpipelineafterhouthisdroneattackreuters",
-  "saudisshutdownoilpipelineashouthistightengriponredseashipping",
+  "theweekinnumbersapplesfoldablelaunchcrudeoilhits100",
   "modiandputinhaveagreedtostrengthenindiarussiatiessaysreuters",
-  "bricsblocagreesonjointdeclarationsourcessay",
   "iranbackedhouthisadvancealongyemensredseacoastdisplacingnearly5000021outletscompared",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
+  "valeroshutstexasrefineryafterexplosionrocksdieselunitsourcessay",
   "bricsadoptsjointdeclarationurgesmaximumrestraintinmideast",
   "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "exclusivenvidiaintalkstoinvestinanthropicsmegaiposourcessay",
+  "bricsblocagreesonjointdeclarationsourcessay",
   "iraqdismissescommanderoverdroneattacksonsaudiarabia",
   "silverliningolyslagersrunnerupfinishbringsunexpectedreward",
   "coreinflationpostslargestgaininfourmonthsreinforcingbetsonaraterise",
@@ -808,7 +809,7 @@
   "whatprofessionalchinawatcherjordanschneidersaysismissingfromuschinacoverage",
   "braceforafloodofoilassoonashormuzreopensenergynewstopheadlinescommentariesfeaturesampevents",
   "goldpricetodaypriceofgoldperounce24hourspotchart",
-  "goldpullbackwhythelongterminvestmentcaseremainsintact",
+  "energyservicessettobenefitonceiranwarendsbarclayssays",
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "closureofcriticalsaudioilpipelineputsiraqunderpressure",
   "americansrelationshipwithgaspricesiscomplicated",
@@ -822,7 +823,6 @@
   "hkbarscenesnewstarfellowasbuilttotantalizethesenses",
   "pentagonstopweaponsbuyersayscongressmustactonmunitions",
   "watchxijinpingarrivesforbricssummit",
-  "energyservicessettobenefitonceiranwarendsbarclayssays",
   "tomtiffanyacceptedpoliticaldonationsfromenbridgevotedtoweakenapprovalprocessasline5facesnewscrutiny",
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
   "augustcpicoulddecidethefedsseptemberratemove",
@@ -857,6 +857,8 @@
   "whatisthedistributionofforecastsfortheuscpi",
   "irangainsstrongerleverageasoilsurgesabove100forcingurgentdiplomaticsolutions",
   "tradingwentaroundtheclockcansettlementkeepup",
+  "goldpullbackwhythelongterminvestmentcaseremainsintact",
+  "saudiaramcoseekstoreroutecrudeawayfromstraitofhormuzsourcessay",
   "kalshimovestoexpandintousstockandcommoditymarkets",
   "saudisshutdownoilpipeline",
   "saudicrownprincesoughtusmilitaryhelpfromtrumpwithhouthissourcessay",
@@ -1268,8 +1270,6 @@
   "kickstartthenatradingdaywithatechnicallookattheeurusdusdjpyandgbpusdwhatlevelsarekey",
   "investingliveeuropeanmarketswrapoilandbondyieldspushhigherasecbdecisionlooms",
   "oilpricesabove100continuetoliftbondyieldsasinflationfearsgrow",
-  "someoilbullsaregonnalaughatthiscontrarianshorttradeplaninoil",
-  "russiaandvietnamsignframeworkdealonstrategicoilstorageworldnews",
-  "oilisdrivingtheriseinlongtermyieldseverythingelseisjustnoise"
+  "someoilbullsaregonnalaughatthiscontrarianshorttradeplaninoil"
  ]
 }
