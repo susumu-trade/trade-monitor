@@ -751,7 +751,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-13T05:30:59.387272+09:00",
+  "cache_at": "2026-09-13T05:39:05.197579+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -771,15 +771,15 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "saudisshutdownoilpipelineashouthistightengriponredseashipping",
-  "saudiarabiashutscriticaloilpipelineafterdroneattackwhatitmeans",
   "houthiadvanceinyemenputsusinanewbind",
+  "saudiarabiashutscriticaloilpipelineafterdroneattackwhatitmeans",
   "yemenshouthiscapturemayunislandthreateningbabalmandabshippingroute15outletscompared",
+  "theweekinnumbersapplesfoldablelaunchcrudeoilhits100",
   "videowhyissaudiarabiashuttingakeyoilpipelinenowreutersworldnews",
   "oilfallsbutontrackforsharpweeklygainonsupplyconcernsusdieselhitsrecordhigh",
-  "saudiarabiashutskeyoilpipelineafterhouthisdroneattackreuters",
+  "saudisshutdownoilpipelineashouthistightengriponredseashipping",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
-  "theweekinnumbersapplesfoldablelaunchcrudeoilhits100",
+  "saudiarabiashutskeyoilpipelineafterhouthisdroneattackreuters",
   "saudiarabiashutseastwestoilpipelineafterdroneattackfromiraqhow24outletsframedit",
   "modiandputinhaveagreedtostrengthenindiarussiatiessaysreuters",
   "silverliningolyslagersrunnerupfinishbringsunexpectedreward",
@@ -799,8 +799,8 @@
   "investorsbraceforpossibleratehikeatuncertainfedmeeting",
   "mizuho126mcredittoradiantworldwassecuredbyallegedlyinvalidinvoicesdocumentsshow",
   "saudisshutdownoilpipeline",
-  "saudicrownprincesoughtusmilitaryhelpfromtrumpwithhouthissourcessay",
   "265bndeficit154bngoldimportswhyuaematterstoindiasbricstradestory",
+  "dronesfromiraqstrikesaudipetrolineclosingkingdomslastcrudeexportroute",
   "fromworldsbiggestlngexportertoimporterhowiranwarhormuzclosureforcedqatartoturntousgas",
   "1samuel174850",
   "bricsblocagreesonjointdeclarationsourcessay",
@@ -826,13 +826,13 @@
   "augustcpicoulddecidethefedsseptemberratemove",
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
   "chevronwontpaytolltomoveshipsthroughhormuzceotellsbloombergtv",
-  "canadasieaoilpromiseaddslittlenewcrudetotightmarket",
   "economicsweekahead",
+  "canadasieaoilpromiseaddslittlenewcrudetotightmarket",
   "qatarenergypreparestoextendforcemajeureonlngintomidoctoberbloombergnewsreports",
   "canadianenergystockseyefirstrecordsince2008asoilsoars",
   "tomtiffanyacceptedpoliticaldonationsfromenbridgevotedtoweakenapprovalprocessasline5facesnewscrutiny",
-  "energyservicessettobenefitonceiranwarendsbarclayssays",
   "openaiagentsattackedrubygemsbeforehuggingfaceincidentresearcherssay",
+  "energyservicessettobenefitonceiranwarendsbarclayssays",
   "tsxrisesontechstrengthusstockmarketsalsoclimb",
   "microsoftmayabandonitscleanenergypowereddatacentretargets",
   "mexicowashingtonsprinttowardbilateraltradedealbeforeuselections",
@@ -863,6 +863,7 @@
   "whatisthedistributionofforecastsfortheuscpi",
   "irangainsstrongerleverageasoilsurgesabove100forcingurgentdiplomaticsolutions",
   "tradingwentaroundtheclockcansettlementkeepup",
+  "saudicrownprincesoughtusmilitaryhelpfromtrumpwithhouthissourcessay",
   "oilpricessettlemorethan1higherlogstrongestmonthsincemarch",
   "dollarwaversasinflationaidsfedhikebetswhileoilfalls",
   "iraqordersclosureofshalamchehbordercrossingwithirantwosourcessay",
@@ -1269,7 +1270,6 @@
   "afterearlyholidayimportrushthebusiestusseaport",
   "chinesecoppersshareofavailablelmestocksrisesto44inaugust",
   "exclusivepakistanwarnsirantoreininhouthisasriyadhstrikesback",
-  "aragasoilstocksrise4insightsglobaldatashows",
-  "chinahongkongstockstrackregionalpeersloweronoildriveninflationfears"
+  "aragasoilstocksrise4insightsglobaldatashows"
  ]
 }
