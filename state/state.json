@@ -879,7 +879,7 @@
     "previous": "0.2%"
    }
   ],
-  "cache_at": "2026-09-14T00:31:55.080546+09:00",
+  "cache_at": "2026-09-14T00:40:01.931903+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -900,6 +900,7 @@
  },
  "news_seen2": [
   "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
+  "saudiarabiashutseastwestoilpipelineafterdronesfromiraqattackroutewho13outletsblamed",
   "saudiarabianpipelineoutagethreatensglobaloilsupply",
   "newhormuzshipattackraisesoilsupplyfears",
   "warlatestnewsshutdownofsaudioilpipelinethreatenstocausea4percentdropinglobaloilsupply",
@@ -914,6 +915,7 @@
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
   "newstraitofhormuzshipattackraisesoilsupplyfearsasiranwarwidens",
   "saudiscloseoilpipelineafterredseasiege",
+  "brentholdsnear104asopecandieadisagreeondemandby29millionbarrels",
   "houthisseizemayunislandinsidebabelmandebassaudiarabiashutsoilpipeline",
   "ukraineclaims285shadowfleetvesselshitin10weeksasrussiakills11inodesa",
   "goldrateukseptember12202624ctat10336gassterlingholdssixweekhigh",
@@ -923,19 +925,20 @@
   "afteroilsurgeandwaremergingmarketsunfazedbyfedrisk",
   "prospectsforoilpricessupplyshocksvsdemanddestruction",
   "thepriceelasticityofusshaleoilsupplyinsightsfromanaturalexperiment",
+  "usoilsanctionspushbeijingtotestwashingtonslimits",
   "trumpdemandsukrainehaltrefinerystrikesasdieselsurges",
   "energyservicessettobenefitonceiranwarendsbarclayssays",
   "stocksfallasoilpricessurgeandratehikefearsreturnweeklymarketrecap",
   "anthropicsaiwarningmayweighonchipsbuttradeseenintact",
   "oraclecloudgrowthopenaidataagentandycoutboundsales",
-  "oilampgasdealmakingheatsupwith20billionofassetsinplay",
   "ecbslagardesayscurrentinflationshockwillbelongerlasting",
   "spacexweightinginnasdaq100settomorethandoublebloomberg",
   "laboursignalsactiontostiflefaragescryptodonationsurge",
   "tomtiffanyacceptedpoliticaldonationsfromenbridgevotedtoweakenapprovalprocessasline5facesnewscrutiny",
   "chinasrongshengweighsalbertatobcpipelineoilsupplypact",
-  "aiwilldriveastrongusearningsseasongoldmanssnidersays",
+  "oilampgasdealmakingheatsupwith20billionofassetsinplay",
   "watch18thbricssummitwrapsinnewdelhi",
+  "aiwilldriveastrongusearningsseasongoldmanssnidersays",
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "elonmusknetworthtops935basspacexlands13baideal",
   "investingliveamericasfxnewswrap11septuscpiraisesoddsforfedratehike",
@@ -966,7 +969,6 @@
   "qatarenergyexploresuslngdealstooffsetproductionlosses",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "speculatorsturnnetlongonyenforfirsttimesincefebruary",
-  "usoilsanctionspushbeijingtotestwashingtonslimits",
   "livetrumpsaysiranwarcouldendaroundmidtermsasiranianvesselstrucknearqeshmisland",
   "videowhyissaudiarabiashuttingakeyoilpipelinenowreutersworldnews",
   "numberofvesselsredirectedinusblockadeoniranreaches100",
@@ -1396,8 +1398,6 @@
   "nigeriain1mineconomicbusinessandfinancialmarketheadlines110926",
   "indiahostsbricssummitasiranwartestsblocunity",
   "brentoilholdsnear101asiransaysreadyforintensewar",
-  "iranwarwillendrightafternovemberusmidtermelectionsdonaldtrump",
-  "theoilmarketissuddenlyahugeproblem",
-  "yemenshouthiscloseinonbabelmandebstraitinnewthreattoshipping"
+  "iranwarwillendrightafternovemberusmidtermelectionsdonaldtrump"
  ]
 }
