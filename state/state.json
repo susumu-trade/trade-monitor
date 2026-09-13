@@ -751,7 +751,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-13T11:18:52.816777+09:00",
+  "cache_at": "2026-09-13T11:26:57.984908+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -771,8 +771,9 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "houthiadvanceinyemenputsusinanewbind",
+  "newreportofattackonstraitofhormuzshippingfansfearsofthreatstooilsupplies",
   "saudiarabiashutscriticaloilpipelineafterdroneattackwhatitmeans",
+  "houthiadvanceinyemenputsusinanewbind",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
   "saudiarabiashutseastwestoilpipelineafterdroneattackfromiraqhow24outletsframedit",
   "missilestargetingsaudioilrefineriesshotdownsourcessay",
@@ -784,17 +785,16 @@
   "saudiarabiashutskeyoilpipelineafterhouthisdroneattackreuters",
   "iranbackedhouthisadvancealongyemensredseacoastdisplacingnearly5000021outletscompared",
   "oilpricesfallafterusandiranreceiveframeworkceasefireproposal",
-  "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "teslasetsoctober1roadsterlaunchinwacotexasafternearlyadecadehow10outletsframedit",
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
   "saudiarabiashutseastwestpipelineafterdroneattackfromiraqiraqconfirmsorigin39outletscompared",
   "valeroshutstexasrefineryafterexplosionrocksdieselunitsourcessay",
+  "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "silverliningolyslagersrunnerupfinishbringsunexpectedreward",
-  "iraqdismissescommanderoverdroneattacksonsaudiarabia",
   "bricsblocagreesonjointdeclarationsourcessay",
+  "iraqdismissescommanderoverdroneattacksonsaudiarabia",
   "yemeniforcesthwartmajorhouthiattackinmarib",
   "coreinflationpostslargestgaininfourmonthsreinforcingbetsonaraterise",
-  "houthiscontrolkeyshippingrouteaftergainsalongyemensredseacoast",
   "gulfoilthreatenedanewashouthisreachkeyislandandpipelineisshutdown",
   "mizuho126mcredittoradiantworldwassecuredbyallegedlyinvalidinvoicesdocumentsshow",
   "265bndeficit154bngoldimportswhyuaematterstoindiasbricstradestory",
@@ -850,8 +850,9 @@
   "whatisthedistributionofforecastsfortheuscpi",
   "irangainsstrongerleverageasoilsurgesabove100forcingurgentdiplomaticsolutions",
   "tradingwentaroundtheclockcansettlementkeepup",
-  "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "saudiarabiashutskeyoilpipelineafterdroneattackfromiraq",
+  "houthiscontrolkeyshippingrouteaftergainsalongyemensredseacoast",
+  "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "saudicrownprincesoughtusmilitaryhelpfromtrumpwithhouthissourcessay",
   "oilpricesslidemorethan3wtifallsbelow100",
   "theweekinnumbersapplesfoldablelaunchcrudeoilhits100",
@@ -1269,7 +1270,6 @@
   "aiwilldriveastrongusearningsseasongoldmanssnidersays",
   "insidebloombergsaskbhowtheterminalisrethinkingagenticai",
   "usstocksfallonwallstreetasoilpricesjumpbackaboveus100abarrelafteriranwarescalates",
-  "gassupplytotheseovensthatretailfor1020kshouldimmediatelybeshutoffoverfirerisk",
-  "joblessclaimsshowsteadyusemploymentpictureinitialclaims206kvs205kestimate"
+  "gassupplytotheseovensthatretailfor1020kshouldimmediatelybeshutoffoverfirerisk"
  ]
 }
