@@ -879,7 +879,7 @@
     "previous": "0.2%"
    }
   ],
-  "cache_at": "2026-09-13T18:54:48.258975+09:00",
+  "cache_at": "2026-09-13T19:06:53.915402+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -899,9 +899,9 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "newreportofattackonstraitofhormuzshippingfansfearsofthreatstooilsupplies",
-  "newhormuzshipattackraisesoilsupplyfears",
   "saudisshutdownoilpipelineashouthistightengriponredseashipping",
+  "newhormuzshipattackraisesoilsupplyfears",
+  "newreportofattackonstraitofhormuzshippingfansfearsofthreatstooilsupplies",
   "qatarenergyexploresuslngdealstooffsetproductionlosses",
   "teslasetsoctober1roadsterlaunchinwacotexasafternearlyadecadehow10outletsframedit",
   "newstraitofhormuzshipattackraisesoilsupplyfearsasiranwarwidens",
@@ -914,7 +914,6 @@
   "iranbackedhouthisadvancealongyemensredseacoastdisplacingnearly5000021outletscompared",
   "russianattackskill9injuredozensinukrainerussiasaysithitsshipsplants",
   "saudiarabiashutseastwestoilpipelineafterdroneattackfromiraqhow24outletsframedit",
-  "saudiarabiashutseastwestpipelineafterdroneattackfromiraqiraqconfirmsorigin39outletscompared",
   "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "silverliningolyslagersrunnerupfinishbringsunexpectedreward",
   "nosignedhormuzdealexpectedyetfromomanmeetingonmondayiranianofficialsays",
@@ -926,8 +925,8 @@
   "houthiadvanceintobabelmandebstraitraisesoilsupplyfears",
   "whatisbabelmandebwhythisredseachokepointmatterstoindia",
   "prospectsforoilpricessupplyshocksvsdemanddestruction",
-  "thepriceelasticityofusshaleoilsupplyinsightsfromanaturalexperiment",
   "whatprofessionalchinawatcherjordanschneidersaysismissingfromuschinacoverage",
+  "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "oraclecloudgrowthopenaidataagentandycoutboundsales",
   "anthropicsaiwarningmayweighonchipsbuttradeseenintact",
   "spacexweightinginnasdaq100settomorethandoublebloomberg",
@@ -964,6 +963,8 @@
   "whatisthedistributionofforecastsfortheuscpi",
   "irangainsstrongerleverageasoilsurgesabove100forcingurgentdiplomaticsolutions",
   "tradingwentaroundtheclockcansettlementkeepup",
+  "saudiarabiashutseastwestpipelineafterdroneattackfromiraqiraqconfirmsorigin39outletscompared",
+  "thepriceelasticityofusshaleoilsupplyinsightsfromanaturalexperiment",
   "iraqdismissescommanderoverdroneattacksonsaudiarabia",
   "qatarenergyexploresuslngdealstooffsetproductionlossesegyptoil",
   "chartingtheglobaleconomyoilsurgefansglobalinflation",
@@ -972,7 +973,6 @@
   "coreinflationpostslargestgaininfourmonthsreinforcingbetsonaraterise",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "modiforgesbricsconsensusinshadowofworseningiranwar",
-  "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "americansrelationshipwithgaspricesiscomplicated",
   "chevronwontpaytolltomoveshipsthroughhormuzceotellsbloombergtv",
   "braceforafloodofoilassoonashormuzreopensenergynewstopheadlinescommentariesfeaturesampevents",
