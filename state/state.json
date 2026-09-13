@@ -911,6 +911,14 @@
     "previous": "0.2%"
    },
    {
+    "title": "FOMC Member Schmid Speaks",
+    "country": "USD",
+    "date": "2026-09-18T11:45:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
     "title": "ECOFIN Meetings",
     "country": "EUR",
     "date": "2026-09-19T06:15:00-04:00",
@@ -919,7 +927,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-14T07:40:38.596422+09:00",
+  "cache_at": "2026-09-14T07:51:06.183998+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -942,19 +950,17 @@
   "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "houthisyemenadvanceleavesgulfstateswithuncomfortablechoice",
   "saudiarabiashutseastwestoilpipelineafterdronesfromiraqattackroutewho13outletsblamed",
-  "livetrumpsaysiranwarcouldendaroundmidtermsasiranianvesselstrucknearqeshmisland",
   "saudipipelineoutagethreatens4ofglobaloilsupply",
   "newhormuzshipattackraisesoilsupplyfears",
   "saudiarabianpipelineoutagethreatensglobaloilsupply",
-  "saudipipelineattackthreatensmorepainattexaspumps",
   "saudiarabiamayrunoutofoilstocksduetostrikesoneastwestpipelinereport",
+  "saudipipelineattackthreatensmorepainattexaspumps",
   "qatarenergyexploresuslngdealstooffsetproductionlosses",
   "saudipipelineshutdowncouldcutglobaloilsuppliesby4",
   "bricsblocagreesonjointdeclarationsourcessay",
   "newattacksinhormuzandsauditestnervesaswarsspreadworsensoildisruption",
   "newstraitofhormuzshipattackraisesoilsupplyfearsasiranwarwidens",
   "newreportofattackonstraitofhormuzshippingfansfearsofthreatstooilsupplies",
-  "warlatestnewsyemengovernmentforceshavelost500soldiersinamonth",
   "warlatestnewsshutdownofsaudioilpipelinethreatenstocutglobaloilsupplyby4percent",
   "russianattackskill9injuredozensinukrainerussiasaysithitsshipsplants",
   "saudisshutdownoilpipelineashouthistightengriponredseashippingworldnews",
@@ -963,7 +969,6 @@
   "houthiadvanceintobabelmandebstraitraisesoilsupplyfears",
   "oiljumpsasshutdownofsaudipipelinedeepensenergycrisis",
   "whymarketsthinktheusiswinningtheblockade",
-  "goldpullbackwhythelongterminvestmentcaseremainsintact",
   "usstockfuturesfallonaiwarningoilgainsmarketswrap",
   "thepriceelasticityofusshaleoilsupplyinsightsfromanaturalexperiment",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
@@ -982,6 +987,8 @@
   "fromdigitalgoldto10000bloombergstrategistflagscrucialbitcoinsellsignals",
   "usgasolinepricesexpectedtostayabove4pergallonbloomberg",
   "newbitcoincrashaheadbloombergstrategistwarnsof10000as3alarmingsellsignalsflash",
+  "nzservicessectorexpandsforthirdmonthaspsirisesto512",
+  "weekendtankerhitbyprojectileinhormuzasfreshattacksreportedatsea",
   "oilgaphighersaudipipelineshutafterdroneattackashormuzmeetingispostponed",
   "globexisopenandoilhasjumpedhigherwhilestockshaveslumped",
   "teslasflyingroadsterdemotolandafteryearsofmissedrevealdates",
@@ -1005,8 +1012,11 @@
   "someanniversariesarentmeanttobecelebratedtheyaresimplyrememberedandneverforgotten",
   "backupthegarbagetruckalookathowaiwillimpactmarginsinai",
   "reactionmarketsreboundaftertheinitialreactionsarereversed",
+  "livetrumpsaysiranwarcouldendaroundmidtermsasiranianvesselstrucknearqeshmisland",
+  "warlatestnewsyemengovernmentforceshavelost500soldiersinamonth",
   "forexkickstartusdmixedasmarketsawaittheuscpireport",
   "usaugustcpi34vs34expected",
+  "goldpullbackwhythelongterminvestmentcaseremainsintact",
   "houthisseizemayunislandinsidebabelmandebassaudiarabiashutsoilpipeline",
   "oilgainsasshutdownofsaudipipelinedeepensenergycrisis",
   "sectorampindustryperformance",
@@ -1436,8 +1446,6 @@
   "investingliveamericasmarketnewswrapoilclimbs7",
   "fivedeadmorethan80missingafterphilippineferryfire",
   "commentaryuscpiwherethesignificantandthesillycollide",
-  "globalbondsbuckleassurgingoilpricesinflameinflationrisks",
-  "iranusingbartersystemwithchinatobypasssanctionssourcestellreuters",
-  "houthisseizekeyyemeniportcloseinonredseachokepoint"
+  "globalbondsbuckleassurgingoilpricesinflameinflationrisks"
  ]
 }
