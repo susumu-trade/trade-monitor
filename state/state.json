@@ -879,7 +879,7 @@
     "previous": "0.2%"
    }
   ],
-  "cache_at": "2026-09-13T18:46:44.900608+09:00",
+  "cache_at": "2026-09-13T18:54:48.258975+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -899,9 +899,9 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "saudisshutdownoilpipelineashouthistightengriponredseashipping",
-  "newhormuzshipattackraisesoilsupplyfears",
   "newreportofattackonstraitofhormuzshippingfansfearsofthreatstooilsupplies",
+  "newhormuzshipattackraisesoilsupplyfears",
+  "saudisshutdownoilpipelineashouthistightengriponredseashipping",
   "qatarenergyexploresuslngdealstooffsetproductionlosses",
   "teslasetsoctober1roadsterlaunchinwacotexasafternearlyadecadehow10outletsframedit",
   "newstraitofhormuzshipattackraisesoilsupplyfearsasiranwarwidens",
@@ -916,7 +916,6 @@
   "saudiarabiashutseastwestoilpipelineafterdroneattackfromiraqhow24outletsframedit",
   "saudiarabiashutseastwestpipelineafterdroneattackfromiraqiraqconfirmsorigin39outletscompared",
   "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
-  "iraqdismissescommanderoverdroneattacksonsaudiarabia",
   "silverliningolyslagersrunnerupfinishbringsunexpectedreward",
   "nosignedhormuzdealexpectedyetfromomanmeetingonmondayiranianofficialsays",
   "gulfoilthreatenedanewashouthisreachkeyislandandpipelineisshutdown",
@@ -965,6 +964,7 @@
   "whatisthedistributionofforecastsfortheuscpi",
   "irangainsstrongerleverageasoilsurgesabove100forcingurgentdiplomaticsolutions",
   "tradingwentaroundtheclockcansettlementkeepup",
+  "iraqdismissescommanderoverdroneattacksonsaudiarabia",
   "qatarenergyexploresuslngdealstooffsetproductionlossesegyptoil",
   "chartingtheglobaleconomyoilsurgefansglobalinflation",
   "bricsblocagreesonjointdeclarationsourcessay",
