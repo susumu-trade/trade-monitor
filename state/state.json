@@ -579,7 +579,7 @@
     "country": "USD",
     "date": "2026-09-16T14:00:00-04:00",
     "impact": "High",
-    "forecast": "",
+    "forecast": "3.75%",
     "previous": "3.75%"
    },
    {
@@ -879,7 +879,7 @@
     "previous": "0.2%"
    }
   ],
-  "cache_at": "2026-09-14T02:40:53.393219+09:00",
+  "cache_at": "2026-09-14T02:55:03.842749+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -901,15 +901,16 @@
  "news_seen2": [
   "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "saudiarabiashutseastwestoilpipelineafterdronesfromiraqattackroutewho13outletsblamed",
-  "houthisyemenadvanceleavesgulfstateswithuncomfortablechoice",
   "newhormuzshipattackraisesoilsupplyfears",
+  "houthisyemenadvanceleavesgulfstateswithuncomfortablechoice",
   "saudiarabianpipelineoutagethreatensglobaloilsupply",
   "warlatestnewsshutdownofsaudioilpipelinethreatenstocutglobaloilsupplyby4percent",
+  "livetrumpsaysiranwarcouldendaroundmidtermsasiranianvesselstrucknearqeshmisland",
   "qatarenergyexploresuslngdealstooffsetproductionlosses",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "saudipipelineshutdowncouldcutglobaloilsuppliesby4",
-  "newreportofattackonstraitofhormuzshippingfansfearsofthreatstooilsupplies",
   "oilsupplyfearsmountafterreportedhormuzshipattackandclosureofvitalsaudipipeline",
+  "newreportofattackonstraitofhormuzshippingfansfearsofthreatstooilsupplies",
   "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
   "saudisshutdownoilpipelineashouthistightengriponredseashipping",
   "exclusivenvidiaintalkstoinvestinanthropicsmegaiposourcessay",
@@ -917,9 +918,9 @@
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
   "saudipipelineoutagethreatens4ofglobaloilsupply",
   "newstraitofhormuzshipattackraisesoilsupplyfearsasiranwarwidens",
+  "attacksshutdownkeysaudioilpipeline",
   "brentholdsnear104asopecandieadisagreeondemandby29millionbarrels",
   "houthisseizemayunislandinsidebabelmandebassaudiarabiashutsoilpipeline",
-  "ukraineclaims285shadowfleetvesselshitin10weeksasrussiakills11inodesa",
   "goldrateukseptember12202624ctat10336gassterlingholdssixweekhigh",
   "houthiadvanceintobabelmandebstraitraisesoilsupplyfears",
   "whymarketsthinktheusiswinningtheblockade",
@@ -966,6 +967,9 @@
   "whatisthedistributionofforecastsfortheuscpi",
   "irangainsstrongerleverageasoilsurgesabove100forcingurgentdiplomaticsolutions",
   "tradingwentaroundtheclockcansettlementkeepup",
+  "russianattackskill9injuredozensinukrainerussiasaysithitsshipsplants",
+  "saudisshutdownoilpipelineashouthistightengriponredseashippingworldnews",
+  "ukraineclaims285shadowfleetvesselshitin10weeksasrussiakills11inodesa",
   "prospectsforoilpricessupplyshocksvsdemanddestruction",
   "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "tomtiffanyacceptedpoliticaldonationsfromenbridgevotedtoweakenapprovalprocessasline5facesnewscrutiny",
@@ -974,7 +978,6 @@
   "warlatestnewsshutdownofsaudioilpipelinethreatenstocausea4percentdropinglobaloilsupply",
   "whatisbabelmandebwhythisredseachokepointmatterstoindia",
   "speculatorsturnnetlongonyenforfirsttimesincefebruary",
-  "livetrumpsaysiranwarcouldendaroundmidtermsasiranianvesselstrucknearqeshmisland",
   "videowhyissaudiarabiashuttingakeyoilpipelinenowreutersworldnews",
   "numberofvesselsredirectedinusblockadeoniranreaches100",
   "whyembondshaveoutperformedtreasuriesandthestructuralcasebehindit",
@@ -1003,7 +1006,6 @@
   "saudiarabiashutscriticaloilpipelineafterdroneattackwhatitmeans",
   "silverliningolyslagersrunnerupfinishbringsunexpectedreward",
   "whatprofessionalchinawatcherjordanschneidersaysismissingfromuschinacoverage",
-  "russianattackskill9injuredozensinukrainerussiasaysithitsshipsplants",
   "trumpsfoesfindcommongroundatmodisnewdelhisummit",
   "iraqdismissescommanderoverdroneattacksonsaudiarabia",
   "chartingtheglobaleconomyoilsurgefansglobalinflation",
@@ -1034,7 +1036,6 @@
   "qatarturnstousforlongtermlngsupplies",
   "newstraitofhormuzshipattackraisesoilsupplyfearsasiranwarwidensbyinvestingcom",
   "droneattacksforcesaudiarabiashutoilpipelineseekushelpashouthisseizeredseaislandinternationalbusinesstimessingaporeeditio",
-  "saudisshutdownoilpipelineashouthistightengriponredseashippingworldnews",
   "fromworldsbiggestlngexportertoimporterhowiranwarhormuzclosureforcedqatartoturntousgas",
   "oilpricesslidemorethan3wtifallsbelow100",
   "theweekinnumbersapplesfoldablelaunchcrudeoilhits100",
@@ -1397,7 +1398,6 @@
   "chfjpywaterfallmeetsahistoryofcountertrendsqueezes",
   "aiboomposesnewfinancialstabilityrisksbisheadsays",
   "higheroilhigheryieldsdoubletroubleforstocks",
-  "chinahongkongsharesheadforweeklydroponfedrateconcerns",
-  "nigeriain1mineconomicbusinessandfinancialmarketheadlines110926"
+  "chinahongkongsharesheadforweeklydroponfedrateconcerns"
  ]
 }
