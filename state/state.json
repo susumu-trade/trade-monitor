@@ -143,14 +143,6 @@
     "previous": "0.1%"
    },
    {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-09-14T02:02:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-6.2%"
-   },
-   {
     "title": "PPI m/m",
     "country": "CHF",
     "date": "2026-09-14T02:30:00-04:00",
@@ -317,6 +309,14 @@
     "impact": "Low",
     "forecast": "4.9%",
     "previous": "4.9%"
+   },
+   {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-09-15T02:02:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-6.2%"
    },
    {
     "title": "French Final CPI m/m",
@@ -879,7 +879,7 @@
     "previous": "0.2%"
    }
   ],
-  "cache_at": "2026-09-14T01:40:28.650237+09:00",
+  "cache_at": "2026-09-14T01:52:32.818155+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -908,8 +908,8 @@
   "qatarenergyexploresuslngdealstooffsetproductionlosses",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "saudipipelineshutdowncouldcutglobaloilsuppliesby4",
-  "newreportofattackonstraitofhormuzshippingfansfearsofthreatstooilsupplies",
   "oilsupplyfearsmountafterreportedhormuzshipattackandclosureofvitalsaudipipeline",
+  "newreportofattackonstraitofhormuzshippingfansfearsofthreatstooilsupplies",
   "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
   "newattacksinhormuzandsauditestnervesaswarsspreadworsensoildisruption",
   "saudipipelineoutagethreatens4ofglobaloilsupply",
@@ -918,7 +918,6 @@
   "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "brentholdsnear104asopecandieadisagreeondemandby29millionbarrels",
   "houthisseizemayunislandinsidebabelmandebassaudiarabiashutsoilpipeline",
-  "ukraineclaims285shadowfleetvesselshitin10weeksasrussiakills11inodesa",
   "goldrateukseptember12202624ctat10336gassterlingholdssixweekhigh",
   "houthiadvanceintobabelmandebstraitraisesoilsupplyfears",
   "whymarketsthinktheusiswinningtheblockade",
@@ -967,6 +966,7 @@
   "whatisthedistributionofforecastsfortheuscpi",
   "irangainsstrongerleverageasoilsurgesabove100forcingurgentdiplomaticsolutions",
   "tradingwentaroundtheclockcansettlementkeepup",
+  "ukraineclaims285shadowfleetvesselshitin10weeksasrussiakills11inodesa",
   "saudiscloseoilpipelineafterredseasiege",
   "qatarenergyexploresuslngdealstooffsetproductionlossesegyptoil",
   "warlatestnewsshutdownofsaudioilpipelinethreatenstocausea4percentdropinglobaloilsupply",
