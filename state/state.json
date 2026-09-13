@@ -223,6 +223,14 @@
     "previous": "-0.4%"
    },
    {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "date": "2026-09-14T11:15:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+   },
+   {
     "title": "New Home Prices m/m",
     "country": "CNY",
     "date": "2026-09-14T21:30:00-04:00",
@@ -579,7 +587,7 @@
     "country": "USD",
     "date": "2026-09-16T14:00:00-04:00",
     "impact": "High",
-    "forecast": "3.75%",
+    "forecast": "4.00%",
     "previous": "3.75%"
    },
    {
@@ -847,6 +855,30 @@
     "previous": "35.1B"
    },
    {
+    "title": "Eurogroup Meetings",
+    "country": "EUR",
+    "date": "2026-09-18T06:15:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "ECOFIN Meetings",
+    "country": "EUR",
+    "date": "2026-09-18T06:15:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "date": "2026-09-18T06:30:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+   },
+   {
     "title": "Capacity Utilization Rate",
     "country": "USD",
     "date": "2026-09-18T09:15:00-04:00",
@@ -877,9 +909,17 @@
     "impact": "Low",
     "forecast": "0.2%",
     "previous": "0.2%"
+   },
+   {
+    "title": "ECOFIN Meetings",
+    "country": "EUR",
+    "date": "2026-09-19T06:15:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
    }
   ],
-  "cache_at": "2026-09-14T06:40:05.301451+09:00",
+  "cache_at": "2026-09-14T06:48:09.481114+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -899,8 +939,8 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "houthisyemenadvanceleavesgulfstateswithuncomfortablechoice",
   "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
+  "houthisyemenadvanceleavesgulfstateswithuncomfortablechoice",
   "saudiarabiashutseastwestoilpipelineafterdronesfromiraqattackroutewho13outletsblamed",
   "livetrumpsaysiranwarcouldendaroundmidtermsasiranianvesselstrucknearqeshmisland",
   "saudipipelineoutagethreatens4ofglobaloilsupply",
@@ -924,7 +964,6 @@
   "houthiadvanceintobabelmandebstraitraisesoilsupplyfears",
   "sectorampindustryperformance",
   "whymarketsthinktheusiswinningtheblockade",
-  "goldpullbackwhythelongterminvestmentcaseremainsintact",
   "afteroilsurgeandwaremergingmarketsunfazedbyfedrisk",
   "thepriceelasticityofusshaleoilsupplyinsightsfromanaturalexperiment",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
@@ -935,11 +974,13 @@
   "trumpdemandsukrainehaltrefinerystrikesasdieselsurges",
   "spacexweightinginnasdaq100settomorethandoublebloomberg",
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
+  "chinasrongshengweighsalbertatobcpipelineoilsupplypact",
   "jeffriessaysdemocratstomeettuesdayonaiactionabcnews",
   "laboursignalsactionagainstfaragescryptodonationsurge",
   "watch18thbricssummitwrapsinnewdelhi",
   "fromdigitalgoldto10000bloombergstrategistflagscrucialbitcoinsellsignals",
   "usgasolinepricesexpectedtostayabove4pergallonbloomberg",
+  "democratsmeetaheadoftuesdayscrucialclarityactvotebtcethimplications",
   "ecbchieflagardesayseuroareainflationshockwilllastlongerthanexpected",
   "nasdaqfuturessettoopenlowerasaltmanrulesout2026openaiipo",
   "mondayopenindicativeforexprices14september2026",
@@ -965,7 +1006,7 @@
   "investingliveeuropeannewswrapthecalmbeforethestorm",
   "goldfallsbackintothemajor4300supportaheadofuscpiassurgingoilpricesincreaseratehikebets",
   "yemensiranbackedhouthishavecompletedthetakeoverofbabel",
-  "chinasrongshengweighsalbertatobcpipelineoilsupplypact",
+  "goldpullbackwhythelongterminvestmentcaseremainsintact",
   "warlatestnewsshutdownofsaudioilpipelinethreatenstocausea4percentdropinglobaloilsupply",
   "bitcointradesatamajorsupportaheadoftheuscpireportwhattowatchnext",
   "oilsupplyfearsmountafterreportedhormuzshipattackandclosureofvitalsaudipipeline",
@@ -1397,7 +1438,6 @@
   "watchfanaticskingonsportsbettingandpredictionmarkets",
   "hiredtocodehebuilthudsonrivertradinganda27billionfortune",
   "dollargainsgroundasfedtighteningexpectationsriseforecastasof110926",
-  "fourmarketsonebasketamentalmodelforcommoditiesinto2027",
-  "nigerianstockmarketcrashesfurtherasinvestorsselloffequities"
+  "fourmarketsonebasketamentalmodelforcommoditiesinto2027"
  ]
 }
