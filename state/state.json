@@ -927,7 +927,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-14T09:23:46.099167+09:00",
+  "cache_at": "2026-09-14T09:31:50.882887+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -947,11 +947,11 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "commentaryoilmarketssurvivedtheiranwarsprintnowcomesthemarathon",
-  "saudipipelineoutagethreatens4ofglobaloilsupplyreuters",
-  "saudiarabiashutseastwestoilpipelineafterdronesfromiraqattackroutewho13outletsblamed",
   "houthisyemenadvanceleavesgulfstateswithuncomfortablechoice",
+  "mexicoandtheunitedstatesintensifytalksforinterimtradedealbeforenovember3midterms11outletscompared",
+  "saudipipelineoutagethreatens4ofglobaloilsupplyreuters",
+  "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "saudipipelineoutagethreatens4ofglobaloilsupply",
   "newhormuzshipattackraisesoilsupplyfears",
   "saudiarabianpipelineoutagethreatensglobaloilsupply",
@@ -959,11 +959,11 @@
   "saudipipelineattackthreatensmorepainattexaspumps",
   "saudisshutdownoilpipelineashouthistightengriponredseashipping",
   "qatarenergyexploresuslngdealstooffsetproductionlosses",
-  "saudipipelineshutdowncouldcutglobaloilsuppliesby4",
   "oilpricesjumpmorethan2afternewstrikesonsaudistraitofhormuz",
   "newstraitofhormuzshipattackraisesoilsupplyfearsasiranwarwidens",
   "diplomacystumbleswithpostponementofmeetingonstraitofhormuzproposal",
   "newattacksinhormuzandsauditestnervesaswarsspreadworsensoildisruption",
+  "saudipipelineshutdowncouldcutglobaloilsuppliesby4",
   "newreportofattackonstraitofhormuzshippingfansfearsofthreatstooilsupplies",
   "russianattackskill9injuredozensinukrainerussiasaysithitsshipsplants",
   "brentholdsnear104asopecandieadisagreeondemandby29millionbarrels",
@@ -973,14 +973,15 @@
   "whymarketsthinktheusiswinningtheblockade",
   "a7billiongasbillseesdevelopingasiannationssouronlng",
   "usepapoisedtorepealcarbonstandardsforgascoalpowerplantsbloombergnewsreports",
+  "theseassetclassesarebackonthemap",
   "usstockfuturesfallonaiwarningsoilgainsmarketswrap",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "energyservicessettobenefitonceiranwarendsbarclayssays",
   "canadanotseekingeumembershipinanycapacitysource",
   "anthropicsaiwarningmayweighonchipsbuttradeseenintact",
   "ecbslagardesayscurrentinflationshockwillbelongerlasting",
+  "spacexweightinginnasdaq100settomorethandoublebloombergbyinvestingcom",
   "a5treasuryyieldisraisingnewrisksformarketseconomy",
-  "spacexweightinginnasdaq100settomorethandoublebloomberg",
   "chevronwontpaytolltomoveshipsthroughhormuzceotellsbloombergtv",
   "afteroilsurgeandwaremergingmarketsunfazedbyfedrisk",
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
@@ -1015,8 +1016,10 @@
   "metastocksurgesonmuseailaunchbutcanitbreakkeyresistance",
   "aftertestingkeysupportyesterdaythespandnasdaqindicesaresqueezinghigherwhatnexttechnically",
   "umichseptemberconsumersentiment478vs510expected",
-  "saudipipelineoutagethreatens4ofglobaloilsupplyco1comcommodity",
   "oilgainsasshutdownofsaudipipelinedeepensenergycrisis",
+  "saudiarabiashutseastwestoilpipelineafterdronesfromiraqattackroutewho13outletsblamed",
+  "spacexweightinginnasdaq100settomorethandoublebloomberg",
+  "saudipipelineoutagethreatens4ofglobaloilsupplyco1comcommodity",
   "someanniversariesarentmeanttobecelebratedtheyaresimplyrememberedandneverforgotten",
   "canadianshoppersshunusproductsimalittlebitmadwithamerica",
   "watchdronethreatsforcecitiestorethinkdefenses",
@@ -1443,9 +1446,6 @@
   "commentarymorningbidforeverwar",
   "commentaryaidebtsplurgeiswarpingcreditspreads",
   "goldwaversashighoilpricesinflationbolsterratehikebets",
-  "bigtechsaispendingfacesanewtestashighertreasuryyieldspressurevaluations",
-  "usstockscloselowerasrisingyieldsand100oilpricespressuretheindices",
-  "commentaryasiasoilindustrywantstrumptoleavethegulfbutexpectshewont",
-  "breakingviewscommentaryecbisfocusingonthewrongriskof100oil"
+  "bigtechsaispendingfacesanewtestashighertreasuryyieldspressurevaluations"
  ]
 }
