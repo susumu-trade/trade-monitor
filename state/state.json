@@ -927,7 +927,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-14T09:43:58.485293+09:00",
+  "cache_at": "2026-09-14T09:52:03.190745+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -947,14 +947,14 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "commentaryoilmarketssurvivedtheiranwarsprintnowcomesthemarathon",
-  "houthisyemenadvanceleavesgulfstateswithuncomfortablechoice",
   "mexicoandtheunitedstatesintensifytalksforinterimtradedealbeforenovember3midterms11outletscompared",
   "saudipipelineoutagethreatens4ofglobaloilsupplyreuters",
-  "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
+  "houthisyemenadvanceleavesgulfstateswithuncomfortablechoice",
   "saudipipelineoutagethreatens4ofglobaloilsupply",
-  "saudiarabianpipelineoutagethreatensglobaloilsupply",
   "newhormuzshipattackraisesoilsupplyfears",
+  "saudiarabianpipelineoutagethreatensglobaloilsupply",
   "saudipipelineattackthreatensmorepainattexaspumps",
   "saudiarabiamayrunoutofoilstocksduetostrikesoneastwestpipelinereport",
   "qatarenergyexploresuslngdealstooffsetproductionlosses",
@@ -963,6 +963,7 @@
   "oilpricesjumpmorethan2afternewstrikesonsaudistraitofhormuz",
   "diplomacystumbleswithpostponementofmeetingonstraitofhormuzproposal",
   "newattacksinhormuzandsauditestnervesaswarsspreadworsensoildisruption",
+  "diplomacyfaltersassaudioilsupplyfacesfivedayrisk",
   "russianattackskill9injuredozensinukrainerussiasaysithitsshipsplants",
   "newstraitofhormuzshipattackraisesoilsupplyfearsasiranwarwidens",
   "brentholdsnear104asopecandieadisagreeondemandby29millionbarrels",
@@ -978,14 +979,15 @@
   "canadanotseekingeumembershipinanycapacitysource",
   "energyservicessettobenefitonceiranwarendsbarclayssays",
   "anthropicsaiwarningmayweighonchipsbuttradeseenintact",
-  "ecbslagardesayscurrentinflationshockwillbelongerlasting",
   "usstockfuturesfallonaiwarningsoilgainsmarketswrap",
+  "pmcarneysayscanadanotlookingtobecomememberoftheeu",
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
   "a5treasuryyieldisraisingnewrisksformarketseconomy",
   "afteroilsurgeandwaremergingmarketsunfazedbyfedrisk",
   "trumpdemandsukrainehaltrefinerystrikesasdieselsurges",
   "jeffriessaysdemocratstomeettuesdayonaiactionabcnews",
   "laboursignalsactionagainstfaragescryptodonationsurge",
+  "ecbslagardesayscurrentinflationshockwillbelongerlasting",
   "fromdigitalgoldto10000bloombergstrategistflagscrucialbitcoinsellsignals",
   "usgasolinepricesexpectedtostayabove4pergallonbloomberg",
   "newbitcoincrashaheadbloombergstrategistwarnsof10000as3alarmingsellsignalsflash",
@@ -1444,8 +1446,6 @@
   "britainfaceswinterwithhighgaspricesandthinreserves",
   "pakistansaysnomilitaryresponsediscussedundermakkahpactoverhouthiattacksonsaudi",
   "adobetopsq3estimatesbutsoftrevenueguidancecloudsoutlook",
-  "vodafoneideasharessbiledlendersagree35billiondebtfinancingsaysreport",
-  "iranroutedupto25billionviachinasanctionsworkaroundinpastyearreuters",
-  "commentarymorningbidforeverwar"
+  "vodafoneideasharessbiledlendersagree35billiondebtfinancingsaysreport"
  ]
 }
