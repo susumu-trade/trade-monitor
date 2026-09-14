@@ -927,7 +927,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-14T11:56:56.433949+09:00",
+  "cache_at": "2026-09-14T12:05:01.243428+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -947,7 +947,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
+  "repeatsaudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "dollarsteadyyennear7monthhighaheadoffedbojmeetings",
   "mexicoandtheunitedstatesintensifytalksforinterimtradedealbeforenovember3midterms11outletscompared",
   "saudipipelineoutagethreatens4ofglobaloilsupplyreuters",
@@ -961,8 +961,8 @@
   "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
   "houthisyemenadvanceleavesgulfstateswithuncomfortablechoice",
   "oilpricesjumpmorethan2afternewstrikesonsaudistraitofhormuz",
+  "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "diplomacystumbleswithpostponementofmeetingonstraitofhormuzproposal",
-  "canadianshoppersshunusproductsimalittlebitmadwithamerica",
   "saudipipelineshutdowncouldcutglobaloilsuppliesby4",
   "qatarenergyexploresuslngdealstooffsetproductionlossesegyptoil",
   "trumpsaysuscouldstayiniranandkeepoillikevenezueladeal",
@@ -971,18 +971,19 @@
   "newreportofattackonstraitofhormuzshippingfansfearsofthreatstooilsupplies",
   "saudiarabiacrudeexportsface4globalsupplyriskashouthistightenredseagrip",
   "russianattackskill9injuredozensinukrainerussiasaysithitsshipsplants",
-  "newstraitofhormuzshipattackraisesoilsupplyfearsasiranwarwidensbyinvestingcom",
   "russiaaccusesukraineofstrikingfueltruckssupplyingzaporizhzhianuclearplant",
   "brentholdsnear104asopecandieadisagreeondemandby29millionbarrels",
+  "houthiadvanceintobabelmandebstraitraisesoilsupplyfears",
   "sectorampindustryperformance",
   "oiljumpsasshutdownofsaudipipelinedeepensenergycrisis",
   "whymarketsthinktheusiswinningtheblockade",
+  "goldpullbackwhythelongterminvestmentcaseremainsintact",
   "nomurataxfreecaliforniafundq22026commentarydvtax",
-  "oilgainsasshutdownofsaudipipelinedeepensenergycrisis",
   "usepapoisedtorepealcarbonstandardsforgascoalpowerplantsbloombergnewsreports",
+  "oilgainsasshutdownofsaudipipelinedeepensenergycrisis",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
-  "goldedgeslowerashotusinflationbolstersfedratehikebets",
   "usstockfuturesfallonaiwarningoilgainsmarketswrap",
+  "goldedgeslowerashotusinflationbolstersfedratehikebets",
   "chevronwontpaytolltomoveshipsthroughhormuzceotellsbloombergtv",
   "a7billiongasbillseesdevelopingasiannationssouronlng",
   "watchanthropicsaiwarningseenassetbackforchipstocks",
@@ -1000,7 +1001,6 @@
   "anthropicsaiwarningmayweighonchipsbuttradeseenintact",
   "ecbslagardesayscurrentinflationshockwillbelongerlasting",
   "fromdigitalgoldto10000bloombergstrategistflagscrucialbitcoinsellsignals",
-  "usgasolinepricesexpectedtostayabove4pergallonbloomberg",
   "newbitcoincrashaheadbloombergstrategistwarnsof10000as3alarmingsellsignalsflash",
   "anthropicopenaiandgoogleheldtalksonaisafetybodyreportsays",
   "ripplesrlusdsupplyhitsfreshall",
@@ -1027,10 +1027,12 @@
   "whythesaudiarabianpipelinestrikeissuchabigdeal",
   "jpmorgannowseesthefedhikinginseptemberanddecember",
   "usaugustfederalbudgetdeficit167billionvs404billionexpected",
-  "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
+  "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "exclusivenvidiaintalkstoinvestinanthropicsmegaiposourcessay",
+  "newstraitofhormuzshipattackraisesoilsupplyfearsasiranwarwidensbyinvestingcom",
+  "canadianshoppersshunusproductsimalittlebitmadwithamerica",
+  "usgasolinepricesexpectedtostayabove4pergallonbloomberg",
   "newstraitofhormuzshipattackraisesoilsupplyfearsasiranwarwidens",
-  "houthiadvanceintobabelmandebstraitraisesoilsupplyfears",
   "a5treasuryyieldisraisingnewrisksformarketseconomy",
   "ecbslaneiftheriseinenergypricespersistsmaybeitwillhitconsumption",
   "oilfallsdespitefreshattacksonsaudienergyinfrastructure",
@@ -1060,7 +1062,6 @@
   "livetrumpsaysiranwarcouldendaroundmidtermsasiranianvesselstrucknearqeshmisland",
   "forexkickstartusdmixedasmarketsawaittheuscpireport",
   "usaugustcpi34vs34expected",
-  "goldpullbackwhythelongterminvestmentcaseremainsintact",
   "houthisseizemayunislandinsidebabelmandebassaudiarabiashutsoilpipeline",
   "goldrateukseptember12202624ctat10336gassterlingholdssixweekhigh",
   "earningslossesarestickingbutdellshowswhynoteverypullbackisafailure",
@@ -1445,7 +1446,6 @@
   "global2026oilsupplygaptodeepenondelayedreturnofnormalgulfflowsieasays",
   "hefeisboomrevealslimitsofchinasstateledmanufacturingpush",
   "usconsideringoiltankerinsurancesupporttoeasemiddleeastcrudeshipmentssourcessay",
-  "industrialssectorampindustryperformance",
-  "asianstocksbondstodroponoilinflationwoesmarketswrap"
+  "industrialssectorampindustryperformance"
  ]
 }
