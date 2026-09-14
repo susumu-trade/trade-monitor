@@ -927,7 +927,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-14T12:17:07.497878+09:00",
+  "cache_at": "2026-09-14T12:25:11.989303+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -947,8 +947,8 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "repeatsaudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "dollarsteadyyennear7monthhighaheadoffedbojmeetings",
+  "repeatsaudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "mexicoandtheunitedstatesintensifytalksforinterimtradedealbeforenovember3midterms11outletscompared",
   "saudipipelineoutagethreatens4ofglobaloilsupplyreuters",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
@@ -966,6 +966,7 @@
   "saudiarabiacouldrunoutofoilforexportswithindaysrisking4ofglobalsupplyreport",
   "saudipipelineshutdowncouldcutglobaloilsuppliesby4",
   "qatarenergyexploresuslngdealstooffsetproductionlosses",
+  "newattacksinhormuzandsauditestnervesaswarsspreadworsensoildisruptionworldnews",
   "trumpsaysuscouldstayiniranandkeepoillikevenezueladeal",
   "diplomacyfaltersassaudioilsupplyfacesfivedayrisk",
   "bricsblocagreesonjointdeclarationsourcessay",
@@ -980,8 +981,8 @@
   "whymarketsthinktheusiswinningtheblockade",
   "goldpullbackwhythelongterminvestmentcaseremainsintact",
   "nomurataxfreecaliforniafundq22026commentarydvtax",
-  "usepapoisedtorepealcarbonstandardsforgascoalpowerplantsbloombergnewsreports",
   "oilgainsasshutdownofsaudipipelinedeepensenergycrisis",
+  "usepapoisedtorepealcarbonstandardsforgascoalpowerplantsbloombergnewsreports",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "goldedgeslowerashotusinflationbolstersfedratehikebets",
   "usstockfuturesfallonaiwarningoilgainsmarketswrap",
@@ -1445,7 +1446,6 @@
   "howyemenshouthisareraisingthestakesintheiranwar",
   "brentoilsurginghouthiattackonsaudieast",
   "global2026oilsupplygaptodeepenondelayedreturnofnormalgulfflowsieasays",
-  "hefeisboomrevealslimitsofchinasstateledmanufacturingpush",
-  "usconsideringoiltankerinsurancesupporttoeasemiddleeastcrudeshipmentssourcessay"
+  "hefeisboomrevealslimitsofchinasstateledmanufacturingpush"
  ]
 }
