@@ -935,7 +935,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-15T10:11:24.259257+09:00",
+  "cache_at": "2026-09-15T10:19:27.840913+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -955,8 +955,8 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "dollarrisesasmiddleeastconflictliftsoilfedhikelooms",
   "asiasoiltradersseeingnoquickendtomiddleeastwarstaybullishonprices",
+  "dollarrisesasmiddleeastconflictliftsoilfedhikelooms",
   "oilsettleshigheraftersaudistrikesstokesupplyworriesbyreuters",
   "oilhits107assaudipipelineshutdownandstraitattackstightenglobalsupply",
   "oilsurgesassaudipipelineclosurefuelsenergycrisis",
@@ -972,8 +972,8 @@
   "breakingviewscommentarymakinghormuzworthlessisalonggame",
   "fedratehikeonwednesdaynowlikelysayeconomistsandatleastonemoretofollowreuterspoll",
   "asianrefinersawaitingwordonsaudishipmentsexpecttightersupply",
-  "exclusivevistaequityexploringstrategicoptionsforfinancialsoftwareproviderfinastrasourcessay",
   "goldfallstooveronemonthlowasoilrallyinflationdataboostratehikebets",
+  "exclusivevistaequityexploringstrategicoptionsforfinancialsoftwareproviderfinastrasourcessay",
   "companiesleftchinatododgetariffsnowsomeareheadingback",
   "saudipipelineshutdowncouldwipeout4ofworldoilsupply",
   "globalmarketsplungeasaistocksplummetafteraileadersissuewarningsdth",
@@ -981,8 +981,8 @@
   "russiacutsoiloutputinaprilsourcessay",
   "oilnears110assaudipipelineshutdowndeepenssupplyfears",
   "hormuzvesseltrafficfallstosingledigitsamidrisingrisks",
-  "oilpricesupnearly3percentfollowingnewstrikesonsaudistraitofhormuz",
   "saudipipelineoutagethreatens4pctofglobaloilsupply",
+  "oilpricesupnearly3percentfollowingnewstrikesonsaudistraitofhormuz",
   "sharesdropinasiaasoilrisesratehikesloom",
   "islamicnatothefirsttest",
   "middleeastdiplomacyfaltersasirangulfmeetingpostponedamidoilsupplyfears",
@@ -1023,7 +1023,6 @@
   "privatemarketsbuildingwhatsnext",
   "bloombergelectronicmarketsbringfullprogrammaticexecutionsupporttofxoptionstrading",
   "marketdrawdownvsdownturnwatchthefundamentals",
-  "afteroilsurgeandwaremergingmarketsunfazedbyfedrisk",
   "musksxairesolvesclaimsagainstappleoveraicompetition",
   "usminersignsrwandatungstendealtogrowwesternsupply",
   "asianrefinersseeksaudiupdatesafteroilpipelineclosure",
@@ -1049,6 +1048,7 @@
   "oilpriceforecastbrentholdsabove100assaudisupplyrisksgrow",
   "oiljumpsasshutdownofsaudipipelinedeepensenergycrisis",
   "thefederalreservesinterestratedecisionwillbeannouncedat200amthursdaywhatwillhappenifratesareraisedananalysisbycicc",
+  "pbocsetsusdcnycentralrateat67670vsestimateat67051",
   "democratssplitoverclarityactassenatevotenears",
   "pbocisexpectedtosettheusdcnyreferencerateat67051reutersestimate",
   "whyafedratehikecantfixoilanddieselpricesbutmaystillcurbinflation",
@@ -1073,6 +1073,7 @@
   "trumpukraineandrussiahaveagreednottohitenergytargets",
   "isinstitutionalmoneyrotatingfrombitcointoethereum",
   "us10yearyieldhits5forthefirsttimesince2023",
+  "afteroilsurgeandwaremergingmarketsunfazedbyfedrisk",
   "thehouseislosingusdjpyrisesover15500",
   "diplomacystumbleswithpostponementofmeetingonstraitofhormuzproposal",
   "houthisattacksaudiarabiaasgulfirantalksarepostponedasianews",
@@ -1453,7 +1454,6 @@
   "earningssnapshotkrogerreaffirmsfy2026adjustedepsguidanceaftersolidq2beattrimsidenticalsalesoutlook",
   "yemenshouthisreachstrategicislandatmouthofvitalshippinglane",
   "saudiarabiahaltseastwestpipelineafteriraqdroneattacksinriyadhandmadinahwho52outletsblamed",
-  "saudioilsupplyhitsmorethanthreedecadelowafterhouthiattacksieasays",
-  "ieawarns2026oilsupplygapwillwidenondelayedreturnofnormalgulfflows"
+  "saudioilsupplyhitsmorethanthreedecadelowafterhouthiattacksieasays"
  ]
 }
