@@ -953,7 +953,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-18T13:07:10.051589+09:00",
+  "cache_at": "2026-09-18T13:15:14.297760+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -973,11 +973,9 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "risingoilratesandyieldsbrewupstagflationcocktailformarkets",
-  "oilpricesfall1onhopesoflimitedsupplydisruptions",
-  "oilfalls2tooneweeklowasmiddleeastsupplydisruptionfearsease",
   "commentarytrumpmaynotseeanotherratecutaspresident",
   "ascanadiantariffsbiterepublicanssearchforawinningmessage",
+  "oilfalls2tooneweeklowasmiddleeastsupplydisruptionfearsease",
   "threepumpingstationsalongsaudieastwestpipelinewerehitinrecentattacksourcessay",
   "pakistanannouncesausteritymeasurestoconservefuelasgulfconflictspirals",
   "exclusivechinapressesirantohelpreininhouthisaftersaudiappealsourcessay",
@@ -986,8 +984,8 @@
   "commentarypanamacanalstressshowstherealshippingsqueezemaystillbeahead",
   "chileweighsethanolgasolineblendasgovernmentseekscheaperfuelsamidfiscalstrains",
   "francesthalesurgesinternationalframeworkonaidevelopment",
-  "europeslowgasstockspileontheeconomicandpoliticalpressure",
   "canadawilldecideonitsownpartnershipscarneysays",
+  "europeslowgasstockspileontheeconomicandpoliticalpressure",
   "commentarylngspotpricesurgedetersasianbuyersbutsaveseurope",
   "asianlngdemandsettofallforsecondyearaswarshrinkssupply",
   "italyreadiesnavytoprotectitsshippingamidbabelmandebtensions",
@@ -1008,9 +1006,10 @@
   "goldgainsover1asmarketsdigestfedratehike",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
+  "oilpricesfall1onhopesoflimitedsupplydisruptions",
   "trumplashesoutatfedafterwarshbacksratehike",
-  "bostcutsfuelexportstoburkinafasoandmalioverdomesticdemand",
   "trumpsayshopefullywearetowardsendofiranwar",
+  "bostcutsfuelexportstoburkinafasoandmalioverdomesticdemand",
   "sharestickhigherasfedhikesratesdollarjumpswithshorttermyields",
   "chinadefenceministerurgesnationstocurbregressivehistoricaltrends",
   "stocksriseasoildipsyenwobblesaheadofboj",
@@ -1057,6 +1056,7 @@
   "franklinusgovernmentsecuritiesfundq22026commentaryfusax",
   "rbihasrarelyfollowedfedonratemovesbutwhenithashikesdominated",
   "ecbszigmanwarnsgrowthisatriskifinflationisnttackled",
+  "greekbankrallytogetfreshimpetusasstocksrejointopindex",
   "spacexdiscussesbuyingdataforaimodelsfromfailedstartups",
   "aifuels440surgeinhackersusingblockchainsinattacks",
   "kingcharleshastheperfectaicopsforanthropicandopenai",
@@ -1107,6 +1107,7 @@
   "previewbojratehikebetstaysintactasjapanawaitsaugustcpi",
   "investingliveamericasfxnewswrap17sept",
   "nasdaqleadsabroadwallstreetrallyastreasuryyieldsfall",
+  "risingoilratesandyieldsbrewupstagflationcocktailformarkets",
   "warshsfedsoarslikeahawkintoahikingcycle",
   "howtostopdatacentersfromgrabbingtoomuchpower",
   "thebondselloffhasasilverliningforinvestors",
@@ -1471,7 +1472,6 @@
   "aiwilldriveastrongusearningsseasongoldmanssnidersays",
   "oilsettlesus3higheronyanbudisruptionsaudicargocancellationsmoneynews",
   "usdcadbreaksaboveakeyconfluenceareacanbuyersstayaboveitthroughthefomcdecisiontoday",
-  "usenergysecretarysaudioilpipelinetorecoverwithindays",
-  "howthegreatgascrisisof2030willplayout"
+  "usenergysecretarysaudioilpipelinetorecoverwithindays"
  ]
 }
