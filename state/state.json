@@ -954,7 +954,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-19T07:28:49.096600+09:00",
+  "cache_at": "2026-09-19T07:40:55.318127+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -975,13 +975,13 @@
  },
  "news_seen2": [
   "exclusiveputinenvoyandfarrightafdpreparetalkstogetrussiangasbackforgermanysourcessay",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "commentaryglobalratesresetaiangstandoilslonghaulthefinancialweekinfivecharts",
   "putinenvoyandgermanfarrightarepreparingtodiscussresumingrussiangassuppliesreuterssays",
   "theoilmarketsbackupplanisbreakingdown",
   "oilslidesafterchinaasksirantolimithouthiattacksonsaudioilfacilities",
   "recordusdieselpricessqueezefarmersfoodpricesmayrise",
   "exclusiveedfconsiderspreferredequitytolurebuyerstoedisonstakesourcessay",
-  "oilfalls1asinvestorswatchmiddleeastsupplydisruptions",
   "wallstmixedasbenchmarktreasuryyieldsreach5oiltakesapause",
   "globalequityfundoutflowshitninemonthhighoninflationfears",
   "aramcotoboostgulfexportsto60millionbarrelsinseptemberoctobertraderssay",
@@ -1003,14 +1003,13 @@
   "usiranconflicthelpsdrivewaveofsupertankerorders",
   "chinarebuffsaislowdowncallsaheadoftrumpxisummit5thingstoknow",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
-  "yaroslavloilrefineryhaltscrudeprocessingafterdroneattackreuters",
+  "oilpricesfall1onhopesoflimitedsupplydisruptions",
   "oilpricesfalloneasingfearsoversaudisupplydisruptionasharqal",
+  "yaroslavloilrefineryhaltscrudeprocessingafterdroneattackreuters",
   "reutersputinstopeconomicrepresentativeandprorussianafdprepareforameeting",
   "afdplanstohookgermanyonrussiangasagainreport",
   "oildipsoneasingfearsoversaudisupplydisruption",
   "straitofhormuzshipcrossingsremaininsingledigitsdatashows",
-  "oilpricesfall2onhopesoflimitedsaudisupplydisruptions",
-  "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
   "indiasaysnewustariffsoverrussianoilcouldhittiesvowstoprotectenergysecurity",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "yenweakaheadofbojdecisionratehikeexpected",
@@ -1028,6 +1027,7 @@
   "fxweekly",
   "fedoutlook2026risingratesarebackisyourbondportfolioready",
   "thecostofcapitalisrisingdidstocksgetthememo",
+  "optionstriplewitchingsees7trillionexpiringonfriday",
   "whyonesaudipipelineiscrucialtotheglobaloilmarket",
   "europeoilsupplypressuremountsafterattackcutssaudisales",
   "nvidiagoogleemeraldaiformaienergymanagementalliance",
@@ -1039,9 +1039,7 @@
   "spainscuerposaystimehascometodiscussecbssuccession",
   "cftcseekswhitehousereviewoncryptorulesafterbillfails",
   "hungarycanquitrussiagasenergyministersays",
-  "bankerchartsdealsfrompicklefactorytonflsseahawks",
   "orlenceoseekstodiversifysuppliesasstrikeshaltsaudioil",
-  "optionstriplewitchingsees7trillionexpiringonfriday",
   "watchnewsvbreviewfindsfedmissedrepeatedwarnings",
   "andyburnhamsrightwherehedidntwanttobeinhocktobondmarkets",
   "watcheuropeanoilsupplypressuremountsaftersaudicuts",
@@ -1104,9 +1102,12 @@
   "thenextphaseforbitcoinminersmayhavelesstodowithbitcoinandmoretodowithpower",
   "europeanstockmarketopenstocksslipasinvestorstakeabreatherafterpost",
   "bojgovernoruedasaysspringwagetalkskeytojudginginflationtrend",
+  "oilpricesfall2onhopesoflimitedsaudisupplydisruptions",
+  "oilfalls1asinvestorswatchmiddleeastsupplydisruptions",
+  "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
+  "bankerchartsdealsfrompicklefactorytonflsseahawks",
   "exclusiveusanddenmarkcloseinonagreenlanddealsourcessay",
   "bojsplitvotefuelsyenweaknessandnikkeigains",
-  "oilpricesfall1onhopesoflimitedsupplydisruptions",
   "anthropicconfirmsbiologylabsetupclaudereportedlytotrycontrollingrobotsforexperiments",
   "spainscuerposeeswindowofopportunityforchinadialogue",
   "sampp500fallsastreasuryyieldsresumeadvancemarketswrap",
@@ -1472,7 +1473,6 @@
   "thisxauusdgoldanalysisvideoshowswherethegoldtradeisafterthefedlastnight",
   "saudiarabiacutoilsuppliestoeuropefollowingattackoneastwestpipelinereuters",
   "spacetugmakerimpulsesfundraisingroundtops800million",
-  "sharesclimbbondsholdgroundandshorttermyieldsedgeupafterfedhikesboestayson",
-  "malaysiapmtooffertohostmyanmarsminaunghlaingindealforrohingyareturn"
+  "sharesclimbbondsholdgroundandshorttermyieldsedgeupafterfedhikesboestayson"
  ]
 }
