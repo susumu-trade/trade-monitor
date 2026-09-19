@@ -954,7 +954,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-19T14:11:25.971204+09:00",
+  "cache_at": "2026-09-19T14:19:31.151083+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -974,9 +974,9 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "exclusiveputinenvoyandfarrightafdpreparetalkstogetrussiangasbackforgermanysourcessay",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "commentaryglobalratesresetaiangstandoilslonghaulthefinancialweekinfivecharts",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
+  "exclusiveputinenvoyandfarrightafdpreparetalkstogetrussiangasbackforgermanysourcessay",
   "venezuelaoppositionfactionweighingdealtomove4billioningoldtousfromuksourcessaybyreuters",
   "putinenvoyandgermanfarrightarepreparingtodiscussresumingrussiangassuppliesreuterssays",
   "theoilmarketsbackupplanisbreakingdown",
@@ -1007,7 +1007,6 @@
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
   "howchineseexportcurbsonnichemetalsaretestingwesternmarkets",
   "paramountstatesdiscusscnnmonitoringandfilmreleasecommitmentsourcessay",
-  "chinarebuffsaislowdowncallsaheadoftrumpxisummit5thingstoknow",
   "oilpricesfalloneasingfearsoversaudisupplydisruptionasharqal",
   "afdplanstohookgermanyonrussiangasagainreport",
   "bankofjapanraiseskeyratetohighestlevelin31years",
@@ -1015,16 +1014,16 @@
   "anthropicconfirmsbiologylabsetupclaudereportedlytotrycontrollingrobotsforexperiments",
   "trumpsaysheisbanningmediaoutletscnnmsnowpoliticofromwhitehouse",
   "oildipsoneasingfearsoversaudisupplydisruption",
-  "saudispoundyemenhouthisfireatsaudiasmiddleeastwarspreads",
-  "oilpricesfall2onhopesoflimitedsaudisupplydisruptions",
-  "reutersputinsenvoyandfarrightafdpreparetalksonreturningrussiangastogermany",
   "venezuelanearsdealtomove4bgoldreservetous",
+  "reutersputinsenvoyandfarrightafdpreparetalksonreturningrussiangastogermany",
+  "oilpricesfall2onhopesoflimitedsaudisupplydisruptions",
   "reutersputinstopeconomicrepresentativeandprorussianafdprepareforameeting",
   "yenweakaheadofbojdecisionratehikeexpected",
   "goldratetodayintheusaseptember18202624khits14272gaspostfeddollarretreatfuelsweeklyhigh",
   "brentfallsforthirddayasusnavyescortsrecordoilconvoythroughhormuz",
   "brentcrudeoilpricetodayseptember18brentfallsto103wtidropsnear101assaudisupplyconcernseasechecklatestbrentcrudeampwtioilr",
   "trumpsrussiasanctionslawwhatitmeansforindiasoilsupply",
+  "southkorearefusesiranwartroopsrebukestrumppressure",
   "saudiarabiareroutesoilthroughomancouldindiasfuelpricesbeaffected",
   "saudistelleuropeanrefinerstheyllgetnocrudenextmonth",
   "fxweekly",
@@ -1108,7 +1107,10 @@
   "usnatgasoutputanddemandtohitrecordhighsin2026eiasays",
   "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
+  "oilpricesfall1stayabove100assupplyconcernsease",
   "bankofjapanliftsratesto31yearhighflagsshiftinpolicyfocusmoneynews",
+  "chinarebuffsaislowdowncallsaheadoftrumpxisummit5thingstoknow",
+  "saudispoundyemenhouthisfireatsaudiasmiddleeastwarspreads",
   "oilpricesfall1onhopesoflimitedsupplydisruptions",
   "whymarketsthinktheusiswinningtheblockade",
   "braceforafloodofoilassoonashormuzreopensenergynewstopheadlinescommentariesfeaturesampevents",
@@ -1125,7 +1127,6 @@
   "sectorampindustryperformance",
   "fedstointroducenewlabourlegislationassoonasnextweeksources",
   "venezuelaoppositionfactionweighingdealtomove4blningoldtousfromuksourcessay",
-  "southkorearefusesiranwartroopsrebukestrumppressure",
   "bojsplitvotefuelsyenweaknessandnikkeigains",
   "publixplansaseriesofnewstoresforitsnextmoveinnorthernkentucky",
   "andyburnhamsrightwherehedidntwanttobeinhocktobondmarkets",
@@ -1472,7 +1473,6 @@
   "couldbitcointreasurycompaniesbecomeforcedsellers",
   "wallstrisesasoilslideoffersrespiteafterfedratehike",
   "whykevinwarshagainskippedthefedsdotplot",
-  "warshhadtowinhiscredibilityrabobanksfoley",
-  "euroareainflationnudgesupinaugustto32asenergypricesjump"
+  "warshhadtowinhiscredibilityrabobanksfoley"
  ]
 }
