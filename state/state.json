@@ -954,7 +954,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-19T14:19:31.151083+09:00",
+  "cache_at": "2026-09-19T14:31:35.827726+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -974,9 +974,9 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "commentaryglobalratesresetaiangstandoilslonghaulthefinancialweekinfivecharts",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "exclusiveputinenvoyandfarrightafdpreparetalkstogetrussiangasbackforgermanysourcessay",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
+  "commentaryglobalratesresetaiangstandoilslonghaulthefinancialweekinfivecharts",
   "venezuelaoppositionfactionweighingdealtomove4billioningoldtousfromuksourcessaybyreuters",
   "putinenvoyandgermanfarrightarepreparingtodiscussresumingrussiangassuppliesreuterssays",
   "theoilmarketsbackupplanisbreakingdown",
@@ -984,11 +984,11 @@
   "highstakeslowbars",
   "aramcotoboostgulfexportsto60millionbarrelsinseptemberoctobertraderssay",
   "exclusiveedfconsiderspreferredequitytolurebuyerstoedisonstakesourcessay",
-  "recordusdieselpricessqueezefarmersfoodpricesmayrise",
   "globalequityfundoutflowshitninemonthhighoninflationfears",
   "exclusiveusweighsallowingmostpharmalicensingdealswithchinasourcessay",
   "chinasrobotechniktolaunch800millionhongkonglistingonseptember21sourcessay",
   "euministerstodiscusstaxingwindfallprofitsofenergycompaniesasoilpricessurge",
+  "recordusdieselpricessqueezefarmersfoodpricesmayrise",
   "exclusiveanthropicconsidersreleasingnewaimodelaheadofiposourcessay",
   "usequityfundspostfourthweeklyoutflowoninflationworriesrateconcerns",
   "ustreasurysbessenttodiscussairareearthswithchinashesourcesays",
@@ -1000,6 +1000,7 @@
   "saudiarabiatellseuropeoilbuyersnosuppliesnextmonth",
   "putinenvoydmitrievafdpreparemeetingonrestartingrussiangassuppliestogermanyreutersreports",
   "saudiaramcohaltscrudeoilsupplytoeuropeancustomers",
+  "germanyweighsexpandingmarketincentiveasgasstoragehitsrecordlow",
   "chinaisbuyingussoybeansagainbutbeijingissendingfarmersadifferentmessage",
   "saudiarabiashiftscrudeloadingstohormuzaseastwestpipelinestaysshut",
   "usiranconflicthelpsdrivewaveofsupertankerorders",
@@ -1048,10 +1049,10 @@
   "afedcredibilityinducedbouncemarketoutlook",
   "brentheadsforweeklylossassaudisupplyconcernsease",
   "bofawarnsofwarshsfedhikingrateabove5in2022redux",
+  "dollarbullsreturnasmarketsreassessfedpolicyforecastasof18092026",
   "saudiaramcohaltsoctoberoilsuppliestoeuropeanbuyers",
   "europesstocksfellassaudioilsupplylookeduncertain",
   "bitcoinpricecouldgainsupportasibithedgingeasesjpmorgan",
-  "ecbtoholdfireuntilfinalratehikeindecembersurveyshows",
   "openaiprojectsburningthrough278billionby2030ftsays",
   "delugeofcopperarrivinginusleavesneworleanswithlogjam",
   "orlenceoseekstodiversifysuppliesasstrikeshaltsaudioil",
@@ -1060,9 +1061,9 @@
   "anothertankersuffersfailureascrewsuspectcyberattack",
   "indiagoldmarketupdatecautiousfestiveoptimism",
   "wallstreetdriftslowerasbondyieldsriseandoilpricesswing",
-  "dollarbullsreturnasmarketsreassessfedpolicyforecastasof18092026",
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
   "diversifywithinequitiesbeforediversifyingawayfromthem",
+  "usextendslicenseforpotentialsaleofrussiaslukoilassets",
   "saudiaramcotellseuropeancustomerstheywontreceiveoctobercrudeunderlongtermcontractsafterdroneattackshutsdownkeypipeline",
   "globaldieselpricessurgeasgulfandrussiansuppliestighten",
   "bitcoinetfsretain55baftera50btcdrawdownincredibleintestinalfortitude",
@@ -1101,6 +1102,7 @@
   "thenextphaseforbitcoinminersmayhavelesstodowithbitcoinandmoretodowithpower",
   "europeanstockmarketopenstocksslipasinvestorstakeabreatherafterpost",
   "bojgovernoruedasaysspringwagetalkskeytojudginginflationtrend",
+  "ecbtoholdfireuntilfinalratehikeindecembersurveyshows",
   "exclusivechinarareearthgroupintalkstobuympmaterialsshareholdershengheresourcessourcessay",
   "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
   "bugbountyresearchershackedopenaiusinganthropicsclaudedth",
@@ -1205,7 +1207,6 @@
   "bojgovernoruedasayswillcontinuetotightenpolicyinresponsetoeconomicpricedevelopments",
   "usyieldseasewithoilpricesprofittaking",
   "goldratetodayintheukseptember17202624krisesto10517gafterfedratehike",
-  "usextendslicenseforpotentialsaleofrussiaslukoilassets",
   "bankofjapanraisesrateto31yearhighof125asinflationrisksmount",
   "threepumpingstationsalongsaudieastwestpipelinewerehitinrecentattacksourcessay",
   "goldratetodayinindiaseptember17202624kat15344gafterfedrecovery",
@@ -1472,7 +1473,6 @@
   "gflceodovigisayscompanyexploringpotentialtakeprivate",
   "couldbitcointreasurycompaniesbecomeforcedsellers",
   "wallstrisesasoilslideoffersrespiteafterfedratehike",
-  "whykevinwarshagainskippedthefedsdotplot",
-  "warshhadtowinhiscredibilityrabobanksfoley"
+  "whykevinwarshagainskippedthefedsdotplot"
  ]
 }
