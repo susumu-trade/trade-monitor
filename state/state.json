@@ -714,7 +714,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-21T06:17:51.951255+09:00",
+  "cache_at": "2026-09-21T06:25:56.756956+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -734,15 +734,15 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "chinaslowwalksyuanappreciationasuseuropedemandtraderebalancing",
   "threedeadinmoscowregiondroneshitoilrefineryinrussiancapital",
+  "chinaslowwalksyuanappreciationasuseuropedemandtraderebalancing",
   "saudigulfstocksfallafterhouthisclaimriyadhattacksbyreuters",
   "massivedroneattackhitsmoscowdamagesoilrefineryfacility",
-  "stockmarketweekaheadsampp500at7650meetsa5treasuryyield",
   "atleastthreekilledinukrainiandroneattackonmoscowsaysrussia",
   "chinascxmtsaysnewmemorychipplatformentersmassproduction",
   "luxembourgairportsuspendedoperationsoverdronethreat",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
+  "stockmarketweekaheadsampp500at7650meetsa5treasuryyield",
   "venezuelasrodriguezsignsagreementwithtotalenergies",
   "türkiyesaysitcouldhelpmeetsaudimilitaryneedsunderdefencepact",
   "asiangames2026japanwinfirstgoldofhomegamesprodigyyuleadschinaspoolsurge",
@@ -758,21 +758,21 @@
   "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "japansnipponlifeplans16bfordatacentrefinancinginusnikkeiasiareportsmoneynews",
   "chinacentralbankadvisersaysaicoulddeepensupplydemandimbalancechinanews",
-  "flamessmokeseennearriyadhairporthouthisclaimattacksonsaudicapital",
   "iranwarnsagainstnewescalationbyusandallies",
   "blacksmokerisesnearriyadhairporthouthirebelsattackwithballisticmissilesredalertissuedinsa",
+  "flamessmokeseennearriyadhairporthouthisclaimattacksonsaudicapitalasianews",
   "houthissealbabalmandabassaudioilexportscollapseandcrudetops100",
   "ukrainefires1000dronesatmoscowhittingoilrefineryonfinaldayofrussiaselections",
   "francedebtclimbsto119ofgdpbondspreadsounds2012alarm",
   "whyeuropelosingsaudioilcouldbecomeamericasproblem",
   "houthimissilereachesriyadhasaramcodepotburnsatkingkhalidairport",
-  "geminihackedthreecompaniesinfirstknownbreakoutbygooglesai",
+  "houthiballisticmissiletargetsriyadhforfirsttimeasaramcodepotburnsnearairport",
   "salahhattrickfirestrabzonsporto40routofgalatasaray",
   "dortmundbeatstuttgart10togotopofbundesliga",
   "shorttermtreasuriesemergeaspopularbetonfedinflationwin",
   "recordglobaldebtrequiresurgentfiscalactionimfchiefsays",
-  "howpredictionmarketsupstagedelectionpolls",
   "microsoftaichiefsayschinaisntexcusetoforegoregulation",
+  "howpredictionmarketsupstagedelectionpolls",
   "bloombergipoeverythingyouneedtoknowaboutbloomberg",
   "heavyraindisruptstrainsinjapanastropicalstormapproaches",
   "uschinatradeteamssettohuddleinnewyorkonaiiran",
@@ -782,6 +782,7 @@
   "japanlikelysoldtreasuriestofundrecordyenintervention",
   "usdjpyoutlookyenisstrengtheningasbojratehikeexpectationsrise",
   "n1450perlitrenmdpramakesdecisiononpetrolpumppricesinnigeria",
+  "ecbsstournarasdoesnotruleoutoctoberecbhikeifenergycostsorinflationsurge",
   "weeekndfedskashkarisaysinflationstilltoohighacrossuseconomynotjustenergy",
   "weekendukrainehitsmoscowoilrefineryinlargestdroneattackontheregiondieselinfocus",
   "usmilitarysayshormuzoilandlngshipmentshitsix",
@@ -806,9 +807,9 @@
   "ecbpresidentlagardepushesbackonautomaticratehikesasenergypricescloudoutlook",
   "ethereumisapproachingthekey2560resistanceagainwillitfinallybreakoutoftherange",
   "ecbpresidentlagardefuelsearlyexitspeculationwithwellseeresponse",
+  "flamessmokeseennearriyadhairporthouthisclaimattacksonsaudicapital",
+  "geminihackedthreecompaniesinfirstknownbreakoutbygooglesai",
   "silversoarsbymorethan7asthefedsdotplotshowslowappetiteforratehikes",
-  "flamessmokeseennearriyadhairporthouthisclaimattacksonsaudicapitalasianews",
-  "houthiballisticmissiletargetsriyadhforfirsttimeasaramcodepotburnsnearairport",
   "goldpriceclawsbacktoward4400afterdodgingadeepertechnicalbreakdown",
   "ukrainehitsmoscowoilrefineryinlargestdroneattackontheregiondieselinfocus",
   "alpariinvitestradersandpartnerstoconnectatforexexpodubai",
@@ -1232,7 +1233,6 @@
   "marcorubioremakeshimselfastrumpsunapologeticglobalenvoy",
   "watchfedskevinwarshbringingthingsbacktogoodnormalspacesonaldesaisays",
   "rbihasrarelyfollowedfedonratemovesbutwhenithashikesdominated",
-  "tiktokbillionairezhangyimingbecomesasiasrichestmanasfortunetops100b",
-  "chinapressesirantoreininhouthisaftersaudiappealasredseathreatgrows"
+  "tiktokbillionairezhangyimingbecomesasiasrichestmanasfortunetops100b"
  ]
 }
