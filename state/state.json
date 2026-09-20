@@ -714,7 +714,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-21T08:35:41.233052+09:00",
+  "cache_at": "2026-09-21T08:47:48.462703+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -734,12 +734,12 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "commentarywhichaseanequitylaggardscouldsoonbecomeleaders",
+  "oilrisesafterhouthiattackonsaudicapital",
   "chinaslowwalksyuanappreciationasuseuropedemandtraderebalancing",
   "chileconsiderse10gasolinewithethanoltolowercosts",
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "saudigulfstocksfallafterhouthisclaimriyadhattacksbyreuters",
-  "oilrisesafterhouthiattackonsaudicapital",
+  "commentarywhichaseanequitylaggardscouldsoonbecomeleaders",
   "massivedroneattackhitsmoscowdamagesoilrefineryfacility",
   "atleastthreekilledinukrainiandroneattackonmoscowsaysrussia",
   "luxembourgairportsuspendedoperationsoverdronethreat",
@@ -747,13 +747,14 @@
   "gasreservesineuropeputpressureonpricesthiswinter",
   "venezuelasrodriguezsignsagreementwithtotalenergies",
   "threedeadinmoscowregiondroneshitoilrefineryinrussiancapital",
+  "asiafindsresilienttraderoutesinexchangeforclimatecosts",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "exxonmobilstockholdsat16354asvenezuelatalksput50billionbarrelsinview",
   "washingtonandbejingdiscusscuttingchinaslngtariffs",
   "qatarlauncheswealthfunddivisionfordomesticinvestments",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
-  "ustroopdeathsduringiranwarexceedpentagoncountby4wapo",
   "chinascxmtsaysnewmemorychipplatformentersmassproduction",
+  "ustroopdeathsduringiranwarexceedpentagoncountby4wapo",
   "türkiyesaysitcouldhelpmeetsaudimilitaryneedsunderdefencepact",
   "trumptoappointnewaiadviser",
   "asiangames2026japanwinfirstgoldofhomegamesprodigyyuleadschinaspoolsurge",
@@ -781,21 +782,23 @@
   "qatarreshapesitswealthfundstrategywithnewlocalplatform",
   "canadafrancetodevelopsharedspacelaunchinfrastructure",
   "uschinabegintradetalksinnewyorkaheadoftrumpxisummit",
-  "bloombergipoeverythingyouneedtoknowaboutbloomberg",
   "oaktreesmarkssayshewantsalessactivistcentralbank",
+  "bloombergipoeverythingyouneedtoknowaboutbloomberg",
   "heavyraindisruptstrainsinjapanastropicalstormapproaches",
+  "watchqatarsayslngdamagemaytakeyearstorepair",
   "watchfranklinceosaysaipayoffremainsunclear",
   "uschinatradeteamssettohuddleinnewyorkonaiiran",
   "whymarketsthinktheusiswinningtheblockade",
   "watchstatestreetseesresiliencedrivingportfolios",
-  "watchqatarsayslngdamagemaytakeyearstorepair",
   "watchqef2026hormuzcannotbeobsoleteqatarenergyministersays",
   "globalfreightcrisisraisesnewrisksforuslatinamericanagriculturaltrade",
   "watchrubiotakesonexpansiveforeignpolicyrole",
   "spacexnasdaq100weighttojumpto282inquarterlyrebalancebloomberg",
   "japanlikelysoldtreasuriestofundrecordyenintervention",
   "usdjpyoutlookyenisstrengtheningasbojratehikeexpectationsrise",
+  "lngsupplycutfurtheraftercyclonehitsaustralianplants",
   "n1450perlitrenmdpramakesdecisiononpetrolpumppricesinnigeria",
+  "hedgefundsturnbullishonyenforfirsttimesincejuly2025cftcdatashow",
   "fedsfirsthikesince2023whathistorysaysaboutthesp500overthenextyear",
   "nvidiaceohuangrejectsaidoomsdayfearssays0chanceofworldendingby2030",
   "fedecbandjapanneutralrateestimatesrisewhatitmeansforbondsandborrowers",
@@ -962,7 +965,6 @@
   "oilpricesfall1onhopesoflimitedsupplydisruptions",
   "dailynavigator1892026marketoutlook",
   "saudiarabiacutsoffoctoberoilsuppliestoeuropebloomberg",
-  "lngsupplycutfurtheraftercyclonehitsaustralianplants",
   "sampp500nasdaqadvanceturningthepageonatumultuousweek",
   "oilreboundsasfragileceasefirehormuzconcernskeepsupplyriskselevated",
   "openaiprojectsburningthrough278billionby2030ftsays",
@@ -1231,8 +1233,6 @@
   "whatarethemaineventsfortoday",
   "ukretailsalesunexpectedlyriseinaugustbackedbyrecoveryindepartmentstoresnon",
   "fxoptionexpiriesfor18september10amnewyorkcut",
-  "bojpressconferencepreviewuedainfocusafterdovishdissentson125ratehike",
-  "usdjpyjumpsto157afterbojratehikeasdovishdissentsweighonyen",
-  "investingliveasiapacificmarketnewsbojhikeandrbahawkishtilt"
+  "bojpressconferencepreviewuedainfocusafterdovishdissentson125ratehike"
  ]
 }
