@@ -714,7 +714,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-20T23:46:32.403628+09:00",
+  "cache_at": "2026-09-20T23:58:38.110911+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -734,7 +734,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "twodeadinmoscowregiondroneshitoilrefineryinrussiancapital",
+  "threedeadinmoscowregiondroneshitoilrefineryinrussiancapital",
   "saudigulfstocksfallafterhouthisclaimriyadhattacksbyreuters",
   "massivedroneattackhitsmoscowdamagesoilrefineryfacility",
   "chinascxmtsaysnewmemorychipplatformentersmassproduction",
@@ -743,6 +743,7 @@
   "venezuelasrodriguezsignsagreementwithtotalenergies",
   "oilpriceskeepclimbingasexpandingconflictheightenssupplyrisks",
   "japansnipponlifeplans16bfordatacentrefinancinginusnikkeiasiareportsmoneynews",
+  "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "brazilspetrobrasboardapprovesjoiningdieselsubsidyprogram",
   "washingtonandbejingdiscusscuttingchinaslngtariffs",
   "morganstanleymaintainsoilpriceforecastsandpredictsslowrecoveryinsupply",
@@ -750,11 +751,9 @@
   "trumptoappointnewaiadviser",
   "canadaoptimisticaboutconcludingtradetalkswithindiabyyearendministersays",
   "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
-  "turkeysaysitcouldhelpmeetsaudimilitaryneedsunderdefencepact",
   "ustroopdeathsduringiranwarexceedpentagoncountby4wapo",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "chinaopposessecondarysanctionsurgesustomaintainstabletradeties",
-  "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "japansnipponlifeplans13billionfordatacenterfinancinginusnikkeiasiareports",
   "chinacentralbankadvisersaysaicoulddeepensupplydemandimbalancechinanews",
   "apolloblackstoneandkkrvieforshellstakeinlngcanadasourcessay",
@@ -770,13 +769,12 @@
   "whymarketsthinktheusiswinningtheblockade",
   "globalfreightcrisisraisesnewrisksforuslatinamericanagriculturaltrade",
   "usdjpyoutlookyenisstrengtheningasbojratehikeexpectationsrise",
-  "watchtrumpreigniteskennedycenterfight",
+  "mamdanisconsumercoptobegintechoversightpushwithinweeks",
   "tiffanyliesabouthisvotesonthewariniransaysgovernorhasnocontrolovergaspricesdespiteadoptingcrowleyspolicy",
   "spacexnasdaq100weighttojumpto282inquarterlyrebalancebloomberg",
-  "mamdanisconsumercoptobegintechoversightpushwithinweeks",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
-  "n1450perlitrenmdpramakesdecisiononpetrolpumppricesinnigeria",
   "tricycleridersannouncefareincreaseaspetrolhitsn1450perlitre",
+  "n1450perlitrenmdpramakesdecisiononpetrolpumppricesinnigeria",
   "airisksarerealsoishumaningenuity",
   "investingliveamericasmarketnewswrapbondsslumpagainyenratecheckaddsintrigueafterboj",
   "oilfinisheslowerasthemarketsniffsoutataco",
@@ -802,8 +800,11 @@
   "zcashsurgesbymorethan45thisweekasthe12billionfirmparadigmdiscloseszecstake",
   "thenextphaseforbitcoinminersmayhavelesstodowithbitcoinandmoretodowithpower",
   "europeanstockmarketopenstocksslipasinvestorstakeabreatherafterpost",
-  "dortmundbeatstuttgart10togotopofbundesliga",
   "worldleadersreturntounamidwarsinmiddleeastandukraine",
+  "twodeadinmoscowregiondroneshitoilrefineryinrussiancapital",
+  "turkeysaysitcouldhelpmeetsaudimilitaryneedsunderdefencepact",
+  "watchtrumpreigniteskennedycenterfight",
+  "dortmundbeatstuttgart10togotopofbundesliga",
   "anthropicconsidersnewaimodeltocounteropenaisastradaysafterceocalledforslowdown",
   "crudeoilfuturesseparatefromrealityasasiaphysicalmarketbucklesrussell",
   "industriesqatarsharesslide37asgulfriskerasesmostofthursdayjump",
@@ -1232,7 +1233,6 @@
   "sevenwaystovaluebitcoinfromnetworkadoptiontostockto",
   "pbocisexpectedtosettheusdcnyreferencerateat67065reutersestimate",
   "ukraineconfirmsstrikesonrostovmilitaryairfieldandyaroslavlrefinery",
-  "yenslipsaussiefirmsasbojdatasoftensandbullockflagsrbahike",
-  "thailandseesenergytransitionasshieldagainstoilvolatility"
+  "yenslipsaussiefirmsasbojdatasoftensandbullockflagsrbahike"
  ]
 }
