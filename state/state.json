@@ -952,9 +952,25 @@
     "impact": "Low",
     "forecast": "",
     "previous": ""
+   },
+   {
+    "title": "1-y Loan Prime Rate",
+    "country": "CNY",
+    "date": "2026-09-19T21:00:00-04:00",
+    "impact": "Low",
+    "forecast": "3.00%",
+    "previous": "3.00%"
+   },
+   {
+    "title": "5-y Loan Prime Rate",
+    "country": "CNY",
+    "date": "2026-09-19T21:00:00-04:00",
+    "impact": "Low",
+    "forecast": "3.50%",
+    "previous": "3.50%"
    }
   ],
-  "cache_at": "2026-09-20T10:35:15.826012+09:00",
+  "cache_at": "2026-09-20T10:43:19.898660+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -985,6 +1001,7 @@
   "venezuelaoppositionfactionweighingdealtomove4blningoldtousfromukreuters",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "venezuelaoppositionfactionweighingdealtomove4blningoldtousfromuksourcessay",
+  "explosionsheardagaininriyadh",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
   "indiariceoutputfacesbiggestdropintwodecadesstockscushionexports",
   "mediatorssetupdeescalationchannelsaheadofusirantalkssourcesays",
@@ -992,11 +1009,10 @@
   "apolloblackstoneandkkrvieforshellstakeinlngcanadasourcessay",
   "canadaoptimisticaboutconcludingtradetalkswithindiabyyearendministersays",
   "oilrefininghasbeenunderinvestedsaudiaramcosays",
-  "breakingviewscommentarytheweekinbreakingviewsthecostofcollusion",
-  "explosionsheardagaininriyadh",
   "saudiarabiatellseuropeoilbuyersnosuppliesnextmonth",
   "cubahitbyanothernationwideblackout",
   "trumpsaysheisbanningmediaoutletscnnmsnowpoliticofromwhitehouse",
+  "ustreasurysbessentchinashetomeetonsundayatjpmorganheadquartersworldnews",
   "paramountstatesdiscusscnnmonitoringandfilmreleasecommitmentsourcessay",
   "malaysiatoensurefuelsuppliesthroughyearendministrysaysmalaysianews",
   "explosionsheardinsaudicapitalriyadh",
@@ -1056,6 +1072,7 @@
   "thenextphaseforbitcoinminersmayhavelesstodowithbitcoinandmoretodowithpower",
   "europeanstockmarketopenstocksslipasinvestorstakeabreatherafterpost",
   "bojgovernoruedasaysspringwagetalkskeytojudginginflationtrend",
+  "breakingviewscommentarytheweekinbreakingviewsthecostofcollusion",
   "malaysianregulatortoaskpubliclytradedfirmsforelninoplanseyesdeepermiddleeastties",
   "anthropicweighsnewaimodellaunchasopenaigainsgroundreuters",
   "greenlanddenmarksaytrumpdealwontcompromisesovereignty",
@@ -1472,7 +1489,6 @@
   "nasdaqleadsabroadwallstreetrallyastreasuryyieldsfall",
   "trumplashesoutatfedafterwarshbacksratehike",
   "exbalyasnytraderbetselniñocanturbochargehedgefundgains",
-  "usfedraisesrateshowwillitimpactindiacheckimpactonrupeestocksloansandgold",
-  "saudibarrelsgetdisruptedindianrefinersfacecostlieroil"
+  "usfedraisesrateshowwillitimpactindiacheckimpactonrupeestocksloansandgold"
  ]
 }
