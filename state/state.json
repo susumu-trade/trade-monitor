@@ -438,7 +438,7 @@
     "country": "AUD",
     "date": "2026-09-23T21:30:00-04:00",
     "impact": "High",
-    "forecast": "20.9K",
+    "forecast": "22.5K",
     "previous": "-15.8K"
    },
    {
@@ -486,7 +486,7 @@
     "country": "EUR",
     "date": "2026-09-24T04:00:00-04:00",
     "impact": "Low",
-    "forecast": "89.0",
+    "forecast": "89.1",
     "previous": "88.8"
    },
    {
@@ -510,7 +510,7 @@
     "country": "GBP",
     "date": "2026-09-24T06:00:00-04:00",
     "impact": "Low",
-    "forecast": "-50",
+    "forecast": "-42",
     "previous": "-48"
    },
    {
@@ -542,7 +542,7 @@
     "country": "USD",
     "date": "2026-09-24T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "-259B",
+    "forecast": "-258B",
     "previous": "-227B"
    },
    {
@@ -598,7 +598,7 @@
     "country": "USD",
     "date": "2026-09-24T10:00:00-04:00",
     "impact": "Low",
-    "forecast": "619K",
+    "forecast": "615K",
     "previous": "607K"
    },
    {
@@ -614,7 +614,7 @@
     "country": "USD",
     "date": "2026-09-24T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "52B",
     "previous": "44B"
    },
    {
@@ -638,7 +638,7 @@
     "country": "JPY",
     "date": "2026-09-25T01:00:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "1.5%",
     "previous": "1.6%"
    },
    {
@@ -686,7 +686,7 @@
     "country": "USD",
     "date": "2026-09-25T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "0.5%",
+    "forecast": "0.6%",
     "previous": "0.4%"
    },
    {
@@ -702,7 +702,7 @@
     "country": "USD",
     "date": "2026-09-25T10:00:00-04:00",
     "impact": "Medium",
-    "forecast": "47.5",
+    "forecast": "47.4",
     "previous": "47.8"
    },
    {
@@ -730,7 +730,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-22T05:38:47.487166+09:00",
+  "cache_at": "2026-09-22T05:50:55.431262+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -763,13 +763,13 @@
   "polandsorlentosupplyukrainesnaftogaz3lngcargoesandfuel",
   "globaldieselpriceshitrecordhighsfurtherrisespossible",
   "houthispushforcontrolofyemenhighlandsastrumpissaidtohavecalledoffstrikes",
-  "globaldieselshortagelikelytolastinto2027asstoragetanksdrain",
   "exclusivefedsmusalemsaysmoreratehikeslikelyneededtoquellinflation",
   "exclusiverussiaadaptsfertilizercoalterminalsinbalticarcticportstoexportblackseagrain",
+  "globaldieselshortagelikelytolastinto2027asstoragetanksdrain",
   "commentaryoilshockraisesriskofmetalsshockasevsalesaccelerate",
   "oilpricedipsto100onhopesofusirandiplomacypartialrecoveryinsaudiexports",
-  "europefacesq4jetfuelsupplydeficitevenassouthkoreabecomeslatestbigsupplier",
   "qatarswealthfundandjpmorganassetmanagementtolaunch20billionpartnership",
+  "europefacesq4jetfuelsupplydeficitevenassouthkoreabecomeslatestbigsupplier",
   "lngbuyersandsellersseekgreatersupplydiversityamidiranwar",
   "apolloblackstoneandkkrvieforshellstakeinlngcanadasourcessay",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
@@ -779,7 +779,6 @@
   "theusispreparingsanctionsagainsttheentireiccwhatthismeansforthecourtandukraine",
   "indonesiacentralbankinfocusglobalmarkets5keythingstowatchoutforthisweek",
   "hkclinchesbronzeinasiangamestriathlonmixedrelay",
-  "trumpreviewsoptionstocurbenergypricesasiranstrikesroilmarkets",
   "hormuzshippingtrafficdropssharplyamidusirantensions",
   "oilhitsover1weeklowonhopesofboosttodiplomacyiniranwar",
   "volatileyendrawsinterventionwatchothercurrenciessubdued",
@@ -810,7 +809,6 @@
   "theotherhormuzblackseablockadethreatensafoodsupplyshock",
   "jpmorganseesupsidetoitsalreadyhawkish375bokratecall",
   "insuranceaustraliasaysgreensillsettlementisntfinalized",
-  "whymarketsthinktheusiswinningtheblockade",
   "themostoversoldandoverboughtstocksonthetsx",
   "braceforafloodofoilassoonashormuzreopens",
   "germanautoworkersprotestaftervwwarningdeepensgloom",
@@ -825,6 +823,7 @@
   "oaktreesmarkssayshewantsalessactivistcentralbank",
   "uschinameetfortalksinnewyorkbeforetrumpxisummit",
   "newdatacentersworth68billiondisruptedinusdatashow",
+  "firmusseekstoraise5billioninlandmarkaustralianipo",
   "chartofthedayeuropeangasnatgaseubelow80eurbutgoldmansachswarnsof105eurmwh",
   "oilpriceoutlookbrentwtispreadfacesseasonalwhipsawassupplyrisksbuild",
   "thehoneybadgermarket",
@@ -832,18 +831,21 @@
   "usdollarregainsmomentumasfedturnshawkishforecastasof21092026",
   "swissfrancstagescomebackforecastasof21092026",
   "aiwilldriveastrongusearningsseasongoldmanssnidersays",
-  "uslngexportersfindfewtakersineuropefornewsupply",
   "wallstreetpullswithin1ofitsrecordafteroilpricesandbondyieldsease",
+  "uslngexportersfindfewtakersineuropefornewsupply",
   "chartoftheday92126bondskeepfallingbutbuyerskeepbuying",
   "sampptsxcompositeindexupslightlyonmondayusmarketsalsoup",
   "russiabeginsstockpilingitsmostdangerousmissilesforwinterstrikesbloomberg",
   "lookingforstabledividendstockswithpotentialforgrowthtrythese",
+  "saudicrudecutoffexposeseuropesvulnerabilityaswinterenergyrisksmount",
+  "globalmarketsweeklyfedhikeinflationampoiltrends",
   "lookingtogoglobaljapanemergesasthetopperformingmarketin2026thesestockmarketsdeliveredm",
   "usdieselexportbancoulddriveupglobaloilpricesbloomberg",
   "oilsteadyastraderslooktomideastsupplyrisksanddiplomacy",
   "goldedgeshigherasloweroilfedhiketemperinflationfears",
   "dangoteadds4000machinesaslekkirefineryexpansiongatherspace",
   "datashowsdangoterefinerymakesmoremoneythanotheroilcompaniesinnigeria",
+  "fedscollinspencilsinsecondhikethisyearthenexpectsratesonholdin2027",
   "etherhitshighestsincejanuarywhattowatchtoseeifthegainholdspsonewhaleisnotatrend",
   "nasdaqcompositeclosesatarecordasmetaandchipstockssurge",
   "economicandeventcalendarinasiatuesdayseptember222026",
@@ -867,13 +869,14 @@
   "solanaoutperformslargecapcryptocurrenciesonpositiveregulatorydevelopmentsandetfinflows",
   "fedpolicymakergoolsbeewarnsstrongdemandmaybefuelingusinflationasratehikeoutlookhardens",
   "crudeoilfallsondeescalationhopesasfocusshiftstotheusgeneralassemblywhatsnext",
+  "trumpreviewsoptionstocurbenergypricesasiranstrikesroilmarkets",
+  "whymarketsthinktheusiswinningtheblockade",
   "usdjpyinterventionriskgrowsasjapanholidayleavesyenexposedinthinliquidity",
-  "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "ethereumfinallybreaksoutofthemonthlongrangeascftcmovesforwardwithoutcongress",
+  "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "fedsgoolsbeesaysstrongdemandmaybeaddingtousinflation",
   "markettalkusirandiplomacystillfaraway",
   "europeanbuyersholdtalkstoshipcanadianlngviapanamacanaltodiversifysupply",
-  "saudicrudecutoffexposeseuropesvulnerabilityaswinterenergyrisksmount",
   "ecbinflationheadachecouldworsenasgaspricesfeedthroughfasterthanbefore",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "lngsupplycutfurtheraftercyclonehitsaustralianplants",
@@ -890,10 +893,8 @@
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "microsoftsnadellatojoinopenainvidiaceosattrumpximeal",
   "oilpricedipsbelow100onhopesofusirandiplomacypartialrecoveryinsaudiexports",
-  "globalmarketsweeklyfedhikeinflationampoiltrends",
   "paramountsettleswithusstatesinbigsteptowardsclosingwarnerbrosmergersourcesays",
   "marketoutlookfortheweekof21st",
-  "firmusseekstoraise5billioninlandmarkaustralianipo",
   "europeanstockmarketopenstocksrallyasoilretreatsandusfuturesclimb",
   "usdieseltopsrecord650asglobalcrunchfeedsinflation",
   "shorttermtreasuriesemergeaspopularbetonfedinflationwin",
@@ -1248,7 +1249,6 @@
   "ustreasurysbessenttodiscussairareearthswithchinashesourcesays",
   "whatwouldacanadaeuenergyalliancelooklike",
   "saudiaramcohaltscrudeoilsupplytoeuropeancustomers",
-  "saudiarabiahaltsoildeliveriestoeuropeorlenalreadyseekingalternatives",
-  "nvidiagoogleemeraldaiformaienergymanagementalliance"
+  "saudiarabiahaltsoildeliveriestoeuropeorlenalreadyseekingalternatives"
  ]
 }
