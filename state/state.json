@@ -755,7 +755,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-24T10:49:43.536475+09:00",
+  "cache_at": "2026-09-24T10:58:19.320984+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -775,6 +775,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "audlittlechangedaustraliajoblessratehits46highestsince2021participationoutpacesjobsbeat",
   "australianjobsdataforaugust2026unemploymentrate46expected45prior45",
   "headsupchinamarketsshutfridayformidautumnfestivalwithweek",
   "pbocsetsusdcnyreferenceratefortodayat67489vsestimateat67184",
@@ -1273,7 +1274,6 @@
   "googleopenspreordersforus899googlebooklaptopsbuiltaroundgeminiai",
   "goldretreatsto4330askeytechnicallevelsputthereboundtothetest",
   "6070oilcomingoutofhormuzsaysrubiodoesntruleouttrumpmeetingiranpresident",
-  "goldslipsasfedofficialssignalratehikes",
-  "fedsgoolsbeesaysstrongdemandmaybeaddingtousinflation"
+  "goldslipsasfedofficialssignalratehikes"
  ]
 }
