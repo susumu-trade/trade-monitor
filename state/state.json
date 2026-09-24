@@ -661,6 +661,14 @@
     "previous": ""
    },
    {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "date": "2026-09-24T19:55:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+   },
+   {
     "title": "BOJ Core CPI y/y",
     "country": "JPY",
     "date": "2026-09-25T01:00:00-04:00",
@@ -765,7 +773,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-25T07:35:39.916089+09:00",
+  "cache_at": "2026-09-25T07:47:47.060948+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -786,11 +794,11 @@
  },
  "news_seen2": [
   "saudiarabiasmarketregulatorproposestighterrulesforiposaftermarketslowdown",
-  "usandirandiscussphaseddealtoreopenhormuzandendusblockadesourcessay",
+  "vitolemergesasoneofiraqstopcrudebuyerssourcessay",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "thekuibyshevoilrefineryinrussiahashaltedoperationsfollowingadroneattackreuters",
   "shellunlockstheaphroditefieldandtargetsfirstgasin2027",
-  "vitolemergesasoneofiraqstopcrudebuyerssourcessay",
+  "usandirandiscussphaseddealtoreopenhormuzandendusblockadesourcessay",
   "iranianofficialsaysiranandusremainfarapartasnewyorktalkscontinuehow16outletsframedit",
   "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
   "serbianoilcompanynisaskstheusforanewsanctionsexemptionreuters",
@@ -800,9 +808,9 @@
   "chinasrareearthsdominancetoovershadowtrumpstalkswithxi",
   "sterlinghitsnear3monthlowagainstthedollar",
   "bainbackedrenewablefuelmakerecocerestargets1billionhongkongiposourcessay",
-  "financingofhistoricaibuildoutraisessystemicrisksinusresearchersays",
-  "whatisasuperelniñoandhowwillitaffecttheweather",
+  "unsaysyemenviolencestruckcampsandhealthcentres",
   "europeaugustcarsalesriseasevdemandoffsetspetroldieselslump",
+  "whatisasuperelniñoandhowwillitaffecttheweather",
   "softbankraises111billioninworldsbiggesthighyieldcorporatebondsale",
   "uswarnsofpossibleexitfromieaoverclimatepolicydisputes",
   "putinsrepresentativedmitrievhasarrivedintheustomeetwithtrumpfornewtalksreuters",
@@ -835,8 +843,8 @@
   "bypassthestraitofhormuzwhythatsnotsoeasy",
   "jpmorganspetersfavorsstocksashigheryieldstestearnings",
   "iranwarspursasurgeinstocksalesfromusshalecompanies",
-  "supertankerrallyluresinvestorsaswarsqueezesvesselsupply",
   "pharmacybenefitsfirmrightwayeyesipoafternewfunding",
+  "supertankerrallyluresinvestorsaswarsqueezesvesselsupply",
   "saudisgulfoilsurgedrivesexportstohighestsincewarbegan",
   "nigeriatbillyieldshit2026lowafterjumbointerestratecut",
   "morganstanleyrushestocheckfalloutafterdeallistleak",
@@ -858,7 +866,6 @@
   "watchsavorceoonproducingfatsampoilsfromcarbonsources",
   "indiancopperproducersseektaxcuttonavigaterecordrally",
   "hongkongseeksupto26billioninrecorddigitalbondsale",
-  "oraclesaysprojectjupiterremainsontrackdespitepowersupplyconcerns",
   "oracletriggersforcemajeureondatacenterprojectoverpowerdelayssourcesays",
   "saudiarabiasells100millionbarrelsofcrudetoasiaviahormuz",
   "oilrisesasiranthreattowidenwardimshormuzdealhopes",
@@ -867,6 +874,7 @@
   "oraclecitesforcemajeuretoshielditselfondatacenter2",
   "usstocksswingwithbondyieldsandoilpricesbeforerecoveringmuchoftheirlosses",
   "usdieselexportbanisitaproblemforeurope",
+  "metamuseaisettocreatenewmultibilliondollarrevenuestreamnasdaqmeta",
   "oraclesendsforcemajeurenoticeonitsnewmexicostargatedatacenter",
   "usdollarsurgesaseuropeswoesweighoneuroforecastasof24092026",
   "microsoftmayabandonitscleanenergypowereddatacentretargets",
@@ -879,6 +887,7 @@
   "shippingstockseclipsechipsinasiaasfreightratesjump",
   "nsesharesriseafter24billionipodebutonbse",
   "bankofghanatointroducenewcedinotesthisyearsharesnewfeatures",
+  "hackersdrain3516millionfrombitgetinpossibly2026sbiggestcryptoheist",
   "chinashutsformidautumnfestivalholidaytodayapreviewoftheweek",
   "ubssaysfedhikefearsoverdoneas10",
   "iranspezeshkianseeksusceasefiredealbeforemidtermssignalsnuclearopenness",
@@ -903,8 +912,9 @@
   "usdchfrunstothehighestlevelsincemay2025",
   "fedshammacksaysinflationrisksaretiltedtotheupside",
   "adambuttonongoldmarketnoiseandriskwhattradersneedtoknowbeforeq4",
+  "financingofhistoricaibuildoutraisessystemicrisksinusresearchersays",
   "ecbsschnabelexpectedtoannounceshewillbesteppingdowntojoinimfinaseniorposition",
-  "unsaysyemenviolencestruckcampsandhealthcentres",
+  "oraclesaysprojectjupiterremainsontrackdespitepowersupplyconcerns",
   "startupsmodalbaseteninfundingtalkstohelpbusinessesrunai",
   "anthropicstrikes12billionaicomputingdealwithakamai",
   "watchmarketsglobalselloffinbondsintensifies",
@@ -1282,8 +1292,6 @@
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "westernassetintermediatetermmunicipalsfundq22026commentary",
   "derailedipoplansrattleusmarketaheadofanthropicdebut",
-  "theecblookstobuildthebridgebetweenblockchaintokenisationandtraditionalfinance",
-  "indiabondsweakenunderoilsupplypressure",
-  "usjudgedismissesmichiganclimatelawsuitagainstoilcompaniesbyreuters"
+  "theecblookstobuildthebridgebetweenblockchaintokenisationandtraditionalfinance"
  ]
 }
