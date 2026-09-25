@@ -774,7 +774,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-25T09:00:06.440074+09:00",
+  "cache_at": "2026-09-25T09:08:10.973369+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -794,8 +794,8 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "saudieastwestpipelinebuildingupvolumesloadingyettoresumesourcessay",
   "usandirandiscussphaseddealtoreopenhormuzandendusblockadesourcessay",
+  "saudieastwestpipelinebuildingupvolumesloadingyettoresumesourcessay",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "thekuibyshevoilrefineryinrussiahashaltedoperationsfollowingadroneattackreuters",
   "shellunlockstheaphroditefieldandtargetsfirstgasin2027",
@@ -864,10 +864,11 @@
   "bloomberganalystsends2008wtioilwarningonbitcoin",
   "thebondmarketperfectstorm",
   "siemensenergyceoseesdatacenterboomlastingonpowerneeds",
-  "us30yearyieldhitshighestsince2004asbondselloffdeepens",
   "fedspaulsonsaysfurthermodestratehikesmaybeneeded",
+  "aitradeisgroundzeroasstockinvestorsmapelectionrisks",
   "bentleydebutsfirstelectriccaramerinolinedluxurysuv",
   "thesaudieconomycanholdoutthroughyearsendevenifoilexportsdroptozero",
+  "us30yearyieldhitshighestsince2004asbondselloffdeepens",
   "morganstanleyinvestmentbanklistleakedinemailmisfire",
   "hongkongseeksupto26billioninrecorddigitalbondsale",
   "indiancopperproducersseektaxcuttonavigaterecordrally",
@@ -883,11 +884,10 @@
   "oraclesendsforcemajeurenoticeonitsnewmexicostargatedatacenter",
   "earningssnapshotblackberryfq2deliverssolidq2beatraisesfy2027revenueandebitdaguidance",
   "wallstreetreboundssampp500erasesitsdeclineonhormuzdealhopes",
-  "usdollarsurgesaseuropeswoesweighoneuroforecastasof24092026",
   "fedagainhopingforapainfreelandingfromcurrentusinflationspike",
+  "usdollarsurgesaseuropeswoesweighoneuroforecastasof24092026",
   "sampptsxcompositefinishesinnegativeterritoryusmarketsseemixedresults",
   "dailynavigator2492026marketoutlook",
-  "brendancaldwellstoppicksforsept242026",
   "upsdivertsf35partstohongkongchinatakespossessionbloomberg",
   "oracletriggersforcemajeureondatacentreprojectoverpowerdelayssourcesays",
   "asx200livetodaythursday24thseptember",
@@ -919,6 +919,7 @@
   "fedsannapaulsonsaysanotherratehikemaybeneededtolowerinflation",
   "usnewhomesalesforthemonthofaugust0684millionversus0615millionestimate",
   "boesbreedennotatallobviousthereisapathtolowerenergyprices",
+  "brendancaldwellstoppicksforsept242026",
   "whatdroveustreasuryyieldstoa19yearhighandsentstockstumbling",
   "watchbessentuschinatoextendtradetrucetojanuary10",
   "watchstocksdropasoilrallyfuelstreasuryvolatility",
@@ -1292,7 +1293,6 @@
   "metasmusedragsdownstocksthatdependonconsumerinertia",
   "sampptsxcompositerisesmorethan300pointsusstockmarketsmixed",
   "eurozonepmijumpsasservicessurgepricepressureskeepecboctoberratehikeinplay",
-  "fedsperlitreasurybillpurchasesdependonmarketconditions",
-  "ukseptemberflashservicespmi517vs520expected"
+  "fedsperlitreasurybillpurchasesdependonmarketconditions"
  ]
 }
