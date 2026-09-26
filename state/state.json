@@ -776,7 +776,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-27T08:35:33.216017+09:00",
+  "cache_at": "2026-09-27T08:43:36.529452+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -796,27 +796,26 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "theweekinnumbersglobalbondselloffdeepensvwcrisisworsens",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "sixdeadafterexplosiondestroysbuildinginathens",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
+  "homeheroyamashitaclaimsmensmarathongoldinrainynagoya",
   "toyotafactoryautomationcouldcost64billionperyearfrom2028",
   "aiinjournalismstatistics2026",
   "ukrainesaysitstruckoilrefineryinsouthernrussia",
   "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
   "exclusiveskhynixssolidigmweighsipothatcouldvaluetheunitatupto150billionsourcessaybyreuters",
-  "homeheroyamashitaclaimsmensmarathongoldinrainynagoya",
+  "iranawaitsusresponseonhormuzproposalafterreporttrumprejecteddeal",
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "trumprejectsiranianproposaltoopenhormuzandendfighting",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
-  "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
   "saudicoalitionsaysitinterceptshouthimissilesdrones",
+  "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "irandealincludes300billionfundmorethanhalfofwhichalreadycommittedsourcesays",
   "commentaryopeninghormuzistheeasypartrestoringoilflowsisntbousso",
   "oilpricesjumpover7aftertrumpsaysattacksoniranwillcontinue",
   "usnaturalgassupplyoutlookhingesonthreekeyshalebasinsmaguire",
   "oilrisesonintensifyingusiranhostilitiesthreatofredseaclosure",
-  "iranawaitsusresponseonhormuzproposalafterreporttrumprejecteddeal",
   "ieaslashes2026supplyforecastashormuzreopeningremainselusive",
   "bangkokdeclaredanaturaldisasterareaduetowidespreadfloodingreuters",
   "400millionusmilitarypackageforukrainewillnotincludeinterceptors",
@@ -881,6 +880,8 @@
   "europewantsfinanceontheblockchainbutitalsowantstheeuroatthecentreofit",
   "goldxauusdanalysisrenewedhopesforusirandealavertacollapsewhattowatch",
   "whydidcryptosurge",
+  "home",
+  "theweekinnumbersglobalbondselloffdeepensvwcrisisworsens",
   "siemensenergyceoseesdatacenterboomlastingonpowerneeds",
   "microsoftmayabandonitscleanenergypowereddatacentretargets",
   "australiapmalbanesehasaskedtreasurytomodelataxonwindfallgasprofitsabcreports",
@@ -1294,7 +1295,6 @@
   "stickycoreinflationpushesrbatowardsitshighestcashratesince2011",
   "teenagesensationshinohashibreaks200mbreaststrokeworldrecordtowingoldatasiangames",
   "hedgefundwith235returnsaysgoldpricedeclineistemporary",
-  "putinsrepresentativedmitrievhasarrivedintheustomeetwithtrumpfornewtalksreuters",
-  "iranspezeshkianwantsadealwiththeusbeforethemidtermelectionsnbcreports"
+  "putinsrepresentativedmitrievhasarrivedintheustomeetwithtrumpfornewtalksreuters"
  ]
 }
