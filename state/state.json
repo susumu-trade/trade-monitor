@@ -1248,7 +1248,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-28T08:07:14.867414+09:00",
+  "cache_at": "2026-09-28T08:15:20.320597+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1268,6 +1268,9 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "oilreboundsaftertrumprejectsiranpeacedeal",
+  "oilpricesdrop4afterqatarbessentraisehopesofausirandeal",
+  "commentarywherewillfedtighteninghithardestinasia",
   "saudiaramcoseekstoreroutecrudeawayfromstraitofhormuzsourcessay",
   "iranwillmakenonuclearconcessionsiranianofficialsays",
   "europeanbuyersholdtalkstoshipcanadianlngviapanamacanaltodiversifysupply",
@@ -1290,6 +1293,7 @@
   "watchiaeasaysirannuclearoversightcanresumefast",
   "watchinflationkeepspressureonthefed",
   "chinadispatchespairofpandastoatlantazoocctvreports",
+  "watchwhyhumanoidrobotsmightbethefutureofeldercare",
   "chinasconsumerstocksfacelostdecadeasaistealsspotlight",
   "watchdatacenterboomfaceswallstreetskepticism",
   "watchrubensteinonthebilliondollarsportsboom",
@@ -1327,7 +1331,6 @@
   "oilrisesonintensifyingusiranhostilitiesthreatofredseaclosure",
   "trumprejectsiranianproposaltoopenhormuzandendfightingworldnews",
   "edisonsaysqatarmayextendgasforcemajeureseesuslngfillinggap",
-  "watchwhyhumanoidrobotsmightbethefutureofeldercare",
   "morningkickstartyenjumpsasusdjpybreaks15800andoilslides",
   "saudicoalitionsaysitinterceptshouthimissilesdrones",
   "iraninsistsondiplomaticsolutionaftertrumprejectspeaceplan",
@@ -1397,7 +1400,6 @@
   "crudeoilfuturesseparatefromrealityasasiaphysicalmarketbucklesrussell",
   "iranshormuztollboothsettohardwirehigherenergypricesbousso",
   "bangkokdeclaredanaturaldisasterareaduetowidespreadfloodingreuters",
-  "oilpricesdrop4afterqatarbessentraisehopesofausirandeal",
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
   "oilpricesriseaftershipattacksusirantalksdeadlock",
@@ -1765,8 +1767,6 @@
   "indiansharesmutedashighoilyieldsweighitoffsetsbroaderpullback",
   "greekpatriotsystemshootsdownmissileanddroneoversaudiarabia",
   "greekoperatedairdefencesystemshootsdownballisticmissiledroneoversaudi",
-  "qualcommsecuresextensiontoglobalpatentlicensingpactwithapple",
-  "usdieselexportbanisitaproblemforeurope",
-  "tetherconfirmsfundsstuckattroubledoffshorebankeqibanksaysexposureistiny"
+  "qualcommsecuresextensiontoglobalpatentlicensingpactwithapple"
  ]
 }
