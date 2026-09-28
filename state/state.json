@@ -812,7 +812,7 @@
     "country": "AUD",
     "date": "2026-09-30T21:30:00-04:00",
     "impact": "Low",
-    "forecast": "2.10B",
+    "forecast": "2.00B",
     "previous": "1.92B"
    },
    {
@@ -828,7 +828,7 @@
     "country": "GBP",
     "date": "2026-10-01T02:00:00-04:00",
     "impact": "Low",
-    "forecast": "0.2%",
+    "forecast": "0.0%",
     "previous": "0.2%"
    },
    {
@@ -852,7 +852,7 @@
     "country": "CHF",
     "date": "2026-10-01T02:30:00-04:00",
     "impact": "Low",
-    "forecast": "2.2%",
+    "forecast": "2.1%",
     "previous": "2.3%"
    },
    {
@@ -868,7 +868,7 @@
     "country": "CHF",
     "date": "2026-10-01T03:30:00-04:00",
     "impact": "Low",
-    "forecast": "56.0",
+    "forecast": "56.4",
     "previous": "57.1"
    },
    {
@@ -876,7 +876,7 @@
     "country": "EUR",
     "date": "2026-10-01T03:45:00-04:00",
     "impact": "Low",
-    "forecast": "49.9",
+    "forecast": "50.1",
     "previous": "49.6"
    },
    {
@@ -908,7 +908,7 @@
     "country": "EUR",
     "date": "2026-10-01T04:00:00-04:00",
     "impact": "Low",
-    "forecast": "5.7%",
+    "forecast": "5.8%",
     "previous": "5.8%"
    },
    {
@@ -980,7 +980,7 @@
     "country": "USD",
     "date": "2026-10-01T08:30:00-04:00",
     "impact": "Medium",
-    "forecast": "199K",
+    "forecast": "201K",
     "previous": "197K"
    },
    {
@@ -1028,7 +1028,7 @@
     "country": "USD",
     "date": "2026-10-01T09:45:00-04:00",
     "impact": "Low",
-    "forecast": "57.0",
+    "forecast": "56.9",
     "previous": "57.0"
    },
    {
@@ -1044,7 +1044,7 @@
     "country": "USD",
     "date": "2026-10-01T10:00:00-04:00",
     "impact": "Medium",
-    "forecast": "55.0",
+    "forecast": "54.8",
     "previous": "54.6"
    },
    {
@@ -1052,7 +1052,7 @@
     "country": "USD",
     "date": "2026-10-01T10:00:00-04:00",
     "impact": "Low",
-    "forecast": "0.1%",
+    "forecast": "0.0%",
     "previous": "-0.5%"
    },
    {
@@ -1060,7 +1060,7 @@
     "country": "USD",
     "date": "2026-10-01T10:00:00-04:00",
     "impact": "Low",
-    "forecast": "72.0",
+    "forecast": "72.9",
     "previous": "71.1"
    },
    {
@@ -1068,7 +1068,7 @@
     "country": "USD",
     "date": "2026-10-01T10:15:00-04:00",
     "impact": "Low",
-    "forecast": "16.5M",
+    "forecast": "16.3M",
     "previous": "16.8M"
    },
    {
@@ -1204,7 +1204,7 @@
     "country": "USD",
     "date": "2026-10-02T08:30:00-04:00",
     "impact": "High",
-    "forecast": "89K",
+    "forecast": "90K",
     "previous": "162K"
    },
    {
@@ -1248,7 +1248,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-29T04:35:55.878669+09:00",
+  "cache_at": "2026-09-29T04:44:00.817774+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1271,41 +1271,41 @@
   "exclusivejapanscurrencydiplomatmimuraurgesmarketstoheedveryclearwarningonyen",
   "russianoilsupplytoindiatightensonreducedexportsstrongchinesedemand",
   "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
-  "oilpricessettleslightlyhigheronsupplyworriesastrumprejectsiranproposal",
   "predictionmarketspushintousstocksraisesregulatoryalarmbells",
+  "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
   "oilpricesedgelowerasieareducesdemandforecast",
-  "usnatgasoutputanddemandtohitrecordhighsin2026eiasays",
+  "commentarymorningbidenteringthehomestretch",
   "germangassupplyissecuredespitelowstoragelevelsvngchiefsays",
   "commentarycashrichoilmajorsfacepostiranstrategyrethink",
-  "stocksfallsqueezedbyrisingoilpricesandtreasuryyields",
   "bankofenglandsramsdenhappywithmarketreactiontomultiyearbondsaleplans",
+  "stocksfallsqueezedbyrisingoilpricesandtreasuryyields",
   "northernstarrejectsgoldfields27billionbidtocreateworldsno2goldminer",
   "usfinalizesnewlowerfueleconomystandardsinboostforgaspoweredvehicles",
-  "oilpricesrise2aftertrumprejectsiranpeacedeal",
+  "oilpricessettleslightlyhigheronsupplyworriesastrumprejectsiranproposal",
   "mideastoilexportsreboundinseptemberassaudiarabiaboostsshipments",
   "totalenergiesraisessharebuybacktargetsasfuelpricesdriveprofits",
-  "sheinreportssharpdropineuropesalesafterpricehikes",
   "redbullsuesindianregulatoroverenergydrinklabelban",
+  "germanysevonikrejectsbasfs117billionbidsourcessay",
   "commentarywherewillfedtighteninghithardestinasia",
   "ukhousebuildersharesrallyonhelpforfirsttimebuyers",
+  "sheinreportssharpdropineuropesalesafterpricehikes",
   "exclusiveustograntsanctionswaiverforflightsbetweeniranandiraqsnajafsourcesays",
   "worldabsorbshistoriciranwaroilsupplylossbutdepletedstocksbringrisks",
   "oilpricesmixedamidattacksongulfexportfacilities",
-  "reutersrussiaplansrecorddefensespendingof17trillionrublesin202727morethanpreviouslybudgeted",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "oilpricesjumpashormuzreopeningremainsuncertain",
-  "southkoreademandsanapologyfromukrainefordisclosingthesecrettransferoftwonorthkoreanprisoners",
   "johngaltsolutionstopresentinteractivesessiononaidrivensupplychainplanningatreuterssupplychaineurope2026",
   "oilpricesjumpover7aftertrumpsaysattacksoniranwillcontinue",
   "oilrises2asusiranpeacetalksstallbrenthits10692",
   "northkoreanpowsarriveinsouthkoreafromukrainelocalmedia",
   "portspowerandcorridorsthesilentbattlereshapingglobaltrade",
   "exclusivecolombiahashelddiscussionswithimfincludingonsecuringfinancingsourcesbyreuters",
+  "southkoreademandsanapologyfromukrainefordisclosingthesecrettransferoftwonorthkoreanprisoners",
   "geelytoacquire30ofcompetitorniosbatteryswappingunit",
   "oilrefininghasbeenunderinvestedsaudiaramcosays",
   "oilpricesriseasusiranpeacetalkshitstalemate",
-  "bojupsclimateloansasdebateswirlsonhowgreencentralbanksshouldbe",
   "stocksslipinasiaasoilclimbsbondsretreat",
+  "oilpricesrise2aftertrumprejectsiranpeacedeal",
   "zelenskyyazerbaijanicitizenkilledinrussianattackonkyivregion",
   "goldfieldsdeniedtakeoverataustraliastopgoldproducer",
   "oilheadshigherasusiranpeacetalksinstalemate",
@@ -1314,6 +1314,8 @@
   "inflationdatainfocus5keymarketthemesinvestorsneedtowatchthisweek",
   "qatargasdeliverytoeuropeanclientdelayed",
   "onlydiplomacycanresolveconflictwithusisraeliran",
+  "chinaweighsallowingbytedancealibabatobuynewnvidiachipstheinformationreports",
+  "oilandlngtankersexithormuzheadingforpakistanandchina",
   "golddropsmorethan1onusratehikebets",
   "middleeastoilexportsreboundtohighestlevelsinceiranwarbeganreuters",
   "stockscautiousinasiaasoilgainsyieldsrise",
@@ -1400,12 +1402,10 @@
   "therealoilshockisntdisappearingitsmovingintoshippingcosts",
   "eurusdbreaksthroughthekey114supportashopesforus",
   "usjobsreportcoulddecidehowmuchhighertreasuryyieldscango",
-  "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
-  "commentarymorningbidenteringthehomestretch",
-  "germanysevonikrejectsbasfs117billionbidsourcessay",
-  "chinaweighsallowingbytedancealibabatobuynewnvidiachipstheinformationreports",
+  "usnatgasoutputanddemandtohitrecordhighsin2026eiasays",
+  "bojupsclimateloansasdebateswirlsonhowgreencentralbanksshouldbe",
   "taylorswiftlandstoptrophyatmtvsvideomusicawards",
-  "oilandlngtankersexithormuzheadingforpakistanandchina",
+  "reutersrussiaplansrecorddefensespendingof17trillionrublesin202727morethanpreviouslybudgeted",
   "emergingstocksslideasoilgainsonrenewedmideasttensions",
   "morningbidanewneutralratemuchlikeadecadesoldone",
   "goldsinflationhedgefaltersasoilliftsfedbetshighlightinglowcostminersmarginedge",
