@@ -1258,7 +1258,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-09-30T20:29:07.115952+09:00",
+  "cache_at": "2026-09-30T20:37:14.748056+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1278,8 +1278,8 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "opecoilproducerssettokeepoutputtargetssteadyatsundaymeetingsourcessay",
   "howtheuscontrolsiraqsoilrevenues",
+  "opecoilproducerssettokeepoutputtargetssteadyatsundaymeetingsourcessay",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "oilgainsasstalledusirantalkstrumpsupplyrecovery",
   "moneyhasntdisappearedisitbecomingmoreselectiveaboutrisk",
@@ -1330,7 +1330,6 @@
   "stocksriseasusdataandmicronposekeytestsmarketswrap",
   "oildropsasmideastcrudehits98ofprewarflowsmancityguiltyover12b",
   "crowdedshorttradeintreasuryfuturesboostsriskofasqueeze",
-  "microns370billionstockreboundhingesonaispendingview",
   "consumerstaplessectorampindustryperformance",
   "foreignmoneyfleesindiaagainasoilspikeundoespolicygains",
   "fedswilliamsseesonemoreinterestratehikeinlate2026",
@@ -1343,6 +1342,7 @@
   "fedsbarrsaysmorehikeslikelyneededasgrowthpicksup",
   "frontendbondyieldsandshortdurationfixedincome",
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
+  "fakewhatsappfueledtradesbilkedinvestorssecsays",
   "howscottbessentistargetingafavoritewallstreettaxstrategy",
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "iranwarspursasurgeinstocksalesfromusshalecompanies",
@@ -1356,15 +1356,16 @@
   "energyservicessettobenefitonceiranwarendsbarclayssays",
   "globallnghuntintensifiesasmiddleeastwarcutssupply",
   "chinahardwarestockssetforworstquarterasairallyunravels",
+  "microns370billionstockreboundhingesonaispendingview",
   "realestatestocksareaboldbetonmonetarypolicyreversal",
   "michaelburrysprotégéwarnsofvaluetrapsinkoreanstocks",
   "chinaseconomicactivityreboundswithstimulusliftingoutlook",
+  "chinasministimulusseensecuringgdptargetnotmuchmore",
   "trumpbacksindependentaiauditsinshiftofsafetyposture",
+  "deepseekunveilshuaweiaichiptoolsthatmayreplacenvidias",
   "someouraipoinvestorsweresaidtopushbackcitingvaluation",
   "watchhowtheriseofpredictionmarketsimpactssportsbooks",
-  "fakewhatsappfueledtradesbilkedinvestorssecsays",
   "munitradingjumpstohighestsinceatleast1995onmarketrout",
-  "whatminivansandtheyieldcurvesayabouttheeconomyrightnow",
   "smartringmakerourabecomeslatestcompanytodelayusipo",
   "morganstanleys25billionparkingsalewinschicagoapproval",
   "susquehannasaysitwillsettlewithallegedinsidertraders",
@@ -1374,11 +1375,9 @@
   "bankofcanadaboosts2weekrepousetoeasemarketstrain",
   "omantoboostoilstorageasgulfnationsseektobypasshormuz",
   "braziljobcreationbeatsallforecastsdaysbeforeelection",
-  "jpmorganhiresthreefornaturalresourcesbankingteam",
   "worldlabsfeifeiliisworth16billionafteramddeal",
   "toyieldornottoyield",
   "philippeelasmarexplainswhyactiveetfsarepoisedforsignificantexpansionacrossasiapacific",
-  "websofaidebt",
   "aforesdeméxicobatenrécordendeudapúblicayapuntalanalgobierno",
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
   "howexposedareclostoaidisruption",
@@ -1389,6 +1388,7 @@
   "colincieszynskistoppicksforsept292026",
   "pmcarneylaughsofftrumpadvisertellingcanadianlobbyiststogetthehelloutofus",
   "apeacefulfacadehidesstructuralconcernstalkmarkets",
+  "investingliveeuropeansessionwrapequitiesretreatasoilreboundsandbondyieldsstayelevated",
   "crudeoilcomesunderrenewedpressureasusirannegotiationsadvanceusreleasesspr",
   "europeanstocksslipbackasoilandbondyieldsedgehigherfromsessionlows",
   "iransanctionsfightmovesintocryptoasusdtbecomespartofthefinancialplumbing",
@@ -1414,6 +1414,9 @@
   "ratingdogchinamanufacturingpmi521topsforecastservices516alsobeats",
   "australiaaugustcpi40asfueljumpstrimmedmeanbelowforecastat02mm",
   "chinaprivatesurveymanufacturingpmiseptember521vsexpected516prior515",
+  "whatminivansandtheyieldcurvesayabouttheeconomyrightnow",
+  "jpmorganhiresthreefornaturalresourcesbankingteam",
+  "websofaidebt",
   "spainportugalluxembourgpushfor2040renewableenergytarget",
   "whyisoilat100iftrumpiswinningthebattleinhormuz",
   "watchjpmorgangoldmanseemideastoilflowsnearprewarlevels",
@@ -1774,9 +1777,6 @@
   "sportradarmetasmusecouldchangethestorybutineedproofnasdaqsrad",
   "dollarholdsneartwomonthpeakasyieldsrisefeddatalooms",
   "indonesiaferrydeathtollhits66assearchenters16thday",
-  "westernassetinflationlinkedopportunitiesampincomefundq22026commentarywiw",
-  "sheinquarterlyprofitplungesaseuropeansalesslump",
-  "onlydiplomacycanresolveconflictwithusisraeliran",
-  "franklincorporateladder15yearsmaq22026commentary"
+  "westernassetinflationlinkedopportunitiesampincomefundq22026commentarywiw"
  ]
 }
