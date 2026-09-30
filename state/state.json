@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-09-30",
+  "last_digest": "2026-10-01",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -1264,7 +1264,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-01T06:59:20.508154+09:00",
+  "cache_at": "2026-10-01T07:07:24.424675+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1288,8 +1288,8 @@
   "analystsraise2026oilforecastsonprolongedgulfdisruptionreuterspoll",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "opecoilproducerssettokeepoutputtargetssteadyatsundaymeetingsourcessay",
-  "willoilstay90wtiaschinaslowsbuyingandoilstillmoves",
   "moneyhasntdisappearedisitbecomingmoreselectiveaboutrisk",
+  "willoilstay90wtiaschinaslowsbuyingandoilstillmoves",
   "thailandconsideringoiltaxcut",
   "oilpricesriseaftertrumpdeniesiransanctionsrelief",
   "cominginoctoberstephenschwarzmansautobiographyseries",
@@ -1333,6 +1333,7 @@
   "trumpsettotoutkoreaninvestmentinalaskalngotherprojectssourcessayworldnews",
   "ftcopensprobeintoaigiantsincludinganthropicandopenaireuters",
   "chinaopensrarejointmilitarysupportcentreinlaoschinanews",
+  "formermalaysianpmmahathir101admittedtohospitalforobservation",
   "stockssnapfourdayplungeonbargainhunting",
   "goldandsilvercrashas10yearyieldtops52",
   "jpmorganssundarseeshealthytumultoftwoaicyclesatonce",
@@ -1367,16 +1368,16 @@
   "goldsrecordrallyhightaxesfuelindiasunderthecountercashmarket",
   "theelusiveleadersbehindjanestreetswallstreetrise",
   "warexposesthecostofthewestsretreatfromoilrefining",
+  "microns370billionstockreboundhingesonaispendingview",
   "traderspullbackonoctoberfedhikebetsaftercoolpcedata",
   "saronicceospeediseverythinginshipbuilding",
   "cananythingslowchinasexportjuggernaut",
   "newindexeslaunchedtoidentifyandhedgeaiexposure",
-  "whyisoilat100iftrumpiswinningthebattleinhormuz",
-  "microns370billionstockreboundhingesonaispendingview",
   "gabonreturnstobondmarketswithtargettoraise580million",
   "norwaywealthfundownedturkishstockssweptupinfraudprobe",
-  "clearlakeraises1billionfromcfotradeafterrejiggingdeal",
+  "watchamygowersaysgoldfacesrateanddollarheadwinds",
   "fedswilliamsseesonemoreinterestratehikeinlate2026",
+  "clearlakeraises1billionfromcfotradeafterrejiggingdeal",
   "chinaseconomicactivityreboundswithstimulusliftingoutlook",
   "michaelburrysprotégéwarnsofvaluetrapsinkoreanstocks",
   "chinasministimulusseensecuringgdptargetnotmuchmore",
@@ -1398,6 +1399,7 @@
   "pmcarneylaughsofftrumpadvisertellingcanadianlobbyiststogetthehelloutofus",
   "technicalanalysisofthedoweurjpyastheyprobekeysupportwhileusnaturalgasfuturescomefurtherofftheir212monthhigh",
   "banksconsumerstocksdragnigerianequitieslowerasinvestorslosen4686bn",
+  "howthreehedgefundstrategiesworkinahigh",
   "franklintempletonszahnfavoursgermanandspanishbondsseesgrowthslowingineurope",
   "investingliveamericasfxnewswrap30septsofterpcefailstoholdyieldsdowndowendsseptemberatjunelows",
   "whatchinasgoldenweekclosuresmeanfortheyuanfuturesandasianliquidity",
@@ -1422,8 +1424,9 @@
   "usadvancegoodstradebalanceforaugust1326billionvs",
   "usjulycorepce30yyvs33expected",
   "morningkickstartdollarmixedasyieldseaseandoilsupplyimproves",
-  "solanaconsolidatesatakeytrendlineasusirantalksandalpenglowmainnetactivationremaininfocus",
   "oilrisesonintensifyingusiranhostilitiesthreatofredseaclosure",
+  "solanaconsolidatesatakeytrendlineasusirantalksandalpenglowmainnetactivationremaininfocus",
+  "whyisoilat100iftrumpiswinningthebattleinhormuz",
   "chinasfactoryactivityreturnstogrowthinseptemberamidaiboomchinanews",
   "bojspolicypivotopensscopeforfasterratehikes",
   "deepseekunveilshuaweiaichiptoolsthatmayreplacenvidias",
@@ -1435,7 +1438,6 @@
   "kazakhstansoiloutputplummetsafterdroneattacksforcedexportingterminalclosuresourcessay",
   "pbocisexpectedtosettheusdcnyreferencerateat67025reutersestimate",
   "kalshipredictionmarketnewswhattradermustknowbeforeoctober13",
-  "watchamygowersaysgoldfacesrateanddollarheadwinds",
   "chinahardwarestockssetforworstquarterasairallyunravels",
   "watchwhymiddleeastoilrisksnowexceeduschinatensions",
   "disneylayingoffafewhundredemployeessourcesays",
@@ -1456,7 +1458,6 @@
   "conservativempscottaitchisontoresignbyendofyearsource",
   "germanyseptemberpreliminarycpi33vs31yyexpected",
   "italyreadytodeploytwominesweepersinhormuzstraitnavychiefsays",
-  "formermalaysianpmmahathir101admittedtohospitalforobservation",
   "crudeoilcomesunderrenewedpressureasusirannegotiationsadvanceusreleasesspr",
   "goldrisesaftercoolerinflationdatabutmonthlydeclinelooms",
   "frontendbondyieldsandshortdurationfixedincome",
@@ -1782,7 +1783,6 @@
   "europeanstockmarketopenstocksedgehigherbutsurgingyieldskeeppressureontheriskmood",
   "blockchaincomissaidtotarget500millionipothisyear",
   "preciousmetalsstonexbullionweeklyroundup092826thelargecomexgoldinventorydropexplained",
-  "goldselloffpausesasusirantalksrevivedealhopeswhattowatchnext",
-  "taiwansaysitisincontinuoustalkswithusaboutarmssalesasianews"
+  "goldselloffpausesasusirantalksrevivedealhopeswhattowatchnext"
  ]
 }
