@@ -1271,7 +1271,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-02T21:35:25.198019+09:00",
+  "cache_at": "2026-10-02T21:43:55.805739+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1291,6 +1291,11 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "usseptembernon",
+  "investingliveeuropeansessionwrapstocksadvanceasbondyieldseaseaheadofnfp",
+  "lockedandloadedfortheseptembernon",
+  "northamericanmorningkickstartdollarmixedaheadofusjobsreportasoilfallsandfuturesrise",
+  "solanaextendsgainsastradersreducefedratehikebetsfollowingdovishfedcomments",
   "seemoreopportunitieselev8brokersforexmarketbreakdownforoctober",
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "tokenisedstocksarecomingtotheusbutthesecmayalreadybeputtingonthebrakes",
@@ -1316,10 +1321,6 @@
   "secproposeslettinginvestmentadvisersandfundsself",
   "dollarhitshighestsincemay2025beforepayrollsasiafxslipsdespitestrongdata",
   "katayamaeyes7trillionyenofidlefundsaskiuchisaysjapanneedsnoexcessiveeasing",
-  "investingliveeuropeansessionwrapstocksadvanceasbondyieldseaseaheadofnfp",
-  "lockedandloadedfortheseptembernon",
-  "northamericanmorningkickstartdollarmixedaheadofusjobsreportasoilfallsandfuturesrise",
-  "solanaextendsgainsastradersreducefedratehikebetsfollowingdovishfedcomments",
   "ubsseesthreecatalyststosteadytreasuriessaysfedhikepricingistooaggressive",
   "exclusiveeuropeweighsnewdieselstocksreleaseafteruspressuresourcessay",
   "oilpricedropsmorethan2ontalksoverdieselcrudestockreleases",
@@ -1789,7 +1790,6 @@
   "093026chartoftheday93026arehyperscalersthenewsovereigns",
   "iransaysitreceivesusresponsetolatestproposalaswashingtonpullsoutofiraqworldnews",
   "irandeclaresstraitofhormuzclosedasunauthorisedvesselhit",
-  "anthropicleakedprospectus518bmassivecomputingpowerbetunveiledprojectedipovaluationsurpasses2trillion",
-  "marketoutlookcanadiandollarcouldweakenbeforereboundingin2027"
+  "anthropicleakedprospectus518bmassivecomputingpowerbetunveiledprojectedipovaluationsurpasses2trillion"
  ]
 }
