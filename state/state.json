@@ -1271,7 +1271,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-02T22:05:11.095412+09:00",
+  "cache_at": "2026-10-02T22:18:01.457234+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1291,6 +1291,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "yieldsmovelowerstockfuturespointtoahigheropentheusdfallsafterjobsreport",
   "usseptembernon",
   "investingliveeuropeansessionwrapstocksadvanceasbondyieldseaseaheadofnfp",
   "lockedandloadedfortheseptembernon",
@@ -1789,7 +1790,6 @@
   "goldfallsdespitecoolerinflationdatamonthlylossinsight",
   "093026chartoftheday93026arehyperscalersthenewsovereigns",
   "iransaysitreceivesusresponsetolatestproposalaswashingtonpullsoutofiraqworldnews",
-  "irandeclaresstraitofhormuzclosedasunauthorisedvesselhit",
-  "anthropicleakedprospectus518bmassivecomputingpowerbetunveiledprojectedipovaluationsurpasses2trillion"
+  "irandeclaresstraitofhormuzclosedasunauthorisedvesselhit"
  ]
 }
