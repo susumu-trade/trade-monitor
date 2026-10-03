@@ -1279,7 +1279,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-03T22:31:55.629887+09:00",
+  "cache_at": "2026-10-03T22:43:59.862033+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1299,12 +1299,11 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "g7countriesagreeonreleaseofdieselandoilstocksafteruspressure",
+  "ieasbirolsaysoilpricesstartingtofallafterreservereleasedecision",
   "michiganenvironmentalnewsstateannounces89millionfordetroitkalamazoorivercleanup",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "ieasbirolsaysoilpricesstartingtofallafterreservereleasedecision",
-  "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
   "trumpnotgoingtobedoingdieselexportban",
+  "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
   "nigeriasaysdomesticgassupplysurpasses2billioncubicfeetperdayeyesfurthergrowth",
   "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
   "massachusettsgovernoraskstrumpadministrationtospeednatgaspipelinereview",
@@ -1319,8 +1318,8 @@
   "usjobgrowthundershootsexpectationsinseptemberbutlabormarketremainsstable",
   "ethiopiagovernmentforcesretakeairportintigrayscapitalsourcessay",
   "jdcomsettowineuapprovalforceconomydealsourcesays",
-  "ieaslashes2026supplyforecastashormuzreopeningremainselusive",
   "israeliofficialstoquestioncopilotofflydubaiflightsourcesays",
+  "ieaslashes2026supplyforecastashormuzreopeningremainselusive",
   "oilpricessettletheweekloweronslowprogressinusiranpeacetalks",
   "minutesfromdisasterinsideflydubai1073splunge",
   "saudiarabiaresumesyanbucrudeloadingsaseastwestpipelinepartiallyrestartsnewsandstatistics",
@@ -1342,6 +1341,7 @@
   "industrialssectorampindustryperformance",
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
   "financialssectorampindustryperformance",
+  "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "venezuelaneedsregulatoryreformtotapgasbountyenevasays",
   "materialssectorampindustryperformance",
   "rebeccapattersonseesfeddissentscomingafterunitedfront",
@@ -1355,7 +1355,6 @@
   "nikesworseningslumpforcesceotorethinkturnaround",
   "globalcreditmarketstartstosputterasjumbodealsdrag",
   "europesstocksarestrainingunderpressurefrombondyields",
-  "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "dojnotreopeningcriminalprobeintopowellblanchesays1",
   "watchwhyqatarairlinesgetscheaperjetfueloutsideofthemiddleeast",
   "acalmindexarestlessmarket",
@@ -1371,9 +1370,9 @@
   "economicsweekahead",
   "bloombergsetfguruwatched7billionpourintoafallingtreasuryfundthenwarnedbuyerstowalkaway",
   "usstocksriseneartheirrecordafterthelatestjobsreporteasesworriesaboutinflation",
+  "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
   "siemensenergyceoseesdatacenterboomlastingonpowerneeds",
   "koreastrikesback",
-  "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
   "energyservicessettobenefitonceiranwarendsbarclayssays",
   "theuswilldeploynmesisneartaiwanforthefirsttimebloomberg",
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
@@ -1416,6 +1415,7 @@
   "elev8brokerscharityoctoberseeingnewopportunitiestogether",
   "silversselloffpausesaskeyfedmemberspushbackagainstoctoberratehikebets",
   "stocksreboundasbondyieldscoolbutnfpthreatenstoresetthemood",
+  "g7countriesagreeonreleaseofdieselandoilstocksafteruspressure",
   "usjobsreportseptember2026payrollsunemploymentandfedrates",
   "explainerwhatweknowaboutthecornelluniversityrapeinvestigationbyreuters",
   "commentaryaremarkableq3frenchwoesandtrumpsdieselhitthefinancialweekinfivecharts",
