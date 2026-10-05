@@ -767,7 +767,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-05T13:05:29.867707+09:00",
+  "cache_at": "2026-10-05T13:17:35.931900+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -787,28 +787,30 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "middleeastcrudeoilexportsexceedprewarlevelsbuttankerattacksincrease",
   "oilslipsasmiddleeastcrudeexportsriseg7toreleasestocks",
-  "reflationistexbojpolicymakercallsendtolowratesbigspending",
   "whogetsthenextbarrel",
   "opecagreestokeepnovemberoiloutputtargetssteady",
   "oilpricesriseforafifthdayonsupplyconcernsamidchokepointthreats",
   "oilpricesriseasinvestorsdoubtbreakthroughinusiranpeacetalks",
+  "saudiarabiaunexpectedlycutsoilpricestoasia",
+  "reflationistexbojpolicymakercallsendtolowratesbigspending",
   "yemenshouthissaytheyattackedaramcofacilityinriyadhwithmissilesdrones",
   "opecagreesinprincipletokeepnovemberoiloutputtargetssteadysourcessay",
   "oilclimbsafteryemenihouthisattacksaudiaramcositesmoneynews",
-  "g7countriesagreeonreleaseofdieselandoilstocksafteruspressure",
   "update9oilsettlesloweraftereuropeagreestotapdieselreserves",
-  "exclusiveshinyhuntershackerinfbidatatheftdetainedinjordancooperatingwithbureausourcessaybyreuters",
   "apolloblackstoneandkkrvieforshellstakeinlngcanadasourcessay",
-  "oilpricesriseaftershipattacksusirantalksdeadlock",
+  "g7countriesagreeonreleaseofdieselandoilstocksafteruspressure",
   "francesschneiderelectricnears20billiondealtoacquireussoftwaregroupptcsourcesays",
   "iransaysstraitofhormuzwillnotreopenuntilconditionsaremet",
-  "musksayshewillrenamespacexaitospacexsi",
   "suncortoselloffshorecanadaoilstakestoithacafor842million",
+  "musksayshewillrenamespacexaitospacexsi",
   "revolutsrisetobecomeeuropes115billionbigbankrival",
+  "oilpricesriseaftershipattacksusirantalksdeadlock",
+  "exclusiveshinyhuntershackerinfbidatatheftdetainedinjordancooperatingwithbureausourcessaybyreuters",
   "rashadalalimilaunchesyemenmilitaryoperationstoretakehouthiheldterritory19outletscompared",
-  "zelenskysaystheunitedstatesplanstrilateraltalkswithrussiaandukrainebyendofoctober",
   "opecsettokeepnovemberoiloutputtargetssteadysourcessay",
+  "zelenskysaystheunitedstatesplanstrilateraltalkswithrussiaandukrainebyendofoctober",
   "stocksupbeatdollarwobblesasfedhikebetsrecede",
   "indiansharespoisedtoreboundasfedhikefearsoilpricesease",
   "nigeriasdomesticgassupplysurpasses2billioncubicfeetperdayeyesfurthergrowth",
@@ -820,6 +822,8 @@
   "pakistanprotestsallegedkillingoftwociviliansbyindianborderforces",
   "saudiarabiaquietlyshelvingneomstadiumoneof2034worldcupvenuessources",
   "opecreportedlytokeepnovemberoiloutputtargetssteady",
+  "aisracetotransformtheworldbeforethemoneyrunsoutdigitalnews",
+  "asiangamescloseafterfortnightofturmoilandteenagetriumphsportsnews",
   "700houthiskilledin257strikesacrossrebelheldareasyemenarmysays",
   "whyisgoldfallingto4140afterfuturesfell6inseptember",
   "goldedgeshigherasmarketsweighjobsdataimpactonfedpath",
@@ -871,13 +875,10 @@
   "mondayopenindicativeforexpricesoctober52026",
   "sp500technicalanalysisasweekendedlessthan1lowerthanathjustshyof7850",
   "japanpmproteststousaftermarinearrestedonmurdersuspicioninokinawaasianews",
-  "asiangamescloseafterfortnightofturmoilandteenagetriumphsportsnews",
   "intelstockoutlookafailedreboundraisesquestionsfortradersandshareholders",
   "iraqsaysittransported2millionbarrelsofcrudethroughstraitofhormuz",
   "aidealsurgedriveshongkongfundraisingtoarecordsummer",
   "apacheworkersbackstrikethatcoulddisruptnorthseafortiesoilpipelineunionsays",
-  "saudiarabiaunexpectedlycutsoilpricestoasia",
-  "aisracetotransformtheworldbeforethemoneyrunsoutdigitalnews",
   "investingliveamericasfxnewswrap2octnasdaq100closesatarecordaftersoftusjobstreasuryyieldsreversehigher",
   "usstocksclosehigherasthenasdaq100finishatrecords",
   "zelenskyysaysukrainewillintensifyoilrefineryattacksaskyivbridgescomeunderfire",
@@ -1285,7 +1286,6 @@
   "indonesias30stockroutluresswedishfundinfirsteverbet",
   "watchoddlotsistheaitradefedrateproof",
   "bloombergcompletescanoeintelligenceacquisitionadvancingstrategytotransformprivatemarketsinvesting",
-  "howjapanandsouthkoreaplantoinvest900billioninus",
-  "indianrefinersseektankersforhormuzoil"
+  "howjapanandsouthkoreaplantoinvest900billioninus"
  ]
 }
