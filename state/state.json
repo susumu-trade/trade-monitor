@@ -361,20 +361,20 @@
     "previous": "44.3"
    },
    {
-    "title": "MPC Member Mann Speaks",
-    "country": "GBP",
-    "date": "2026-10-06T04:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-   },
-   {
     "title": "Housing Equity Withdrawal q/q",
     "country": "GBP",
     "date": "2026-10-06T04:30:00-04:00",
     "impact": "Low",
     "forecast": "-11.9B",
     "previous": "-12.6B"
+   },
+   {
+    "title": "MPC Member Mann Speaks",
+    "country": "GBP",
+    "date": "2026-10-06T04:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
    },
    {
     "title": "Retail Sales m/m",
@@ -793,7 +793,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-06T16:02:32.872127+09:00",
+  "cache_at": "2026-10-06T18:43:08.287005+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -813,6 +813,31 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "connectingthedotshowfrancesbudgetproblemsareturningintotheeurosproblem",
+  "franceishavingitsliztrussmomentasthebondmarketforcesapolicyrethinkwhyitsagoodthing",
+  "macropulsefrancegermanyyieldspreadbreakoutputseuroareacontagionriskinfocus",
+  "europeanstockmarketopenstocksextendreboundbutfrancecontinuestolag",
+  "marketbreadthdivergencewhatittellstradersaboutthestockmarket",
+  "ifxexpoasia2026beginstomorrowastheglobaltradingindustrygathersinhongkong",
+  "bojgovernoruedasaysinflationnearing2asdecemberratehikestaysfirmlyinplay",
+  "whatarethemaineventsfortoday",
+  "goldpriceslidesasyieldssurgebutspdrholdingstelladifferentstory",
+  "fxoptionexpiriesfor6october10amnewyorkcut",
+  "bojmaysignalthatinflationhashit2targetkeepingdecemberratehikefirmlyinplay",
+  "1in10toshowcaseitstradingdatavaluationplatformatifxexpoasia2026inhongkong",
+  "chartofthedaytreasuryyieldspushtomultidecadehighsdespitefadingfedhikebets",
+  "crudeoilforecastwtitriestobuildabottomnear88butbullsstillface90",
+  "investingliveasiapacificmarketnewstuesdayoctober62026",
+  "solanalaunchesopensettlementstandardforinstitutionswithjpmorganinput",
+  "icymicitiraisesbitcointargetto113000andetherto3028ascryptoinflowsreturn",
+  "reportsthathormuzcrudeflowsnear76ofprewarlevelsdieselshortagepersists",
+  "trumpsreddieselorderunlikelytocutmostpumppricessaysgasbuddysdehaan",
+  "sp500defiesmidtermslumpasbankofamericasayshistoryfavourspost",
+  "morganstanleyturnsneutralondollarwithbullishskewstaysbearishonyen",
+  "chalmerswarnsrisingglobalbondyieldswillpressureaustraliasfederalbudget",
+  "nvidianears6trillionasbondsflashwarningsdeutschebanksaysthegapcannotlast",
+  "trumpsignsorderopeningtaxfreereddyeddieseltoallbuyersasfuelcostsbite",
+  "australianconsumersentimentslumpsafterrbahikeaswestpactipsanotherinnovember",
   "oilgainsastradersweighgulftensionsagainststrongmideastexports",
   "gulfoilflowsrisetoaverage81ofprewarrateinseptemberdatashows",
   "oilclimbsassecurityriskspersistaroundstraitofhormuz",
@@ -896,25 +921,6 @@
   "recordhighratesputwallstreetsaifulldetails",
   "dbssaysnvidiasvaluationundercutswhattoknow",
   "ustariffthreatscomplicatestalledtradetalkswithindiabloomberg",
-  "bojgovernoruedasaysinflationnearing2asdecemberratehikestaysfirmlyinplay",
-  "whatarethemaineventsfortoday",
-  "goldpriceslidesasyieldssurgebutspdrholdingstelladifferentstory",
-  "fxoptionexpiriesfor6october10amnewyorkcut",
-  "bojmaysignalthatinflationhashit2targetkeepingdecemberratehikefirmlyinplay",
-  "1in10toshowcaseitstradingdatavaluationplatformatifxexpoasia2026inhongkong",
-  "chartofthedaytreasuryyieldspushtomultidecadehighsdespitefadingfedhikebets",
-  "crudeoilforecastwtitriestobuildabottomnear88butbullsstillface90",
-  "investingliveasiapacificmarketnewstuesdayoctober62026",
-  "solanalaunchesopensettlementstandardforinstitutionswithjpmorganinput",
-  "icymicitiraisesbitcointargetto113000andetherto3028ascryptoinflowsreturn",
-  "reportsthathormuzcrudeflowsnear76ofprewarlevelsdieselshortagepersists",
-  "trumpsreddieselorderunlikelytocutmostpumppricessaysgasbuddysdehaan",
-  "sp500defiesmidtermslumpasbankofamericasayshistoryfavourspost",
-  "morganstanleyturnsneutralondollarwithbullishskewstaysbearishonyen",
-  "chalmerswarnsrisingglobalbondyieldswillpressureaustraliasfederalbudget",
-  "nvidianears6trillionasbondsflashwarningsdeutschebanksaysthegapcannotlast",
-  "trumpsignsorderopeningtaxfreereddyeddieseltoallbuyersasfuelcostsbite",
-  "australianconsumersentimentslumpsafterrbahikeaswestpactipsanotherinnovember",
   "aichipsexplainedwhynvidiabroadcomandintelreactsodifferentlytothesamenews",
   "nvidiahitsrecordhighnear6trillionyetstilltrailsthechipsectors2026rally",
   "ayearafterits126000peakbitcointradeslikearatesbetnotaninflationhedge",
@@ -1306,12 +1312,6 @@
   "financialssectorampindustryperformance",
   "materialssectorampindustryperformance",
   "nyusgarymarcusonaidevelopmentconcerns",
-  "whentotrustpredictionmarketsoverpollsinelections",
-  "watchtraderswaveronbetsforanotherratehikethisyear",
-  "hackersbreachedpropulsionsystemofusboundoiltanker",
-  "germaneconomymightgrow1thisyearbundesbankchiefsays",
-  "bloombergsetfguruwatched7billionpourintoafallingtreasuryfundthenwarnedbuyerstowalkaway",
-  "usstocksriseneartheirrecordafterthelatestjobsreporteasesworriesaboutinflation",
-  "g7toreleaseupto100millionbarrelsofdieselcrudethespokesman"
+  "whentotrustpredictionmarketsoverpollsinelections"
  ]
 }
