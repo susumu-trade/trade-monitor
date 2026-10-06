@@ -132,7 +132,8 @@
    "USD|Average Hourly Earnings m/m|2026-10-02T08:30:00-04:00",
    "USD|Non-Farm Employment Change|2026-10-02T08:30:00-04:00",
    "USD|Unemployment Rate|2026-10-02T08:30:00-04:00",
-   "USD|ISM Services PMI|2026-10-05T10:00:00-04:00"
+   "USD|ISM Services PMI|2026-10-05T10:00:00-04:00",
+   "JPY|BOJ Gov Ueda Speaks|2026-10-06T02:35:00-04:00"
   ],
   "cache": [
    {
@@ -792,7 +793,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-06T15:18:05.802127+09:00",
+  "cache_at": "2026-10-06T15:26:12.019909+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -865,6 +866,8 @@
   "schneiderexpandsinaiwithrecord23billionacquisition",
   "saudieastwestoilpipelineissaidtobeflowingasnormal",
   "cotonforexandcommoditiesweekto29sept2026",
+  "hyperliquidperpetualpriceslandonbloombergterminal",
+  "ustariffthreatscomplicatestalledtradetalkswithindiabloomberg",
   "crudeoilpricesandrefinerymarginsgenerallyincreasedthroughoutthethirdquarterusenergyinformationadministrationeiagov",
   "okxfileswithsectolaunchtokenizedusstocktradingplatform",
   "watchagoldreliefrallyonthehorizon",
@@ -875,27 +878,24 @@
   "openaiin30billionroundtalkswithuaefundsblackrock",
   "spainssánchezcallssnapelectionafterhousingplanfails",
   "thecreditmarketlensanoilshockmostlylikenoother",
+  "hyperliquidperpshitsbloombergterminalacrossoilgoldandusstocks",
   "aiwilldriveastrongusearningsseasongoldmanssnidersays",
-  "marketstodayusstocksrisetotheedgeofanalltimehigh",
-  "lngsupplycutfurtheraftercyclonehitsaustralianplants",
   "hyperliquidpricepredictionbloombergslistingcouldpropelhypebeyond100",
+  "lngsupplycutfurtheraftercyclonehitsaustralianplants",
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
+  "marketstodayusstocksrisetotheedgeofanalltimehigh",
   "wantnewdividendorvaluestockstoconsiderhereare14toponder",
-  "hypepricerisesashyperliquidburns10mgetsbloombergboost",
-  "hyperliquidperpetualpriceslandonbloombergterminal",
+  "recordhighratesputwallstreetsaifulldetails",
   "dailynavigator5102026marketoutlook",
-  "sampptsxcompositeincheshigherusmarketsalsogainground",
   "techflowintelligenceokxpartnerswithnyseparentcompanytolaunchtokenizedstocktradingnvidiabackedreflectio",
-  "janestreetdeniesmarketmanipulationtoindiasecuritiescourt",
   "energyservicessettobenefitonceiranwarendsbarclayssays",
+  "janestreetdeniesmarketmanipulationtoindiasecuritiescourt",
+  "sampptsxcompositeincheshigherusmarketsalsogainground",
   "adnocsignsthailngdealafteriranwardisruptsgulfsupply",
-  "bloombergterminaladdsrealtimepricesfromh",
+  "dbssaysnvidiasvaluationundercutswhattoknow",
   "mikevinokurstoppicksforoct52026",
   "qualcommlicensespatentsonhuaweislogicfoldingchiptech",
-  "hyperliquidperpshitsbloombergterminalacrossoilgoldandusstocks",
-  "ustariffthreatscomplicatestalledtradetalkswithindiabloomberg",
-  "recordhighratesputwallstreetsaifulldetails",
-  "dbssaysnvidiasvaluationundercutswhattoknow",
+  "hypepricerisesashyperliquidburns10mgetsbloombergboost",
   "fxoptionexpiriesfor6october10amnewyorkcut",
   "bojmaysignalthatinflationhashit2targetkeepingdecemberratehikefirmlyinplay",
   "1in10toshowcaseitstradingdatavaluationplatformatifxexpoasia2026inhongkong",
@@ -921,6 +921,9 @@
   "caseforcentralbankstokeepbuyinggoldremainsstrongecbbundesbanknagelsays",
   "nzbusinessconfidencejumpstoanet40inseptemberquarterdespiteoilpriceheadwinds",
   "deutschebankwarnsbondsandequitiesarepricingdifferentworldsaseurospreadswiden",
+  "worldfoodpricesnearfouryearhighinseptemberunsays",
+  "saudiarabiacutsnovemberoilpricesforasiatosixyearlow",
+  "bloombergterminaladdsrealtimepricesfromh",
   "twosuperpowerswhyaliyevswordsreflectanewbalanceofpower",
   "dollarwakesupeuroslides5globalmarketthemesinvestorsneedtowatchthisweek",
   "oilpricesfallasmiddleeastcrudeexportsrise",
@@ -1309,8 +1312,6 @@
   "absabecomesfirstafricanbanktoofferdigitalassetcustodyservices",
   "hotpicksthreeindustrialstockswithinfrastructureandrecoverypotential",
   "trumppressuresg7intoreleasing100mmbbloffuelfromreserves",
-  "thebondvigilantesarebackandsharescouldbenext",
-  "lookarussianjetpowereddronestrikesabridgeinkyivukraineonoctober22026valentynogirenkoreutersreadrelatedstoryhttpswwwgmane",
-  "g7torelease100millionbarrelsofoilanddieselfromstrategicreserves"
+  "thebondvigilantesarebackandsharescouldbenext"
  ]
 }
