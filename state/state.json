@@ -525,7 +525,7 @@
     "country": "USD",
     "date": "2026-10-07T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "2.1M",
+    "forecast": "1.9M",
     "previous": "0.9M"
    },
    {
@@ -549,7 +549,7 @@
     "country": "USD",
     "date": "2026-10-07T15:00:00-04:00",
     "impact": "Low",
-    "forecast": "14.4B",
+    "forecast": "14.5B",
     "previous": "18.1B"
    },
    {
@@ -565,7 +565,7 @@
     "country": "JPY",
     "date": "2026-10-07T19:50:00-04:00",
     "impact": "Low",
-    "forecast": "2.13T",
+    "forecast": "2.14T",
     "previous": "2.52T"
    },
    {
@@ -597,7 +597,7 @@
     "country": "EUR",
     "date": "2026-10-08T02:00:00-04:00",
     "impact": "Low",
-    "forecast": "18.9B",
+    "forecast": "19.0B",
     "previous": "21.3B"
    },
    {
@@ -693,7 +693,7 @@
     "country": "USD",
     "date": "2026-10-08T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "79B",
     "previous": "64B"
    },
    {
@@ -757,7 +757,7 @@
     "country": "CAD",
     "date": "2026-10-09T08:30:00-04:00",
     "impact": "High",
-    "forecast": "6.2K",
+    "forecast": "6.3K",
     "previous": "-41.7K"
    },
    {
@@ -773,7 +773,7 @@
     "country": "USD",
     "date": "2026-10-09T10:00:00-04:00",
     "impact": "Medium",
-    "forecast": "47.6",
+    "forecast": "47.5",
     "previous": "47.8"
    },
    {
@@ -793,7 +793,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-07T05:36:17.402405+09:00",
+  "cache_at": "2026-10-07T05:44:23.308663+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -828,7 +828,7 @@
   "gulfoilflowsrisetoaverage81ofprewarrateinseptemberdatashows",
   "commentaryrenewableshelpuspowersystemsurvivesummerstresstest",
   "germanbankboardmembertoleavedespitecleanbrothelloanprobe",
-  "indiaustradetalkshitplateaufinanceministersaysastariffsnarrowroomfordeal",
+  "ussoftwarestocksscalefresh2026highsasaidisruptionworriesfade",
   "ukconsidersexpellingisraelidiplomatsifjerusalemconsulateshutssourcessay",
   "deepseeksettonetover12billioninnewfundraisingsourcesays",
   "exclusiveaccenturecontractorremovedfromfbifollowingdamagingdatabreachsourcessay",
@@ -845,7 +845,6 @@
   "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
   "saudiaramcoreplenishingcrudefuelstockscouldtaketwoyears",
   "francestudentproteststurnviolentteenloseshandafterpolicegrenadeexplodes",
-  "oilpricesriseaftershipattacksusirantalksdeadlock",
   "yemenimilitarysaysithasretakenmokhaandsecuredredseawaterway",
   "gulfoilflowsrecovertoover81ofprewarlevels",
   "liveclashesreportedasthousandsofstudentsmarchacrossfrance",
@@ -853,6 +852,7 @@
   "brenttops100asgulftensionsoffsetsteadyregionaloilexports",
   "qualcommtopayhuaweiforfirsttimein5gaipatentbreakthrough",
   "worldfoodpricesnearfouryearhighinseptemberunsays",
+  "kazakhstansoiloutputplummetsafterdroneattacksforcedexportingterminalclosuresourcessay",
   "oilpricesslipastradersweighstrongmideastexportsagainstgulftensionsmoneynews",
   "hedgefundsdelivermixedseptemberresultsonaiswings",
   "yemenigovernmentforcesdrivehouthisfrombabelmandebstrait",
@@ -860,7 +860,6 @@
   "goldincheslowerasfirmerdollarhigheryieldsweigh",
   "saudienergyministersaysoilpumpedthrougheastwestpipelinereached58millionbarrelsgulftimes",
   "middleeastwarsharpensfocusonaseanenergysecurityplans",
-  "ussoftwarestocksscalefresh2026highsasaidisruptionworriesfade",
   "brentcrudeoilpricetodayoctober6brenthoversnear100wtitradesaround88asmiddleeastsupplyoutlookampgulftensionsdrivecrudemark",
   "mideastoilflowsarenear80ofprewarlevelsshellceosays",
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
@@ -877,11 +876,10 @@
   "emergingmarketsgainasoildropbrazilvoteboostsentiment",
   "ukpickssixbanksfordigitalgiltissuancebyearly2027",
   "frenchstudentunrestspreadsasteachersalsowalkout",
-  "oilholdstwodaydroponsignsofincreasedmideastexports",
   "oilinventoriesinthewesthavebeenexhaustedvitolceosays",
+  "oilholdstwodaydroponsignsofincreasedmideastexports",
   "francesdecadesofdeficitsbringhomeapainfulriskpremium",
   "watchmoonshotaieyes2027ipoafterreaching50bvaluation",
-  "goldedgeshigherasmarketsweighjobsdataimpactonfedpath",
   "zambiankwachaextendsslideasoilimportersseekdollars",
   "watchraydaliowarnsofusdebtcrisiswithinthreeyears",
   "openaiapologizesforaustraliahackpledgesfasterdisclosure",
@@ -891,8 +889,8 @@
   "canstocksstayresilientwithhighertreasuryyields",
   "gigascaledatacentersugandangoldmoscowswartimepigeonpostamptheriseoftheyemenicoffeeshop",
   "watchdimonsaysifyoutrytogamethemarketyoulllose",
-  "howtheiranwarisdisruptingglobaloilandgassupply",
   "cryptoexchangeokxraisesat25billionfromstanchartcircle",
+  "howtheiranwarisdisruptingglobaloilandgassupply",
   "thecreditmarketlensanoilshockmostlylikenoother",
   "toplinks1246gigascaledatacentersugandangoldmoscowswartimepigeonpostamptheriseoftheyemenicoffeeshop",
   "cryptocustodianbitgobetsonprimebrokerageforgrowth",
@@ -901,11 +899,12 @@
   "qualcommlicensespatentsonhuaweislogicfoldingchiptech",
   "indiasetforfirstratehikeinalmostfouryearsguide",
   "watchaichipssurgemegadealshit",
+  "ukissuespowersupplywarningaswindgenerationplummets",
   "muskisatrillionaireagainasspacexclawsbackpostiposlump",
   "energyservicessettobenefitonceiranwarendsbarclayssays",
-  "ukissuespowersupplywarningaswindgenerationplummets",
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
+  "shoestationhalfthefloatsoldshortyetpricedbelowworkingcapitalnasdaqshoe",
   "aibroughttechbillionairesarecord845billioninoneyearbloomberg",
   "sampptsxcompositeupnearly200pointsusstockmarketsalsomovehigher",
   "dbstopstradesinsmallerboardlotsondebutofrevisedsgxframework",
@@ -945,6 +944,9 @@
   "thepriceactioningoldremainsrangeboundasusiranstalemateandcpiriskcaptheupside",
   "connectingthedotshowfrancesbudgetproblemsareturningintotheeurosproblem",
   "franceishavingitsliztrussmomentasthebondmarketforcesapolicyrethinkwhyitsagoodthing",
+  "indiaustradetalkshitplateaufinanceministersaysastariffsnarrowroomfordeal",
+  "oilpricesriseaftershipattacksusirantalksdeadlock",
+  "goldedgeshigherasmarketsweighjobsdataimpactonfedpath",
   "priceshockisboonforoilstockscurseforrenewables",
   "theasxstocksmostexposedtothechineseconsumeraresinkingfast",
   "worldsharesadvanceasoilfallsbondyieldsretreat",
@@ -1224,7 +1226,6 @@
   "yemenigovernmentforcesseizedistrictbybabelmandebmilitarysourcessaybyreuters",
   "australiagasproducersfumeoverdomesticsupplymandate",
   "commentaryeurisksbecomingsickmanoftheworldifitdoesntreformquickly",
-  "kazakhstansoiloutputplummetsafterdroneattacksforcedexportingterminalclosuresourcessay",
   "opecagreestokeepnovoiloutputtargetssteady",
   "hedgefundsdelivermixedseptemberresultsonaiswingsbyreuters",
   "eurodropsto17monthlowonfrancedebtconcernsstocksmixed",
@@ -1311,7 +1312,6 @@
   "usaitaskforcetoreportontechnologysriskswsjsays",
   "fedsgoolsbeelabormarketissteadyinflationsideoffedsjobismoreimportant",
   "oilclimbsafteryemenihouthisattacksaudiaramcosites",
-  "watchg7fuelreleaseofferstemporarypricerelief",
-  "europeanstocksreboundfridaybutfinishtheweeklower"
+  "watchg7fuelreleaseofferstemporarypricerelief"
  ]
 }
