@@ -793,7 +793,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-06T18:43:08.287005+09:00",
+  "cache_at": "2026-10-06T18:55:56.388185+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -813,6 +813,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "thepriceactioningoldremainsrangeboundasusiranstalemateandcpiriskcaptheupside",
   "connectingthedotshowfrancesbudgetproblemsareturningintotheeurosproblem",
   "franceishavingitsliztrussmomentasthebondmarketforcesapolicyrethinkwhyitsagoodthing",
   "macropulsefrancegermanyyieldspreadbreakoutputseuroareacontagionriskinfocus",
@@ -1311,7 +1312,6 @@
   "hedgefundsarerebuildingshortbetsagainstjapansyen",
   "financialssectorampindustryperformance",
   "materialssectorampindustryperformance",
-  "nyusgarymarcusonaidevelopmentconcerns",
-  "whentotrustpredictionmarketsoverpollsinelections"
+  "nyusgarymarcusonaidevelopmentconcerns"
  ]
 }
