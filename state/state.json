@@ -801,7 +801,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-07T13:23:03.721673+09:00",
+  "cache_at": "2026-10-07T13:35:10.841483+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -828,6 +828,7 @@
   "oilpricesstableasmarketweighssupplyrisksrisingmiddleeastexports",
   "brentcrosses101assaudiattacksusstormaddtooilsupplyconcerns",
   "newyorkfedsayssupplychainpressuresroselastmonthrelativetoaugust",
+  "gulfoilflowsrisetoaverage81ofprewarrateinseptemberdatashows",
   "oilfuelsupplybuffersarethinningasmiddleeastconflictcontinueschevronceosays",
   "oilpricesriseaftershipattacksusirantalksdeadlock",
   "saudienergyministersaysoilpumpedthrougheastwestpipelinereached58millionbarrels",
@@ -837,17 +838,14 @@
   "ussoftwarestocksscalefresh2026highsasaidisruptionworriesfade",
   "fedplanstooverhaulbanksupervisionresponsibilitiesbowmansays",
   "germanbankboardmembertoleavedespitecleanbrothelloanprobe",
-  "bojmaysignalunderlyinginflationhashit2goalsourcessay",
   "ukconsidersexpellingisraelidiplomatsifjerusalemconsulateshutssourcessay",
   "commentaryrenewableshelpuspowersystemsurvivesummerstresstest",
   "indiaustradetalkshitplateaufinanceministersaysastariffsnarrowroomfordeal",
-  "gulfoilflowsrisetoaverage81ofprewarrateinseptemberdatashows",
   "russiasvolgogradrefineryhaltscrudeprocessingafterdroneattack",
   "deepseeksettonetover12billioninnewfundraisingsourcesays",
   "venezuelagasshellrevealsmajorbeton11tcf",
   "kazakhstansoiloutputplummetsafterdroneattacksforcedexportingterminalclosuresourcessay",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
-  "paramountcompletes110bwarnerbrosmergertoformskydance",
   "oilpricesslipassupplyconcernsease",
   "anotherrussianrefinerygoesofflinevolgogradplantshutsdowncompletelyafterukrainiandroneattackreutersreports",
   "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
@@ -862,6 +860,8 @@
   "liveclashesreportedasthousandsofstudentsmarchacrossfrance",
   "goldedgeslowerwithfocusonfedminutesratepathclues",
   "brenttops100asgulftensionsoffsetsteadyregionaloilexports",
+  "gulfoilflowsrecovertoover81ofprewarlevels",
+  "bojmaysignalunderlyinginflationhashit2goalsourcessaybyreuters",
   "whatanthropicsleakedprospectusrevealsaheadofitsipo",
   "oilpriceoutlookg7releasedieselshortageandsupplyrisks",
   "asiasharesweakeroilupinvestorsweighsaudihouthiescalation",
@@ -915,8 +915,8 @@
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
   "shoestationhalfthefloatsoldshortyetpricedbelowworkingcapitalnasdaqshoe",
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
-  "sampptsxcompositerisesamidtechsectorstrengthusmarketsalsomovehigher",
   "aibroughttechbillionairesarecord845billioninoneyearbloomberg",
+  "sampptsxcompositerisesamidtechsectorstrengthusmarketsalsomovehigher",
   "googleentersmassive36gwpowerdealwithconstellationenergy",
   "nvidiaheadsfor6trillionvaluewithchipmakerbackatrecord",
   "dailynavigator6102026marketoutlook",
@@ -951,6 +951,9 @@
   "sp500nasdaqcompositeandnasdaq100closeatrecords",
   "brentholdsnear100asthreeforcespulloilpricesinoppositedirections",
   "economicandeventcalendarinasiawednesdayoctober72026",
+  "taiwandethroneskoreaatopworldmarketsasaitradewidens",
+  "bojmaysignalunderlyinginflationhashit2goalsourcessay",
+  "paramountcompletes110bwarnerbrosmergertoformskydance",
   "commentaryopeninghormuzistheeasypartrestoringoilflowsisntbousso",
   "bigoilfacesclimatereckoninginsupremecourt",
   "oilpricesslipastradersweighstrongmideastexportsagainstgulftensions",
@@ -962,7 +965,6 @@
   "watchnassimtalebcallsstocksatrapseesnaiveaiinvestors",
   "copperstableasaidriventechstockrallyholdsnearrecord",
   "watchsampp500hitsalltimehighonaibetsasoildrops",
-  "gulfoilflowsrecovertoover81ofprewarlevels",
   "siberianhealthscareariskforstockinvestorstowatchwithoutpanic",
   "iransaysnucleardoctrineunlikelytochangehormuzstraitneedsnewprotocol",
   "ventureglobalisintalkstoselluslngtomorechinesebuyers",
@@ -1318,8 +1320,6 @@
   "eurodropsto17monthlowonfrancedebtconcernsstocksmixed",
   "5globalmarketthemesinvestorsneedtowatchthisweek",
   "brentcrudeoilpricetodayoctober5brentholdsabove102wtinear91asmiddleeastsupplyriseschecklatestbrentcrudeampwtioilratestoda",
-  "mappingthemarketretreatingusdefensestockscouldbeheadedforaturnhigher",
-  "schneiderelectrictobuyussoftwarefirmptcin226billiondeal",
-  "yemensgovernmentlaunchesoffensivetoretaketaizterritoryfromiranbackedhouthis21outletscompared"
+  "mappingthemarketretreatingusdefensestockscouldbeheadedforaturnhigher"
  ]
 }
