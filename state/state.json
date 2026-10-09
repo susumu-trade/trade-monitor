@@ -803,7 +803,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-09T11:28:58.499122+09:00",
+  "cache_at": "2026-10-09T11:37:03.649297+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -823,19 +823,19 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "oilfallsastrumpcommentsonirantalkseasesupplyconcerns",
   "exclusiveusrussiaexploregassaletoeuropeamidukrainewarsaysources",
-  "commentarybattleformideastoilmarketsharehasalreadybegun",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "isaiasintensifiesintofirstatlantichurricaneof2026",
+  "commentarybattleformideastoilmarketsharehasalreadybegun",
   "irantellshouthistocloseredseagatewayifushitspowernetworksourcessay",
   "planedamagedatriyadhairportashouthisescalateattackssourcessay",
-  "mexicanautoexportsslumpinseptemberasustariffstaketoll",
   "apolloblackstoneandkkrvieforshellstakeinlngcanadasourcessay",
-  "commentaryfivechartssoundingthealarmforstretchedusmarketsmcgeever",
+  "mexicanautoexportsslumpinseptemberasustariffstaketoll",
   "valeroshutstexasrefineryafterexplosionrocksdieselunitsourcessay",
+  "commentaryfivechartssoundingthealarmforstretchedusmarketsmcgeever",
   "brentcrudeoilpricejumpsafterattackoniranssouthparsfield",
-  "morningbidsovereignbondsshoulderedasideasaitakestheirturf",
   "oilpricesfallassupplyconcernseaseonhopesforusirantalks",
+  "morningbidsovereignbondsshoulderedasideasaitakestheirturf",
   "witkoffkushnertomeetukrainiansfortalksonthewarsaysussource",
   "usimposesfreshsanctionsoniransshadowfleet",
   "chinesedevelopermakesartexaiagentclosedsourceafterkoreanbankhack",
@@ -843,6 +843,7 @@
   "nvidiabackedupscaleailaunchesplatformtoconnectchipsfromrivalsuppliers",
   "pollecbtohikeratesagainindecemberasinflationalmostdoubles2target",
   "whatshappeningwithbritainsjerusalemconsulate",
+  "isaiasintensifiesintofirstatlantichurricaneof2026",
   "fedsmusalemsaystightermonetarypolicyneededtolowerinflationbyreuters",
   "oilrises4onrevivedmiddleeastworrieshurricaneisaiassupplydisruptionmoneynews",
   "usandrussiadiscussrevivingrussiangassalestoeurope",
@@ -902,13 +903,14 @@
   "usstockfuturessliponmountingenergyshockaibubblefears",
   "japaneyesidlefundsaspossiblesourcefortakaichisagenda",
   "nflaskssupremecourttoletstatesregulateeventmarkets",
+  "hurricaneisaiasnearsmajorstatusaheadofgulfcoastlandfall",
   "eutakesharderlineonchinastradegapastalkskickoff",
   "billionairesindex",
+  "indiaitsetforfourthyearofweakgrowthongeopoliticsairisks",
   "fedswallerseessomeflexibilityonratehiketiming",
   "watchchinastocksdipassofttraveldatadragsonsentiment",
   "aihotpotatoismetasfornowbutchipstocksarethewinners",
   "sauditycoonsbuilt9billionfortuneoffwaterinsteadofoil",
-  "hurricaneisaiasnearsmajorstatusaheadofgulfcoastlandfall",
   "anthropicipoinvestorsstruggletoputapriceonrogueairisk",
   "coinbasebetsbankswillbebiggercustomersaswellasrivals",
   "trumpsaysuswontattackiranbeforemidtermelections",
@@ -928,8 +930,8 @@
   "usfuturesheadlowerafterexplosionsinsaudicapitalsendcrudepricesracinghigher",
   "hotpickstransportationstockselloffcreatesbuyingopportunities",
   "notjustniftybutglobalmarketsalsohitbycrudeoilsurgehigheryieldsandinflationtensionskorealeadsselloff",
-  "saudisintalkstoformalisehormuzshuttlesinfightformarketbloomberg",
   "indiasvenezuelaoilimportssettoreachsevenyearhigh",
+  "goldrisestoward4180astreasuryyieldseasefrom24",
   "nasdaqceosaystokenizationcouldfreetensofbillionsintrappedcollateral",
   "trumpdisclosedupto16millioninnvidiastockbuysashehonouredceojensenhuang",
   "japanrebootsdogestylespendingreviewtofundtakaichipledgesasjgbyieldsclimb",
@@ -954,6 +956,7 @@
   "deltaearningswillbeatestoftheusconsumerstrength",
   "spandnasdaqbreakbelowoldrecordhighssellersregaincontrol",
   "stockmarketsectorrotationearningsrisksandopportunities",
+  "saudisintalkstoformalisehormuzshuttlesinfightformarketbloomberg",
   "fedsmusalemsaysmoremonetarypolicyfirmingwillberequired",
   "indiassensexslumpsto32monthlowonoilsurgeforeignexodus",
   "valcambigoldrefineryplanboostshongkongsbullionhubdrive",
@@ -1319,9 +1322,6 @@
   "sampptsxcompositedownmorethan600pointsusstockmarketsalsotumble",
   "japanesebeermakersharesdroponpricefixingprobe",
   "chartofthedayeurchfisbecomingapressuregaugeforeuropesfiscalrisks",
-  "sampptsxcompositerisesamidtechsectorstrengthusmarketsalsomovehigher",
-  "sampp500toslidefromrecordasyieldspushhighermarketswrap",
-  "bessentriskshigheryieldsifheaxes20yearbondbnpwarns",
-  "oilpricesstableasmarketweighssupplyrisksrisingmiddleeastexports"
+  "sampptsxcompositerisesamidtechsectorstrengthusmarketsalsomovehigher"
  ]
 }
