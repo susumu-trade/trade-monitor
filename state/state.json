@@ -803,7 +803,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-09T12:57:47.054167+09:00",
+  "cache_at": "2026-10-09T13:09:52.240453+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -823,10 +823,10 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "exclusiveusrussiaexploregassaletoeuropeamidukrainewarsaysources",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "commentarybattleformideastoilmarketsharehasalreadybegun",
   "fedswallermorehikesneededbutthereisflexibilityaboutthepace",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
+  "exclusiveusrussiaexploregassaletoeuropeamidukrainewarsaysources",
+  "commentarybattleformideastoilmarketsharehasalreadybegun",
   "mexicanautoexportsslumpinseptemberasustariffstaketoll",
   "planedamagedatriyadhairportashouthisescalateattackssourcessay",
   "commentaryfivechartssoundingthealarmforstretchedusmarketsmcgeever",
@@ -834,8 +834,8 @@
   "witkoffkushnertomeetukrainiansfortalksonthewarsaysussource",
   "shellpartiallyrestartspearlgastoliquidsplantinqatar",
   "ukpmburnhamsaysheisopentogermanyjoininggcapfighterprogramme",
-  "exclusiverefrescoplotspotentialipoat10billionplusvaluationsourcessay",
   "usimposesfreshsanctionsoniransshadowfleet",
+  "exclusiverefrescoplotspotentialipoat10billionplusvaluationsourcessay",
   "morningbidsovereignbondsshoulderedasideasaitakestheirturf",
   "chinesedevelopermakesartexaiagentclosedsourceafterkoreanbankhack",
   "greeceagreesupto4billionusarmsdealsourcessay",
@@ -889,8 +889,8 @@
   "goldnearnineweeklowonprospectsforratehikebyyearend",
   "coppergainswithothermetalsaschinareturnsinpositivemood",
   "oiltradersareincreasinglytuningouttrumpsiranrhetoric",
-  "supertankersracingtomiddleeastworsenglobalshipscrunch",
   "watchpepsicopeplowersoutlookonhighernorthamericacosts",
+  "supertankersracingtomiddleeastworsenglobalshipscrunch",
   "watchoilspikewouldbejusttheworstmarketanalysis",
   "japanesestocksfallasinflationfearshitcyclicalshares",
   "singaporebankshotrallystuttersoversurgingbondyields",
@@ -903,12 +903,13 @@
   "oilfearsspurfreshsellinginstocksandbonds",
   "watchfedsmusalemsignalsratesshouldrisenextsixtoninemonths",
   "hurricaneisaiasnearsmajorstatusaheadofgulfcoastlandfall",
+  "xiaomisharesjump9asstrongevordersboostsentiment",
   "usstockfuturessliponmountingenergyshockaibubblefears",
   "japaneyesidlefundsaspossiblesourcefortakaichisagenda",
   "nflaskssupremecourttoletstatesregulateeventmarkets",
   "eutakesharderlineonchinastradegapastalkskickoff",
-  "watchfedswallerseessomeflexibilityonratehiketiming",
   "billionairesindex",
+  "fedswallerseessomeflexibilityonratehiketiming",
   "watchchinastocksdipassofttraveldatadragsonsentiment",
   "aihotpotatoismetasfornowbutchipstocksarethewinners",
   "anthropicipoinvestorsstruggletoputapriceonrogueairisk",
@@ -956,6 +957,7 @@
   "nasdaqindicesleadtheslideasaistockstumble",
   "usdcadsellerssecuresomeshorttermvictoriesaspriceteststhe200",
   "deltaearningswillbeatestoftheusconsumerstrength",
+  "watchfedswallerseessomeflexibilityonratehiketiming",
   "francesdebttooheavytolifttoobigtospot",
   "asiaracestostockpileoilspeeduprenewablesinresponsetoiranwar",
   "japandealdroughtcutsipofundraisingtolowestin14years",
@@ -974,7 +976,6 @@
   "indiaitsetforfourthyearofweakgrowthongeopoliticsairisks",
   "oilrisesasmiddleeastsupplyconcernspersistamidshippingattacks",
   "goldpricesrecoverfromtwomonthlowasdollarrallystalls",
-  "fedswallerseessomeflexibilityonratehiketiming",
   "100000newjobsby2035miningsectoraimstoaddr65bntosasgdp",
   "fedsmusalemsaysmoremonetarypolicyfirmingwillberequired",
   "indiassensexslumpsto32monthlowonoilsurgeforeignexodus",
@@ -1321,7 +1322,6 @@
   "siemensenergyceoseesdatacenterboomlastingonpowerneeds",
   "treasuryyieldscontinuetobreakhigheras30",
   "epasaysitwillrescinduspolicytargetingoilandgasindustrymethaneleaks",
-  "bitcoindipsasover400millionincryptolongsareliquidatedinjustonehour",
-  "ieaeudiscussproposedoildieselstocksreleasesourcessay"
+  "bitcoindipsasover400millionincryptolongsareliquidatedinjustonehour"
  ]
 }
