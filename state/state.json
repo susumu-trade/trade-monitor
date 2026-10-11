@@ -805,7 +805,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-11T11:46:26.957654+09:00",
+  "cache_at": "2026-10-11T11:58:31.282747+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -825,17 +825,17 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "houthiattackonsaudiairportkills12over300woundedauthoritiessay",
+  "applecutsiphone18proordersduetosoftdemandnikkeiasiareports",
   "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "dadanthropicsaysitsaiagentsalsostrayedontogovernmentsitesandfiledafalsepolicetip1010",
-  "applecutsiphone18proordersduetosoftdemandnikkeiasiareports",
   "russiacutsoiloutputinaprilsourcessay",
+  "indiaunveilstoughcurbsondollardemandtodefendrupee",
   "trumpannouncesdealforrussiandieselaszelenskycallsitagifttoputin",
   "ukraineneedsanewpresidenttrumpcallsforreplacingzelenskiyintussleoverdieseldealwithrussia",
   "erikprincesforcessufferdeadlyambushincongoformerufcfighterwounded",
   "russiandieselreportedtrumpputindealandmarkets",
   "oilpricesjumpover7aftertrumpsaysattacksoniranwillcontinue",
-  "indiaunveilstoughcurbsondollardemandtodefendrupee",
+  "houthiattackonsaudiairportkills12over300woundedauthoritiessay",
   "azerbaijanijudokaushangikokauriwinssilveratworldjudochampionshipsinbaku",
   "oilpricesdrop4afterqatarbessentraisehopesofausirandeal",
   "trumpadministrationfreezesgreencardsformicrosoftitfirmsprobesuniversities",
@@ -845,6 +845,7 @@
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
   "oilrefininghasbeenunderinvestedsaudiaramcosays",
   "shellpartiallyrestartsqatarspearlgtlplant",
+  "trumpputinvowstosupplydieseltousandglobalmarkets",
   "putintellstrumpkyivunderminedprospectsforimmediateukrainepeacetalks",
   "indiadetainsthousandslocksdowndelhitofoilelectionchiefprotestasianews",
   "nordstreamrestartedaretheusandrussiadiscussinggassalestoeurope",
@@ -909,8 +910,8 @@
   "investingliveeuropeansessionwrapstocksreboundasbondmarketnerveseasefornow",
   "solanarecoverssomelossesasgeopoliticaldeescalationimprovesrisksentimentwhattowatchnext",
   "marketplaybookwhywhatdoesnthappeninmarketscanbethebiggesttradingsignal",
+  "aiissuersareupendinglongstandingsafetyvalve",
   "supremecourtrecusalsinspotlightasalitodropsfromoilcase",
-  "trumpputinvowstosupplydieseltousandglobalmarkets",
   "oilpricessettlehigherasmoreproductionshutaheadofhurricane",
   "isaiasleavesthousandswithoutpowerafterstrikinggulfcoast",
   "dhruvratheearrestedoverjantarmantarprotest",
@@ -925,7 +926,6 @@
   "breakingviewscommentarytheweekinbreakingviewsforwhomthebellrings",
   "wallstreetpostsweeklygainswithearningsinflationdataontap",
   "trumpsaysrussiatosupplydieseltousandglobalmarketsbyreuters",
-  "aiissuersareupendinglongstandingsafetyvalve",
   "attackonsaudiairportleaves12deaddozenswoundedsourcessay",
   "trumpstrikesdealwithputinforrussiatosupplydieseltousabcnewsampheadlinesaustralianbroadcastingcorporation",
   "watchflexportceoonoiltankercostsdieselprices",
