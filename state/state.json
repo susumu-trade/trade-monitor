@@ -1013,7 +1013,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-11T23:07:30.857836+09:00",
+  "cache_at": "2026-10-11T23:15:33.970530+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1033,7 +1033,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "saudistocksslideafterattackonriyadhairport",
+  "mostgulfstocksinredafterattackonriyadhairport",
   "worldbankintalkswithdozensofcountriesaboutcrisisaidbangasays",
   "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
@@ -1047,9 +1047,8 @@
   "protestersseekingindiaelectionchiefsousterdetainedascockroachleadersreleased",
   "oilpricesdrop4afterqatarbessentraisehopesofausirandeal",
   "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
-  "houthistrikeonsaudiairportkills12worstattackonkingdominadecade",
-  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "eusirishpresidencywants8cuttoproposed20282034budgetplan",
+  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "oilrefininghasbeenunderinvestedsaudiaramcosays",
   "carboncaptureedgesforwarddespitecostchallenge",
   "trumpannouncesdealforrussiandieselaszelenskycallsitagifttoputin",
@@ -1066,15 +1065,17 @@
   "oncehotaitradeleaveskoreanstocksstrugglingforbuyers",
   "indiasrupeedefenseraisesquestionofhowfarrbiwillgo",
   "russialiftsbanondieselexportsaspartoftrumpputindeal",
+  "watchsaudiairportattackkills12asconflictescalates",
   "priceshockisboonforoilstockscurseforrenewables",
   "uberexitsfourafricanmarketsascheaperrivalsgaingroundbloomberg",
+  "billionairesindex",
   "aiissuersareupendinglongstandingsafetyvalve",
   "australiahomeauctionclearanceratestuckbelow50forsecondweek",
   "iranwarspursasurgeinstocksalesfromusshalecompanies",
   "watchpointedbloombergsweeklynewsquizforrisktakers",
   "watchbythewayheadlinesyoumayhavemissed",
-  "trumpsailiabilitypushopensblamegameformodelsgonerogue",
   "chevronwontpaytolltomoveshipsthroughhormuzceotellsbloombergtv",
+  "trumpsailiabilitypushopensblamegameformodelsgonerogue",
   "costtobuildanaturalgasfiredpowerplantsurges66bnefsays",
   "whymarketsthinktheusiswinningtheblockade",
   "iransrevolutionaryguardssayoilsupertankerexplodedafterstrikingmineinstraitofhormuzwhat10outletsleftout",
@@ -1104,7 +1105,8 @@
   "investingliveeuropeansessionwrapstocksreboundasbondmarketnerveseasefornow",
   "solanarecoverssomelossesasgeopoliticaldeescalationimprovesrisksentimentwhattowatchnext",
   "marketplaybookwhywhatdoesnthappeninmarketscanbethebiggesttradingsignal",
-  "billionairesindex",
+  "saudistocksslideafterattackonriyadhairport",
+  "houthistrikeonsaudiairportkills12worstattackonkingdominadecade",
   "trumphypesmegaprojectstovoterswholamentgasfoodcosts",
   "trumpcallsforreplacingukraineszelenskyintussleoverdieseldealwithrussia",
   "watchviralhandbagsturnsmalldesignerintofashionstar",
@@ -1530,8 +1532,6 @@
   "chinaissuesthirdbatchof2026exportquotasforlowsulfurfueloilsourcessay",
   "sevenampioperatingprofitfalls11percentinsecondquarter",
   "oilpricesriseamidmiddleeastsupplyconcerns",
-  "reutersusandrussiadiscussreturningrussiangastoeuropevianordstream",
-  "qatarenergysfirstnorthfieldeastlngtraincouldstartupinnovemberreuterssourcessay",
-  "whatdoespolandseekbydeepeningmilitarycooperationwitharmenia"
+  "reutersusandrussiadiscussreturningrussiangastoeuropevianordstream"
  ]
 }
