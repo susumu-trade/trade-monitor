@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-10-11",
+  "last_digest": "2026-10-12",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -1013,7 +1013,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-12T06:52:26.643068+09:00",
+  "cache_at": "2026-10-12T07:00:30.856089+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1042,25 +1042,24 @@
   "insomeofhisharshestcriticismyetofthewhitehousezelenskiylinkedtheusliftingofsanctionsonrussiandieselwitharussianattackons",
   "indiaunveilstoughcurbsondollardemandtodefendrupee",
   "middleeastwaranddebtdominateimfworldbankmeetings",
+  "oilsnewproblemisntsupplyitslogistics",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
-  "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "worldbankintalkswithdozensofcountriesaboutcrisisaidbangasays",
+  "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "oilpricesriseforafifthdayonsupplyconcernsamidchokepointthreats",
   "usnaturalgassupplyoutlookhingesonthreekeyshalebasinsmaguire",
-  "barclayssees1314millionbpdoilsupplylossfromprolongedhormuzdisruption",
   "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
   "pipelinesandportsiranwarspursgulfinfrastructureinvestment",
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
   "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "oilrefininghasbeenunderinvestedsaudiaramcosays",
-  "oilsnewproblemisntsupplyitslogistics",
   "carboncaptureedgesforwarddespitecostchallenge",
   "getanewpresidenttrumpattackszelenskyyoverrussianoildeal",
-  "isaias6876ofgulfofmexicooiloutputshutin",
+  "trumpcallsforreplacingukraineszelenskyyintussleoverdieseldealwithrussia",
   "dadanthropicsaysitsaiagentsalsostrayedontogovernmentsitesandfiledafalsepolicetip1010",
   "halozymewinsdutchcourtorderblockingmercksinjectablekeytrudain8europeanmarkets",
-  "trumpcallsforreplacingukraineszelenskyyintussleoverdieseldealwithrussia",
   "oilpricesdrop4afterqatarbessentraisehopesofausirandeal",
+  "isaias6876ofgulfofmexicooiloutputshutin",
   "emergingmarketsbetterarmedforrenewedeuropeandebtturmoil",
   "gasnotoiliswhereusenergydominancemattersenergynewstopheadlinescommentariesfeaturesampevents",
   "uberexitsfourafricanmarketsascheaperrivalsgaingroundbloomberg",
@@ -1084,6 +1083,7 @@
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "stifalls41asbankstocksslideweeklymarketrecap",
   "newappletv4kandhomepodminireportedlyshipoctober30",
+  "weekendmusksays15billionterrafabcanmakechipsbetterthananyonegiventime",
   "moreonrussiasdieseluturn500000tonsclearedforexportaftertrump",
   "mondaythinstartforasiaastokyoshutsforsportsdayandustreasuriesstayclosedahugeweekfollows",
   "trumpsaysrussiaukraineagreeenergyceasefiretwodaysafterrussiandieseldeal",
@@ -1108,6 +1108,7 @@
   "deltasharesslideonfueldragbutcompanysaysdemandremainsstrongsharesdown29",
   "usdcadjumpsonweakcanadajobsreportbutfailstoholdabovekeyresistance",
   "canadaseptemberemploymentchange",
+  "barclayssees1314millionbpdoilsupplylossfromprolongedhormuzdisruption",
   "morningkickstartdollarmixedstocksreboundandoilretreatsamidiranuncertainty",
   "bessenthiresformerfedboardnomineeandinvestinglivereaderjudysheltonasadviser",
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
@@ -1531,7 +1532,6 @@
   "mexicanautoexportsslumpinseptemberasustariffstaketoll",
   "planedamagedatriyadhairportashouthisescalateattackssourcessay",
   "francesdebttooheavytolifttoobigtospot",
-  "anthropicipoinvestorsstruggletoputapriceonrogueairisk",
-  "indiacutitspurchasesofrussianoilduetorisingpricesandcompetitionwithchinabloomberg"
+  "anthropicipoinvestorsstruggletoputapriceonrogueairisk"
  ]
 }
