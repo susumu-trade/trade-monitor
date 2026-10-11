@@ -1013,7 +1013,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-12T08:33:17.431686+09:00",
+  "cache_at": "2026-10-12T08:41:21.376524+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1033,26 +1033,25 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "oilclimbsasmideastconflicttankerattackspersist",
   "saudiarabiareportsinjuriesinnewattackatriyadhairportdayafterstrikekills13",
   "applecutsiphone18proordersbyupto202026httpstech",
   "bankearningscpiheadlinebusymarketsweekassampp500hoversnearrecordsbyreuters",
+  "muskvowsaffordablestarlinkinindiadaysbeforeambanisrecordjioipo",
   "theshellleaksfiles11october2026",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "insomeofhisharshestcriticismyetofthewhitehousezelenskiylinkedtheusliftingofsanctionsonrussiandieselwitharussianattackons",
   "indiaunveilstoughcurbsondollardemandtodefendrupee",
-  "muskvowsaffordablestarlinkinindiadaysbeforeambanisrecordjioipo",
   "middleeastwaranddebtdominateimfworldbankmeetings",
   "oilsnewproblemisntsupplyitslogistics",
-  "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
-  "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "worldbankintalkswithdozensofcountriesaboutcrisisaidbangasays",
-  "oilpricesriseforafifthdayonsupplyconcernsamidchokepointthreats",
+  "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
+  "getanewpresidenttrumpattackszelenskyyoverrussianoildeal",
+  "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
+  "oilclimbsasmideastconflicttankerattackspersistbyreuters",
   "usnaturalgassupplyoutlookhingesonthreekeyshalebasinsmaguire",
   "oilpricesriseondoubtsusiranpeacetalkswilleasehormuzdisruption",
   "pipelinesandportsiranwarspursgulfinfrastructureinvestment",
   "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
-  "getanewpresidenttrumpattackszelenskyyoverrussianoildeal",
   "halozymewinsdutchcourtorderblockingmercksinjectablekeytrudain8europeanmarkets",
   "dadanthropicsaysitsaiagentsalsostrayedontogovernmentsitesandfiledafalsepolicetip1010",
   "oilpricesdrop4afterqatarbessentraisehopesofausirandeal",
@@ -1067,11 +1066,11 @@
   "midtermsampmarketslessonsfromhistoryconsiderationsfortoday",
   "emergingmarketsbetterarmedforrenewedeuropeandebtturmoil",
   "priceshockisboonforoilstockscurseforrenewables",
-  "trumpsaysrussiaandukraineagreedtoenergyceasefire",
   "howtheiranwarisdisruptingglobaloilandgassupply",
   "jefferiessaysitfoundfraudin900millionofradiantdeals",
-  "iranwarspursasurgeinstocksalesfromusshalecompanies",
   "houthiattacksonsaudiarabiaraiseriskofwiderwar",
+  "iranwarspursasurgeinstocksalesfromusshalecompanies",
+  "trumpsaysrussiaandukraineagreedtoenergyceasefire",
   "indiasrupeedefenseraisesquestionofhowfarrbiwillgo",
   "oncehotaitradeleaveskoreanstocksstrugglingforbuyers",
   "watchbigbanksfacetestasearningsseasonbegins",
@@ -1084,6 +1083,7 @@
   "stifalls41asbankstocksslideweeklymarketrecap",
   "banksmullhighercybersecurityspendingafterailinkedhackingincidentssources",
   "newappletv4kandhomepodminireportedlyshipoctober30",
+  "weeekndeuplans350000annualcaponchinesehybridsafterbeijingagrees16",
   "uscpipreviewenergysettoliftinflationto37coreseensteadyat24",
   "ieaurgesfasterdieselreleasesas400mbarrelmarchpledgelagsboardmeetsoct15",
   "previewrbaminutesandjobsdataheadlineaustraliasweekaheadwithunemploymentseenat46",
@@ -1108,6 +1108,8 @@
   "jpmorgantheg7s100millionbarreloilreleaseismostlyoldbarrelswithanewbowonit",
   "usdchfisstuckin50piptradingrangesincemiddaymondaywhatdoesthatsaytoyou",
   "broaderstockindicesbouncingmodestlysupportnear100hourmasheldyesterday",
+  "oilpricesriseforafifthdayonsupplyconcernsamidchokepointthreats",
+  "oilclimbsasmideastconflicttankerattackspersist",
   "usoctoberumichprelimconsumersentiment463vs478expected",
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "trumpcallsforreplacingukraineszelenskyyintussleoverdieseldealwithrussia",
@@ -1530,8 +1532,6 @@
   "usandrussiadiscussrevivingrussiangassalestoeurope",
   "sauditycoonsbuilt9billionfortuneoffwaterinsteadofoil",
   "threesaudiskilledatriyadhairportashouthiattacksworsen",
-  "coinbasebetsbankswillbebiggercustomersaswellasrivals",
-  "appgroupbecomesfirstindonesiancompanytojoinre100for100renewableelectricitycommitment",
-  "oracletrucksinnaturalgastokeepaidatacentresonscheduleaspipelineslag"
+  "coinbasebetsbankswillbebiggercustomersaswellasrivals"
  ]
 }
