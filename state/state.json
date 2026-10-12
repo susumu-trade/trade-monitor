@@ -1013,7 +1013,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-12T09:21:59.812522+09:00",
+  "cache_at": "2026-10-12T09:34:05.479188+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1033,22 +1033,22 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "saudiarabiareportsinjuriesinnewattackatriyadhairportdayafterstrikekills13",
   "oilclimbsasmideastconflicttankerattackspersist",
   "worldbankforecasts24surgeinenergypricesin2026duetomiddleeastwar",
+  "saudiarabiareportsinjuriesinnewattackatriyadhairportdayafterstrikekills13",
   "applecutsiphone18proordersbyupto202026httpstech",
-  "muskvowsaffordablestarlinkinindiadaysbeforeambanisrecordjioipo",
   "theshellleaksfiles11october2026",
   "bankearningscpiheadlinebusymarketsweekassampp500hoversnearrecordsbyreuters",
   "insomeofhisharshestcriticismyetofthewhitehousezelenskiylinkedtheusliftingofsanctionsonrussiandieselwitharussianattackons",
+  "muskvowsaffordablestarlinkinindiadaysbeforeambanisrecordjioipo",
   "indiaunveilstoughcurbsondollardemandtodefendrupee",
   "middleeastwaranddebtdominateimfworldbankmeetings",
-  "worldbankintalkswithdozensofcountriesaboutcrisisaidbangasays",
   "oilsnewproblemisntsupplyitslogistics",
   "getanewpresidenttrumpattackszelenskyyoverrussianoildeal",
   "halozymewinsdutchcourtorderblockingmercksinjectablekeytrudain8europeanmarkets",
   "isaias6876ofgulfofmexicooiloutputshutin",
   "trumpsaysukraineneedsnewpresidenttoendwar",
+  "worldbankintalkswithdozensofcountriesaboutcrisisaidbangasays",
   "trumpurgeszelenskyousterasdieselrowrages",
   "oilrisesonmideastattacksdollaredgeshighermarketswrap",
   "oilrisesassaudiairportandtankerattacksstokesupplyfears",
@@ -1064,6 +1064,7 @@
   "jefferiessaysitfoundfraudin900millionofradiantdeals",
   "indiasrupeedefenseraisesquestionofhowfarrbiwillgo",
   "newappletv4kandhomepodminireportedlyshipoctober30",
+  "pbocisexpectedtosettheusdcnyreferencerateat66977reutersestimate",
   "ubsaidemandholdsfirmwithhyperscalercloudgrowthtippedtohit58",
   "weeekndeuplans350000annualcaponchinesehybridsafterbeijingagrees16",
   "uscpipreviewenergysettoliftinflationto37coreseensteadyat24",
@@ -1531,7 +1532,6 @@
   "rapidbondyieldmoveshaveprecedednearlyeverymajorfinancialblowupchartoftheday",
   "usstocksopenbutbondmarketshutforcolumbusdaywhattradersneedtoknow",
   "usandrussiadiscussrevivingrussiangassalestoeurope",
-  "sauditycoonsbuilt9billionfortuneoffwaterinsteadofoil",
-  "threesaudiskilledatriyadhairportashouthiattacksworsen"
+  "sauditycoonsbuilt9billionfortuneoffwaterinsteadofoil"
  ]
 }
