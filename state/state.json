@@ -837,7 +837,7 @@
     "country": "USD",
     "date": "2026-10-15T12:00:00-04:00",
     "impact": "Low",
-    "forecast": "-0.2M",
+    "forecast": "0.2M",
     "previous": "-3.2M"
    },
    {
@@ -1033,7 +1033,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-15T07:32:45.533665+09:00",
+  "cache_at": "2026-10-15T07:44:50.447529+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1062,8 +1062,8 @@
   "twoshipssinknearhormuzafterbeinghitbyprojectilesamidsurgeinattacks",
   "failuretoactivatehormuzfertilizerplancouldtriggerfoodcrisisunofficialsays",
   "equinormakesnorthseaoildiscovery",
-  "oilpricesgainonattacksinsaudiarabiairansnewtacticstotargettankers",
   "germangovernmentintalkstobuy50ofkndssourcesays",
+  "oilpricesgainonattacksinsaudiarabiairansnewtacticstotargettankers",
   "saudiaramcoheadquarterssufferedextensivedamageinhouthiattacksourcessay",
   "nasdaqendssharplylowerashotinflationdatastirsratehikeworries",
   "yemenshouthisvowmoreattacksonsaudiairportsoilfacilitiesafteraramcohqhit",
@@ -1077,8 +1077,9 @@
   "guyanalngmaystartat3mtpa",
   "oilpricesclimbonhormuzattacksiransnewmaritimetactics",
   "stocksfalldollarralliesasusinflationtopsforecastsbyreuters",
-  "exclusivegaldermaagreestobuyzoskinhealthforaround15billionsourcessaybyreuters",
+  "about25000migrantsfromafricaandasiacrossintoitalyandgreecethroughrussiabackedeasternlibyaandtunisiabuteuappearstohaveapl",
   "attackonsaudiaramcobuildingcausesfireassaudihouthifightinggrows",
+  "exclusivegaldermaagreestobuyzoskinhealthforaround15billionsourcessaybyreuters",
   "mediatorssetupdeescalationchannelsaheadofusirantalkssourcesays",
   "iranchangesshiptargetingtacticsaheadofuselections",
   "africanfinancialmarketsgaingroundbutliquidityachallengesurveyshows",
@@ -1091,7 +1092,6 @@
   "liveupdateshouthiattacksonsaudiarabiaretaliationlatestdevelopments",
   "trumpsaystaiwanagreestobuy30percentofgasfromalaskapipelinemoneynews",
   "oilpricessteadyaftergainsoniransnewtacticstotargettankers",
-  "ukrainiansuspectgoesontrialingermanyovernordstreamblasts",
   "riyadhairportattackadangerousturningpointformiddleeastsecurity",
   "oilpricesclimbastradersweighsaudisupplyriskrussiandieselflowmoneynews",
   "europeanenergycrisisnotonlygaspricesbutalsogasolineanddieselpriceshitrecordhighsacrosstheeu",
@@ -1167,6 +1167,7 @@
   "gamingconsolesfacethreatofextinctionascloudandaiboom",
   "whywevedowngradedaustralianequitiesbutremainbullishonresources",
   "tmgmnamedofficialfinancialonlinetradingsponsorofbigbang20262027worldtourinsydney",
+  "asmlsays2027and2028supplywillfallshortofdemandasq3saleshitarecord",
   "anthropicq3revenuerises45to168billionaheadofipo",
   "stablecoinshavestoppedgrowingsowhyisusagestillrising",
   "fedsdalymoreratehikeslikelyneededbutnourgencytomoveinoctober",
@@ -1190,11 +1191,13 @@
   "sp500technicalanalysisafterthecpiselloff",
   "todaysfederalreservespeakerslatesuddenlygotmuchmoreinteresting",
   "canadaaugustbuildingpermitsrise88vs20expected",
+  "legalworkcrossesbordersnowsodoescocounsellegal",
   "usseptembercpi37vs36expected",
+  "oilpricessurgeasirandeploysnewtacticstotargettankers",
+  "ukrainiansuspectgoesontrialingermanyovernordstreamblasts",
   "morningkickstartuscpiaheadasdollartradesmixedandoilclimbs",
   "cftcstaffweretoldtoretractanalysisofsuspiciousoiltrades",
   "usstocksdroptowardtheirworstdaysincejuneasinflationworsens",
-  "oilpricessurgeasirandeploysnewtacticstotargettankers",
   "haveratehikestippedthescalestowardvalueequities",
   "gulfmarketsmixedsaudistockshardesthitonaramcoattack",
   "howtoidentifytheeconomicdatathatreallymovesmarkets",
@@ -1549,9 +1552,6 @@
   "whengettingmarriedmeansgivingupa20000taxbreak",
   "dangoteipofevercoulddeepenafricascapitalmarketscitibankexecutivesays",
   "nigeriasdangoterefineryextends16billionipotobroadenafricaninvestoraccess",
-  "watchfidelitytechstockscankeepclimbingthewallofworry",
-  "saudiairportcarnagepressurestrumptoboostusroleinyemen",
-  "goldmansettoleadwallstreetsstocktradinghaul",
-  "investingliveasiapacificmarketnewsasianequitiessoldheavilykospidown7"
+  "watchfidelitytechstockscankeepclimbingthewallofworry"
  ]
 }
