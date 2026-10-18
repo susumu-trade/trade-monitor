@@ -834,7 +834,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-18T20:34:03.976566+09:00",
+  "cache_at": "2026-10-18T20:42:07.537852+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -854,23 +854,27 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "oilpricesriseaftershipattacksusirantalksdeadlock",
   "lebanonsaysmilitarydelegationwillpressforhalttoisraeliattacksatustalks",
-  "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "theuschinagrandbargainremainsoutofreach",
+  "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
-  "yemenshouthisvowmoreattacksonsaudiairportsoilfacilitiesafteraramcohqhit",
   "oilslongviewdarkensasiranwarrefusestoend",
   "iransaraghchisaysstraitofhormuzcouldreopenwithinsevendaysifusagrees",
   "massprotestsinfrancespiralintoworstriotsinyears",
   "angolasfuelsubsidiesspendingprojectedtohit4billionin2026officialsays",
   "magyarapprovedthetransitofukrainiangrainthroughhungaryreuters",
+  "iranurgesustoacceptproposaltoreopenstraitofhormuz",
+  "yemenshouthisvowmoreattacksonsaudiairportsoilfacilitiesafteraramcohqhit",
   "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "ambanisreliancebreakssilenceonmusksaysjioawaitssameclearancesasstarlink",
   "kazakhstansoiloutputplummetsafterdroneattacksforcedexportingterminalclosuresourcessay",
   "pipelinesandportsiranwarspursgulfinfrastructureinvestment",
   "brentcrudepriceweekaheadbullandbearcaseafterthe110closethehighestsincemay",
   "anthropicipovaluation15trillionnot2trillion",
+  "venezuelaseesnearly76billionoilinvestmentoverfiveyears",
   "guyanatoblockvapeproductimportsamidyouthhealthconcerns",
+  "australianhomeauctionsdeclineasratehikesdampenactivity",
   "thecryptodevicesbuilttofoilhackerscamewithspiesinside",
   "nigerhaltsdieselpetrolexportstoprotectdomesticsupply",
   "watchcanthefedfightinflationwithouthurtingfarmers",
@@ -917,9 +921,7 @@
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "goldshrugsoffhotinflationdataasmarketfocusmaybeshiftingtogrowthconcerns",
   "dowjonesfuturesanalysisfedrisksandkeylevelsforoctober16",
-  "venezuelaseesnearly76billionoilinvestmentoverfiveyears",
   "worldabsorbshistoriciranwaroilsupplylossbutdepletedstocksbringrisks",
-  "australianhomeauctionsdeclineasratehikesdampenactivity",
   "bitcoinontrackfor10000ifsampp500drops20bloombergstrategistinsists",
   "russianryazanoilrefineryhaltsoperationsofonemainunitafterdroneattackreutersreports",
   "oiltouches110abarrelforfirsttimesincemayonmiddleeastrussiasupplyfears",
@@ -941,7 +943,6 @@
   "iranhaslaidaboutadozenminesinstraitofhormuzsourcessay",
   "iranwarthreatensaprolongedhittoglobalenergymarkets",
   "japantodiversifycrudesuppliesbackpipelinesthatbypasshormuz",
-  "oilpricesriseaftershipattacksusirantalksdeadlock",
   "oilpricesriseforafifthdayonsupplyconcernsamidchokepointthreats",
   "yemenshouthisreachstrategicislandatmouthofvitalshippinglane",
   "morganstanleymaintainsoilpriceforecastsandpredictsslowrecoveryinsupply",
@@ -1352,7 +1353,6 @@
   "stocksfuturesriseasfedbetseaseafterwarshmarketswrap",
   "whyistechbillionairemarcandreessensomad",
   "nordstreampipelineexplosiongermanybringstolightthebiggestmostmysteriousactofsabotageinmodernhistory",
-  "indonesiastockssinkmostsince1998aftermsciflagsstandalonedowngrade",
-  "uschinalockedinunwinnablewaronainyusmarcussays"
+  "indonesiastockssinkmostsince1998aftermsciflagsstandalonedowngrade"
  ]
 }
