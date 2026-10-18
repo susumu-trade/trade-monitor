@@ -834,7 +834,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-18T22:52:21.587622+09:00",
+  "cache_at": "2026-10-18T23:00:25.068455+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -854,23 +854,24 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "oilpricesriseaftershipattacksusirantalksdeadlock",
+  "bankshikeoilpriceforecastsonprolongedgulfdisruptions",
   "lebanonsaysmilitarydelegationwillpressforhalttoisraeliattacksatustalks",
   "asairallywobblesstockmarketsspotlightturnstoearningsbyreuters",
   "theuschinagrandbargainremainsoutofreach",
-  "bankshikeoilpriceforecastsonprolongedgulfdisruptions",
+  "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "howlongwill100oillasthormuzlngandcoalarewritingyourwinterfuelbill",
-  "oilslongviewdarkensasiranwarrefusestoend",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
+  "oilslongviewdarkensasiranwarrefusestoend",
   "iransaraghchisaysstraitofhormuzcouldreopenwithinsevendaysifusagrees",
   "massprotestsinfrancespiralintoworstriotsinyears",
-  "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
+  "teargasandmolotovcocktailasalbanianprotestersclashwithpolice",
   "angolasfuelsubsidiesspendingprojectedtohit4billionin2026officialsays",
-  "iranurgesustoacceptproposaltoreopenstraitofhormuz",
   "magyarapprovedthetransitofukrainiangrainthroughhungaryreuters",
-  "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
-  "ambanisreliancebreakssilenceonmusksaysjioawaitssameclearancesasstarlink",
+  "iranurgesustoacceptproposaltoreopenstraitofhormuz",
   "yemenshouthisvowmoreattacksonsaudiairportsoilfacilitiesafteraramcohqhit",
+  "oilpricesriseaftershipattacksusirantalksdeadlock",
+  "ambanisreliancebreakssilenceonmusksaysjioawaitssameclearancesasstarlink",
+  "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "guyanatoblockvapeproductimportsamidyouthhealthconcerns",
   "thecryptodevicesbuilttofoilhackerscamewithspiesinside",
   "nigerhaltsdieselpetrolexportstoprotectdomesticsupply",
@@ -881,7 +882,6 @@
   "billionairesindex",
   "ukinflationcansealthedealontheboesnovemberratehike",
   "mercedesgoesafterporschewithhighperformanceelectricsuv",
-  "asianaistocksfallasrisingfinancingcoststhreatenspendingboombloomberg",
   "coreweavewoesriskshuttingdownaijunkmarketcreditweekly",
   "bloomberganalystmakesalarmingpredictionforbitcoin10000heexplainedthecondition",
   "trumpsforeignpolicytakesatolloncanadianoilprices",
@@ -890,6 +890,7 @@
   "aitradereversalpiercesasiasstarpicksandshovelsstocks",
   "bitcoincouldfallto10000ifusstocksdrop20bloomberganalystwarns",
   "hotornot",
+  "marketersunveilnewpetrollandingcostdangoteothersrevisepmspricesnationwide",
   "sp500analysisandforecastaftertheaibubblepanic",
   "investingliveamericasmarketnewswrapnasdaqsinksandoiljumps",
   "oilpricessurgehigherintotheweekend",
@@ -915,7 +916,7 @@
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "goldshrugsoffhotinflationdataasmarketfocusmaybeshiftingtogrowthconcerns",
   "dowjonesfuturesanalysisfedrisksandkeylevelsforoctober16",
-  "marketersunveilnewpetrollandingcostdangoteothersrevisepmspricesnationwide",
+  "asianaistocksfallasrisingfinancingcoststhreatenspendingboombloomberg",
   "bloombergseesbitcoinpriceat10kandcryptoquantsceodoesntagree",
   "indiascockroachprotestleaderfacescourtinvoterlistrow",
   "australianhomeauctionsdeclineasratehikesdampenactivity",
@@ -1352,7 +1353,6 @@
   "europereckonswithaworldwheretrumpisnowhelpingputin",
   "newzealandcardspendingfallsforsecondmonthasfoodpricesholdflatinseptember",
   "fedshammackquestionswhetherfedpolicyistightenoughasinflationrisksbuild",
-  "newzealandmanufacturingpmijumpsto56515thstraightmonthofexpansion",
-  "stocksfuturesriseasfedbetseaseafterwarshmarketswrap"
+  "newzealandmanufacturingpmijumpsto56515thstraightmonthofexpansion"
  ]
 }
