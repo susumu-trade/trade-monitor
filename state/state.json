@@ -834,7 +834,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-18T23:40:40.317223+09:00",
+  "cache_at": "2026-10-18T23:52:44.666714+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -854,16 +854,16 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "rubiosaystrumptotakeupto60daystoweighrussiasanctions",
   "bankshikeoilpriceforecastsonprolongedgulfdisruptions",
   "türkiyewillreceivesomedieselunderusrussiadealsaysreuters",
-  "lebanonsaysmilitarydelegationwillpressforhalttoisraeliattacksatustalks",
   "asairallywobblesstockmarketsspotlightturnstoearningsbyreuters",
   "theuschinagrandbargainremainsoutofreach",
   "howlongwill100oillasthormuzlngandcoalarewritingyourwinterfuelbill",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
+  "lebanonsaysmilitarydelegationwillpressforhalttoisraeliattacksatustalks",
   "oilslongviewdarkensasiranwarrefusestoend",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
-  "iransaraghchisaysstraitofhormuzcouldreopenwithinsevendaysifusagrees",
   "massprotestsinfrancespiralintoworstriotsinyears",
   "angolasfuelsubsidiesspendingprojectedtohit4billionin2026officialsays",
   "hormuzminesrussianrefineryfiresanda25gasgapwhatmovedyourfuelbillthisweek",
@@ -876,6 +876,7 @@
   "guyanatoblockvapeproductimportsamidyouthhealthconcerns",
   "chevronwontpaytolltomoveshipsthroughhormuzceotellsbloombergtv",
   "asianaistocksfallasrisingfinancingcoststhreatenspendingboombloomberg",
+  "couldbitcoinpricedropto10000bloomberganalystgivesgrimwarning",
   "thecryptodevicesbuilttofoilhackerscamewithspiesinside",
   "bloomberganalystmakesalarmingpredictionforbitcoin10000heexplainedthecondition",
   "trumpsforeignpolicytakesatolloncanadianoilprices",
@@ -915,6 +916,7 @@
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "goldshrugsoffhotinflationdataasmarketfocusmaybeshiftingtogrowthconcerns",
   "dowjonesfuturesanalysisfedrisksandkeylevelsforoctober16",
+  "iransaraghchisaysstraitofhormuzcouldreopenwithinsevendaysifusagrees",
   "coreweavewoesriskshuttingdownaijunkmarketcreditweekly",
   "marketersunveilnewpetrollandingcostdangoteothersrevisepmspricesnationwide",
   "teargasandmolotovcocktailasalbanianprotestersclashwithpolice",
@@ -939,7 +941,6 @@
   "dailynavigatorforwfx5122025marketoutlook",
   "weredonewithtrumpsenergytruce",
   "dailynavigator272025marketoutlook",
-  "rubiosaystrumptotakeupto60daystoweighrussiasanctions",
   "stayingdefensiveanddiversifiedmarketoutlook",
   "dailynavigator5122025marketoutlook",
   "apolloblackstoneandkkrvieforshellstakeinlngcanadasourcessay",
@@ -1352,7 +1353,6 @@
   "100tariffonindiasoonforpurchasingrussianoilusenvoysaysnewdelhifallsintooneofthosebuckets",
   "ukstepsupsupportforukrainemorestormshadowssenturgesustomaintainbacking",
   "aishiddenpowerproblemthelittleknowncompanyweeteqtryingtocuttheelectricitywastedinsidedat",
-  "europereckonswithaworldwheretrumpisnowhelpingputin",
-  "newzealandcardspendingfallsforsecondmonthasfoodpricesholdflatinseptember"
+  "europereckonswithaworldwheretrumpisnowhelpingputin"
  ]
 }
