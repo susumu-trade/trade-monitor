@@ -834,7 +834,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-19T12:53:33.764963+09:00",
+  "cache_at": "2026-10-19T13:06:16.469496+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -854,6 +854,8 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "investingliveasiapacificmarketnewschinabeatstheeurowobblesandoildips",
+  "cryptoqubichaltsnetworkafterweakwalletseedsletattackerdrain1404wallets",
   "chinaq3gdpbeatsforecastsat45retailsalesgrowatfastestpacesincemarch",
   "chinamovestopropupstockswithsellingcurbsbuybacksafter10slidethisyear",
   "chinaq3gdpbeatsestimatesasdoesseptemberretailsales",
@@ -1351,8 +1353,6 @@
   "bloombergukprovidesukrainewithadditionallongrangestormshadowmissiles",
   "howhealeysfirstukbudgetcouldripplethroughmarkets",
   "kremlinsaysrussiaisrestartingdieselexportsafterdealwithtrumpreuters",
-  "jeffcurriecallsbrentvibecontractoutofstepwithenergy",
-  "germanygasstoragelowbutnosupplyriskregulatorsays",
-  "taiwanblockscoinbasekalshioversuspectedelectionbets"
+  "jeffcurriecallsbrentvibecontractoutofstepwithenergy"
  ]
 }
