@@ -834,7 +834,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-19T12:02:19.994595+09:00",
+  "cache_at": "2026-10-19T12:10:56.551739+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -854,6 +854,9 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "chinaq3gdpbeatsforecastsat45retailsalesgrowatfastestpacesincemarch",
+  "chinamovestopropupstockswithsellingcurbsbuybacksafter10slidethisyear",
+  "chinaq3gdpbeatsestimatesasdoesseptemberretailsales",
   "chinahomepricedeclineseaseinseptemberaheadofq3gdpseenat44",
   "pbocsetsusdcnyreferenceratefortodayat67208vsestimateat66897",
   "goldmansachsseessp500earningsat415in2027butwarnsnarrowleadershipisarisk",
@@ -1350,9 +1353,6 @@
   "kremlinsaysrussiaisrestartingdieselexportsafterdealwithtrumpreuters",
   "jeffcurriecallsbrentvibecontractoutofstepwithenergy",
   "germanygasstoragelowbutnosupplyriskregulatorsays",
-  "taiwanblockscoinbasekalshioversuspectedelectionbets",
-  "setbackfortiktokaseucourtadviserbacksgatekeeperlabel",
-  "ethereumwhales1345mlossreflectsayear",
-  "sampp500endshigherastradersshiftfromaitohealthcare"
+  "taiwanblockscoinbasekalshioversuspectedelectionbets"
  ]
 }
