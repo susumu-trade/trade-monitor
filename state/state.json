@@ -834,7 +834,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-10-20T17:21:58.201197+09:00",
+  "cache_at": "2026-10-20T17:30:01.565680+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -854,6 +854,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "oilmajorsfacespendingtestfromiranwarwindfallcash",
   "yenjumpsafterjgbauctiondrawsbigdemandeurofindsrelief",
   "europesearningsboomwidensbeyondenergyandai",
   "brentcrudeholdsnearfivemonthhighonmiddleeasttension",
@@ -864,10 +865,9 @@
   "exclusiveqatarielectricitylifelineforlebanonincludestwopowerplantslngsupplydeal",
   "oilstocksinusstrategicpetroleumreservefalltolowestlevelsince1982",
   "howsafehavensstackupastechenergyandfrancefearsgripmarkets",
-  "oilmajorsfacespendingtestfromiranwarwindfallcash",
   "exclusiveopenaiseekstoacceleratefundraisingaheadofanthropiciposourcessay",
-  "houthiattackkills58atyemengovernmenttrainingcampgovernorsays",
   "asjapanpursuesachipindustryrebootitsbeingpressedtobuildamericas",
+  "houthiattackkills58atyemengovernmenttrainingcampgovernorsays",
   "howthegoldboomisfuellingtreelossfromghanatotheamazon",
   "swissgiantubsconsidersshockcalltoleaveswitzerlandsourcessay",
   "fedseesaiboomaddingtoinflationheadachebutothersmaypayforthemedicine",
@@ -877,6 +877,7 @@
   "usofficialsplantotraveltonorwayrussiaforukrainetalkssourcessay",
   "exclusivetrumpsapprovalfallstorecordlowof31asmidtermsnearreutersipsospollfinds",
   "nvidiabackednscaleanthropicintalksfornew45billionaiclouddealsourcesays",
+  "brazildetectsnewcastlediseaseatturkeyfarmraisingexportconcerns",
   "tophyperscalerslikelytohavemoreailinkeddebtthannowknownsamppglobalwarns",
   "popeleotoholdwednesdayaudienceforfirsttimesincecancersurgery",
   "brazilsairlinesfeartaxriseimpactaselectionnears",
@@ -894,6 +895,7 @@
   "marcorubiotoarriveinindiatuesdaywithtradesecurityandtechnologyonagenda",
   "oileasesasmarketsassesspotentialwaiveronrussianenergymiddleeastsupplyrisks",
   "livefrenchpmlecornucallsforpartialcurfewsasviolentprotestsescalate",
+  "houthiattackonyementrainingcampkills53injures200",
   "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "oilpricesriseaftershipattacksusirantalksdeadlock",
   "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
@@ -950,8 +952,8 @@
   "francetoughensprotestresponseasofficialsadmitfailure",
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "whymarketsthinktheusiswinningtheblockade",
+  "fourminutetransfersupendhowmoneymovesaroundtheworld",
   "siemensenergyceoseesdatacenterboomlastingonpowerneeds",
-  "ukdebtisabuyforthosebettingonaplayitsafebudget",
   "merzsaidtheusisnolongerinvolvedinukrainesdefensebloomberg",
   "canadasieaoilpromiseaddslittlenewcrudetotightmarket",
   "merzwarnedeuropeaboutputinstruegoalsbloomberg",
@@ -992,8 +994,8 @@
   "trumpholdsuppatriotmissilesforukraineasrussianstrikesintensifyofficialssay",
   "explainerchinaeyesovernightrateasmainpolicytoolwhatitmeansformarkets",
   "nasdaqclimbsaschipandailinkedstocksbounceback",
+  "ukdebtisabuyforthosebettingonaplayitsafebudget",
   "aistocksbouncebackafterbruisingselloffcoreweavejumpsongoldmanupgrade",
-  "fourminutetransfersupendhowmoneymovesaroundtheworld",
   "pakistanarmychiefasimmunirtovisittehranontuesdayasianews",
   "indiastepsupoverseasinvestmentchecksasrupeeslides",
   "commentarymarketssquealismusictofedearsbutstilltoofaint",
@@ -1014,7 +1016,6 @@
   "yemenshouthisreachstrategicislandatmouthofvitalshippinglane",
   "oilrefininghasbeenunderinvestedsaudiaramcosays",
   "howweightlossdrugsmayinfluencefragrancemarkettrends",
-  "houthiattackonyementrainingcampkills53injures200",
   "southafricasferrochromesmeltingindustryillustratesthechallenge",
   "uschipstocksriseaftersteepestweeklyselloffinmonths",
   "asianstocksskidwallstreetandbondsaidedbyoilslip",
@@ -1352,7 +1353,6 @@
   "japantodiversifycrudesuppliesbackpipelinesthatbypasshormuz",
   "oilpricesriseforafifthdayonsupplyconcernsamidchokepointthreats",
   "worldnewsusstatedepartmentreportkeepschinaintier3overforcedlabourtraffickingconcerns",
-  "bigoilisbracingforlowerpricesandrightlyso",
-  "australianenergyexplorationhits10yearhighinhuntforgas"
+  "bigoilisbracingforlowerpricesandrightlyso"
  ]
 }
