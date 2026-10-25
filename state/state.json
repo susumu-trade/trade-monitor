@@ -919,7 +919,7 @@
     "previous": "50.2"
    }
   ],
-  "cache_at": "2026-10-25T19:55:34.173119+09:00",
+  "cache_at": "2026-10-25T20:03:38.726667+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -939,26 +939,25 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "bankshikeoilpriceforecastsonprolongedgulfdisruptions",
   "trumpannouncesaudiwillbuild4billionusfactoryingeorgia",
   "tecksaysstrikebeginsathighlandvalleycoppermineinbritishcolumbia",
+  "trumpsettoannounceaudiplantobuildusfactoryingeorgiasourcesays",
   "howiswashingtonprotectingembassiesandamericanpersonnelacrossthemiddleeast",
   "morephpscaledangerslurkontheinternetcloudflareceosays",
   "albanianpolicefireteargasasantigovernmentstudentproteststurnviolentworldnews",
-  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "russiasaysthreedieseltankersareheadedfortheusthetwowecannamecarryabout410000to430000barrelslessthan3hoursofamericandeman",
   "ushasforyearsaskedmusktoalterstarlinkserviceinukrainewestasiasourcessay",
   "libyareopensoilpipelinetozawiya",
   "hundredsofthousandsprotestacrossfranceamidheavysecuritypresence",
+  "aswinternearsheatingoilemergesashurdleforrepublicansinussenateraces",
   "franceprotestsnearly1000arrestedinnewclashes",
   "belgianpoliceuseteargasasantigovernmentproteststurnviolentinbrussels",
-  "albanianpolicefireteargasasantigovernmentstudentproteststurnviolent",
-  "indonesiacutspipelinegasexportstosingaporebyabout9",
   "yemenshouthisrenewwarningagainstusingriyadhairport",
-  "uaesrasalkhaimahshutsallbeachesasneighboursgrapplewithoilspill",
+  "indonesiacutspipelinegasexportstosingaporebyabout9",
   "whoarethearmedgroupsoperatinginnigeriakillingatleast40people",
-  "albanianpolicefireteargasasantigovernmentproteststurnviolentintirana",
+  "uaesrasalkhaimahshutsallbeachesasneighboursgrapplewithoilspill",
   "sydneysnewinternationalairportopenstopassengers",
+  "albanianpolicefireteargasasantigovernmentproteststurnviolentintirana",
   "franceprotestsover4lakhpeoplemarchagainstinequalityclasheseruptinparistopupdates",
   "parismarchendscalmlybutteargasfollowsasfranceprotestsagain",
   "yemenshouthisclaimattacksonsaudioilfacilitiesairportsaftermissileinterceptionsdetailsinside",
@@ -973,11 +972,11 @@
   "parispoliceuseteargaswatercannontodisperseprotesters",
   "sinkingprofitsturnchinas35trillionstockroutintotrap",
   "bcsleftwingleaderlosestoconservativesinvotehecalled",
-  "saudiarabiasuggestsriyadhairportmayreopenonsunday",
   "democratsmidtermmapexpandsinwarningsignforrepublicans",
+  "saudiarabiasuggestsriyadhairportmayreopenonsunday",
   "venezuelatorestartacrucialpowerplantwithchinashelp",
-  "volkswagenplansnewaudiplantingeorgiahandingtrumpawin",
   "totalmeltdowninriskiestdebtunnervesmarketcreditweekly",
+  "volkswagenplansnewaudiplantingeorgiahandingtrumpawin",
   "uaeshutsmorebeachesasitdealswithoilspillingulf",
   "ghanaweighslocalmineownershipasgoldfieldsrenewallooms",
   "marketersreleasenewpricesasdangoterefineryhaltsdieselgantrysales",
@@ -1006,8 +1005,10 @@
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "zcashfallssharplyasintensifyinggrowthconcernsweighonthecryptomarket",
   "macropulseeuropeseconomyislosingsteambutinflationwontletup",
-  "trumpsettoannounceaudiplantobuildusfactoryingeorgiasourcesays",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
+  "bankshikeoilpriceforecastsonprolongedgulfdisruptions",
+  "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
+  "albanianpolicefireteargasasantigovernmentstudentproteststurnviolent",
   "gulfnationaiambitionsfacerisksathomeandabroadneweconomy",
   "tslao",
   "sydneysnewinternationalairportopenstopassengersworldnews",
@@ -1437,7 +1438,6 @@
   "saudiaramcoinstructsstafftoevacuatedhahranheadquarters",
   "commentarymorningbidrattledbyoiltechandfrance",
   "myanmarsaungsansuukyispeakstosonforfirsttimeinover5yearsasianews",
-  "rupeerallyfaceslimitsfromindiasoilanddollarproblem",
-  "asianstockstoslideontechroutbondsrallymarketswrap"
+  "rupeerallyfaceslimitsfromindiasoilanddollarproblem"
  ]
 }
