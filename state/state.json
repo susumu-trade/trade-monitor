@@ -919,7 +919,7 @@
     "previous": "50.2"
    }
   ],
-  "cache_at": "2026-10-25T15:44:49.228410+09:00",
+  "cache_at": "2026-10-25T15:56:53.808955+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -939,17 +939,17 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "uaesrasalkhaimahshutsallbeachesasneighboursgrapplewithoilspill",
   "trumpannouncesaudiwillbuild4billionusfactoryingeorgia",
+  "uaesrasalkhaimahshutsallbeachesasneighboursgrapplewithoilspill",
   "bankshikeoilpriceforecastsonprolongedgulfdisruptions",
   "morephpscaledangerslurkontheinternetcloudflareceosays",
   "belgianpoliceuseteargasasantigovernmentproteststurnviolentinbrussels",
   "trumpsettoannounceaudiplantobuildusfactoryingeorgiasourcesays",
   "libyareopensoilpipelinetozawiya",
   "russiasaysthreedieseltankersareheadedfortheusthetwowecannamecarryabout410000to430000barrelslessthan3hoursofamericandeman",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "hundredsofthousandsprotestacrossfranceamidheavysecuritypresence",
   "indonesiacutspipelinegasexportstosingaporebyabout9",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "saudipipelineshutdowncouldwipeout4ofworldoilsupply",
   "germanyoffersstrategicoilreservesforsale",
   "oilfallsover1asmarketsawaitoutcomeofiranustalksusstocksdata",
@@ -963,14 +963,15 @@
   "oilpricesriseaftershipattacksusirantalksdeadlock",
   "whoarethearmedgroupsoperatinginnigeriakillingatleast40people",
   "albanianpolicefireteargasasantigovernmentstudentproteststurnviolent",
-  "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "oilpricesdrop4afterqatarbessentraisehopesofausirandeal",
+  "ushasforyearsaskedmusktoalterstarlinkserviceinukrainewestasiasourcessay",
+  "yemenshouthisreachstrategicislandatmouthofvitalshippinglane",
   "daily_briefsisisayshispresidencywillendin2030seeksparliamentaryapprovalforpossiblemilitarysupporttosaudi_arabia",
   "sydneysnewinternationalairportopenstopassengers",
   "brentcrudeoilprice11672settleweekaheadbull120",
-  "franceprotestsover4lakhpeoplemarchagainstinequalityclasheseruptinparistopupdates",
   "oiltops116tofivemonthhighasmideastsupplyrisksmount",
   "parismarchendscalmlybutteargasfollowsasfranceprotestsagain",
+  "franceprotestsover4lakhpeoplemarchagainstinequalityclasheseruptinparistopupdates",
   "yemenshouthisclaimattacksonsaudioilfacilitiesairportsaftermissileinterceptionsdetailsinside",
   "franceprotests70000policedeployed135arrestedamidclashespoliceuseteargaswatercannons",
   "indiasoilimportsfrommiddleeastreturntoprewarlevelsasrussianoillosespriceedge",
@@ -997,8 +998,8 @@
   "iranwarspursasurgeinstocksalesfromusshalecompanies",
   "bypassthestraitofhormuzwhythatsnotsoeasy",
   "eiahigherblendingtargetsdriverinpricesclosetorecordhighs",
-  "aiwilldriveastrongusearningsseasongoldmanssnidersays",
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
+  "aiwilldriveastrongusearningsseasongoldmanssnidersays",
   "howtheiranwarisdisruptingglobaloilandgassupply",
   "braceforafloodofoilassoonashormuzreopens",
   "chevronwontpaytolltomoveshipsthroughhormuzceotellsbloombergtv",
@@ -1030,12 +1031,12 @@
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "zcashfallssharplyasintensifyinggrowthconcernsweighonthecryptomarket",
   "macropulseeuropeseconomyislosingsteambutinflationwontletup",
+  "saudipipelineoutagethreatenslossof4ofglobaloilsupply",
   "oilpricesjump3onhouthiattacksoilspillhighestsettlementsinceapril",
   "tslao",
   "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
   "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "northkoreaskimcrossesnewbridgeintochinaastradetieswarm",
-  "yemenshouthisreachstrategicislandatmouthofvitalshippinglane",
   "bigoilisbracingforlowerpricesandrightlyso",
   "facingscepticismkevinolearyshugedatacenterinalbertafacesaskepticalpublic",
   "commentaryhowtrumpsenergydominanceturnedintohubris",
@@ -1437,7 +1438,6 @@
   "chinastockssetforbearmarketasaitradepolicyhopesfade",
   "jioiposeesoverwhelmingdemandondayoneevenasindianstocksstruggle",
   "priceofphysicaloilbarrelsslidesjustascrudefuturesrally",
-  "blackstoneprofitdrops92asratesinflationcurbdealmaking",
-  "mscipressedbyinvestorstojustifydrasticindonesiawarning"
+  "blackstoneprofitdrops92asratesinflationcurbdealmaking"
  ]
 }
