@@ -919,7 +919,7 @@
     "previous": "50.2"
    }
   ],
-  "cache_at": "2026-10-25T22:04:34.706024+09:00",
+  "cache_at": "2026-10-25T22:16:39.472503+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -941,8 +941,8 @@
  "news_seen2": [
   "bankshikeoilpriceforecastsonprolongedgulfdisruptions",
   "trumpannouncesaudiwillbuild4billionusfactoryingeorgia",
-  "oilpricesriseaftershipattacksusirantalksdeadlock",
   "tecksaysstrikebeginsathighlandvalleycoppermineinbritishcolumbia",
+  "libyaopensalrashadgasfieldwithcapacityofupto50millioncubicfeetperday",
   "howiswashingtonprotectingembassiesandamericanpersonnelacrossthemiddleeast",
   "morephpscaledangerslurkontheinternetcloudflareceosays",
   "albanianpolicefireteargasasantigovernmentstudentproteststurnviolentworldnews",
@@ -954,11 +954,10 @@
   "belgianpoliceuseteargasasantigovernmentproteststurnviolentinbrussels",
   "yemenshouthisrenewwarningagainstusingriyadhairport",
   "thailandwelcomesusmyanmarengagementexpectsaseantalksoncountrysfutureasianews",
-  "aswinternearsheatingoilemergesashurdleforrepublicansinussenateraces",
   "whoarethearmedgroupsoperatinginnigeriakillingatleast40people",
-  "sydneysnewinternationalairportopenstopassengersworldnews",
-  "albanianpolicefireteargasasantigovernmentproteststurnviolentintirana",
+  "sydneysnewinternationalairportopenstopassengers",
   "indonesiacutspipelinegasexportstosingaporebyabout9",
+  "albanianpolicefireteargasasantigovernmentproteststurnviolentintirana",
   "goldpricesunday3996intofedweekbear3890",
   "franceprotestsover4lakhpeoplemarchagainstinequalityclasheseruptinparistopupdates",
   "parismarchendscalmlybutteargasfollowsasfranceprotestsagain",
@@ -984,6 +983,7 @@
   "uaeshutsmorebeachesasitdealswithoilspillingulf",
   "goldmancutskospi12monthtargetby25asaitradeunravels",
   "chinasus35trillionstockroutdeepensasprofitssinkmajorstimulusstayselusive",
+  "atamptstockdown796onspacexcellsitetalks",
   "ghanaweighslocalmineownershipasgoldfieldsrenewallooms",
   "tradingonmarginwhatitmeansandhowtogetstarted",
   "recordetfinflowsyetstockmarketleadershipisshiftingwhatsgoingon",
@@ -1010,9 +1010,11 @@
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "zcashfallssharplyasintensifyinggrowthconcernsweighonthecryptomarket",
   "macropulseeuropeseconomyislosingsteambutinflationwontletup",
+  "oilpricesriseaftershipattacksusirantalksdeadlock",
+  "sydneysnewinternationalairportopenstopassengersworldnews",
+  "aswinternearsheatingoilemergesashurdleforrepublicansinussenateraces",
   "ushasforyearsaskedmusktoalterstarlinkserviceinukrainewestasiasourcessay",
   "sinkingprofitsturnchinas35trillionstockroutintotrap",
-  "sydneysnewinternationalairportopenstopassengers",
   "singaporeexpandshazeinvestigationto10locallybasedfirms",
   "uaesrasalkhaimahclosesallbeachesfollowingoffshoreoilleak",
   "tslao",
@@ -1436,8 +1438,6 @@
   "privatecreditgroupsaysmarketfearsaredivorcedfromreality",
   "newmontbeatsquarterlyprofitestimatesonhighergoldpricescadiarecovery",
   "adanitotalgasincreasesitsprofitsinindiaby6",
-  "germanydetainsukrainiannationalsuspectedofspyingforrussia",
-  "watchbarclaystocut5kjobsaitradestumblesaftertechearnings",
-  "twowealthyamericansfaceoffinbitterfeudoverpanamaport"
+  "germanydetainsukrainiannationalsuspectedofspyingforrussia"
  ]
 }
