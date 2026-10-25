@@ -919,7 +919,7 @@
     "previous": "50.2"
    }
   ],
-  "cache_at": "2026-10-25T18:55:06.107529+09:00",
+  "cache_at": "2026-10-25T19:03:09.445317+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -939,23 +939,23 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "disenchantednetanyahusupportersareprizeofisraelelectioncampaign",
   "trumpannouncesaudiwillbuild4billionusfactoryingeorgia",
+  "tecksaysstrikebeginsathighlandvalleycoppermineinbritishcolumbia",
   "trumpsettoannounceaudiplantobuildusfactoryingeorgiasourcesays",
   "howiswashingtonprotectingembassiesandamericanpersonnelacrossthemiddleeast",
   "morephpscaledangerslurkontheinternetcloudflareceosays",
+  "albanianpolicefireteargasasantigovernmentstudentproteststurnviolentworldnews",
   "russiasaysthreedieseltankersareheadedfortheusthetwowecannamecarryabout410000to430000barrelslessthan3hoursofamericandeman",
-  "tecksaysstrikebeginsathighlandvalleycoppermineinbritishcolumbia",
   "ushasforyearsaskedmusktoalterstarlinkserviceinukrainewestasiasourcessay",
   "libyareopensoilpipelinetozawiya",
-  "indonesiacutspipelinegasexportstosingaporebyabout9",
   "hundredsofthousandsprotestacrossfranceamidheavysecuritypresence",
-  "belgianpoliceuseteargasasantigovernmentproteststurnviolentinbrussels",
-  "albanianpolicefireteargasasantigovernmentstudentproteststurnviolent",
-  "yemenshouthisrenewwarningagainstusingriyadhairport",
-  "sydneysnewinternationalairportopenstopassengersworldnews",
+  "franceprotestsnearly1000arrestedinnewclashes",
   "uaesrasalkhaimahshutsallbeachesasneighboursgrapplewithoilspill",
+  "belgianpoliceuseteargasasantigovernmentproteststurnviolentinbrussels",
+  "yemenshouthisrenewwarningagainstusingriyadhairport",
+  "indonesiacutspipelinegasexportstosingaporebyabout9",
   "whoarethearmedgroupsoperatinginnigeriakillingatleast40people",
+  "sydneysnewinternationalairportopenstopassengersworldnews",
   "albanianpolicefireteargasasantigovernmentproteststurnviolentintirana",
   "franceprotestsover4lakhpeoplemarchagainstinequalityclasheseruptinparistopupdates",
   "parismarchendscalmlybutteargasfollowsasfranceprotestsagain",
@@ -965,8 +965,8 @@
   "fedsettoleadg7trioinhawkishratepauseecoweekahead",
   "singaporefeelsthecoolingofasias2026ipoparty",
   "singaporeexpandshazeinvestigationto10locallybasedfirms",
-  "parispoliceuseteargaswatercannontodisperseprotesters",
   "singaporeswongvowsmoresupportforworkersenergysecurity",
+  "parispoliceuseteargaswatercannontodisperseprotesters",
   "sinkingprofitsturnchinas35trillionstockroutintotrap",
   "democratsmidtermmapexpandsinwarningsignforrepublicans",
   "venezuelatorestartacrucialpowerplantwithchinashelp",
@@ -1001,9 +1001,11 @@
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "zcashfallssharplyasintensifyinggrowthconcernsweighonthecryptomarket",
   "macropulseeuropeseconomyislosingsteambutinflationwontletup",
+  "facingscepticismkevinolearyshugedatacenterinalbertafacesaskepticalpublic",
+  "disenchantednetanyahusupportersareprizeofisraelelectioncampaign",
+  "albanianpolicefireteargasasantigovernmentstudentproteststurnviolent",
   "auditobuild4bgeorgiafactoryproduce200000suvsannually",
   "eiahigherblendingtargetsdriverinpricesclosetorecordhighs",
-  "albanianpolicefireteargasasantigovernmentstudentproteststurnviolentworldnews",
   "tslao",
   "violenceflaresinparisafterlargelypeacefulprotestsacrossfrance",
   "bypassthestraitofhormuzwhythatsnotsoeasy",
@@ -1048,7 +1050,6 @@
   "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
   "northkoreaskimcrossesnewbridgeintochinaastradetieswarm",
   "bigoilisbracingforlowerpricesandrightlyso",
-  "facingscepticismkevinolearyshugedatacenterinalbertafacesaskepticalpublic",
   "commentaryhowtrumpsenergydominanceturnedintohubris",
   "toplandlordsaysgermanyuninvestableonberlinseizureplan",
   "nomoreredlinescouldthenextiranwarcutyourinternetal",
@@ -1437,7 +1438,6 @@
   "flighttosafetyrisingoilputrupeesrecoverytothetest",
   "japancoreinflationtopsbojs2targetforfirsttimesincedecemberyenfirms",
   "solanasalpenglowupgradecutssettlementtounderasecondwhatitchangesandwhatitdoesntforsol",
-  "japanseptember2026headlinecpi21yyexpected21",
-  "exclusiverussiandieselheadstousafterputintrumpdealdatashows"
+  "japanseptember2026headlinecpi21yyexpected21"
  ]
 }
