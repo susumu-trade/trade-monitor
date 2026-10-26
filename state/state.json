@@ -211,7 +211,7 @@
     "country": "EUR",
     "date": "2026-10-27T04:00:00-04:00",
     "impact": "Low",
-    "forecast": "9.8%",
+    "forecast": "9.9%",
     "previous": "9.9%"
    },
    {
@@ -219,7 +219,7 @@
     "country": "EUR",
     "date": "2026-10-27T05:00:00-04:00",
     "impact": "Low",
-    "forecast": "3.6%",
+    "forecast": "3.5%",
     "previous": "3.5%"
    },
    {
@@ -251,7 +251,7 @@
     "country": "USD",
     "date": "2026-10-27T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "1.8%",
+    "forecast": "2.0%",
     "previous": "0.0%"
    },
    {
@@ -259,7 +259,7 @@
     "country": "USD",
     "date": "2026-10-27T09:00:00-04:00",
     "impact": "Low",
-    "forecast": "0.1%",
+    "forecast": "0.2%",
     "previous": "0.3%"
    },
    {
@@ -267,7 +267,7 @@
     "country": "USD",
     "date": "2026-10-27T09:00:00-04:00",
     "impact": "Low",
-    "forecast": "2.7%",
+    "forecast": "2.6%",
     "previous": "2.5%"
    },
    {
@@ -275,7 +275,7 @@
     "country": "USD",
     "date": "2026-10-27T10:00:00-04:00",
     "impact": "Medium",
-    "forecast": "80.7",
+    "forecast": "81.2",
     "previous": "81.9"
    },
    {
@@ -283,7 +283,7 @@
     "country": "USD",
     "date": "2026-10-27T10:00:00-04:00",
     "impact": "Low",
-    "forecast": "649K",
+    "forecast": "651K",
     "previous": "684K"
    },
    {
@@ -291,7 +291,7 @@
     "country": "USD",
     "date": "2026-10-27T10:00:00-04:00",
     "impact": "Low",
-    "forecast": "1",
+    "forecast": "0",
     "previous": "-2"
    },
    {
@@ -548,7 +548,7 @@
     "date": "2026-10-29T05:33:00-04:00",
     "impact": "Low",
     "forecast": "",
-    "previous": ""
+    "previous": "4.58|1.6"
    },
    {
     "title": "Advance GDP q/q",
@@ -927,7 +927,7 @@
     "previous": "50.2"
    }
   ],
-  "cache_at": "2026-10-27T04:38:28.541199+09:00",
+  "cache_at": "2026-10-27T04:46:32.732462+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -949,48 +949,47 @@
  "news_seen2": [
   "uscftcnbaagreetocooperateoverbasketballandpredictionmarkets",
   "oilpricesriseaftershipattacksusirantalksdeadlock",
+  "analysisinchinatheaibubblehasalreadyburst",
   "whyareoilpricesfallingdespitecontinuingattacksandsupplyrisksinthemiddleeast",
   "oilincheshigherstaysnearsixmonthhighsonsaudiattacks",
-  "chinasyuanclimbstofresh4yearhighaheadofkeypolicymeetings",
-  "anthropicsipofilingshowsexplosivegrowthrisksandstaggeringcosts",
   "russiacutsoiloutputinaprilsourcessay",
   "indonesiameetingsingaporegastermsdespitesupplycutministersays",
+  "wallsteyesbestdayinamonthasanthropicsipofilingpropelsaistocks",
+  "bankshikeoilpriceforecastsonprolongedgulfdisruptions",
   "howhouthiattackshavegroundedflightsacrosssaudiarabia",
   "saudiarabiatostoreoilinsingaporetobolsterasiasupplysecurity",
   "mappingthemarketnasdaqlosingitsgriponrally",
-  "breakingviewscommentaryaipowersup13blnnaturalgasdeal",
   "brazilstocksrealtumbleaslulawinshiftsinvestorfocus",
+  "breakingviewscommentaryaipowersup13blnnaturalgasdeal",
   "eqttobuyrangeresourcesin13billiondealtocreatetopusgasproducer",
-  "anthropicssoaringsalessteeplossesputaifrenzytoipotest",
   "morningbidelectionscentralbanksandearningsonthemenu",
   "hezbollahreadiesfornewregionalwarwithfundsfromiransourcessay",
   "galpmoevescrapdownstreammergerasiranwarboostsrefineryvaluations",
   "zelenskiysaysusfullyresumeswarningsonballisticstrikes",
   "commentarywhychinasstimuluskeepsmissingthemark",
+  "chinasyuanclimbstofresh4yearhighaheadofkeypolicymeetings",
   "musksaysspacexraised40billionindebtdealpredictsneocloudshakeout",
+  "anthropicsipofilingshowsexplosivegrowthrisksandstaggeringcosts",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "breakingnewstheaicompanyanthropicdiscloseditsfinancesaheadofwhatcouldbethelargesteverinitialpublicofferinghttpsnytims4bs",
   "goldgainsasoilpriceslidecoolssomeinflationconcerns",
   "oilsupplyshocktoworsenasinventoriesfallfurtherevenifconflictends",
   "oilslidesfromsixmonthhighsonhopesofeasingmiddleeasthostilities",
   "russiahasincreaseddieselproductionduetosanctionsreliefreuterssays",
-  "russianrefinersrampupdieseloutputtosupplytrumpdeal",
   "japanrubbertradesrangeboundassupplyconcernsoffsetloweroil",
   "commoditycorneroilpriceseasegoldsteadiesaheadoffedpolicymeeting",
   "livelulawinshistoricfourthtermasbrazilpresident",
   "portoffujairahresumesoilloadingsafterattackandwhyitmattersglobally",
-  "oilrefininghasbeenunderinvestedsaudiaramcosays",
-  "saudiarabiareportedlyoffershouthis1billioniniranbrokereddealtohaltattacks",
+  "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
   "vietnamsfirstchipplantunlikelytomeet2027targetsourcessaynodealyetwithasmlreutersexclusive",
-  "officialsfrommeccapactcountriestomeetofficialsiniransourcessay",
+  "saudiarabiareportedlyoffershouthis1billioniniranbrokereddealtohaltattacks",
   "livebrazilslulawinshistoricfourthtermasbolsonarorejectsresults",
   "yasuofukudajapansfirstsecondgenerationprimeministerdiesat90nikkeireportsasianews",
   "onedeadfourmissingafterborrdrillingsprospector5rigsinksoffshoregabon",
   "oilslipsfromnearsixmonthshighsdespitesupplyconcernsmoneynews",
   "oilslipsfromnearsixmonthshighsdespitesupplyconcerns",
-  "federalreserveecbandbankofjapansetforbacktobackmeetingsthisweekallthreeseenholdingrates",
-  "venezuelaoppositionleadermachadoreturnshomeafterfraughtyearaway",
   "indonesiaenergyministertovisitchinaindiatoensuregasolinesupplyasianews",
+  "venezuelaoppositionleadermachadoreturnshomeafterfraughtyearaway",
   "uaeoilspillspreadspromptsbeachclosures",
   "oilspilloffuaecoastpromptsbeachclosurescleanupeffort",
   "fromtrusttogrowththenextchapterinjapanukrelations",
@@ -1023,12 +1022,12 @@
   "marathonsrichardswarnsnowayoutforbeatendowncccdebt",
   "chinanationalteametfsdrawmostinflowssincetradewarrout",
   "nuclearupstartelementlgetskoreanbackingfor750millionpush",
-  "saudiarabiaswallstreetappealdimsevenasmideastrivalsscorewins",
   "russiaswaronukraineisstrainingfoodandfuelsupply",
   "aifundingangststandsinwayofreturntohighstakingstock",
   "skhynixleveragedfundstobedelistedinusasairallycools",
-  "astockinvestorsguidetoukbudgetwinnersandlosers",
   "cotonforexandcommoditiesweekto20oct2026",
+  "saudiarabiaswallstreetappealdimsevenasmideastrivalsscorewins",
+  "astockinvestorsguidetoukbudgetwinnersandlosers",
   "goldmansaysyenbecomingbetterhedgeagainstaimarketshock",
   "thewarbumpisafalsevictoryforsampp500profits",
   "bondsaiandabullmarketthathaskeptgoing",
@@ -1043,11 +1042,11 @@
   "singaporepmvowsmoresupportforworkersenergysecurity",
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "usstocksclimbamidshakytradinginmarketsworldwide",
-  "russiapredictssignificantgrowthinglobalnaturalgasdemand",
   "brazilmarketsbraceforroutonlulasimprobableelectionwin",
   "ksilisimstoclosedealwitheuropeannaturalgassupplier",
+  "anewfrontierforamericanlithiumelektrosotcelekevaluatespotentialupstatenewyorkopportunityasdomesticbatteryandcriticalmine",
   "themostoversoldandoverboughtstocksonthetsx",
-  "ovintivgrowscanadianfootprintagainwithloganenergydeal",
+  "globallnghuntintensifiesasmiddleeastwarcutssupply",
   "metaseeksupto95billioninequitytofundaispending",
   "brentcrudenears117abarrelcouldoilshockrekindleglobalinflation",
   "mohamedelerianhighlightsmarketvulnerabilitiesaheadofkeyratedecisions",
@@ -1076,13 +1075,18 @@
   "germanyifobusinessconfidenceimprovesinoctoberasexpectationssurprisehigher",
   "whatisthefomcblackoutperiodandwhydocentralbankshaveone",
   "marketoutlookfortheweekof26th",
-  "bankshikeoilpriceforecastsonprolongedgulfdisruptions",
-  "usseeksinternationalhelptoreopenstraitofhormuzascrudepricessurge",
-  "serbiasvucicconcedespolldefeattostudentmovement",
+  "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
+  "oilrefininghasbeenunderinvestedsaudiaramcosays",
+  "officialsfrommeccapactcountriestomeetofficialsiniransourcessay",
+  "federalreserveecbandbankofjapansetforbacktobackmeetingsthisweekallthreeseenholdingrates",
   "frenchmarketsreboundafternationavoidsmoodysdowngrade",
+  "anthropicssoaringsalessteeplossesputaifrenzytoipotest",
+  "russianrefinersrampupdieseloutputtosupplytrumpdeal",
+  "russiapredictssignificantgrowthinglobalnaturalgasdemand",
+  "ovintivgrowscanadianfootprintagainwithloganenergydeal",
+  "serbiasvucicconcedespolldefeattostudentmovement",
   "firsteagleusvaluefundq32026commentaryfevax",
   "trumpsaysdecisionnearingonirandealorfinishitoff",
-  "analysisinchinatheaibubblehasalreadyburst",
   "worldabsorbshistoriciranwaroilsupplylossbutdepletedstocksbringrisks",
   "britainwillnotjoincanadaleddefencebankinitiative",
   "indonesiagassupplytosingaporemeetscontractedminimumdespitecutsministersays",
@@ -1092,10 +1096,7 @@
   "europeanstockmarketopenstockspushhigherasfrenchbondmarkettensionsease",
   "stockearningspickoftheweekcanmicrosoftsaigrowthstilljustifyitsspendingspree",
   "skhynixplans12billiondividendfromkioxiagainsreport",
-  "anewfrontierforamericanlithiumelektrosotcelekevaluatespotentialupstatenewyorkopportunityasdomesticbatteryandcriticalmine",
-  "globallnghuntintensifiesasmiddleeastwarcutssupply",
   "britainwillnotjoincanadasdefencebanksourcesaysbyreuters",
-  "uaecrudeoutputfallsbymorethanhalfashormuzclosureforcesshutins",
   "japanesecompaniescompensateusersascyberattacksbuffeteconomydigitalnews",
   "oilslipsbutstaysnearsixmonthhighsonsaudiattacks",
   "howchinasoct26to29communistpartyplenumworkschinanews",
@@ -1445,7 +1446,6 @@
   "nyseoptionsexchangetradinghaltedbytechnicalissue",
   "gmanalystssaybuythedipasstockeyesworstweeksince2025",
   "aitradestumblesagainasinvestorsrediscovertreasuryhaven",
-  "futuresslipasbigtechfaltersoilextendsrelentlessadvance",
-  "iranhasdetailedplanstohitgulfunderseacablesifwarresumesofficialssay"
+  "futuresslipasbigtechfaltersoilextendsrelentlessadvance"
  ]
 }
