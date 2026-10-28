@@ -378,7 +378,7 @@
    {
     "title": "German 10-y Bond Auction",
     "country": "EUR",
-    "date": "2026-10-28T05:42:00-04:00",
+    "date": "2026-10-28T06:32:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": "3.58|1.2"
@@ -928,7 +928,7 @@
     "previous": "50.2"
    }
   ],
-  "cache_at": "2026-10-28T19:37:33.664517+09:00",
+  "cache_at": "2026-10-28T19:45:37.592654+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -952,8 +952,8 @@
   "commentarynaturalgasislosingitsgripacrosskeypowermarkets",
   "oilpricesriseafterattackonsaudiarabianrefineryreignitessupplyconcerns",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "southafricasfirstgastopowertenderfailsonsupplyconcerns",
   "oilupover2assaudiarabianrefineryattackreignitessupplyriskconcernsmoneynews",
+  "southafricasfirstgastopowertenderfailsonsupplyconcerns",
   "gaspricesintheusundertrumpexceededthoseunderbidenreuters",
   "edisonsouthasiangasbuyersfaceqatarenergysupplyhaltuntilyearend",
   "stocksgetailiftdollarholdssteadyaheadoffeddecision",
@@ -976,9 +976,10 @@
   "oilholdsdeclineastraderstrackresultofisraelielection",
   "goldholdsabove4000astraderslooktofedratedecision",
   "asianstockssettogainonresurgentaioptimismmarketswrap",
+  "wallstreetsaidebtmachineisstartingtochokeonsupply",
   "1999vstheseiposisapplestobowlingballs",
-  "jpmorganprivatebankstangseesmoredownsideriskforgold",
   "copperwaversneartwoweekhighastraderslooktofedmeeting",
+  "jpmorganprivatebankstangseesmoredownsideriskforgold",
   "anthropicgivestradersapureplaybetonfrontierai",
   "bullishtreasurybetsfacereversalriskfromhawkishfed",
   "bankmanfriedfavoritesolanafacescrossroadwhilecourtingwallstreet",
@@ -996,13 +997,13 @@
   "saudiaramcoofferseuropemorespotoilassuppliesrampup",
   "eussecliteplanhingesongovernanceoutgoingchiefwarns",
   "chinastockpremiumoverhongkongwidensonstateintervention",
-  "corporatebondtradingismovingbeyondtopsecuritiesbarclayssays",
   "dongshanprecisionsettodebutafter13billionhklisting",
   "europeanstockspulledlowerbybanksashsbcresultsdisappoint",
   "bondtradersbetonuksnewfoundresiliencetosurvivebudget",
   "investmentlenslookingpastthemidterms",
   "watchskhynixpostsrecordprofitamidairush",
   "porkslumpworsensashighgaspricescurbroadtrippitstops",
+  "corporatebondtradingismovingbeyondtopsecuritiesbarclayssays",
   "russiashipslesscrudeevenaskeybalticportsflowsrebound",
   "hsbcs32profitjumpfallsshortofinvestorhopes",
   "skhynixsprofitsurge45billionpayoutfuelairally",
@@ -1024,7 +1025,7 @@
   "iranwarerodesexxonchevronprofitsevenasoilpricessoar",
   "priceshockisboonforoilstockscurseforrenewables",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
-  "gasdrillereqtpushingintolngwithtwohugetankersexectellsbloombergeqtnyse",
+  "gasdrillereqtpushingintolngwithtwohugetankersexectellsbloomberg",
   "venezuelawantsoilfirmstosupplytheirownpowerforprojects",
   "bypassthestraitofhormuzwhythatsnotsoeasy",
   "siemensenergyceoseesdatacenterboomlastingonpowerneeds",
@@ -1056,6 +1057,8 @@
   "rbnzleavesitscashrateunchangedtheywereexpectedtohike",
   "australiatrimmedmeancpirisesto37aboveforecastsasrbahikecasefirms",
   "australianseptembercoreinflationtrimmedmean37yyexpected36",
+  "usconsumerconfidenceimprovesinoctober",
+  "gasdrillereqtpushingintolngwithtwohugetankersexectellsbloombergeqtnyse",
   "bankshikeoilpriceforecastsonprolongedgulfdisruptions",
   "oilpricesedgelowerasieareducesdemandforecast",
   "ukshealeysayshewillhelphouseholdsbyscrappingfixedgascharges",
@@ -1090,7 +1093,6 @@
   "goldbelow4000bitcoinbelow80000whysafehavensfailedintheaistockselloff",
   "brentcrudeoilprice11559onfeddecisiondayafterhouthirastanuraclaimbull120bear108",
   "tanzaniaannouncesfirstgasdiscoveryinmorethan10years",
-  "gasdrillereqtpushingintolngwithtwohugetankersexectellsbloomberg",
   "canadawillspeedupcrudeoilexportsthroughpacificlink",
   "newzealanddollarslidesmostversusaussiesince2017onrbnz",
   "israelisgotopollsintightracetodecidenetanyahusfate",
@@ -1445,8 +1447,6 @@
   "japanservicesppipreview37paceinfocusaheadoffridaysbojdecision",
   "bigtechearningsputairallytothetest5globalmarketthemestowatchoutforthisweek",
   "federalreserveecbandbankofjapansetforbacktobackmeetingsthisweekallthreeseenholdingrates",
-  "ovintivgrowscanadianfootprintagainwithloganenergydeal",
-  "usstocksendhigherasanthropicsipofilingbuoysaistocks",
-  "srilankarescues40iraniansailorsspokesmansaysasianews"
+  "ovintivgrowscanadianfootprintagainwithloganenergydeal"
  ]
 }
