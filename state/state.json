@@ -160,7 +160,8 @@
    "JPY|BOJ Policy Rate|2026-10-29T22:30:00-04:00",
    "JPY|Monetary Policy Statement|2026-10-29T22:30:00-04:00",
    "JPY|BOJ Outlook Report|2026-10-29T22:31:00-04:00",
-   "JPY|BOJ Press Conference|2026-10-30T01:30:00-04:00"
+   "JPY|BOJ Press Conference|2026-10-30T01:30:00-04:00",
+   "USD|Employment Cost Index q/q|2026-10-30T08:30:00-04:00"
   ],
   "cache": [
    {
@@ -940,7 +941,7 @@
     "previous": "50.2"
    }
   ],
-  "cache_at": "2026-10-30T21:10:39.164282+09:00",
+  "cache_at": "2026-10-30T21:18:46.236115+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -972,26 +973,27 @@
   "southafricasabsaopensfirstgulfofficeindubai",
   "trafigurasecuresgassupplytosefewithaus15billionloan",
   "greeceproposesaglobalmaritimeceasefireinresponsetoattacksonshipsreuters",
-  "kalshiraises1billionat40billionvaluationasitexpandsbeyondpredictionmarkets",
   "intelsharestumbleafterhourshitbychipsupplyconstraintsbigcashburn",
+  "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
+  "kalshiraises1billionat40billionvaluationasitexpandsbeyondpredictionmarkets",
   "cryptoexchangehtxorderedtostopdoingbusinessinuk",
   "ukenergypoisedformoredealsamidhightaxesandoilprices",
   "thehawkishpauselulasmarketmeltdownandtheanthropicipobombshellthefinancialweekinfivecharts",
+  "wallstreetendslowerasalphabetrevenuemissrevivesaicapexjitters",
   "egyptianmanwhofirebombedproisraelrallyincoloradopleadsguiltytofederalhatecrimes",
   "shellandtotalposthighestquarterlyprofitsince2022",
-  "fccvotestobanallchineselabsfromtestinguselectronics",
   "wallstreetsaibetowntheinfrastructurecollecttherent",
   "exclusiveqatarenergybuysusotherlngtohedgefuturehormuzdisruptions",
+  "fccvotestobanallchineselabsfromtestinguselectronics",
   "worldabsorbshistoriciranwaroilsupplylossbutdepletedstocksbringrisks",
   "cryptogiantbinancehitby63bnhacksuspectedtobelargestinhistory",
-  "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
   "asiasaichipstocksfellnearly10askospilost57",
   "japansnikkeislumpsupto3astechstockstumbleonaiworries",
   "stockssinkbondsleapasaigiantsspendingspooksinvestorsmoneynews",
   "techstockselloffdeepensonearningsoilrisesmarketswrap",
   "signsofatechslowdownarethelastthingthismarketneeds",
   "strongearningsmaskgrowingstrugglewithinflationoilprices",
-  "exxonreapsrecordprofitsfromoilrefiningonwardrivengasolinedieselspikes",
+  "exxonandchevronbeatestimatesasoilrefiningprofitssoar",
   "taiwanstocksheadsforcorrectionasglobalaiselloffdeepens",
   "oildeclinesastradersparsesignsoffreshdiplomacyoniran",
   "philippinebondsaremostexposedinemergingasiatofedhikes",
@@ -1008,8 +1010,8 @@
   "investorsmayhaveboughtalltheaibondstheycanhandle",
   "kalshipolymarketpiledonmediadealsaheadofthemidterms",
   "aeuropeanstocktradersguideaheadoftheusmidterms",
-  "hongkongstocksloseakeybackeraschineseinvestorsheadforexit",
   "warshsforwardsilencerisksbiggertreasurymarketswings",
+  "hongkongstocksloseakeybackeraschineseinvestorsheadforexit",
   "jioboostsindiatotopofglobalipomarketwithrecordoctober",
   "watchestimated63billionhackedinbinancesecuritybreach",
   "nyseownerplansmarketforhyperliquidperpetualfuturesinus",
@@ -1045,6 +1047,8 @@
   "bojkeepspolicyrateunchangedat125asexpected",
   "bojdecisiondueshortlyholdat125expecteddecembersignalinfocu",
   "somegoodnewstreasuriesrallyasaiselloffdrivesflighttosafety10yearyieldatone",
+  "exxonreapsrecordprofitsfromoilrefiningonwardrivengasolinedieselspikes",
+  "goldoutlooktoq32027afirmerfoundationrenewedpotential",
   "commentaryhighstockslowpricebutdontwriteleadoffjustyet",
   "chinasaistockbubblehasburstwipingout480billion",
   "wallstreetendslowerasalphabetrevenuemissrevivesaicapexjittersbyreuters",
@@ -1061,7 +1065,6 @@
   "commentarymorningbidcashburnout",
   "germanyrejectsunfoundedclaimsinspatwithitalyovergasstorage",
   "commentaryweekendreadsunhedgedskiesfeddramaandukrainesheritageunderfire",
-  "wallstreetendslowerasalphabetrevenuemissrevivesaicapexjitters",
   "earningsgiveeuropeanautostocksrespiteaschinareshapestheindustry",
   "commentarywarshsmuddledmessagingrevivesfedcredibilitydoubts",
   "coinbasereturnstoprofitascryptoinvestmentgainsoffsettradingweakness",
@@ -1110,7 +1113,6 @@
   "whyetfclosuresmayhitarecordthisyear",
   "ecbslagardestepsasideaseuropeaneconomicpressurebuilds",
   "canadiantelecomselloffluresmoneymanagersbuyingthedip",
-  "goldoutlooktoq32027afirmerfoundationrenewedpotential",
   "bigoilisbracingforlowerpricesandrightlyso",
   "eiahigherblendingtargetsdriverinpricesclosetorecordhighs",
   "bypassthestraitofhormuzwhythatsnotsoeasy",
@@ -1458,7 +1460,6 @@
   "edisonsouthasiangasbuyersfaceqatarenergysupplyhaltuntilyearendeuronextmarketsreal",
   "ukshealeysayshewillhelphouseholdsbyscrappingfixedgascharges",
   "chinasnewexportcurbsdrawalinearounditsaicrownjewels",
-  "ukbudgettestsbondmarketsasfedecbandoilrisksloom",
-  "goldandsilvercorrectionortrendbreakfourteststotell"
+  "ukbudgettestsbondmarketsasfedecbandoilrisksloom"
  ]
 }
