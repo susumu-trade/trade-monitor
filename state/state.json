@@ -329,7 +329,7 @@
     "country": "USD",
     "date": "2026-11-02T10:00:00-05:00",
     "impact": "Medium",
-    "forecast": "54.7",
+    "forecast": "54.5",
     "previous": "54.5"
    },
    {
@@ -337,7 +337,7 @@
     "country": "USD",
     "date": "2026-11-02T10:00:00-05:00",
     "impact": "Low",
-    "forecast": "0.3%",
+    "forecast": "0.4%",
     "previous": "0.9%"
    },
    {
@@ -1093,7 +1093,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-02T08:37:55.976382+09:00",
+  "cache_at": "2026-11-02T08:45:59.148189+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1115,20 +1115,18 @@
  "news_seen2": [
   "ventureglobalbeginssupplyingplaqueminesphase1customersunderlongtermlngcontracts",
   "portugalweighingbiggergalpstakeaftermoevemergercollapseministersays",
-  "russianstrikescutpowertothousandsinukrainedespitetrumpsenergyceasefirepush",
-  "opecsettokeepoiloutputtargetssteadysourcessay",
   "some60shipspassedthroughstraitofhormuzonwednesdayusofficialsays",
-  "opeckeepsdecemberoiloutputtargetssteadyaheadoftoughercallfor2027",
-  "theshellleaksfiles1november2026",
   "germanymustdomoretoboostgasreservesasstoragelevelshitrecordlowlobbygroupsays",
-  "northeastheatingoilforecastwinter202627nymactnh",
   "russiaopensterrorismcaseoverukraineoilrefineryattackabcnewsampheadlinesaustralianbroadcastingcorporation",
-  "opecagreesinprincipletokeepoiloutputtargetssteadyindecembersourcessay",
-  "theatlanticdistillatetrap",
-  "realmbappehavemovedonfromchinacontroversysaysmourinhosportsnews",
-  "trumpsaysuscanadahaveconceptofanewtradedeal",
+  "opecsettokeepoiloutputtargetssteadysourcessay",
   "asiaspremiernewsagencyindianewsbusinessamppoliticalnationalampinternationalbollywoodsports",
+  "opeckeepsdecemberoiloutputtargetssteadyaheadoftoughercallfor2027",
   "bangladeshgarmentworkersdefywageboardasprotestsdisruptfactoriesandtransport",
+  "russianstrikescutpowertothousandsinukrainedespitetrumpsenergyceasefirepush",
+  "theshellleaksfiles1november2026",
+  "theatlanticdistillatetrap",
+  "trumpsaysuscanadahaveconceptofanewtradedeal",
+  "realmbappehavemovedonfromchinacontroversysaysmourinhosportsnews",
   "commentaryindiasboominggrowthhasanearningsproblem",
   "chinasbydextendssalesgrowthstreakonstrongexports",
   "brentcrude113opecsettoholdfuturesreopen",
@@ -1145,7 +1143,6 @@
   "pakistanlngcargoattackednearhormuzhadiranianapproval",
   "brazilshakeupsoundswarningoncrowdedemergingmarkettrades",
   "germanymissesgasstoragetargetascoldsnapsetsin",
-  "hopinweregoingonapremidtermroadtrip",
   "whatgmlumenandothersgainfromswitchingstockexchangesgmlumnkhc",
   "opecsettostickwithplanforsteadyquotasdelegatessay",
   "watchthe40trillionproblemwashingtonwonttalkabout",
@@ -1157,6 +1154,7 @@
   "chinastopregulatorstoaddressglobalbankersathksummit",
   "saudieconomyshrankatslowerpacebeforehouthiwarescalation",
   "russiaagreestohaltrecruitmentofghanaiansforukrainewar",
+  "hopinweregoingonapremidtermroadtrip",
   "watchtechselloffcouldeasepressureonthefed",
   "wallstreetsaysoneelectionresultgivesbitcoinitsbestchanceat100000",
   "southkoreaexportsextendrobustgrowthonaifueledchipboom",
@@ -1191,8 +1189,10 @@
   "fitchonukbudgetpolicycontinuityleavesatoughdeliverychallenge",
   "goldtumblesdespiteloweryieldstechnicalsshowtheway",
   "nasdaqleadsstockslowerasinvestorsquestionthecostofaigrowth",
+  "opecagreesinprincipletokeepoiloutputtargetssteadyindecembersourcessay",
   "deepseekdropsenhancedcodingagentwithaimtorivalanthropic",
   "spacexstockpricedropsbutczcallsitoneofthebest",
+  "northeastheatingoilforecastwinter202627nymactnh",
   "uaecrudeoutputnearsrecordfollowingopecexitsourcessay",
   "iranandqatarholdthirdconsecutivedayoftalkstoendusiranwar",
   "crudetensionsopectokeepoiltargetsunchangedasiranwarcurbsgulfsupply",
