@@ -163,7 +163,8 @@
    "JPY|BOJ Press Conference|2026-10-30T01:30:00-04:00",
    "USD|Employment Cost Index q/q|2026-10-30T08:30:00-04:00",
    "USD|ISM Manufacturing PMI|2026-11-02T10:00:00-05:00",
-   "USD|JOLTS Job Openings|2026-11-03T10:00:00-05:00"
+   "USD|JOLTS Job Openings|2026-11-03T10:00:00-05:00",
+   "USD|Congressional Elections|2026-11-03T10:16:00-05:00"
   ],
   "cache": [
    {
@@ -1087,7 +1088,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-03T23:53:38.084570+09:00",
+  "cache_at": "2026-11-04T00:01:42.159693+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1110,7 +1111,6 @@
   "adnocgasceosayslongtermgasdemandtogrowcallsformorediversifiedenergy",
   "totalenergiessignsfiveyearlngsupplydealwithadnocgas",
   "ypfceosayscontractsforargentinalngarebeingsignedineuropeasia",
-  "marathonbeatsquarterlyestimatestoselltworefineriestocvrenergy",
   "tsxreboundsasoilpullbackboostsindustrialsminingshares",
   "predictionmarketsfaceusmidtermstestaselectionbetssoar",
   "oilrisesasiransayswardealremainsdistantusstrikesqeshm",
@@ -1118,21 +1118,22 @@
   "shelltosellnorthwestshelfstaketoxrgfor145billion",
   "ftse100notchesfourthstraightdayofgainsasoilslidesonusirandealhopes",
   "italysintesaliftsfullyearprofitoutlookasitpreparestolaunchmpsbid",
+  "applesharesslideasternussoundsalarmonmemorycosts",
   "cvrenergytobuytwomarathonrefineriesmarketingbusinessfor42billion",
   "europeansharesriseasoilfallsonmiddleeastdealhopes",
-  "applesharesslideashighermemorycostsfuelmarginconcerns",
   "teslaschinamadeevsalesrise103yyinoctober",
+  "marathonbeatsquarterlyestimatestoselltworefineriestocvrenergy",
   "tradingdayoilslumpnocureforaiangst",
-  "indiastopgasimportersetseyesonuslngunderlongtermdealwithqatar",
   "globalmarketswerealreadyfragilebigaibetscouldbreakthem",
+  "indiastopgasimportersetseyesonuslngunderlongtermdealwithqatar",
+  "goldedgeshigheronsofteroilpricesusmidtermsinfocus",
   "investorsreadyforpossibleshakeupincongressaselectiondayarrives",
-  "goldfallsashigheroilstokesinflationfearsaheadofusmidterms",
   "wgclowersoutlookforgoldinvestmentdemandgrowthasbarbuyingslows",
   "businessloandemandsoftenedlastquarterfedsurveyshows",
+  "bayerraises2026profitoutlookaspharmabusinessbeatsexpectations",
   "europesshortsightedpolicyongasstoragetoboostcostssaystotalenergieschief",
-  "alphabetkicksoff6billionbondsaletestsappetitefortechdebt",
   "globaloilsupplydownnearly1blnbarrelssincehormuzdisruptionwarnsadnocceo",
-  "coronavirusmaypromptopecoiloutputcut",
+  "alphabetkicksoff6billionbondsaletestsappetitefortechdebt",
   "ukrainiandroneshitoilrefineryinrussiasyaroslavl",
   "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
   "chinarollsoutsupportmeasurestoaidstrugglingstocks",
@@ -1155,8 +1156,8 @@
   "usiranweighmediatorsproposalsamidlimitedairstrikes",
   "nasdaq100enterscorrectionasmegacapresultsamplifyaifears",
   "amdneedsahugeoutlooktoavoidintelsfateasaifearsrise",
-  "gulfaraboilgiantsareexportingcrudeatprewarratesagain",
   "whattoknowabouttheanthropicipo",
+  "gulfaraboilgiantsareexportingcrudeatprewarratesagain",
   "oracleisoffering10billionofhighgradedollarbonds",
   "weneedmoreukhomeswhyisnoonebuilding",
   "khameneiempowerstalksastrumpsaysirandealcouldhappen",
@@ -1189,6 +1190,9 @@
   "appleandpalantirbeatearningswhydidbothstocksfall",
   "morerbaliftscashrateto485insplit63voteseesinflationabove3untillate2027",
   "reservebankofaustraliarba25bpratehikeaswidelyexpected",
+  "coronavirusmaypromptopecoiloutputcut",
+  "applesharesslideashighermemorycostsfuelmarginconcerns",
+  "goldfallsashigheroilstokesinflationfearsaheadofusmidterms",
   "tacobellsalesfallmorethanexpectedoncyclosporiasisoutbreakhit",
   "dollardriftsonmideastmidtermrisksaussieandyuandip",
   "bottlercocacolaeuropacificpartnersflagscostpressureskeepsoutlook",
@@ -1603,9 +1607,6 @@
   "japanfactorypmislipsto533aseven",
   "japanweighs5000annualpaymentforlow",
   "pbocisexpectedtosettheusdcnyreferencerateat66625reutersestimate",
-  "jpmorganjoinshikecallforrbasnovembermeetingseestighteningbiaspersisting",
-  "goldpriceanalysistodayisthesharpselloffcreatingabuyingopportunityoranothertrap",
-  "bankofamericashartnettsaysbuytechbondsasrelativereturnshit30",
-  "btcpayservertellsoperatorstoshutdownafterreportsofhotwalletsbeingdrained"
+  "jpmorganjoinshikecallforrbasnovembermeetingseestighteningbiaspersisting"
  ]
 }
