@@ -1090,7 +1090,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-06T07:14:42.054477+09:00",
+  "cache_at": "2026-11-06T07:22:45.520425+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1110,9 +1110,9 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "moroccopausestomatoexportstoafricanmarketsamidhighpricesathome",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "binancehackpromptedusregulatorstocheckinonbanksystemssourcessay",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
+  "moroccopausestomatoexportstoafricanmarketsamidhighpricesathome",
   "kazakhstanplanstoboostoilsuppliesviabakutbilisiceyhanpipeline",
   "nasdaqpostsbiggestdailydropin19monthsonfearsofairegulationsbyreuters",
   "chinasnovemberdieselexportstoeaseamidthindomesticstockssourcessay",
@@ -1132,11 +1132,12 @@
   "renewedrefineryattacksdepleterussiandieselsupplyasusdealinfocus",
   "brentcrudeoilpriceaftertheusmidtermswhybrentfelltowards9350",
   "dollaredgeslowerasuselectionoutcomecheersglobalmarkets",
-  "sampp500tumblesmostsinceapril2025onaifearsmarketswrap",
   "usstockfuturesdivergeaschipselloffextendsintosecondday",
+  "anthropicfeverfuelsraceamongetfissuerstoofferpreipoexposure",
   "thecaseforayearendusstocksrally",
-  "baileysayssecondboehikemorelikelythannotifwargoeson",
+  "usmidtermscametoolatetopreventbankofenglandratehike",
   "alphabetssearchdominanceisatriskfromitsownaisuccess",
+  "baileysayssecondboehikemorelikelythannotifwargoeson",
   "hedgefundadviserlbmacroseesusmidtermsboostingthedollar",
   "democratswinhandstechgiantsan800billionboost",
   "chinatechfrenzyturnsintoyearofdismayforretailtraders",
@@ -1147,17 +1148,17 @@
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
   "ustweaksdebtsalesguidanceopeningwaytoauctionshifts",
   "niftybouncesbacktobeatallofasiaonforeignflowsearnings",
-  "anthropicfeverfuelsraceamongetfissuerstoofferpreipoexposure",
   "spacexistheposterchildofthisairotation",
-  "usmidtermscametoolatetopreventbankofenglandratehike",
   "wallstreettradingdesksbetonusstockrallyaftermidterms",
   "micronpausesworkon45billiontaiwanplantafterlaborspat",
+  "chipsselloffworsensasfearsaboutaitradegripstockmarket",
   "teslasharestumbleagainindeepeningpostelectionslump",
   "trumplinkedtokensaidatacenterstockssufferonbluewave",
   "sonyneedsmorethangtaandspidermantoliftstockfurther",
-  "indonesiakicksofffirstdollarbondsalesincemscifallout",
   "watchdesbishoponchinascomedyboomandcensorship",
+  "indonesiakicksofffirstdollarbondsalesincemscifallout",
   "upbeatearningsbolstercaseforindiastocksasasiawavers",
+  "bluewavedemocratssweeptheusmidtermsmarketoutlook",
   "investingliveamericasfxnewswrap5novnasdaq100plunges636asaiselloffspreads",
   "nasdaq100suffersworstdaysince2020",
   "magnificent7whatarethetechnicalstellingtradersforeachofthosecompanieshim",
@@ -1183,12 +1184,12 @@
   "whatcouldstopthefedraisingratesindecember",
   "bankofenglandraisesthebankrateto400asexpectedina9",
   "nasdaqfuturesreboundnearly280pointsbutbuyersnowfaceacrucialtest",
+  "sampp500tumblesmostsinceapril2025onaifearsmarketswrap",
   "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
   "solanaralliesasrepublicansmidtermlossraiseshopesofus",
   "oilpricestumbleasrepublicansmidtermlosssparksbetsoniranwarexittrumpstillhasthefinalsay",
   "worldsharesadvanceasdemocratsvictoryeasespoliticaluncertainty",
   "priceshockisboonforoilstockscurseforrenewables",
-  "bluewavedemocratssweeptheusmidtermsmarketoutlook",
   "nasdaqsettoconfirmcorrectionasaistockstumblebyreuters",
   "microsoftdeclinesoptiontoexpandtexasdatacenterdealwithnscalesourcesays",
   "usequityfuturesinchhigherasinvestorsawaitmidtermresults",
@@ -1608,7 +1609,6 @@
   "airelateddebtbingemaypressureeuropeanbondmarkets",
   "uzbekistanmakesnogoldsalesinseptember",
   "thecryptomogulbehindtradingpowerhousehyperliquid",
-  "stockfuturesriseonairecoveryasusvotesmarketswrap",
-  "stockswobbleasinvestorswatchusmidtermelections"
+  "stockfuturesriseonairecoveryasusvotesmarketswrap"
  ]
 }
