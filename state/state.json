@@ -745,17 +745,9 @@
     "previous": "46.1"
    },
    {
-    "title": "PPI m/m",
-    "country": "EUR",
-    "date": "2026-11-05T05:00:00-05:00",
-    "impact": "Low",
-    "forecast": "2.5%",
-    "previous": "1.9%"
-   },
-   {
     "title": "Spanish 10-y Bond Auction",
     "country": "EUR",
-    "date": "2026-11-05T05:03:00-05:00",
+    "date": "2026-11-05T04:39:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": "4.18|1.6"
@@ -763,10 +755,18 @@
    {
     "title": "French 10-y Bond Auction",
     "country": "EUR",
-    "date": "2026-11-05T05:18:00-05:00",
+    "date": "2026-11-05T04:55:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": "4.93|2.0"
+   },
+   {
+    "title": "PPI m/m",
+    "country": "EUR",
+    "date": "2026-11-05T05:00:00-05:00",
+    "impact": "Low",
+    "forecast": "2.5%",
+    "previous": "1.9%"
    },
    {
     "title": "Challenger Job Cuts y/y",
@@ -1089,7 +1089,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-05T19:41:30.775494+09:00",
+  "cache_at": "2026-11-05T19:49:34.038463+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1115,8 +1115,8 @@
   "commentarywarmasianwintercouldeaseeuropeslngsqueeze",
   "commentaryasiahopesdemocratscanproviderelieffromtrumpsiranwartariffs",
   "canadastradesurpluswidenstomorethanfouryearhighinseptember",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "indiainfinalstagetalkstoexpandmissilesaletophilippinessourcessay",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "commentarymiddleeasttopayfortrumpsmidtermrout",
   "commentarysurgein2028uspresidentialbetsreframesmarketsaftermidterms",
   "ammoniamakeragfnitrogenweighsshutdownsduetogascostsdemandslumpceosays",
@@ -1131,9 +1131,9 @@
   "dollardeclinesafterdemocratstakeuscongressinmidtermelections",
   "analysishowasecretfeudignitedxijinpingsgovernancedrive",
   "selltherumorbuythenewstheaipolicybottom",
-  "oilslumpsaftermidtermelectionrebuketotrumpraisesbetsoniranwarexitmoneynews",
   "brentcrudeoilpriceaftertheusmidtermswhybrentfelltowards9350",
   "aiboomdrawschipsupplyfromotherendmarketssiltronicceosays",
+  "northkoreasaysittestedairdefencemissilestagedcruisemissiledrillasianews",
   "stockrotationrollsonaschipmakersretreatmarketswrap",
   "oilextendsslideafterplunging8onhopestoendusiranwar",
   "goldholdsabove4000asdollaryieldsfallonmidtermresult",
@@ -1150,11 +1150,11 @@
   "usequityfuturesinchhigherasinvestorsawaitmidtermresults",
   "sonyneedsmorethangtaandspidermantoliftstockfurther",
   "elniñohasgastradersbracingforthewarmestuswinterever",
-  "ifcs22billionafricapushrunsupagainstshallowmarkets",
   "koreatointroducecornerstonelockupstocurbpostiposelloffs",
+  "ifcs22billionafricapushrunsupagainstshallowmarkets",
   "stocksandbondsrisedollarslidesafterusvotemarketswrap",
-  "philippineinflationsurgesto78boostingcaseforratehike",
   "aidatacenterboomsetforupheavalafteruselectionrout",
+  "novemberthesetupimproves",
   "uaemullsthirdcrudeoilpipelinetoavoidstraitofhormuz",
   "insighthowthegreatgascrisisof2030willplayout",
   "asianstocksfallasdemocraticgainsinusaddtoaiworries",
@@ -1185,10 +1185,12 @@
   "pbocisexpectedtosettheusdcnyreferencerateat66783reutersestimate",
   "bojminutesboardbackedfurtherhikesflagged50oilsurgeasgovernmenturgedcaution",
   "astrazenecamakes10billionofferforobesitydrugmakerrhythmwsjreports",
-  "whydidshopifynasdaqshopzebratechnologiesnasdaqzbrathomsonreutersnasdaqtriandsysconysesyyeachdropabout9onnovember3",
-  "democratswinthe2026usmidtermswhatitmeansformarkets",
-  "midtermsshockerwillreverberatethroughtheenergyindustry",
   "midtermsmarketsgreenenergystockswinoilandaisharesslide",
+  "democratswinthe2026usmidtermswhatitmeansformarkets",
+  "oilslumpsaftermidtermelectionrebuketotrumpraisesbetsoniranwarexitmoneynews",
+  "philippineinflationsurgesto78boostingcaseforratehike",
+  "whydidshopifynasdaqshopzebratechnologiesnasdaqzbrathomsonreutersnasdaqtriandsysconysesyyeachdropabout9onnovember3",
+  "midtermsshockerwillreverberatethroughtheenergyindustry",
   "democratswinrattlestrumptradesfromaistockstocrypto",
   "asianstockstoriseasoilslidesafterusvotemarketswrap",
   "impeachmentthreatsiranwarampendofmagawhatsnextfordonaldtrumpaftermidtermsdisaster",
@@ -1235,7 +1237,6 @@
   "investingliveamericasmarketnewswrapoilcrushedasrepublicansblamewarforloss",
   "nzdusdbuyersdefendthefloorcantheybreaktheceiling",
   "ustweaksdebtsalesguidanceopeningwaytoauctionshifts",
-  "northkoreasaysittestedairdefencemissilestagedcruisemissiledrillasianews",
   "newsletterglp1drugshelpcontrolprediabetesbetterthancurrentstandardmedicine",
   "trumplinkedtokensaidatacenterstockssufferonbluewave",
   "stockmarketgainsareweakestaftermidtermresultslikethese",
@@ -1607,7 +1608,6 @@
   "solanaremainsunderpressureasmarketsweighusirantalksfedrisksandusmidtermelections",
   "crudeoiltrimslossesasusstrikesiransqeshmislandwhileciadirectorcallsforcontinuedeconomicpressure",
   "threewarningsignsthetechselloffisntoveraswallstreetsentimenthangsbyathread",
-  "nvidiaandotherbigtechstockslifttheusmarketdespitedropsforappleandmuchofwallstreet",
-  "treasuryyieldsextendpastmonthsslideasoilpricesdrop"
+  "nvidiaandotherbigtechstockslifttheusmarketdespitedropsforappleandmuchofwallstreet"
  ]
 }
