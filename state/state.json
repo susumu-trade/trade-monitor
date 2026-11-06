@@ -169,7 +169,9 @@
    "USD|Unemployment Claims|2026-11-05T08:30:00-05:00",
    "USD|Average Hourly Earnings m/m|2026-11-06T08:30:00-05:00",
    "USD|Non-Farm Employment Change|2026-11-06T08:30:00-05:00",
-   "USD|Unemployment Rate|2026-11-06T08:30:00-05:00"
+   "USD|Unemployment Rate|2026-11-06T08:30:00-05:00",
+   "USD|Prelim UoM Consumer Sentiment|2026-11-06T10:00:00-05:00",
+   "USD|Prelim UoM Inflation Expectations|2026-11-06T10:00:00-05:00"
   ],
   "cache": [
    {
@@ -1077,6 +1079,14 @@
     "previous": ""
    },
    {
+    "title": "FOMC Member Daly Speaks",
+    "country": "USD",
+    "date": "2026-11-06T13:00:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
     "title": "Consumer Credit m/m",
     "country": "USD",
     "date": "2026-11-06T15:00:00-05:00",
@@ -1093,7 +1103,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-06T23:35:12.774681+09:00",
+  "cache_at": "2026-11-06T23:47:18.251189+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1116,7 +1126,6 @@
   "ashighoilpricescurbdemandfreshsignsofglutappear",
   "equinorpreparestofixvisundgasoilplatformafterfire",
   "trumpsignsordertomakegolddecoratedovalofficeanationalmonumentvideo",
-  "nasdaqpostsbiggestdailydropin19monthsonfearsofairegulationsbyreuters",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "oilpricesheadforsharpweeklydeclineamidmiddleeastsupplyconcerns",
   "nasdaqfuturesriseaftersteepaiselloffaschipstocksgainground",
@@ -1124,8 +1133,9 @@
   "commentarywashingtonresetmarketmeltdownandtheiranoilbetthefinancialweekinfivecharts",
   "tomatoexportstoafricanmarketsagainsuspendedbymoroccotolowerdomesticprices",
   "unitytakeovertalks25bsilverlakepif2026",
+  "nasdaqpostsbiggestdailydropin19monthsonfearsofairegulationsbyreuters",
+  "canusstocksreboundafternonfarmpayrollscommunityinsightsampmarketsentimentbinancesquare",
   "adnocsigns10yearlngsupplyagreementwithindiasgujaratenergy",
-  "japaneseinvestorssnapupforeignlongtermbondsastechstocksslide",
   "conocophillipsboostsdividendafterbeatingestimatesonhigheroilprices",
   "binancehackpromptedusregulatorstocheckinonbanksystemssourcessay",
   "teslatopulltheplugoncybertruckafteryearsofpoorsales",
@@ -1133,12 +1143,12 @@
   "tcenergytounveilngtlexpansionplanindecemberceosays",
   "spacexteslaextendlossesasmidtermresultsclouddatacentermergeroutlook",
   "elonmusksbusinessempirebracesfordemocraticwaveastexasflipsblue",
-  "canusstocksreboundafternonfarmpayrollscommunityinsightsampmarketsentimentbinancesquare",
   "kazakhstanplanstoboostoilsuppliesviabakutbilisiceyhanpipeline",
   "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
   "videonasdaqsinkstrumpfacesgopbacklashaftermidtermsreutersworldnews",
   "asiastockscrumbleafterairoutrocksusmarketsmoneynews",
   "asiafueloilbenchmarksslumpasmarketpricesinpotentialiranwardeescalationmoneynews",
+  "unityintakeovertalkswithsilverlakeandsaudiarabiaspif",
   "marriagerateinchinafallsto18yearlow",
   "aihastakenovereverycornerofthemarket",
   "oilextendsreboundonuncertaintyoveriranwarpeaceprogress",
@@ -1152,16 +1162,16 @@
   "hedgefundadviserlbmacroseesusmidtermsboostingthedollar",
   "oilsplungebelow100doesntmeanmarketsareoutofjeopardy",
   "wallstreetsscriptgetsflippedbypostelectionrout",
+  "aiunwindsuddenlymakeseuropeagototradeforinvestors",
   "goldsetforbiggestweeklygainsinceaugustafterusmidterms",
-  "globalstockselloffcontinuesasmarketsplummetonmidterms",
-  "oildeclinesonsignsofmovestowardgulfwardeescalation",
   "bofaspironseeswontaiwandollarasbuysafterairout",
+  "globalstockselloffcontinuesasmarketsplummetonmidterms",
   "ustreasurytradersmakebullishbetsaheadofjobsreport",
   "antiaitradeturnsindianequitiesintoasiasbrightspot",
   "thecaseforayearendusstocksrally",
   "anthropicfeverfuelsraceamongetfissuerstoofferpreipoexposure",
-  "alphabetssearchdominanceisatriskfromitsownaisuccess",
   "usmarketpulsenovember2026",
+  "spacexistheposterchildofthisairotation",
   "baileysayssecondboehikemorelikelythannotifwargoeson",
   "usmidtermscametoolatetopreventbankofenglandratehike",
   "teslasharestumbleagainindeepeningpostelectionslump",
@@ -1191,9 +1201,12 @@
   "themarketiswaitingforsignalsfromdonaldtrump",
   "europecloseaiandchipliquidationdragsequitieslowerinusbuteuropeismixed",
   "audusdsellershavepushedtothelowestlevelsincemid",
+  "japaneseinvestorssnapupforeignlongtermbondsastechstocksslide",
+  "insideetfsdontabandonbondsjustyet",
+  "oildeclinesonsignsofmovestowardgulfwardeescalation",
+  "alphabetssearchdominanceisatriskfromitsownaisuccess",
   "nasdaqfuturesriseaftersteepaiselloffaschipstocksstabilizebyreuters",
   "fedshammackbarkinfavorgradualratehikepathtolowerinflation",
-  "spacexistheposterchildofthisairotation",
   "sandozstockoutlooknarrowsasmargintargetrisesadhoc",
   "oilcracksarebeginningtofallandrefineriesarepointingtomorenormalization",
   "bitcoinfallswithriskoffsentimentthepriceistestingakeyswingareatarget",
@@ -1609,9 +1622,6 @@
   "uslawmakersinletterquestionmcdonaldsceoaboutalgorithmicpricingpractices",
   "nasdaqendshigherasaiheavyweightsreboundaheadofmidtermresults",
   "binancesayshackersusedfakejobinterviewtobreachcomputerbefore63billionattack",
-  "thomsonreuterspostshigherq3revenuelifts2026forecast",
-  "indianrefinerbpclbuysuswticrudeoilcargo",
-  "indiasmiddleclassspendingboomcomeswithgrowingdebtbill",
-  "valmoresaysunitalexfertproductioncontinuesbasedonavailablegassupply"
+  "thomsonreuterspostshigherq3revenuelifts2026forecast"
  ]
 }
