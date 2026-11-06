@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-11-06",
+  "last_digest": "2026-11-07",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -1103,7 +1103,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-07T06:48:51.774542+09:00",
+  "cache_at": "2026-11-07T07:00:57.855118+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1125,25 +1125,24 @@
  "news_seen2": [
   "enbridgeexpressesinterestinbuildingpipelineforcanadaspathwayscarboncapturenetwork",
   "newsletternewbloodtestmatchesgoldstandardforliverdiseasediagnosis",
+  "nasdaqreboundsbutpostsfourthstraightweeklydeclinebyreuters",
+  "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
+  "trumpsignsordertomakeovalofficeanationalmonumentvideo",
+  "oilpricesheadforsharpweeklydeclineamidmiddleeastsupplyconcerns",
+  "underarmourwarnsofbiggermiddleeasthitcutsannualgrossmargingrowthtarget",
+  "tomatoexportstoafricanmarketsagainsuspendedbymoroccotolowerdomesticprices",
+  "nasdaqfuturesriseaftersteepaiselloffaschipstocksgainground",
+  "lngsupplytoindiaexpandedatadnocwithgujaratenergyfor10years",
   "viewstrongoctoberjobsreportsendsyieldshigher",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "ashighoilpricescurbdemandfreshsignsofglutappear",
   "brentoilpricebenchmarksetforbiggestweeklydropsince2020",
   "equinorpreparestofixvisundgasoilplatformafterfire",
   "commentarywashingtonresetmarketmeltdownandtheiranoilbetthefinancialweekinfivecharts",
   "marketsfretovergrowthandinflationjustastechroutgainsspeed",
-  "underarmourwarnsofbiggermiddleeasthitcutsannualgrossmargingrowthtarget",
   "adnocsigns10yearlngsupplyagreementwithindiasgujaratenergy",
   "teslatopulltheplugoncybertruckafteryearsofpoorsales",
-  "trumpmediasinvestorslost22billionwhiletrumpholds460millionstake",
   "usmidtermresultsinmapsandcharts",
-  "teslatowinddowncybertruckproductionafteryearsofpoorsalesinfewmarkets",
-  "trumpsignsordertomakeovalofficeanationalmonumentvideo",
-  "oilpricesheadforsharpweeklydeclineamidmiddleeastsupplyconcerns",
-  "unitycouldbethenextgaminggiantacquiredbysaudiarabiapifconsortiumfollowing55billioneabuyout",
-  "tomatoexportstoafricanmarketsagainsuspendedbymoroccotolowerdomesticprices",
-  "nasdaqfuturesriseaftersteepaiselloffaschipstocksgainground",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "lngsupplytoindiaexpandedatadnocwithgujaratenergyfor10years",
   "usjobsreportprevieweconomistsexpect65000octoberpayrollsasstockslookfordirectionafterairebound",
   "moroccotemporarilysuspendstomatoexportstoafricanmarketsamiddomesticpricecrisis",
   "asiastockscrumbleafterairoutrocksusmarketsmoneynews",
@@ -1151,8 +1150,8 @@
   "unityintakeovertalkswithsilverlakeandsaudiarabiaspif",
   "marriagerateinchinafallsto18yearlow",
   "usstockroutpausesasdipbuyersoffersupportmarketswrap",
-  "oilextendsreboundonuncertaintyoveriranwarpeaceprogress",
   "aihastakenovereverycornerofthemarket",
+  "oilextendsreboundonuncertaintyoveriranwarpeaceprogress",
   "oilsplungebelow100doesntmeanmarketsareoutofjeopardy",
   "wallstreettraderswrongfootedafterbullishequitycalls",
   "aiselloffdrivesasianstockmarketstofreshgrimmilestones",
@@ -1201,12 +1200,15 @@
   "eurozoneretailsalesfall07inseptembersignallingweakeningconsumerdemand",
   "riskoffwavehitsbitcoinastechstocksleadglobalselloffwhatsnext",
   "fedswilliamssaysuseconomyremainsresilientappropriatetimetogathermoreinformation",
+  "nasdaqreboundsaschipsstocksrecoverfromsteeplossesbyreuters",
+  "unitycouldbethenextgaminggiantacquiredbysaudiarabiapifconsortiumfollowing55billioneabuyout",
+  "trumpmediasinvestorslost22billionwhiletrumpholds460millionstake",
+  "teslatowinddowncybertruckproductionafteryearsofpoorsalesinfewmarkets",
   "insideetfsdontabandonbondsjustyet",
   "teslasharestumbleagainindeepeningpostelectionslump",
   "binancehackpromptedusregulatorstocheckinonbanksystemssourcessay",
   "usstockfuturesdivergeaschipselloffextendsintosecondday",
   "nasdaqpostsbiggestdailydropin19monthsonfearsofairegulationsbyreuters",
-  "nasdaqreboundsaschipsstocksrecoverfromsteeplossesbyreuters",
   "investorsdiveforbondsastechslumppoundsstocksbyreuters",
   "newmontstockbreaksoutofatwomonthdowntrendbutbuyershaveatesttopass",
   "howmuchdoesitcosttolosethesenatemorethan1billion",
@@ -1324,7 +1326,6 @@
   "microsoftdeclinesoptiontoexpandtexasdatacenterdealwithnscalesourcesayseuronextmarketsreal",
   "microsoftdeclinesoptiontoexpandtexasdatacenterdealwithnscalesourcesays",
   "bankofenglandunanimouslyhikesratessees49inflation",
-  "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
   "wheatclimbsasweakrussianexportoutlookfanssupplyconcerns",
   "howmuskplanstoshakeuptheuswirelessindustry",
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
@@ -1621,7 +1622,6 @@
   "indiasbondmarketpuzzleisatestofcredibility",
   "canadascarneysaysushaslowereditsdemandsintradetalks",
   "watchstocksbouncebackaswallstreetawaitsmidtermelectionresults",
-  "abluetsunamicrashesdownondonaldtrump",
-  "howthemidtermscouldreshapetrumpssecondterm"
+  "abluetsunamicrashesdownondonaldtrump"
  ]
 }
