@@ -1103,7 +1103,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-07T13:39:33.501112+09:00",
+  "cache_at": "2026-11-07T13:51:39.963551+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1125,14 +1125,7 @@
  "news_seen2": [
   "enbridgeexpressesinterestinbuildingpipelineforcanadaspathwayscarboncapturenetwork",
   "newsletternewbloodtestmatchesgoldstandardforliverdiseasediagnosis",
-  "nasdaqreboundsbutpostsfourthstraightweeklydeclinebyreuters",
-  "trumpsignsordertomakeovalofficeanationalmonumentvideo",
-  "teslatowinddowncybertruckproductionafteryearsofpoorsalesinfewmarkets",
-  "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
-  "nasdaqfuturesriseaftersteepaiselloffaschipstocksgainground",
-  "oilpricesheadforsharpweeklydeclineamidmiddleeastsupplyconcerns",
   "underarmourwarnsofbiggermiddleeasthitcutsannualgrossmargingrowthtarget",
-  "lngsupplytoindiaexpandedatadnocwithgujaratenergyfor10years",
   "equinorpreparestofixvisundgasoilplatformafterfire",
   "viewstrongoctoberjobsreportsendsyieldshigher",
   "commentarywashingtonresetmarketmeltdownandtheiranoilbetthefinancialweekinfivecharts",
@@ -1143,11 +1136,18 @@
   "teslatopulltheplugoncybertruckafteryearsofpoorsales",
   "adnocsigns10yearlngsupplyagreementwithindiasgujaratenergy",
   "imfsgeorgievasaysanyslowdowninaidrivengrowthwouldbefactorforcentralbanks",
+  "howmuchdoesitcosttolosethesenatemorethan1billion",
+  "nasdaqreboundsbutpostsfourthstraightweeklydeclinebyreuters",
+  "trumpsignsordertomakeovalofficeanationalmonumentvideo",
+  "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
+  "nasdaqfuturesriseaftersteepaiselloffaschipstocksgainground",
+  "oilpricesheadforsharpweeklydeclineamidmiddleeastsupplyconcerns",
+  "lngsupplytoindiaexpandedatadnocwithgujaratenergyfor10years",
   "usjobsreportprevieweconomistsexpect65000octoberpayrollsasstockslookfordirectionafterairebound",
   "canusstocksreboundafternonfarmpayrollscommunityinsightsampmarketsentimentbinancesquare",
   "saudiarabiaspifandsilverlakewanttobuygameengineunityonwhichparalivesisbuilt",
+  "globalsharesskidafteraiworriessendwallstreettumbling",
   "columntinpricehitbyaistockroutdespitephysicalmarkettightness",
-  "sandozstockoutlooknarrowsasmargintargetrisesadhoc",
   "judgeblockstrumps250ftarchashemovestoprotectgoldcoveredovaloffice",
   "unityintakeovertalkswithsilverlakeandsaudiarabiaspif",
   "saudiarabiaswealthfundpifandsilverlakereportedlyintalkstobuyunityfor25billion",
@@ -1166,8 +1166,8 @@
   "indiashouldscrapequitytaxonforeignerssaysedelweisshead",
   "aistocksreboundasinvestorsweighwhetherselloffisover",
   "todaysagooddaytothinkaboutthemechanicsofmarkets",
-  "chinaextendsgoldbuyingstreaktotwoyearsaspricesdrop",
   "aiunwindsuddenlymakeseuropeagototradeforinvestors",
+  "chinaextendsgoldbuyingstreaktotwoyearsaspricesdrop",
   "bofaspironseeswontaiwandollarasbuysafterairout",
   "watchusjobsdatafacesmarketuncertainty",
   "antiaitradeturnsindianequitiesintoasiasbrightspot",
@@ -1203,10 +1203,11 @@
   "zcashresistscryptomarketselloffasnetworkupgradegoeslivewhatsnext",
   "usiranuncertaintykeepsthedownsideinoillimitedasmarketsawaitfurtherdevelopments",
   "eurozoneretailsalesfall07inseptembersignallingweakeningconsumerdemand",
+  "teslatowinddowncybertruckproductionafteryearsofpoorsalesinfewmarkets",
+  "sandozstockoutlooknarrowsasmargintargetrisesadhoc",
   "ustreasuriesstumbleasstronglabormarketliftsfedhikebets",
   "extremenetworksexploringsaleafterbuyoutinterestreutersreports",
   "tanzanianoppositionleaderclearedoftreasonsentencedforincitement",
-  "howmuchdoesitcosttolosethesenatemorethan1billion",
   "iranssecuritychiefdiscussesregionalbilateralaffairswithputinasianews",
   "spacexistheposterchildofthisairotation",
   "crudegainsonworriesaboutrenewedusattacksoniran",
@@ -1621,7 +1622,6 @@
   "oiltouchestwoweekhighafterdroneattackonuaenuclearpowerplant",
   "usmidtermelectionstophousedemocratvowstogoafterthoseenrichingthemselves",
   "dronesattackiraniankurdishoppositioniniraqssulaymaniyahandeasterbilsourcessayasianews",
-  "oilpriceedgesdownasinvestorsawaitusmidtermelectionresults",
-  "occissuesguidanceforexaminersonprobingbanksaiusagereuterssays"
+  "oilpriceedgesdownasinvestorsawaitusmidtermelectionresults"
  ]
 }
