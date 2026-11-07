@@ -1103,7 +1103,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-08T05:18:15.923623+09:00",
+  "cache_at": "2026-11-08T05:30:20.594233+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1123,6 +1123,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "berkshirehathawayspeedsupstockbuybacksthoughprofitfalls",
   "pakistaniastronauttojoinchinaspacestationsshenzhou24mission",
   "usmidtermresultsinmapsandcharts",
   "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
@@ -1141,7 +1142,6 @@
   "openaigets11billionfundingat125trillionvaluationsourcesays",
   "uslabormarketregainsgroundasjobgrowthsurgesunemploymentratefallsto41",
   "thomasmarklefatherofmeghanchargedwithpossessionofchildsexualabusephotos",
-  "europeantvnetworksreceivebombthreatemailsfrommikhailandropovanameechoingthelatesovietleader",
   "putinunleashesballisticmissilebarrageonkyivasschoolampbridgeblitzed",
   "taskforceirongateussnewplantoexpandpressureoniranhereshowitwillwork",
   "trumplaunchesnewiranblitzafterusissues20mforinfoonnukeprogram",
@@ -1192,6 +1192,7 @@
   "investingliveeuropeannewswrapmarketsconsolidateaheadoftheusnfpreport",
   "zcashresistscryptomarketselloffasnetworkupgradegoeslivewhatsnext",
   "usiranuncertaintykeepsthedownsideinoillimitedasmarketsawaitfurtherdevelopments",
+  "europeantvnetworksreceivebombthreatemailsfrommikhailandropovanameechoingthelatesovietleader",
   "videosusiewilesreplacedtechstocksreboundcybertruckwinddownreutersworldnews",
   "optionsmarketshavebusiestdayeveronnovember5bloombergsays",
   "soaringfreightratesgiveusrefinersedgeascrudediscountswiden",
@@ -1621,7 +1622,6 @@
   "eurozoneinflationhits4forfirsttimesince2023pilingpressureonecb",
   "bitcoinwhipsawsafterdemocratsvictoryaslowertreasuryyieldsandusdollarprovidesupport",
   "europeanstocksreboundintheopeninghourasusfutureserasesteepearlylosses",
-  "democratstrumpfaceoffafterelectionsaswashingtonheadsfordividedgovernment",
-  "goldholdsbiggestjumpintwomonthsoniranpeacedealhopes"
+  "democratstrumpfaceoffafterelectionsaswashingtonheadsfordividedgovernment"
  ]
 }
