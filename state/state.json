@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-11-08",
+  "last_digest": "2026-11-09",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -983,7 +983,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-09T06:54:52.798256+09:00",
+  "cache_at": "2026-11-09T07:02:55.728461+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1012,7 +1012,6 @@
   "saudicivildefencegivesallclearafteralertsineasternprovince",
   "houthiattackdamagesaramcobuildinginriyadhsfinancialdistrict",
   "houthiattackdamagesaramcobuildinginriyadhsfinancialdistrictbyreuters",
-  "africascorporatedebtmarketstoosmalltomatchcontinentsneedsoecd",
   "hasaramcobeenattackedbeforeyesandin2019astrikecutsaudioiloutputbymorethanhalf",
   "indiansharesconsolidateindiwalisessionaftersevendayrally",
   "frenchriotersdefybanasthousandsflocktostreetsampclashwithcops",
@@ -1022,6 +1021,7 @@
   "blackstonerealestateseeksreboundfromshockexitsandlosses",
   "wallstreetracesformegadealsascountdownbeginsontrumpera",
   "indianstockssnapdiwaliwinstreakinfirstdropsince2017",
+  "chinasbaddebtcollectorschaseafter100milliondefaulters",
   "watchbythewayheadlinesyoumayhavemissed",
   "cleanpowerwonnowcomesthehardpart",
   "watchcaneuropeafforditswelfarestate",
@@ -1029,16 +1029,19 @@
   "usinflationsettosimmerdownsomeafterrecentpickup",
   "ripplesfromtheusbluewavearecomingforasianshores",
   "bruisingelectionresultmaypushnzrulingpartyfurtherright",
-  "watchmarketsbraceforwashingtonpolicybattles",
   "euclosetodealtolinkukcarbonmarketafterbrexitsplit",
-  "watchasiamarketsbraceformoreaivolatility",
+  "watchmarketsbraceforwashingtonpolicybattles",
   "aramcosriyadhofficesufferslimiteddamageafterattack",
+  "watchasiamarketsbraceformoreaivolatility",
   "whattowatchatcop31asmidtermsbrazildeliverclimateboost",
   "watchukrainepeacepushreturnstoabudhabi",
   "anthropicsecures34bgaspowerdealtofuelaidatacentersipovaluationdropsto12t",
   "billionairesindex",
-  "newzealandelectionresultsrightleaningbloctakesleadevenasvoterspunishthetoptwoparties",
   "netanyahuouteisenkotgetschancetoformisraeligovernmentaftertightvote",
+  "nzdfirmsinearlyasiaasnewzealandfacesweeksofpoliticallimbo",
+  "suspectediraniandronestrikehaltsiraqgasfieldcutstwothirdsofkurdistanpower",
+  "weekendtrumpsaysnewiranstrikeshighlyunlikelyfivetimesbutthreecarriersstayready",
+  "threerisksfornvidiasharesafterhuangadmitsaffairwithsuspectedchinesespy",
   "wtioilpriceoutlookaftera175slidecanbuyersreclaim9253",
   "goldanalysisbuyerskeepdefending4040is4140thenexttarget",
   "investingliveamericasmarketnewswrapnon",
@@ -1060,10 +1063,12 @@
   "usoctobernon",
   "canadaemploymentchangeforoctober47kvs136kestimateunemploymentrate67",
   "morningkickstartnasdaqfuturesreboundafterroutasusandcanadianjobsreportsloom",
+  "newzealandelectionresultsrightleaningbloctakesleadevenasvoterspunishthetoptwoparties",
   "boespillnorepeatof2022hikingcycleasgrowthriskscouldkeepratesonhold",
   "whatisthedistributionofforecastsfortheusnfp",
   "investingliveeuropeannewswrapmarketsconsolidateaheadoftheusnfpreport",
   "zcashresistscryptomarketselloffasnetworkupgradegoeslivewhatsnext",
+  "africascorporatedebtmarketstoosmalltomatchcontinentsneedsoecd",
   "whichaichatbotshavethehighestemissionshereswhatweknow",
   "usdriversarestayingawayfrompremiumgasduetohighprices",
   "euuknearpostbrexitcarbonmarketlinkagedealbloomberg",
@@ -1497,11 +1502,6 @@
   "japanservicespmiedgesupto517butcompositeslipstofive",
   "pbocsetsusdcnyreferenceratefortodayat67156vsestimateat66783",
   "pbocisexpectedtosettheusdcnyreferencerateat66783reutersestimate",
-  "democratelsayedwinsmichigansenateraceddhqprojects",
-  "impeachmentthreatsiranwarampendofmagawhatsnextfordonaldtrumpaftermidtermsdisaster",
-  "ammoniamakeragfnitrogenweighsshutdownsduetogascostsdemandslumpceosays",
-  "northkoreasaysittestedairdefencemissilestagedcruisemissiledrillasianews",
-  "stockbullsaregladthiselectionisfinallyover",
-  "bojminutesboardbackedfurtherhikesflagged50oilsurgeasgovernmenturgedcaution"
+  "democratelsayedwinsmichigansenateraceddhqprojects"
  ]
 }
