@@ -983,7 +983,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-09T04:33:58.563057+09:00",
+  "cache_at": "2026-11-09T04:42:01.614132+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1004,8 +1004,8 @@
  },
  "news_seen2": [
   "anthropicsecures34billiongeneratordealforaidatacentersftreports",
-  "saudiaramcobuildinginriyadhdamagedbyfallingdebrisafterattemptedattackministrysays",
   "saudicivildefencegivesallclearafteralertsineasternprovince",
+  "saudiaramcobuildinginriyadhdamagedbyfallingdebrisafterattemptedattackministrysays",
   "theusisexpandingitsblockadeofirantoincludelandtraderoutes",
   "gulfmarketsretreatastradersawaittrumpsnextmoveoniran",
   "houthiattackdamagesaramcobuildinginriyadhsfinancialdistrict",
@@ -1017,6 +1017,7 @@
   "indianstockssnapdiwaliwinstreakinfirstdropsince2017",
   "democraticsweepteststrumplinkedtradesacrosslatinamerica",
   "ripplesfromtheusbluewavearecomingforasianshores",
+  "watchcaneuropeafforditswelfarestate",
   "usinflationsettosimmerdownsomeafterrecentpickup",
   "bruisingelectionresultmaypushnzrulingpartyfurtherright",
   "watchasiamarketsbraceformoreaivolatility",
@@ -1031,7 +1032,6 @@
   "anthropicsecures34bgaspowerdealtofuelaidatacentersipovaluationdropsto12t",
   "billionairesindex",
   "coreweaveaskstexasgovernorelectfordatacentercooperation",
-  "usdriversarestayingawayfrompremiumgasduetohighprices",
   "euuknearpostbrexitcarbonmarketlinkagedealbloomberg",
   "newzealandelectionresultsrightleaningbloctakesleadevenasvoterspunishthetoptwoparties",
   "netanyahuouteisenkotgetschancetoformisraeligovernmentaftertightvote",
@@ -1061,6 +1061,7 @@
   "investingliveeuropeannewswrapmarketsconsolidateaheadoftheusnfpreport",
   "zcashresistscryptomarketselloffasnetworkupgradegoeslivewhatsnext",
   "africascorporatedebtmarketstoosmalltomatchcontinentsneedsoecd",
+  "usdriversarestayingawayfrompremiumgasduetohighprices",
   "houthirunhealthministrysaysairstrikeskill33nearyemencapitalasianews",
   "shelloffloadsaustralianshelfstakefor145billionasbuybackandlngdealsrollonadhoc",
   "subaruandtoyotapickedtheperfecttimetorolloutaffordableevs",
@@ -1501,7 +1502,6 @@
   "japanfuturessteadyastradersweighoilslideagainsttightsupply",
   "goldhitsatwoweekhighasdollartreasuryyieldseaseafterusmidtermelections",
   "europeansharesjumpover1afterdemocratssweepuscongressnovonordisksurges",
-  "democratsflexcongressionalmajoritiesastrumpacceptselectorallosses",
-  "oilpricesriseamiduncertaintyoveriranwar"
+  "democratsflexcongressionalmajoritiesastrumpacceptselectorallosses"
  ]
 }
