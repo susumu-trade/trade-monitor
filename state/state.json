@@ -983,7 +983,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-08T15:44:49.489920+09:00",
+  "cache_at": "2026-11-08T15:56:53.930788+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1003,16 +1003,15 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "saudicivildefencegivesallclearafteralertsineasternprovince",
   "berkshirehathawayspeedsupstockbuybacksthoughprofitfalls",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "jampjsoncedailypilleasespsoriaticarthritissymptomsinlatestagetrial",
   "chinawinswomenstrampolineteamgoldasbelarusclaimsmenstitleatworldchampionships",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
   "russiacutsoiloutputinaprilsourcessay",
-  "syriadeniesplanstosendtroopstoyemenassaudimilitarytiesdeepen",
+  "jampjsoncedailypilleasespsoriaticarthritissymptomsinlatestagetrial",
   "globaloilsupplytoplungebelowdemandthisyearduetoiranwarieasays",
   "saudicivildefencesoundsallclearafteralertsinsoutherncitiesasianews",
-  "shelloffloadsaustralianshelfstakefor145billionasbuybackandlngdealsrollonadhoc",
   "angryfrenchriotersdefyprotestbanasthousandsflocktothestreetsandclashwithcopsinfourthweekendofchaos",
   "taskforceirongateussnewplantoexpandpressureoniranhereshowitwillwork",
   "putinunleashesballisticmissilebarrageonkyivasschoolampbridgeblitzed",
@@ -1068,6 +1067,8 @@
   "investingliveeuropeannewswrapmarketsconsolidateaheadoftheusnfpreport",
   "zcashresistscryptomarketselloffasnetworkupgradegoeslivewhatsnext",
   "usiranuncertaintykeepsthedownsideinoillimitedasmarketsawaitfurtherdevelopments",
+  "shelloffloadsaustralianshelfstakefor145billionasbuybackandlngdealsrollonadhoc",
+  "syriadeniesplanstosendtroopstoyemenassaudimilitarytiesdeepen",
   "usdriversarestayingawayfrompremiumgasduetohighprices",
   "eiahigherblendingtargetsdriverinpricesclosetorecordhighs",
   "aftermidtermroutvancetriestobuildhisown2028brand",
@@ -1501,7 +1502,6 @@
   "themarketismakingabigbetonendingtheiranwar",
   "goldistakingitcluefromtheusdandyieldsmovinglowertechnicalsarealsogivingthebuyersapush",
   "oilslumpsaftermidtermelectionrebuketotrumpraisesbetsoniranwarexit",
-  "exclusivechinesechipmakerymtcputsipoonholdasweakermarketsweighsourcessay",
-  "stockswobbleasinvestorswatchusmidtermelectionsmoneynews"
+  "exclusivechinesechipmakerymtcputsipoonholdasweakermarketsweighsourcessay"
  ]
 }
