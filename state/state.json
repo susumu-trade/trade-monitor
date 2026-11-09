@@ -1015,7 +1015,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-10T08:24:37.599111+09:00",
+  "cache_at": "2026-11-10T08:32:42.019917+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1035,25 +1035,25 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "usmidtermresultsinmapsandcharts",
+  "occidentalbeatsprofitestimatesashigheroilpricesoffsetoutputdecline",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "saudieastwestoilpipelinehitinmedinaregionstatemediareports",
+  "usmidtermresultsinmapsandcharts",
   "analysisaipowerrushsendsdatacentreshuntingforusedturbinesandjetengineseuronextmarketsreal",
   "goldpricereboundsasoilanddollarretreat",
   "thetechproductivityboombeforeaiunremakingthechineseworkingclassfrackingindiyarbakirampkeynesdodgygermanpreface",
   "attackonsaudioilpipelinecausesfirenocasualtiesreported",
   "goldrises16asoilpricesandinflationfearsease",
   "commentarymiddleeastoilpricewarheraldspostconflictglut",
-  "russiaexploitedprotestsinfrancetodiscreditgovernmentreuters",
   "oilslidesastrumpsignalsrestraintonirandespitefreshshippingattacks",
-  "oildownmorethan7abarrelinpostsettlementtradeastrumpsignalsrestraintoniran",
+  "lucidexpandscreditlinefromtopinvestorby175billionamidturnaround",
   "francelaunchesg7backedglobalportsalliancetocombatdrugtrafficking",
   "israelgrantsmurphyoillicensesnearleviathangasfield",
+  "oildownmorethan7abarrelinpostsettlementtradeastrumpsignalsrestraintoniran",
   "nyfedsurveyfindsamericansmoreworriedoverfuturejoblesslevels",
+  "saudieastwestoilpipelinehitinmedinaregionstatemediareports",
   "exclusivechinesebanksboostdollardepositratessourcessayasbeijingseekstosmoothyuanrally",
-  "trumptomeetiranwarmediatorqatarnoimminentdealseentoendthewar",
-  "nvidiaslidesasceohuangfacesboardscrutinyoveraffairwithallegedspy",
   "aipowerrushsendsdatacentreshuntingforusedturbinesandjetengines",
+  "nvidiaslidesasceohuangfacesboardscrutinyoveraffairwithallegedspy",
   "yemenshouthisclaimedanattackonthefinancialdistrictofthesaudicapitalriyadhwitheyewitnessessayingtheysawdamagetoaskyscrape",
   "anglogoldashantigoesforgoldwith900minvestment",
   "productionsuspendedatiraqskhormorgasfieldafterdroneattacksourcessayasianews",
@@ -1108,6 +1108,8 @@
   "morningkickstartstockfuturesclimbasbitcoinnearsits200",
   "oilfallsfurtheronreportthattrumpaskediraqipmtobringiranproposalstoendthewar",
   "investingliveeuropeannewswrapmarketsawaitfreshus",
+  "russiaexploitedprotestsinfrancetodiscreditgovernmentreuters",
+  "trumptomeetiranwarmediatorqatarnoimminentdealseentoendthewar",
   "whatasloweraibuildoutmaymeanformarkets",
   "commentarywhytaiwansaimoattrumpssouthkoreasmemorybet",
   "saudistartupsrushtodebtaswarslowsequityfunding",
@@ -1532,8 +1534,6 @@
   "renewedrefineryattacksdepleterussiandieselsupplyasusdealinfocusworldnews",
   "markettalkmarketshopeamericawilllookforanofframpinthemiddleeast",
   "bankofenglandraisesratesforfirsttimesince2023saysmoremaycome",
-  "asiastockstodropafterairoutrocksusmarkets",
-  "fedsbarkingradualpaceofhikesmakessense",
-  "marcorubioonresignationwatch"
+  "asiastockstodropafterairoutrocksusmarkets"
  ]
 }
