@@ -755,7 +755,7 @@
     "country": "USD",
     "date": "2026-11-12T10:00:00-05:00",
     "impact": "Low",
-    "forecast": "3.86M",
+    "forecast": "3.89M",
     "previous": "3.99M"
    },
    {
@@ -835,7 +835,7 @@
     "country": "USD",
     "date": "2026-11-12T14:00:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-286.3B",
     "previous": "-26.9B"
    },
    {
@@ -891,7 +891,7 @@
     "country": "EUR",
     "date": "2026-11-13T04:00:00-05:00",
     "impact": "Low",
-    "forecast": "1.85B",
+    "forecast": "2.84B",
     "previous": "1.77B"
    },
    {
@@ -1015,7 +1015,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-10T07:32:10.744968+09:00",
+  "cache_at": "2026-11-10T07:44:14.976527+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1042,19 +1042,21 @@
   "goldpricereboundsasoilanddollarretreat",
   "attackonsaudioilpipelinecausesfirenocasualtiesreported",
   "thetechproductivityboombeforeaiunremakingthechineseworkingclassfrackingindiyarbakirampkeynesdodgygermanpreface",
-  "commentarymiddleeastoilpricewarheraldspostconflictglut",
   "goldrises16asoilpricesandinflationfearsease",
-  "iraniandroneshitoneofiraqikurdistansmostimportantgasfieldsandthepowergridistakingthehittheattackstruckagasstoragefacilit",
-  "anglogoldashantigoesforgoldwith900minvestment",
-  "productionsuspendedatiraqskhormorgasfieldafterdroneattacksourcessayasianews",
+  "commentarymiddleeastoilpricewarheraldspostconflictglut",
+  "oilslidesastrumpsignalsrestraintonirandespitefreshshippingattacks",
   "oildownmorethan7abarrelinpostsettlementtradeastrumpsignalsrestraintoniran",
-  "houthiattackdamagesaramcobuildinginriyadhsfinancialdistrictasianews",
+  "francelaunchesg7backedglobalportsalliancetocombatdrugtrafficking",
   "israelgrantsmurphyoillicensesnearleviathangasfield",
   "nyfedsurveyfindsamericansmoreworriedoverfuturejoblesslevels",
   "exclusivechinesebanksboostdollardepositratessourcessayasbeijingseekstosmoothyuanrally",
-  "nvidiaslidesasceohuangfacesboardscrutinyoveraffairwithallegedspy",
   "trumptomeetiranwarmediatorqatarnoimminentdealseentoendthewar",
+  "nvidiaslidesasceohuangfacesboardscrutinyoveraffairwithallegedspy",
   "aipowerrushsendsdatacentreshuntingforusedturbinesandjetengines",
+  "commentarywhytaiwansaimoattrumpssouthkoreasmemorybet",
+  "anglogoldashantigoesforgoldwith900minvestment",
+  "productionsuspendedatiraqskhormorgasfieldafterdroneattacksourcessayasianews",
+  "houthiattackdamagesaramcobuildinginriyadhsfinancialdistrictasianews",
   "goldholdsdeclineasusjobsdatafandecemberratehikebets",
   "saudiarabiaswallstreethubbecomesatargetofhouthistrikes",
   "oilextendsbiggestweeklydeclinesince2020withfocusoniran",
@@ -1068,7 +1070,6 @@
   "cotonforexandcommoditiesweekto3november2026",
   "howtheiranwarisdisruptingglobaloilandgassupply",
   "violenttechroutwillavoida20drawdownmarketspulse",
-  "sampp500futuresriseasoilfallsnvidiasinksonhuangaffair",
   "nvidiaseeshistoricsplitfromsamppasstocksinksmarketsoars",
   "jensenhuangputs200billiondentinnvidiasstockprice",
   "soybeansriseasuspresseschinatoboostfarmgoodspurchases",
@@ -1076,6 +1077,7 @@
   "chinascheapdomesticgascurbslngbuyingaswinternears",
   "chinacarexportsforecasttoslowfromsuperchargedpace",
   "tohokuandtokyopowerpriceshitfouryearhighoncoldsnap",
+  "whatasloweraibuildoutmaymeanformarkets",
   "preciousmetalsstonexbullionweeklyroundup110226persistentlysoursentimentbutsomebargainhunting",
   "oilextendsdroponhopesofdiplomaticprogressiniranwar",
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
@@ -1104,15 +1106,15 @@
   "crudeoiliscaughtbetweenhopesofausirandealandescalationriskswhatsnext",
   "goldfuturesrallied81thengaveback51canbuyersreclaim4115",
   "eurozonesentixinvestorconfidenceweakensfurtherinnovemberasglobalgrowthmomentumfades",
+  "sampp500futuresriseasoilfallsnvidiasinksonhuangaffair",
+  "iraniandroneshitoneofiraqikurdistansmostimportantgasfieldsandthepowergridistakingthehittheattackstruckagasstoragefacilit",
   "stocksclimbasbuyersstepindespitenvidiawoesmarketswrap",
   "northeastheatingoilforecastwinter202627nymactnh",
-  "whatasloweraibuildoutmaymeanformarkets",
   "marketoutlookfortheweekof9th",
   "ethereumremainsvulnerabletofurtherdownsideastradersbraceforuscpiandirandevelopments",
   "goldremainsskewedtotheupsideamidfavourablemacrobackdropwithus",
   "fxoptionexpiriesfor9november10amnewyorkcut",
   "nvidiaprobeintoceoaffairraisesthornyquestionsforai",
-  "oilslidesastrumpsignalsrestraintonirandespitefreshshippingattacks",
   "droneattackoniraqgascomplexcausespoweroutages",
   "productionsuspendedatiraqskhormorgasfieldafterdroneattacksourcessay",
   "stocksfindfirmergroundbutnvidiawoesposefreshtestoilfalls",
@@ -1121,7 +1123,6 @@
   "iraqskhormorgasfieldhaltedafterdroneattackoperatorsays",
   "nvidiassharesslideaschipgiantprobesceooverspyclaims",
   "irandefendstwodayproposalforpeacetalksafterusrejectsconditions",
-  "commentarywhytaiwansaimoattrumpssouthkoreasmemorybet",
   "iraqikurdistanskhormorgasfieldtargetedinrenewedattacks",
   "goldgainsmorethan1assofteroilpriceseaseinflationworries",
   "usstocksriseasoildropoutweighsnvidiawoesmarketswrap",
@@ -1533,7 +1534,6 @@
   "asiasaisupplychainandusdatacenterssettoweatherbluewave",
   "oilsetforsharpweeklydropbutmiddleeastsupplyconcernsprovidefloorbyreuters",
   "usshaleproducereogresourcesbeatsprofitestimatesonhighercrudeprices",
-  "investorswipe25trillionoffnasdaqasbluetsunamipromptsaifears",
-  "liverussiandroneattacksinjure4indnipropetrovskandkyivoblasts"
+  "investorswipe25trillionoffnasdaqasbluetsunamipromptsaifears"
  ]
 }
