@@ -171,7 +171,8 @@
    "USD|Non-Farm Employment Change|2026-11-06T08:30:00-05:00",
    "USD|Unemployment Rate|2026-11-06T08:30:00-05:00",
    "USD|Prelim UoM Consumer Sentiment|2026-11-06T10:00:00-05:00",
-   "USD|Prelim UoM Inflation Expectations|2026-11-06T10:00:00-05:00"
+   "USD|Prelim UoM Inflation Expectations|2026-11-06T10:00:00-05:00",
+   "USD|FOMC Member Waller Speaks|2026-11-10T04:00:00-05:00"
   ],
   "cache": [
    {
@@ -1015,7 +1016,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-10T17:37:57.326024+09:00",
+  "cache_at": "2026-11-10T17:50:02.785724+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1037,28 +1038,27 @@
  "news_seen2": [
   "occidentalbeatsprofitestimatesashigheroilpricesoffsetoutputdecline",
   "chinasoctobercrudeoilimportsrisetohighestlevelsincemarch",
+  "oilpricesfallastrumpplaysdownriskofescalationwithiran",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "hormuzlngtraffichitshighestinoctobersinceiranwarbegan",
+  "iraqskhormorgasfieldhaltedafterdroneattackoperatorsaysal",
+  "africascorporatedebtmarketsremainshallowoecdsays",
+  "thetechproductivityboombeforeaiunremakingthechineseworkingclassfrackingindiyarbakirampkeynesdodgygermanpreface",
+  "goldpricereboundsasoilanddollarretreat",
   "commentaryeuropesshrinkingflexiblepowercushionleavesgermanyexposed",
   "lucidexpandscreditlinefromtopinvestorby175billionamidturnaround",
   "threeworkersdieattatasindiaiphonepartsfactoryinlatestsafetyincident",
   "commentarychinascrudeoilimportsrecoverfuelexportsnotsomuch",
   "israelgrantsmurphyoillicensesnearleviathangasfield",
-  "nyfedsurveyfindsamericansmoreworriedoverfuturejoblesslevels",
+  "colombiaseekinglargeimfloanbutnodecisionexpectedincomingweekssourcessay",
   "saudieastwestoilpipelinehitinmedinaregionstatemediareports",
   "fedshouldmovepolicywithcareasitrespondstoinflationbarkinsays",
-  "opecoiloutputrisesinoctoberto90ofprewarratereuterssurveyshows",
+  "nyfedsurveyfindsamericansmoreworriedoverfuturejoblesslevels",
   "banksinvestorsgrowwaryofaidebtspookedbymarketselloff",
-  "brazilsbraskemcreditorsshareholderstargetwednesdaydeadlinefordebtdealsourcessay",
   "frenchofficialsblameiranforrefrigeratorhacksvowretaliation",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "oilpricesfallastrumpplaysdownriskofescalationwithiran",
-  "iraqskhormorgasfieldhaltedafterdroneattackoperatorsaysal",
-  "thetechproductivityboombeforeaiunremakingthechineseworkingclassfrackingindiyarbakirampkeynesdodgygermanpreface",
-  "africascorporatedebtmarketsremainshallowoecdsays",
-  "goldpricereboundsasoilanddollarretreat",
   "stocksjumpasoiltumblesnvidiafallsamidinternalprobemoneynews",
-  "goldpricesslipasfocusshiftstousinflationdata",
   "asianstocksclimbasoilpricesslideaheaduscpimoneynews",
+  "goldpricesslipasfocusshiftstousinflationdata",
   "iraqiandkurdishleaderspledgetoprotectenergysitesafterkhormorgasfieldattack",
   "oilslidesastrumpsignalsrestraintonirandespitefreshshippingattacks",
   "usextendsvietnamtradeprobeonintellectualpropertytoendoffebruaryasianews",
@@ -1081,11 +1081,12 @@
   "aislumpsendsinvestorsscouringemergingmarketsforbargains",
   "sampp500futuresriseasoilfallsnvidiasinksonhuangaffair",
   "violenttechroutwillavoida20drawdownmarketspulse",
+  "soybeansriseasuspresseschinatoboostfarmgoodspurchases",
   "preciousmetalsstonexbullionweeklyroundup110926congressionalgridlockoilyieldsdollardown",
   "whatasloweraibuildoutmaymeanformarkets",
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
   "goldpricesedgeloweraheadofusinflationdata",
-  "cotonforexandcommoditiesweekto3november2026",
+  "oilextendsdroponhopesofdiplomaticprogressiniranwar",
   "whatarethemaineventsfortoday",
   "learntechnicalanalysiswithoutbeingaprofessorthisrepeatingpatternissupersimpleandsupereffective",
   "fxoptionexpiriesfor10november10amnewyorkcut",
@@ -1112,6 +1113,9 @@
   "blackrockanaispendingslowdownin2027wouldhurtmarketsbutcouldalsoloweryields",
   "morganstanleyflagsaiasanewriskfortheaustraliandollarafterdemocraticsweep",
   "japaneseinvestorsbecomenetbuyersofforeignbondsforthefirsttimeinthreemonths",
+  "opecoiloutputrisesinoctoberto90ofprewarratereuterssurveyshows",
+  "cotonforexandcommoditiesweekto3november2026",
+  "brazilsbraskemcreditorsshareholderstargetwednesdaydeadlinefordebtdealsourcessay",
   "saudiledcoalitionreportshouthimissiledroneinterceptionssabareportssaudistrikesonsanaa",
   "aluminumfacesseveresqueezeaslondonmarketawaitsnewsupply",
   "bydcheryledchinaautoexportsboomcomeswith270billioncost",
@@ -1126,13 +1130,11 @@
   "irantellsustostopfakenewsontalksdemandsitacceptsevenconditionstoendwar",
   "commentarymiddleeastoilpricewarheraldspostconflictglut",
   "oilsteadiesnearlowestsinceaugustonoptimismoverirandeal",
-  "oilextendsdroponhopesofdiplomaticprogressiniranwar",
   "assetmanagersstayconstructiveonstocksafterairouturgeinvestorstodiversify",
   "chinasoctobercrudeoilimportsrisetohighestlevelsincemarchamidmiddleeastwar",
   "threeworkersdieattataiphonepartsfactoryinindia",
   "watchaiturbulencetokeeponrunningmarketanalysis",
   "aipowerrushsendsdatacentreshuntingforusedturbinesandjetengines",
-  "soybeansriseasuspresseschinatoboostfarmgoodspurchases",
   "anglogoldashantigoesforgoldwith900minvestment",
   "taiwanstocksjumpasauthoritiesmovetostemmarketrout",
   "trumpsaysrenewediranstrikesquiteunlikelyasgulfalliesbackblockadestatusquo",
@@ -1533,7 +1535,6 @@
   "ustreasurytradersmakebullishbetsaheadofjobsreport",
   "brentoilpricebenchmarksetforbiggestweeklydropsince2020",
   "malaysianbondslurebuyersasoilsqueezespeersanalystssay",
-  "watchfesharakisaysoilsrightpriceis8090",
-  "asiafueloilbenchmarksslumpasmarketpricesinpotentialiranwardeescalationmoneynews"
+  "watchfesharakisaysoilsrightpriceis8090"
  ]
 }
