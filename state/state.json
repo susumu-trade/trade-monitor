@@ -1016,7 +1016,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-11T07:13:52.675853+09:00",
+  "cache_at": "2026-11-11T07:25:58.631346+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1038,11 +1038,12 @@
  "news_seen2": [
   "exclusiverecentukrainianattackshavereducedrussiasoilprocessingcapacityby30sourcessay",
   "nvidiaselloffdeepensaddingtoaijitters",
-  "uaesellingsaudioilfromsupertankerattackedingulf",
   "wallstendslowerashotinflationdatafedcommentsheightenrateworries",
+  "uaesellingsaudioilfromsupertankerattackedingulf",
   "occidentalbeatsprofitestimatesashigheroilpricesoffsetoutputdecline",
   "ventureglobalraisesprofitforecastexpandspushintoaidatacentermarket",
   "chinasoctobercrudeoilimportsrisetohighestlevelsincemarch",
+  "polandsorlenendslongtermqatarenergylngcontractoverdeliveryfailure",
   "chipmakerinfineonforecastsstrong2027growthondatacentredemand",
   "nvidiaheadsfor470billiontwodaywipeoutasceoaffairfalloutdeepens",
   "commentaryeuropesshrinkingflexiblepowercushionleavesgermanyexposed",
@@ -1057,18 +1058,17 @@
   "usattemptsnewpeacepushatfirstrussiaukrainetalksinninemonths",
   "reutersukrainiandronestrikesdisrupt30ofrussiasoilrefiningcapacitydeepeningfuelcrisisasmoscowkeepsexportingdiesel",
   "ukrainianstrikeshavereducedprocessingatrussianrefineriesby30reuters",
-  "oilpricesfallastrumpplaysdownriskofescalationwithiran",
   "ukrainianstrikescutrussiasoilrefiningcapacityby30reutersreports",
   "africascorporatedebtmarketsremainshallowoecdsays",
   "goldpricesslipasfocusshiftstousinflationdata",
   "lithuaniatoinspectgrainshipmentsfromrussiaandbelarusforcropsfromoccupiedukrainepotentiallydelayingexportsbymonths",
   "russiawantsabudhabitalkstofocusonpostwareuropeansecuritywithukrainejustoneaspectofbroaderdiscussionsreutersreports",
+  "oilfallsastrumpdownplaysprospectofescalationwithiran",
   "oilextendsdropastrumpsaysfurtheriranstrikesunnecessary",
   "fallingoilpricesandbondyieldsofferinvestorssomerelief",
+  "traderswhorushedtosafetyofbondsgetrattledinreversal",
   "goldholdsgainabove4100asloweroileasesinflationwoes",
   "interestratehikedebatesparkedbyfedswallerloganafterhotinflation",
-  "traderswhorushedtosafetyofbondsgetrattledinreversal",
-  "stocksbondsfallascpidatafuelfedhikebetsmarketswrap",
   "globalmacrofundsseenasnextpositioningriskforusstocks",
   "uaecutsflagshipoilpriceasmideastsupplyjumpstirsrivalry",
   "adnocgasseeslngexportsupthisquarterashormuzflowsrise",
@@ -1078,6 +1078,7 @@
   "japanstradinghousesthriveinaworldscramblingforresources",
   "bondstumbleashotinflationfuelsbetsonmorefedratehikes",
   "aislumpsendsinvestorsscouringemergingmarketsforbargains",
+  "chinasironorebuyingcloutmakeseachdealamarketevent",
   "iranusesglobalclimatetalkstohighlightimpactofusstrike",
   "russiashipslesscrudeasloadingshaltedatkeypacificport",
   "nvidiasbullcasehingesonceohuangsurvivingchinaspyprobe",
@@ -1088,7 +1089,6 @@
   "goldminersremainresilientdespitetightermarginsinq226postbyoliverblagdeninsights",
   "billionairesindex",
   "goldpricesedgeloweraheadofusinflationdata",
-  "dailynavigator10112026marketoutlook",
   "fedsloganfavorsatleasttwohikessayspacecouldquicken",
   "morefromfedsbowmanshiftsfocustoinflationwantsaiandmiddleeastriskstoeasefirst",
   "investingliveamericasfxnewswrap10novitsawraphotuscpiputsabiggerfedhikeinplay",
@@ -1115,9 +1115,11 @@
   "usoctobercorecpi03vs02expected",
   "morningkickstartoilslidesaswallerputsahalfpointhikeinplaymarketsbraceforcpi",
   "investingliveeuropeannewswrapfedswallerfloatscasefor50bpshikeindecember",
-  "aixtronstockjoinschiprallyasinfineonliftssectoroutlookadhoc",
+  "oilpricesfallastrumpplaysdownriskofescalationwithiran",
   "priceshockisboonforoilstockscurseforrenewables",
-  "oilfallsastrumpdownplaysprospectofescalationwithiran",
+  "dailynavigator10112026marketoutlook",
+  "stocksbondsfallascpidatafuelfedhikebetsmarketswrap",
+  "aixtronstockjoinschiprallyasinfineonliftssectoroutlookadhoc",
   "factboxfiresprotestspollutionapplessupplychainwoesinindia",
   "recentukrainianattackshavereducedrussiasoilprocessingcapacityby30sourcessay",
   "russiasoilindustryisfeelingtheheatasukrainiandroneshitrefineriesaccountingfornearly30ofcapacity",
@@ -1533,8 +1535,6 @@
   "democratsplanningfloodofaibillswhentheytakecontrolofcongressworldnews",
   "breakingviewscommentarytheweekinbreakingviewsafterthedeluge",
   "privatecreditsoftwarebetsholdingupagainstearlyaiattacks",
-  "nasdaqreboundsbutpostsfourthstraightweeklydecline",
-  "imfsgeorgievasaysanyslowdowninaidrivengrowthwouldbefactorforcentralbanks",
-  "frenchriotersdefybanasthousandsflocktostreetsampclashwithcopswwwthe"
+  "nasdaqreboundsbutpostsfourthstraightweeklydecline"
  ]
 }
