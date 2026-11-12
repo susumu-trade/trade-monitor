@@ -752,20 +752,20 @@
     "previous": ""
    },
    {
-    "title": "Mortgage Delinquencies",
-    "country": "USD",
-    "date": "2026-11-12T10:21:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "4.37%"
-   },
-   {
     "title": "CB Leading Index m/m",
     "country": "AUD",
     "date": "2026-11-12T10:30:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": "-0.3%"
+   },
+   {
+    "title": "Mortgage Delinquencies",
+    "country": "USD",
+    "date": "2026-11-12T11:14:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "4.37%"
    },
    {
     "title": "FOMC Member Goolsbee Speaks",
@@ -1024,7 +1024,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-13T00:41:24.881292+09:00",
+  "cache_at": "2026-11-13T00:53:29.979028+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1048,17 +1048,17 @@
   "dollaralmostunchangedafterreaching19monthhighratedivergenceinfocus",
   "exxonfileslegalchallengetoeucarboncapturelawftreports",
   "braziltosendenergyministertovenezuelaamidpetrobrasinterest",
-  "brazilspetrobrastoincreaseproductioncapacityatanothersixoilplatforms",
   "morningbidjensenhangsonasnvidiatumbles",
+  "brazilspetrobrastoincreaseproductioncapacityatanothersixoilplatforms",
   "europeanshareslogrecordcloseonsiemenscoreweavefueledaioptimism",
   "nvidiaboardweighsceohuangsfutureasleadershipcrisisdeepens",
   "anthropicipocoulddrawrecordretailbuyingvandaresearchsays",
   "couldhuangnvidiaandcompanysboardbeheldliableoveraffairscandal",
-  "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
   "aseantolaunchjointoilproductstockpilingschemeasearlyas2027nikkeireportsasianews",
   "opecoiloutputinoctobernearspreiranwarrateledbysaudiarabia",
   "nvidiasasiansupplychainpreparesforlifeafterhuang",
   "polymarketcutsjobscontractsaspredictionmarketcompetitionheatsup",
+  "foreignbankstouseexemptiontokeeplendingintoeusourcessay",
   "instantviewnvidiaboardmeetstodecideceohuangsfuturesourcesays",
   "bairdmorganstanleysouronnvidiaasceoaffaircontroversydeepens",
   "mscitodropstrategyfromglobalindexesputtingbillionsinfundinflowsatrisk",
@@ -1068,7 +1068,6 @@
   "whocouldrunnvidiaafterjensenhuangthecandidatesandhowtheboardwouldchoose",
   "nvidiascoutsforscandalhitjensenhuangsreplacementasfirmssharesnosedive",
   "southafricascitrusexportsfallasiranwardisruptsshipments",
-  "oilpricesdropmorethan1ashopesforiranukrainepeacetalkspressuremarkets",
   "omanmonitorsgroundedoiltankeramidenvironmentalconcerns",
   "goldfallsbelow4000asdollarstrengthratehikebetsweigh",
   "goldmansachsstockfacesalaterpathtofedratecutsadhoc",
@@ -1079,26 +1078,26 @@
   "whatsflashingwarningsignsforfedinlatestuscpireport",
   "japanautostockseyereboundascheaperoilbrightensoutlook",
   "ritualceosacrificeisloomingoverjensenhuang",
-  "asianstockssettogainonrenewedustechrallymarketswrap",
   "highyieldcreditlooksexpensiveuntilyoulookatyields",
+  "asianstockssettogainonrenewedustechrallymarketswrap",
   "nvidiaworkingwithoutsidefirmtoidentifyceocandidates",
-  "agingboomersarekeyfactorsupportingcorporatebondmarket",
   "gasnotoiliswhereusenergydominancemattersenergynewstopheadlinescommentariesfeaturesampevents",
+  "agingboomersarekeyfactorsupportingcorporatebondmarket",
   "whymarketsthinktheusiswinningtheblockade",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "goldholdsbelow4000asmarketlooksaheadtofedratehike",
   "nvidiaturmoilliftsamdbroadcomonbetsforbusinessgains",
+  "nvidias10billionanthropicipopledgeinfocuswithceoexit",
   "huangfaceoftheaiboomoustedbynvidiaboardasceo",
   "canadianheavycrudereboundsamidcheapertankercosts",
-  "alibabasharesdrop7asnvidiasagatriggerschipaccessfears",
   "nasdaq100advances3aseasingaianxietydrawsdipbuyersin",
   "fundswarnbrazil126billionstockmarketroutisntoveryet",
   "europeanstockssetforrecordasminersandtechrally",
   "whatstherisk7numbersthatrevealhiddenexposuresintodaysportfolios",
   "whatsnextforanthropicsmegaipofivethingstowatch",
-  "oilrisesonmixedsignalsoveriranwaroutlook",
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
   "siemensenergysees2030profitsurgeonpowerdemandboom",
+  "aplungefornvidiasstockdragswallstreetlower",
   "oilsupplyrecoversbutnowarnopeacekeepsescalationriskselevated",
   "oilpricesfallmorethan1amidhopesformiddleeastukrainepeace",
   "usoctoberexistinghomesales375mvs385mexpected",
@@ -1126,7 +1125,10 @@
   "ukq3gdpmeetsestimatesasresilientgrowthgivesboemoreroomtotackleinflation",
   "ukseptembergdpbeatsexpectationsasresilientgrowthkeepsboedecemberratehikeontrack",
   "fxoptionexpiriesfor12november10amnewyorkcut",
-  "foreignbankstouseexemptiontokeeplendingintoeusourcessay",
+  "alibabasharesdrop7asnvidiasagatriggerschipaccessfears",
+  "oilrisesonmixedsignalsoveriranwaroutlook",
+  "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
+  "oilpricesdropmorethan1ashopesforiranukrainepeacetalkspressuremarkets",
   "swissfrancscarrytradesqueezeaddsfueltohavenrally",
   "aitradesresiliencemaskstougherroadahead",
   "amgenssjogrensdrugcutsdiseaseactivityintrial",
@@ -1541,8 +1543,6 @@
   "wallstjumpsasoilslidecoolsinflationworriesnvidiaslumps",
   "tradingdaybroadreboundrallyliftsallboatsbutnvidiabyreuters",
   "goldmansees15trillioninaidebtoverthreeyearswarnssupplyweighsoncredit",
-  "irantellsustostopfakenewsontalksdemandsitacceptsevenconditionstoendwar",
-  "commentarymiddleeastoilpricewarheraldspostconflictglut",
-  "oilsteadiesnearlowestsinceaugustonoptimismoverirandeal"
+  "irantellsustostopfakenewsontalksdemandsitacceptsevenconditionstoendwar"
  ]
 }
