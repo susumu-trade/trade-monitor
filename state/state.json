@@ -1024,7 +1024,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-12T14:18:12.302548+09:00",
+  "cache_at": "2026-11-12T14:30:16.423149+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1044,6 +1044,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "exxonfileslegalchallengetoeucarboncapturelawftreports",
   "brazilspetrobrastoincreaseproductioncapacityatanothersixoilplatforms",
   "europeanshareslogrecordcloseonsiemenscoreweavefueledaioptimism",
   "libyasnocdiscusses2027oilexplorationwithrepsoltpaoandmol",
@@ -1053,16 +1054,16 @@
   "commentarytrumpsiranwarpauseisascostlyasnewstrikes",
   "indiagoldetfequityfundinflowseaseinoctober",
   "iranwarnsofdomesticgasshortagesfromwarthiswinter",
-  "rwekkrfinalise16billioninvestmentinukrenewables",
-  "akzonobelaxaltagetweektoaddressukregulatorconcernsover25billionmerger",
   "tsxfuturesriseasgoldreboundscoreweaveresultsliftsentiment",
+  "rwekkrfinalise16billioninvestmentinukrenewables",
+  "eonmeetsninemonthforecastsasgridinvestmentrampsup",
+  "absaacceleratesafricanbankingexpansionacrosskeymarkets",
+  "akzonobelaxaltagetweektoaddressukregulatorconcernsover25billionmerger",
   "anthropicipocoulddrawrecordretailbuyingvandaresearchsays",
   "commentarybondstormof2026maybepassingbutfedgustslinger",
-  "eonmeetsninemonthforecastsasgridinvestmentrampsup",
   "australiangasreservationschemegainsbackingofsenatecommittee",
   "breakingviewscommentarychinaemergesasobesitydruglabforbigpharma",
   "ukstaylorwimpeywarnsonannualprofitasaffordabilitywoesdeepen",
-  "deutschebanklaunchesdigitalassetcustodyservice",
   "tradingdayaicheerbanishesratehikefearbyreuters",
   "goldslipsasdollarstrengthensonusinflationdata",
   "instantviewnvidiaboardmeetstodecideceohuangsfuturesourcesaysbyreuters",
@@ -1070,7 +1071,6 @@
   "exclusivemilitarylinkedchineseuniversityboughtnvidiah200chipsdespiteusblacklistrecordsshow",
   "snaminexclusivetalkstosellagribiomethanebusinesstof2ifemogassourcesays",
   "opecoiloutputinoctobernearspreiranwarrateledbysaudiarabia",
-  "absaacceleratesafricanbankingexpansionacrosskeymarkets",
   "oilpricesdropmorethan1ashopesforiranukrainepeacetalkspressuremarkets",
   "goldrateclimbsafter3dropisarallylikelyasfeddecratehikebetssurge",
   "oilsteadiesafterslumpasiranwartalksmakelittleprogress",
@@ -1089,16 +1089,16 @@
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "goldholdsbelow4000asmarketlooksaheadtofedratehike",
   "aidoubtscollidewithanthropicsmegaipo",
-  "canadianheavycrudereboundsamidcheapertankercosts",
   "cryptosbidtoshakeupstocktradingrevsupdespitebacklash",
   "europeanstockssetforrecordasminersandtechrally",
   "whatstherisk7numbersthatrevealhiddenexposuresintodaysportfolios",
+  "canadianheavycrudereboundsamidcheapertankercosts",
   "datacentergasplantstoliftuspoweremissions10bnefsays",
   "bhpnamesadrianwoodascfotosucceedvanditapant",
   "nuclearrevivalspurscmetomoveaheadonphysicaluraniumcontracts",
-  "polymarketcutsworkforceafterstumblespromptreorganization",
   "venezuelasusbackedleadergrappleswithprotestsoverpowercrisis",
   "manwhohastopullchileoutofrecessionsaysitsashorttermblip",
+  "aimalaisemidtermscloud2027profitsafterblowoutquarter",
   "qatarslossofpolishlngdealisaseriousblowtoexpansionplans",
   "goldchallengesthefedshawkishrateoutlook",
   "investingliveasiapacificmarketnewsnvidiaslidesonhuangousterreports",
@@ -1126,6 +1126,8 @@
   "anthropicipooversubscribedseveraltimesaheadofrecord90billionlisting",
   "usstocksrallyasaisharesrebound",
   "investingliveamericasfxnewswrap11novitsawrapdollarclimbsasstocksriseandoilfades",
+  "polymarketcutsworkforceafterstumblespromptreorganization",
+  "deutschebanklaunchesdigitalassetcustodyservice",
   "iranstrikesnavigationsystemsonomaniislandsourcestellreuters",
   "indonesiatocut300moretightlyheldstocksfrombenchmark",
   "whytheiranwarmeanseuropecantaffordaseverewinter",
@@ -1145,7 +1147,6 @@
   "stocksmovetonewsessionhighsasbuyersreclaimkeytechnicallevels",
   "europeanstocksclosehigheraireboundsendsnasdaqindicessharplyhigher",
   "techgainsbooststocksasbondsslideonfedbetsmarketswrap",
-  "aimalaisemidtermscloud2027profitsafterblowoutquarter",
   "commentarya50bpsratehikewarshsfedhasacommsproblem",
   "siemensshareholderstogetonehealthineersshareforeverytwosiemenssharessourcessay",
   "exclusivenomuraweighsrebuildingitshongkongequitycapitalmarketsbusinesssourcessay",
@@ -1542,7 +1543,6 @@
   "wallstreetracesformegadealsascountdownbeginsontrumpera",
   "hedgefundfogoisobliteratingthefomotrade",
   "blackstonerealestateseeksreboundfromshockexitsandlosses",
-  "iexisfastestgrowingequitiesexchange",
-  "financemagnatesawards2026forexbrokersandpropfirmwinners"
+  "iexisfastestgrowingequitiesexchange"
  ]
 }
