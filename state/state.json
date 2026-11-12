@@ -712,22 +712,6 @@
     "previous": ""
    },
    {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "date": "2026-11-12T04:03:00-05:00",
-    "impact": "Low",
-    "forecast": "7.2%",
-    "previous": "7.2%"
-   },
-   {
-    "title": "New Loans",
-    "country": "CNY",
-    "date": "2026-11-12T04:03:00-05:00",
-    "impact": "Low",
-    "forecast": "80B",
-    "previous": "1080B"
-   },
-   {
     "title": "Building Permits m/m",
     "country": "CAD",
     "date": "2026-11-12T08:30:00-05:00",
@@ -920,6 +904,22 @@
     "previous": "-6.8B"
    },
    {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "date": "2026-11-13T05:03:00-05:00",
+    "impact": "Low",
+    "forecast": "7.2%",
+    "previous": "7.2%"
+   },
+   {
+    "title": "New Loans",
+    "country": "CNY",
+    "date": "2026-11-13T05:03:00-05:00",
+    "impact": "Low",
+    "forecast": "80B",
+    "previous": "1080B"
+   },
+   {
     "title": "Manufacturing Sales m/m",
     "country": "CAD",
     "date": "2026-11-13T08:30:00-05:00",
@@ -1024,7 +1024,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-12T18:40:13.046100+09:00",
+  "cache_at": "2026-11-12T18:52:17.640117+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1048,11 +1048,10 @@
   "europeanshareslogrecordcloseonsiemenscoreweavefueledaioptimism",
   "exxonfileslegalchallengetoeucarboncapturelawftreports",
   "libyasnocdiscusses2027oilexplorationwithrepsoltpaoandmol",
-  "nvidiaboardmeetstodecideceohuangsfutureasleadershipcrisisdeepens",
+  "nvidiaboardweighsceohuangsfutureasleadershipcrisisdeepens",
   "rwesroleinuniperdealwouldbenarrowinscopecfosays",
   "couldhuangnvidiaandcompanysboardbeheldliableoveraffairscandal",
   "commentarya50bpsratehikewarshsfedhasacommsproblem",
-  "akzonobelaxaltagetweektoaddressukregulatorconcernsover25billionmerger",
   "iranwarnsofdomesticgasshortagesfromwarthiswinter",
   "tsxfuturesriseasgoldreboundscoreweaveresultsliftsentiment",
   "aseantolaunchjointoilproductstockpilingschemeasearlyas2027nikkeireportsasianews",
@@ -1060,12 +1059,12 @@
   "absaacceleratesafricanbankingexpansionacrosskeymarkets",
   "morningbidjensenhangsonasnvidiatumbles",
   "polymarketcutsjobscontractsaspredictionmarketcompetitionheatsup",
+  "akzonobelaxaltagetweektoaddressukregulatorconcernsover25billionmerger",
   "anthropicipocoulddrawrecordretailbuyingvandaresearchsays",
   "instantviewnvidiaboardmeetstodecideceohuangsfuturesourcesays",
   "breakingviewscommentarychinaemergesasobesitydruglabforbigpharma",
   "japansmimurasaysmarketsshouldntforgetinterventionrisksasyennears160",
   "goldslipsasdollarstrengthensonusinflationdata",
-  "oilpricesfallonhopesofendingmiddleeastandukrainewar",
   "nvidiaboardmeetstodecideceohuangsfutureasleadershipcrisisdeepensbyreuters",
   "dollargainsmomentumasfedofficialswarnofinflation",
   "snamhasdecidedtosellitsbiomethaneunittof2ifemogassourcesays",
@@ -1074,16 +1073,16 @@
   "goldfallsbelow4000asdollarstrengthratehikebetsweigh",
   "oilsteadiesafterslumpasiranwartalksmakelittleprogress",
   "stocksslideonnvidiatroublesoiledgeslowermarketswrap",
-  "japanautostockseyereboundascheaperoilbrightensoutlook",
   "ritualceosacrificeisloomingoverjensenhuang",
-  "oilgainsaftertwodaydropwithfocusonusiranwaroutlook",
+  "japanautostockseyereboundascheaperoilbrightensoutlook",
   "asianstockssettogainonrenewedustechrallymarketswrap",
-  "agingboomersarekeyfactorsupportingcorporatebondmarket",
   "nvidiasbullcasehingesonceohuangsurvivingchinaspyprobe",
+  "agingboomersarekeyfactorsupportingcorporatebondmarket",
   "cryptosbidtoshakeupstocktradingrevsupdespitebacklash",
   "privatemarketstakestockontokenizationafterbinanceheist",
   "whymarketsthinktheusiswinningtheblockade",
   "aitradesendsmixedsignalsasbullsandbearsclashdaily",
+  "venezuelasusbackedleadergrappleswithprotestsoverpowercrisis",
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "goldholdsbelow4000asmarketlooksaheadtofedratehike",
   "aidoubtscollidewithanthropicsmegaipo",
@@ -1091,12 +1090,12 @@
   "canadianheavycrudereboundsamidcheapertankercosts",
   "europeanstockssetforrecordasminersandtechrally",
   "whatstherisk7numbersthatrevealhiddenexposuresintodaysportfolios",
-  "bhpnamesadrianwoodascfotosucceedvanditapant",
   "datacentergasplantstoliftuspoweremissions10bnefsays",
+  "bhpnamesadrianwoodascfotosucceedvanditapant",
+  "whatsnextforanthropicsmegaipofivethingstowatch",
   "polymarketcutsworkforceafterstumblespromptreorganization",
-  "venezuelasusbackedleadergrappleswithprotestsoverpowercrisis",
-  "aimalaisemidtermscloud2027profitsafterblowoutquarter",
   "manwhohastopullchileoutofrecessionsaysitsashorttermblip",
+  "aimalaisemidtermscloud2027profitsafterblowoutquarter",
   "siemensenergysees2030profitsurgeonpowerdemandboom",
   "goldchallengesthefedshawkishrateoutlook",
   "oilpricesfallmorethan1amidhopesformiddleeastukrainepeace",
@@ -1125,7 +1124,9 @@
   "tdsecuritiesseesgoldretesting3900asfedhikebetsandafirmdollarbite",
   "pbocsetsusdcnyreferenceratefortodayat67174vsestimateat66797",
   "pbocisexpectedtosettheusdcnyreferencerateat66797reutersestimate",
-  "whatsnextforanthropicsmegaipofivethingstowatch",
+  "nvidiaboardmeetstodecideceohuangsfutureasleadershipcrisisdeepens",
+  "oilpricesfallonhopesofendingmiddleeastandukrainewar",
+  "oilgainsaftertwodaydropwithfocusonusiranwaroutlook",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
   "fundswarnbrazil126billionstockmarketroutisntoveryet",
   "amgenssjogrensdrugcutsdiseaseactivityintrial",
@@ -1542,7 +1543,6 @@
   "usmidtermresultsinmapsandcharts",
   "yemenshouthisclaimedanattackonthefinancialdistrictofthesaudicapitalriyadhwitheyewitnessessayingtheysawdamagetoaskyscrape",
   "bitcoinisdoingitsabcstechnicallywhatwillthebuyersandselllersdoattheoldsupport",
-  "morningkickstartstockfuturesclimbasbitcoinnearsits200",
-  "oilfallsfurtheronreportthattrumpaskediraqipmtobringiranproposalstoendthewar"
+  "morningkickstartstockfuturesclimbasbitcoinnearsits200"
  ]
 }
