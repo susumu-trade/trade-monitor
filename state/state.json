@@ -760,14 +760,6 @@
     "previous": "-0.3%"
    },
    {
-    "title": "Mortgage Delinquencies",
-    "country": "USD",
-    "date": "2026-11-12T11:14:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "4.37%"
-   },
-   {
     "title": "FOMC Member Goolsbee Speaks",
     "country": "USD",
     "date": "2026-11-12T11:15:00-05:00",
@@ -790,6 +782,14 @@
     "impact": "Low",
     "forecast": "",
     "previous": ""
+   },
+   {
+    "title": "Mortgage Delinquencies",
+    "country": "USD",
+    "date": "2026-11-12T12:59:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "4.37%"
    },
    {
     "title": "30-y Bond Auction",
@@ -1024,7 +1024,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-13T01:41:53.598099+09:00",
+  "cache_at": "2026-11-13T01:54:00.569013+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1046,21 +1046,21 @@
  "news_seen2": [
   "oilpricesriseasgeopoliticalrisksoffsetrisingcrudeoutput",
   "dollardropsslightlyfrom19monthhighsratedivergenceinfocus",
+  "nvidiasasiansupplychainpreparesforlifeafterhuang",
   "morningbidjensenhangsonasnvidiatumbles",
   "exxonfileslegalchallengetoeucarboncapturelawftreports",
   "braziltosendenergyministertovenezuelaamidpetrobrasinterest",
   "brazilspetrobrastoincreaseproductioncapacityatanothersixoilplatforms",
   "europeanshareslogrecordcloseonsiemenscoreweavefueledaioptimism",
+  "techjumpofnearly3liftscanadastocks",
   "nvidiaboardweighsceohuangsfutureasleadershipcrisisdeepens",
-  "oilgainsafterearlydropasgeopoliticalriskssupportmarket",
-  "anthropicipocoulddrawrecordretailbuyingvandaresearchsays",
   "couldhuangnvidiaandcompanysboardbeheldliableoveraffairscandal",
-  "aseantolaunchjointoilproductstockpilingschemeasearlyas2027nikkeireportsasianews",
+  "anthropicipocoulddrawrecordretailbuyingvandaresearchsays",
   "opecoiloutputinoctobernearspreiranwarrateledbysaudiarabia",
-  "nvidiasasiansupplychainpreparesforlifeafterhuang",
   "polymarketcutsjobscontractsaspredictionmarketcompetitionheatsup",
   "whoisharveyjonesnvidiasfirsteverboardchair",
   "foreignbankstouseexemptiontokeeplendingintoeusourcessay",
+  "oilgainsafterearlydropasgeopoliticalriskssupportmarket",
   "instantviewnvidiaboardmeetstodecideceohuangsfuturesourcesays",
   "bairdmorganstanleysouronnvidiaasceoaffaircontroversydeepens",
   "mscitodropstrategyfromglobalindexesputtingbillionsinfundinflowsatrisk",
@@ -1068,6 +1068,7 @@
   "oilpricesfallonhopesofendingmiddleeastandukrainewar",
   "whocouldrunnvidiaafterjensenhuangthecandidatesandhowtheboardwouldchoose",
   "nvidiascoutsforscandalhitjensenhuangsreplacementasfirmssharesnosedive",
+  "aseantolaunchjointoilproductstockpilingschemeasearlyas2027nikkeireportsasianews",
   "southafricascitrusexportsfallasiranwardisruptsshipments",
   "omanmonitorsgroundedoiltankeramidenvironmentalconcerns",
   "goldfallsbelow4000asdollarstrengthratehikebetsweigh",
@@ -1087,14 +1088,14 @@
   "usoilsanctionspushbeijingtotestwashingtonslimits",
   "goldholdsbelow4000asmarketlooksaheadtofedratehike",
   "nvidias10billionanthropicipopledgeinfocuswithceoexit",
-  "huangfaceoftheaiboomoustedbynvidiaboardasceo",
+  "palmoilclimbsaselniñothreatensindonesias2027supplies",
   "alibabasharesdrop7asnvidiasagatriggerschipaccessfears",
+  "huangfaceoftheaiboomoustedbynvidiaboardasceo",
   "canadianheavycrudereboundsamidcheapertankercosts",
   "nasdaq100advances3aseasingaianxietydrawsdipbuyersin",
   "fundswarnbrazil126billionstockmarketroutisntoveryet",
   "whatstherisk7numbersthatrevealhiddenexposuresintodaysportfolios",
   "whatsnextforanthropicsmegaipofivethingstowatch",
-  "oilrisesonmixedsignalsoveriranwaroutlook",
   "oilampgasdealmakingheatsupwith20billionofassetsinplay",
   "siemensenergysees2030profitsurgeonpowerdemandboom",
   "aplungefornvidiasstockdragswallstreetlower",
@@ -1125,7 +1126,7 @@
   "whatarethemaineventsfortoday",
   "ukq3gdpmeetsestimatesasresilientgrowthgivesboemoreroomtotackleinflation",
   "ukseptembergdpbeatsexpectationsasresilientgrowthkeepsboedecemberratehikeontrack",
-  "techjumpofnearly3liftscanadastocks",
+  "oilrisesonmixedsignalsoveriranwaroutlook",
   "europeanstockssetforrecordasminersandtechrally",
   "howtheiranwaroilandgassupplyshockcompareswithpastdisruptions",
   "dollaralmostunchangedafterreaching19monthhighratedivergenceinfocus",
@@ -1542,7 +1543,6 @@
   "cotonforexandcommoditiesweekto3november2026",
   "saudiledcoalitionreportshouthimissiledroneinterceptionssabareportssaudistrikesonsanaa",
   "aluminumfacesseveresqueezeaslondonmarketawaitsnewsupply",
-  "bydcheryledchinaautoexportsboomcomeswith270billioncost",
-  "russiaseesnewsecurityframeworkforeuropeasmainthrustofukrainetalksdelegationsourcesays"
+  "bydcheryledchinaautoexportsboomcomeswith270billioncost"
  ]
 }
