@@ -1024,7 +1024,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-13T10:08:10.404815+09:00",
+  "cache_at": "2026-11-13T10:20:15.546064+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1044,25 +1044,25 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "ustreasuryboughtyeninjulyfedmadenosolofxinterventionsinq3",
   "barrickfurloughssomeemployeesatcongomineasebolaprecautionmemosays",
   "colombiaecopetrolsnetprofitjumps86inq3",
   "retailbuyerslimitnvidiastockrout",
   "nvidiaoptionstradersbankonlongertermstockrecovery",
-  "oilsettles3higheronattacksonsaudienergysitesstraitofhormuzdisruptions",
   "whitehousesettoextendjonesactshippingwaiversourcessay",
+  "oilsettles3higheronattacksonsaudienergysitesstraitofhormuzdisruptions",
   "oilpricesriseasgeopoliticalrisksoffsetrisingcrudeoutput",
   "siemensliftsmidtermoutlookasaidrivendatacentredemandboostsorders",
   "ushumanoidrobotproductioncouldhit400000by2030asdeploymentrampsjpmorgansays",
   "kiaindiaplans2billioninvestmentinsecondplanttargets2030productionkickoff",
   "morningbidjensenhangsonasnvidiatumbles",
   "nvidiasasiansupplychainpreparesforlifeafterhuang",
+  "ukrainelatestfightingintensifiesaspeacetalksstallagain",
   "aseantolaunchjointoilproductstockpilingschemeasearlyas2027nikkeireportsasianews",
-  "malaysiaweighslawtomonitordatacentreoperationschipsusetradeministersays",
   "europesstoxx600pullsbackfromrecordhighasinvestorsweighearningsoilprices",
   "intesacriticisesitalyforbankleviesin2027budgetsaysecbmayintervene",
   "jensenhuangstepsdownthehandsonkingmakerbehindtheaiboom",
   "cerebrassharesjump17onupbeatannualforecasteasingaijitters",
-  "mikeashleysfraserstightensgripathugobosswithnewceopick",
   "golddropstooveroneyearlowasfadingmiddleeastpeacehopesfaninflationfears",
   "nvidiasasiansupplychainpreparesforlifeafterhuangbyreuters",
   "nvidiaboardweighsceohuangsfutureasleadershipcrisisdeepensbyreuters",
@@ -1072,10 +1072,12 @@
   "southafricascitrusexportsfallasiranwardisruptsshipments",
   "irantellscop31itwantscompensationforenvironmentaldamagefromusisraelistrikesasianews",
   "najibcanbereturnedtojailifhebreacheshousearresttermsmalaysianews",
+  "malaysiaweighslawtomonitordatacentreoperationschipsusetradeministersays",
   "nvidiapunchesaholeinbullcaseforaistocks",
   "theyenisbecomingtoohardforsomeinvestorstotrade",
   "stocksslideonnvidiatroublesoiledgeslowermarketswrap",
   "goldholdsdroptonearoneyearlowasratehikebetsincrease",
+  "asianstockssetforcautiousopenonnvidiaoilmarketswrap",
   "silvermarketsetfordeficitevenassolarmakerscutback",
   "oilsteadiesafterslumpasiranwartalksmakelittleprogress",
   "howpredictionmarketsbecamesuchaforceinuselections",
@@ -1086,7 +1088,6 @@
   "wallstreetshakeswithswingsfornvidiaandoilpricesbutrecoversmostofitsearlylosses",
   "fedsgoolsbeesaysinflationinchingintotoughspot",
   "yenfallstokey160levelperdollarraisinginterventionrisk",
-  "asianstockssetforcautiousopenonnvidiaoilmarketswrap",
   "oiljumpsaftertrumpsaysusdoesntneeddealwithiran",
   "swissfrancscarrytradesqueezeaddsfueltohavenrally",
   "goldholdsbelow4000asmarketlooksaheadtofedratehike",
@@ -1123,13 +1124,13 @@
   "crudeoilfuturestryingtokeepatechnicalceilinginplace",
   "eurofallstothelowestsinceapril2025",
   "fedsgoolsbeeinflationhasbeenwell",
+  "mikeashleysfraserstightensgripathugobosswithnewceopick",
   "japanstopcurrencydiplomatrenewsvolatilitywarningasyennearskey160level",
   "nvidiaworkingwithoutsidefirmtoidentifyceocandidates",
   "theusdollarmoveshigherastreasuryyieldsextendtheirgains",
   "asmarketdigestthenvidiafalloutwhathasthefalloutmeantforthenasdaqcompositenasdaq100indices",
   "usoctoberexistinghomesales375mvs385mexpected",
   "nowthatallthenvidiajensenhuangnewsisoutwhatnextfortradersinnvidia",
-  "ukrainelatestfightingintensifiesaspeacetalksstallagain",
   "cerebrasliftsannualsalesforecastonstrongailinkeddemandsharessurge",
   "germanyscarmakersacceleratecutsathomeonchinareckoning",
   "dollardropsslightlyfrom19monthhighsratedivergenceinfocus",
@@ -1542,7 +1543,6 @@
   "goldholdsnearrecenthighsasmarketsawaituscpiandiranbreakthrough",
   "oilfallsastrumpdownplaysprospectofescalationwithiranbyreuters",
   "goldholdsdeclineasusjobsdatafandecemberratehikebets",
-  "oilextendsdroponhopesofdiplomaticprogressiniranwar",
-  "uscongressgetsfirstpostbluewavecrackatdatacenterswithpermittingbill"
+  "oilextendsdroponhopesofdiplomaticprogressiniranwar"
  ]
 }
