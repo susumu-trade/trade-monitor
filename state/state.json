@@ -1128,7 +1128,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-16T04:18:02.317244+09:00",
+  "cache_at": "2026-11-16T04:30:06.354528+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1148,23 +1148,22 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "shellstartsgasproductionfromegyptsminawestfield",
   "yemenigovernmentforceretreatsfromstraitinmajorsetbackinwaragainsthouthis",
   "hubbismacrocornerusyieldsreboundasaistocksdiverge",
-  "shellstartsgasproductionfromegyptsminawestfield",
+  "yemengovernmentforceswithdrawfromareanearbabelmandebstraithouthisincontrol",
   "cpiussenatorpushesforreviewofnvidiastoobigtofailrisks",
   "stitchingtraditionanddiplomacytheevolutionoftheapecgroupphoto",
+  "globaldieselshortagekeepspriceselevatedassupplydisruptionspersist",
   "airlinestocksaftertheusgroundstopand50bnatcplan",
   "usdieselbelow6agallonat2monthlowoneasingtensionsweakerdemand",
   "egypttosetupstatebackedcompanytolicenseartisanalgoldminers",
-  "globaldieselshortagekeepspriceselevatedassupplydisruptionspersist",
   "corneredyemeniforceseffectivelyretreatfrombabelmandebstraitamidhouthioffensive",
   "aseantocontinueconstructiveandprincipledengagementwithmyanmarblocschairphilippinessays",
-  "saudiledcoalitioninterceptsmissilestowardsriyadhdronesineasternprovince",
-  "yemengovernmentforceswithdrawfromareanearbabelmandebstraithouthisincontrol",
-  "mistralaiipostatusvaluationandwhattoknow",
   "megaspeedsaysalicehuangleftthecompanyinaugust2025",
+  "mistralaiipostatusvaluationandwhattoknow",
+  "saudiledcoalitioninterceptsmissilestowardsriyadhdronesineasternprovince",
   "bahraininterceptsiranianaerialattacksastehransaysitattackedusbase",
-  "frenchriotseruptforfifthweekendascitiessetonfirebymaskedprotestersclashingwithcopsampover120arrested",
   "boescasetoraiseratesagainmaystrengthenonukpricedata",
   "bonddroughtinemergingmarketsliftspricesassalesslump41",
   "statestreetpictetcalltimeoneuropesstockmarketrally",
@@ -1172,7 +1171,6 @@
   "juicy6yieldsgainappealafternvidiadramacreditweekly",
   "billionairesindex",
   "themidastouchandgonov2026investor",
-  "applebetsonsiriaiappsasthemaindrawforitssmartglasses",
   "infightingisthelastthingindonesiaseconomyneeds",
   "bessentsaysnvidianeedsdramaticshakeupwithhuangout",
   "jensenhuangwasnttoobigtofall",
@@ -1182,6 +1180,7 @@
   "dubaiabudhabiinvestorsoptionsshrinkoniposlumpbuyouts",
   "richestpeopleinunitedstatesbloombergbillionairesindex",
   "datacentreconstructionstockslose42tnasboominaitradeunravels",
+  "voyagnmaincomefundq32026commentary",
   "stocksrebounddespitenvidiasslideandhigherbondyieldsweeklymarketrecap",
   "mscmeyerwerftdeal80staketimingandcruisestocks",
   "indiastocksadd400bonlowaiexposurefpisbuy89b",
@@ -1210,6 +1209,8 @@
   "franceoctoberinflationacceleratesasenergypricessurgekeepingecbratehikebetsalive",
   "whatarethemaineventsfortoday",
   "germanyoctoberwholesalepriceindex04vs19mmprior",
+  "frenchriotseruptforfifthweekendascitiessetonfirebymaskedprotestersclashingwithcopsampover120arrested",
+  "applebetsonsiriaiappsasthemaindrawforitssmartglasses",
   "thekoreadiscountdemandsthekitchensink",
   "anthropicisabouttobecometheworldsmostimportantaistock",
   "spacexstarshipreturnstolandingpadfromorbitacingtestforreusablerockets",
@@ -1646,7 +1647,6 @@
   "fieracapitalglobalassetallocationnovember2026marketupdate",
   "nasdaqfuturesareunderpressureisittoolatetoshort",
   "bojpolicymakerasadaurgescautiononfurtherratehikesevenasdecembermoveremainsfirmlyinplay",
-  "audusdfacesamakeorbreaktestasdollarbullsturnuptheheat",
-  "exclusiveexxonassessing7areasinvenezuelaforpossibleenergyprojectssourcessay"
+  "audusdfacesamakeorbreaktestasdollarbullsturnuptheheat"
  ]
 }
