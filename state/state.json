@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-11-15",
+  "last_digest": "2026-11-16",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -1128,7 +1128,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-16T06:59:01.824980+09:00",
+  "cache_at": "2026-11-16T07:11:10.387815+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1150,8 +1150,8 @@
  "news_seen2": [
   "shellstartsgasproductionfromegyptsminawestfield",
   "minawestachievessuccessfulfirstgasvia7kmtieback",
-  "yemenigovernmentforceretreatsfromstraitinmajorsetbackinwaragainsthouthis",
   "hubbismacrocornerusyieldsreboundasaistocksdiverge",
+  "yemenigovernmentforceretreatsfromstraitinmajorsetbackinwaragainsthouthis",
   "cpiussenatorpushesforreviewofnvidiastoobigtofailrisks",
   "yemengovernmentforceswithdrawfromareanearbabelmandebstraithouthisincontrol",
   "stitchingtraditionanddiplomacytheevolutionoftheapecgroupphoto",
@@ -1167,18 +1167,25 @@
   "bonddroughtinemergingmarketsliftspricesassalesslump41",
   "statestreetpictetcalltimeoneuropesstockmarketrally",
   "airetreatfuelsindiastockcomebackingreatrotationtrade",
-  "billionairesindex",
   "usfdarejectssummitschinaoriginatedlungcancerdrug",
   "jensenhuangwasnttoobigtofall",
   "dubaiabudhabiinvestorsoptionsshrinkoniposlumpbuyouts",
   "firmsdriveukgrowthspurtwithlittlehelpfromgovernment",
   "richestpeopleinunitedstatesbloombergbillionairesindex",
+  "billionairesindex",
   "datacentreconstructionstockslose42tnasboominaitradeunravels",
   "voyagnmaincomefundq32026commentary",
   "themidastouchandgonov2026investor",
   "stocksrebounddespitenvidiasslideandhigherbondyieldsweeklymarketrecap",
   "mscmeyerwerftdeal80staketimingandcruisestocks",
   "indiastocksadd400bonlowaiexposurefpisbuy89b",
+  "iransayssupertankerwith2millionbarrelssankafterhormuzminestrikeunconfirmed",
+  "ecbsnagelsaysanotherratehikehighlyprobableasenergypricespushinflation",
+  "newzealandservicespsihits35yearhighat517fifthstraightmonthofgrowth",
+  "weekendfedspeakcollinsbackssteadygradualratehikescoolonabiggerdecembermove",
+  "sundayfedtalkschmidsaysinflationwouldstillbenear3withoutenergyfedhasworktodo",
+  "jensenhuangweighsnvidiacomebackdaysafterquittingoverscandalftreports",
+  "economicandeventcalendarinasiamondaynovember162026bojchinadatajapangdp",
   "nvidastockanalysisbeforeitsearnings",
   "goldfuturesrosefridaybuttherallyfailedwhatimwatchingnextweek",
   "investingliveamericasmarketnewswraphawkishfedworriesebbafterppi",
@@ -1640,13 +1647,6 @@
   "ukq3gdpmeetsestimatesasresilientgrowthgivesboemoreroomtotackleinflation",
   "ukseptembergdpbeatsexpectationsasresilientgrowthkeepsboedecemberratehikeontrack",
   "europeanstockssetforrecordasminersandtechrally",
-  "dollaralmostunchangedafterreaching19monthhighratedivergenceinfocus",
-  "agingboomersarekeyfactorsupportingcorporatebondmarket",
-  "fxoptionexpiriesfor12november10amnewyorkcut",
-  "phillips66securesusedcookingoilsupplydealtoboostsafandrenewabledieseloutput",
-  "oilpricesdropmorethan1ashopesforiranukrainepeacetalkspressuremarkets",
-  "aitradesresiliencemaskstougherroadahead",
-  "amgenssjogrensdrugcutsdiseaseactivityintrial",
-  "fieracapitalglobalassetallocationnovember2026marketupdate"
+  "dollaralmostunchangedafterreaching19monthhighratedivergenceinfocus"
  ]
 }
