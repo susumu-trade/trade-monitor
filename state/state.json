@@ -352,6 +352,14 @@
     "previous": ""
    },
    {
+    "title": "FOMC Member Hammack Speaks",
+    "country": "USD",
+    "date": "2026-11-16T14:15:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+   },
+   {
     "title": "RBNZ Financial Stability Report",
     "country": "NZD",
     "date": "2026-11-16T15:00:00-05:00",
@@ -1128,7 +1136,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-16T10:39:51.617608+09:00",
+  "cache_at": "2026-11-16T10:51:55.780412+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1163,18 +1171,18 @@
   "megaspeedsaysalicehuangleftthecompanyinaugust2025",
   "oilsteadieswithiranianattackonbaseinbahraininfocus",
   "anthropicisabouttobecometheworldsmostimportantaistock",
-  "indiafacesamorepainfulreturntohigherinterestrates",
+  "chinasteapotrefinersturntotradinggiantsasiranoilebbs",
   "roughedupbondtraderslooktofedspeakminutesfornextmove",
   "nvidiasceosearchdrawsfirewithbessentsshakeupcall",
   "schmidsaysfedhasmoreworktodotobringdowninflation",
   "thekoreadiscountdemandsthekitchensink",
   "boescasetoraiseratesagainmaystrengthenonukpricedata",
-  "bonddroughtinemergingmarketsliftspricesassalesslump41",
   "philippinesmaincoalmineinlimboputsnationsenergysupplyatrisk",
+  "bonddroughtinemergingmarketsliftspricesassalesslump41",
   "statestreetpictetcalltimeoneuropesstockmarketrally",
   "globallnghuntintensifiesasmiddleeastwarcutssupply",
   "retailcrowddumpvietnamstocksfornear10bankdepositrates",
-  "chinasteapotrefinersturntotradinggiantsasiranoilebbs",
+  "insidecentralbankscurrencyportfoliosnewevidencefrom149countriesand23currencies",
   "jensenhuangwasnttoobigtofall",
   "japanseconomyshrinksasbadweatherweighsonconsumption",
   "tradersturntokalshistockperpsonnvidiaandspacexasleveragefearsgrow",
@@ -1211,7 +1219,7 @@
   "fedscollinsiwouldthinksomeadditionalpolicytighteningiswarrantedsoon",
   "earningsweekaheadnvidiawithoutjensenanthropicsipoandtheconsumermeetsahikingfed",
   "goldmansachswecanexplainalmosttheentireusinflationovershootbytariffsandthewariniran",
-  "insidecentralbankscurrencyportfoliosnewevidencefrom149countriesand23currencies",
+  "indiafacesamorepainfulreturntohigherinterestrates",
   "cfosfacerisingcostsreluctantconsumers",
   "usalliesagreetoguardaisupplychainsfromchinaftsays",
   "globaldieselshortagepersistsasuspricesfall8frompeak",
