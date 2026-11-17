@@ -400,6 +400,14 @@
     "previous": ""
    },
    {
+    "title": "RBNZ Gov Breman Speaks",
+    "country": "NZD",
+    "date": "2026-11-16T19:00:00-05:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+   },
+   {
     "title": "Monetary Policy Meeting Minutes",
     "country": "AUD",
     "date": "2026-11-16T19:30:00-05:00",
@@ -1168,7 +1176,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-17T09:33:26.841525+09:00",
+  "cache_at": "2026-11-17T09:45:31.535395+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1208,11 +1216,11 @@
   "privateequitypoursmoneyintopowerstorageesginvesting",
   "airetreatfuelsindiastockcomebackingreatrotationtrade",
   "bonddroughtinemergingmarketsliftspricesassalesslump41",
-  "whytheaistorymaybestrongerthanskepticsthink",
   "wheatfallsonoptimismtrilateraltalkswillfreeupblacksea",
+  "whytheaistorymaybestrongerthanskepticsthink",
   "deutschebanktakesaimatuswithtraderssetforrecordyear",
-  "denmarksleopharmadelaysipoplansbeyond2026ceosays",
   "kazakhfintechtycoonatopworldchessseekstooutplayrevolut",
+  "usfedchairmanwarshgrappleswithaispotentialeconomicimpactsteersclearofitsinflationrisk",
   "indiatobenefitfromunwindingofaitradeceavananthanageswaran",
   "goldhitslowestlevelsinceseptember2025asfedratehikebetsrise",
   "chinaresumescrudestockpilingleavingroomforfuelexportsat3timesprewarmargins",
@@ -1241,26 +1249,29 @@
   "whytheaitradeisamacrotradetheriskstotheuseconomy",
   "zcashneedsadovishfedorausiranbreakthroughtoreversethebearishtrend",
   "commentarywartornpresentcloudssaudiarabiaspostoilfuture",
-  "usnaturalgassupplygrowthtooutpacedemandthiswinterngsasays",
   "oilsettleslowerasrecoveringmiddleeastexportsbolstersurplusoutlook",
+  "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
   "ukrainelaunchesbiggestdroneattackonrussiasincewarbegan",
   "oilfallsasrecoveringmiddleeastexportsbolstersurplusoutlook",
+  "usaivoicestartupelevenlabstobuyjapanesefocusedpeerkotoba",
   "oilpricesfallonexpectationsofcomingsupplysurplusbyreuters",
   "elevenpeoplewerekilledand17othersinjuredafterafiretorethroughabuildingnearphuketspopularpatongbeachtrappingresidentsinth",
   "usandrussialikelytoopposeuntalksonrestrictingaipoweredautonomousweaponsreutersreports",
   "columncrunchtimeforaluminiumasbuyerstapmetaloflastresort",
-  "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
-  "usaivoicestartupelevenlabstobuyjapanesefocusedpeerkotoba",
+  "iransproxyiniraqrakesinhundredsofmillionsthroughoilsmugglingasharqal",
   "watchthereutersdigitalnewsreport2026saysthelargestdipintrustinthenewsoverthepastyearwasinthephilippineswhatdoesthismeanb",
-  "nuclearregulatorsfrom38countrieswarnofagrowingriskofanuclearaccidentinukrainethiswinterandurgerussiatostopstrikingthepow",
+  "commentaryeuropedrawslngfromasiabutnotfastenough",
   "stocksendloweraheadofnvidiaearningsandanthropicipooildrops",
   "recordforeigninflowsfuelindianstocksnovembersurge",
+  "nuclearregulatorsfrom38countrieswarnofagrowingriskofanuclearaccidentinukrainethiswinterandurgerussiatostopstrikingthepow",
   "eusanctionstatyanakimfounderofrussianecommercegiantwildberriesoverallegedmilitarysupplyties",
-  "iransproxyiniraqrakesinhundredsofmillionsthroughoilsmuggling",
-  "goldholdssteadyasinvestorsawaitwarshremarksforratesignals",
   "globalbankssettoenter2027onstrongfootingmoodysreportsays",
   "usstockmarkettodaynovember162026",
   "europeisinterestedinazerbaijanandthedublinsummitprovedit",
+  "usnaturalgassupplygrowthtooutpacedemandthiswinterngsasays",
+  "iransproxyiniraqrakesinhundredsofmillionsthroughoilsmuggling",
+  "goldholdssteadyasinvestorsawaitwarshremarksforratesignals",
+  "denmarksleopharmadelaysipoplansbeyond2026ceosays",
   "oiledgesupashormuztankerincidentshighlightshippingrisksmoneynews",
   "oilpricesdeclineamidexpectationsofglobalsupplysurplus",
   "japanseconomyshrinksasbadweatherweighsonconsumption",
@@ -1271,7 +1282,6 @@
   "tradetechsolutionsaddsperpetualstoitspropfirmtechnologyfollowingpredictionmarketslaunch",
   "watchgoldmanwarnsoilmarketfacessizable2027surplus",
   "watchfedsbarrwarnsaiagentsmayfuelfuturebankruns",
-  "iransproxyiniraqrakesinhundredsofmillionsthroughoilsmugglingasharqal",
   "goldmanmorganstanleysplitonyenoutlookondivergingforces",
   "afterthehuangscandalaindicatorslookshakier",
   "whatdoesbigtechsaispendingtellusaboutnvidiassales",
@@ -1308,7 +1318,6 @@
   "chinafactoryoutputslowsto48inoctoberretailsalesupjust04asdemandsags",
   "japaneconomyshrinks01inq3firstfallin4quartersasinflationhitshouseholds",
   "chinasoctoberdatashowstheeconomylosingmomentumonretailsalesandindustryoutput",
-  "commentaryeuropedrawslngfromasiabutnotfastenough",
   "chinacaroutputslowstofouryearlowasdomesticdemanddrops",
   "morganstanleygoesmaxoverweightglobalstockssees15sp500upsideonaicapex",
   "oilpriceanalysissellersarelosingmomentumbut8675remainsthedangerline",
@@ -1686,7 +1695,6 @@
   "exclusivejapanwarnsarmssuppliersofdeepcutstoexpectedordersduetobudgetsqueezesourcessay",
   "singtelsinterimunderlyingprofitjumps10raisesannualearningsforecast",
   "exclusiveroyalbankofcanadaeliminatesclimateesgrolesamidreorganizationsourcessay",
-  "limitedusroleinjapaninterventionunderminesdeterrentasyentouches160",
-  "billionaireceohadthirdaffairasfirmloses500bnoversexscandal"
+  "limitedusroleinjapaninterventionunderminesdeterrentasyentouches160"
  ]
 }
