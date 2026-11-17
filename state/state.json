@@ -1176,7 +1176,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-17T16:28:15.535408+09:00",
+  "cache_at": "2026-11-17T16:40:19.228239+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1198,24 +1198,24 @@
  "news_seen2": [
   "exclusiveindiamaylimitleveragedstockbetstocurbvolatilitysourcessay",
   "oilslipsonsupplysurplusoutlookdespitegulftensionsbyreuters",
-  "worldabsorbshistoriciranwaroilsupplylossbutdepletedstocksbringrisks",
   "oilfallsasrecoveringmiddleeastexportsbolstersurplusoutlook",
   "morningbidmarketsshakennotstirredasuschinatechwarheatsup",
   "oilpricesfall05amidglobalsupplyexpectations",
+  "usnaturalgassupplygrowthtooutpacedemandthiswinterngsasays",
   "ukrainelaunchesbiggestdroneattackonrussiasincewarbegan",
   "usaivoicestartupelevenlabstobuyjapanesefocusedpeerkotoba",
   "japanproposesasiaoilsecuritytaskforceataseansummitasianews",
-  "usnaturalgassupplygrowthtooutpacedemandthiswinterngsasays",
   "chenierenameszachdavispresidentandcfo",
   "usandrussialikelytoopposeuntalksonrestrictingaipoweredautonomousweaponsreutersreports",
   "columncrunchtimeforaluminiumasbuyerstapmetaloflastresort",
-  "strongdollarandratehikebetskeepgoldnearlows",
-  "threearrestedinindonesiainprobeintomanipulationofwarranttransactionsasianews",
   "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
+  "threearrestedinindonesiainprobeintomanipulationofwarranttransactionsasianews",
+  "eusanctionstatyanakimfounderofrussianecommercegiantwildberriesoverallegedmilitarysupplyties",
   "nvidiarulesouthuangcomebackascampaignforhisreturngrows",
   "trumptokickoffasiatripwithquadtalksinmanilaaheadofchinavisitworldnews",
   "recordforeigninflowsfuelindianstocksnovembersurge",
-  "eusanctionstatyanakimfounderofrussianecommercegiantwildberriesoverallegedmilitarysupplyties",
+  "trumpbackspotentialreturnofjensenhuangasnvidiaceoworldnews",
+  "canadaandchinaextendtradedealsasximeetscarneyaheadofapecsummitworldnews",
   "chineseusbusinessleaderstoattendapecsummitinshenzhenworldnews",
   "oiledgesupashormuztankerincidentshighlightshippingrisksmoneynews",
   "indianrupeetostrengthenasoilslidesaitradeunwindpicksuppace",
@@ -1236,8 +1236,8 @@
   "irantargetsbahrainbasebutsayspathtousdealisopen",
   "goldmanforecastsgoldtotaketwoyearstorecapturealltimehighs",
   "privateequitypoursmoneyintopowerstorageesginvesting",
+  "ukstocksdrawinvestorsasaiboostsdomesticgrowthoutlook",
   "africaneconomiestoendyearwithhighratesasfedrisksloom",
-  "chinasbuybackpushstrugglestoputafloorunderstocks",
   "roughedupbondtraderslooktofedspeakminutesfornextmove",
   "whytheaistorymaybestrongerthanskepticsthink",
   "bonddroughtinemergingmarketsliftspricesassalesslump41",
@@ -1274,6 +1274,10 @@
   "intelslides7asinvestorssueoverpcslumpdisclosuresextendslossesafterhours",
   "newzealandfoodpricesfall04inoctoberasrbnzflags3risingglobalrisks",
   "goldmansachschipstocksnear3yearvaluationlowevenasdemandoutrunssupply",
+  "worldabsorbshistoriciranwaroilsupplylossbutdepletedstocksbringrisks",
+  "usoilsanctionspushbeijingtotestwashingtonslimits",
+  "chinasbuybackpushstrugglestoputafloorunderstocks",
+  "strongdollarandratehikebetskeepgoldnearlows",
   "globalbankssettoenter2027onstrongfootingmoodysreportsays",
   "wheatfallsonoptimismtrilateraltalkswillfreeupblacksea",
   "watchthereutersdigitalnewsreport2026saysthelargestdipintrustinthenewsoverthepastyearwasinthephilippineswhatdoesthismeanb",
@@ -1283,7 +1287,6 @@
   "deletedfromindiasvoterrollssomemuslimsfacedetentiondeportationasianews",
   "japandelaysitsfirst2yearfloatingratejgbwhatitsaysaboutbojbets",
   "indiatobenefitfromunwindingofaitradeceavananthanageswaran",
-  "usoilsanctionspushbeijingtotestwashingtonslimits",
   "iranianleadersfretoverpublicmoodasgasshortagesaddtowarills",
   "nuclearregulatorsfrom38countrieswarnofagrowingriskofanuclearaccidentinukrainethiswinterandurgerussiatostopstrikingthepow",
   "taiwanforeignministermakessecondustripinspaceoftwomonthsasianews",
@@ -1692,9 +1695,6 @@
   "indianstocksslipasoilinflationcapweeklyrally",
   "flightsgroundedacrossusafterairtrafficcommunicationsoutage",
   "nvidiacfocolettekressnamedinterimceoafterchallenginghuang",
-  "commentarymorningbidaisnogoodverybadweek",
-  "canolasexportgrowthofferslessonsforsouthafricanagriculture",
-  "irantargetsshipnavigationsystemsonomaniislanddamageunclear",
-  "brookfieldcppibadvancetonextroundinunipersalesprocesssourcessay"
+  "commentarymorningbidaisnogoodverybadweek"
  ]
 }
