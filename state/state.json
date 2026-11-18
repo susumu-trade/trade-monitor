@@ -1176,7 +1176,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-18T14:20:43.812132+09:00",
+  "cache_at": "2026-11-18T14:32:47.624016+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1196,31 +1196,30 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "wallstreetendsloweraheadofnvidiaresultsfocusturnstoanthropicdebut",
+  "oilpricesfallashigheruscrudestockstempersupplyrisks",
+  "energeanbpegyptassettalksstallwithoutgovernmentbackingsourcessay",
   "norwaysequinordetectsongoingcyberattackoilandgasoutputunaffected",
   "nvidiasharessetfor335billionswingafterearningsoptionsshow",
-  "exclusiveindiamaylimitleveragedstockbetstocurbvolatilitysourcessay",
+  "wallstreetendsloweraheadofnvidiaresultsfocusturnstoanthropicdebut",
   "foxconnplanstoacquiresonysemiconductorsolutionsautomotivecameramodulebusiness",
+  "exclusiveindiamaylimitleveragedstockbetstocurbvolatilitysourcessay",
   "nvidiaturmoilmarkstheendofeasymoneyfortheaitrade",
   "infernoengulfsgastankerinstraitofhormuzafterreportedstrikevideo",
   "asiastockssettosnaplosingstreakonnvidiabeatasanthropiclooms",
-  "oilslipsonsupplysurplusoutlookdespitegulftensionsbyreuters",
   "iranfacesharshwinteramidgasshortagesandeconomicstrain",
-  "oilpricesfallashigheruscrudestockstempersupplyrisks",
   "whyareoilpricesfallingbrentandwtiinnovember2026",
   "brazilregulatorpausesenelsaopaulocaseaftermajoritybackendingcontract",
   "kalshisuspendstrumpspeechwagersonusregulatoryorder",
-  "morningbidmarketsshakennotstirredasuschinatechwarheatsup",
   "amazontoinvest7billioninrenewableenergyinindia",
+  "morningbidmarketsshakennotstirredasuschinatechwarheatsup",
   "ukdesignatesblackrocksaladdinbloombergascriticalthirdparties",
   "chinasjdcomsharesfallasinvestorsshrugoffinlinethirdquarterresults",
-  "nvidiafacingsecprobeafterhuangsresignationwsjreports",
+  "nvidiachairdismissesideaofrehiringhuangandvowsfastsearch",
   "bmwbetsonluxuryalpinabrandtowoowealthyindianbuyersinchallengetomercedes",
   "rapidsmallreactorapprovalbyusutilityofferslessonsfordevelopers",
   "mdaspaceltdmdatostockpriceamplatestnews",
   "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
   "europeanschoolsandairportsreceivemorethan8000hoaxbombthreatsinamonthreutersfinds",
-  "goldslidestooveroneyearlowonfirmdollarusrateoutlook",
   "malaysiandatacentersuppliersfallnearly20assingaporedefendsitselfafterthenewuschiprule",
   "rupeestrengthensasfallingoilpriceseaseindiasimportcostconcerns",
   "equinoreuropeslargestgassupplierfightscyberattack",
@@ -1236,8 +1235,8 @@
   "dubairealestatehiringandstockssignalatentativerecovery",
   "cotonforexandcommoditiesweekto10november2026",
   "oilextendsfallonsignsofrevivedsuppliesandvanceoutlook",
-  "globalmoneyrushesbackintoindianstocksatrecordpace",
   "nvidiagetsabreatherbutjensenhuangshouldnt",
+  "globalmoneyrushesbackintoindianstocksatrecordpace",
   "usgaspumppricehitslowestsincemarchasoilsupplyrecovers",
   "us10yearyieldsetforhistoricrunabove5onfedcycle",
   "emergingstocksdropasnvidiajittersweighonasiantech",
@@ -1276,6 +1275,9 @@
   "usstocksfalldowstocksarethehardesthitwithadropof165",
   "investingliveamericasmarketnewswrapusretailsalescontinuetoshowresilience",
   "homedepotnamesinsidermcphailceobetsonsustainedsalesrecovery",
+  "goldslidestooveroneyearlowonfirmdollarusrateoutlook",
+  "oilslipsonsupplysurplusoutlookdespitegulftensionsbyreuters",
+  "nvidiafacingsecprobeafterhuangsresignationwsjreports",
   "citiseesafricasbondsalestopping2026recordnextyear",
   "africaneconomiestoendyearwithhighratesasfedrisksloom",
   "nvidiaboardsaysjensenhuangwillnotreturnasceo",
@@ -1289,7 +1291,6 @@
   "thebusinessoflivingforeversectorsupclose",
   "theloomingglobalfoodcrisisisamyth",
   "goldsteadiesnear14monthlowasratehikepressuremounts",
-  "nvidiachairdismissesideaofrehiringhuangandvowsfastsearch",
   "sweepinguschipcurbshitmarketschineseaistocks",
   "fedswilliamstheeconomyisgettingstrongerinflationnotmovingintherightdirection",
   "whywarrenbuffetandberkshirehathawaykeepgoingbacktoairlines",
@@ -1694,7 +1695,6 @@
   "goldmansachssees19returnonasiaexjapanstocksin2027",
   "bypassthestraitofhormuzwhythatsnotsoeasy",
   "nvidiasstockdropmadeatemptingcasetobuythedip",
-  "papermakersarestartingtocrumpleasrisingcostsbite",
-  "chinausdiscusstariffsinfirstmeetingoftradecouncil"
+  "papermakersarestartingtocrumpleasrisingcostsbite"
  ]
 }
