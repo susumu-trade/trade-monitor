@@ -172,7 +172,9 @@
    "USD|Unemployment Rate|2026-11-06T08:30:00-05:00",
    "USD|Prelim UoM Consumer Sentiment|2026-11-06T10:00:00-05:00",
    "USD|Prelim UoM Inflation Expectations|2026-11-06T10:00:00-05:00",
-   "USD|FOMC Member Waller Speaks|2026-11-10T04:00:00-05:00"
+   "USD|FOMC Member Waller Speaks|2026-11-10T04:00:00-05:00",
+   "USD|Philly Fed Manufacturing Index|2026-11-19T08:30:00-05:00",
+   "USD|Unemployment Claims|2026-11-19T08:30:00-05:00"
   ],
   "cache": [
    {
@@ -1176,7 +1178,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-19T22:14:29.656465+09:00",
+  "cache_at": "2026-11-19T22:22:33.898835+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1196,34 +1198,34 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "autosfinancialspowerindiamarketrallydefyingbroaderasiadecline",
   "goldrecoupsfrom14monthlowtighterfedoutlookcapsgains",
-  "oilpricesriseasmiddleeastshippingattackscountersupplysurplusoutlook",
   "oilpricessteadyasmiddleeastshippingattackscountersupplysurplusoutlook",
+  "oilpricesriseasmiddleeastshippingattackscountersupplysurplusoutlook",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "saudiarabiaovertakesuaeasindiasno2oilsupplierrussiaretainslead",
+  "randslidestonovember2025levelsasdollarstrengthensandgoldretreats",
   "ukrainiandronesslashrussiasoilrefiningnearlyinhalfin20days",
+  "saudiarabiaovertakesuaeasindiasno2oilsupplierrussiaretainslead",
   "osakagasexpandsusindiabusinessamidglobalgeopoliticalrisks",
   "oilpricessettlelowerastradersweighsurplussupplyoutlook",
   "analysisthemakingofnewsocialmediadarlingalicehuang",
-  "randslidestonovember2025levelsasdollarstrengthensandgoldretreats",
-  "autosfinancialspowerindiamarketrallydefyingbroaderasiadecline",
-  "oilpricesinlimbobetweenhigheruscrudestocksandsupplyrisks",
   "exclusivedroneattacksnearlyhalverussiasnovemberoilrefiningsourcessay",
   "fedpolicymakersfocusedoninflationrisksinoctoberwithsomeseeingneedforbiggerratehike",
-  "exclusiveorlenqatarenergyintalksonnewlngdealdaysaftercontractterminationsourcessay",
+  "withoutiranianoilchinassmallrefinersfacepainbutnotcollapse",
   "muskpledgeshigherteslaoutputatchinaplantchinesestatemediasays",
+  "exclusiveorlenqatarenergyintalksonnewlngdealdaysaftercontractterminationsourcessay",
   "ustightensiranblockadewithcurbsonoiltransfersatseaadvisoryshows",
-  "anthropicvaluedat15trillionasiporaisesrecord81billion",
   "exclusivetrumpofficialfloatedcedingguyaneseterritorytovenezuelasourcessay",
+  "anthropicvaluedat15trillionasiporaisesrecord81billion",
   "diageoliquorstocksslideinindiaafterscotchtariffshock",
   "oildown1expectationsofsupplysurplus",
   "imfschiefiswarningaicorrectionhaslittlebitmoretogo",
   "theiposwillgetharderfromhere",
-  "goldsteadiesnear14monthlowasfedsignalsmoreratehikes",
   "anthropicipohasstockbullsdreamingofayearendrally",
+  "goldsteadiesnear14monthlowasfedsignalsmoreratehikes",
   "usfuturesrallyasanthropicfuelsaienthusiasmmarketswrap",
-  "anthropicraises1073billiontotopspacexsrecorddebut",
   "nvidiaturmoilspursvaluationrethinkofjapansaishares",
+  "anthropicraises1073billiontotopspacexsrecorddebut",
   "lngexportsthroughhormuzappeartoslowaftermoreattacks",
   "chinesechipdesignstockssinkonconcernsoverfoundryaccess",
   "asianstockssettofallaheadofanthropicdebutmarketswrap",
@@ -1234,8 +1236,8 @@
   "frenchriskshavetradersbettingeurosslideisfarfromover",
   "africacapitalmarketssurgeascitiseesbigger2027",
   "patchingtheaitrade",
-  "canusdatacentersditchthegridandsupplytheirownpower",
   "anthropicapproachesfinalhurdleaftertechstockschurn",
+  "canusdatacentersditchthegridandsupplytheirownpower",
   "xiseekstocementstabletiesintrumptalksdespitechipcurbs",
   "koreainvestorsbuyrecordamountoftreasuriesinseptember",
   "vietnamtripleslngimportsaselniñosapshydropoweroutput",
@@ -1244,6 +1246,7 @@
   "kalshiturnstocomputedeskinrenewedpushforgpufutures",
   "thesampp500indexisnolongercalmbutitsstocksstillarentmovingtogether",
   "oncetheregionallaggardinsustainabledebtmexiconowleads",
+  "braceforafloodofoilassoonashormuzreopensenergynewstopheadlinescommentariesfeaturesampevents",
   "afifthstraightdropforthesampp500dragswallstreettoitslongestlosingstreaksincejune",
   "aistocksrallyasnvidiaoutlookcalmsdemandfears",
   "investingliveeuropeannewswrapusstocksrecoveramidanthropicenthusiasm",
@@ -1271,6 +1274,8 @@
   "pbocsetsusdcnyreferenceratefortodayat67128vsestimateat66684",
   "australianunemploymentjumpsto49asjobsfall43500takingrbahikesoffthetable",
   "australianunemploymentratejumpsto49inoctoberagainst47expected",
+  "oilpricesinlimbobetweenhigheruscrudestocksandsupplyrisks",
+  "argentinas24billiongasmegaprojectisahugebetonmilei",
   "anthropicraisesrecord81billioninipoat15trillionvaluation",
   "oilpricessteadyassupplysurplussoftenssentimentthoughgulfwarsupports",
   "amundinotseeingpanicsellinginfrenchdebtmortiersays",
@@ -1278,7 +1283,6 @@
   "anthropictheiposwillgetharderfromhere",
   "marketupdategoldfallsbelow3800silvernears45havepriceshitbottom",
   "climateampenergysustainablebusinessnewslatestecoheadlines",
-  "withoutiranianoilchinassmallrefinersfacepainbutnotcollapse",
   "fourfedofficialspushformorehikesaswallerfloats50bptobreak3inflationmindset",
   "pbocisexpectedtosettheusdcnyreferencerateat66684reutersestimate",
   "oilpricessteadyasmiddleeastshippingattackscountersupplysurplusoutlookbyreuters",
@@ -1555,7 +1559,6 @@
   "kalshitoaddstocktradinginnewmovebeyondpredictions",
   "nasdaq100plungesasnvidiaearningsanthropicipoonhorizon",
   "watchfedsmusalemsayseconomytolikelyrequireseveralhikesbyspring",
-  "braceforafloodofoilassoonashormuzreopensenergynewstopheadlinescommentariesfeaturesampevents",
   "stockstumbleonwallstreetasnvidialeadsanotherselloffintechnologycompanies",
   "usoctoberindustrialproduction",
   "usimportprices11vs07estexportprices11vs05est",
@@ -1694,7 +1697,6 @@
   "europeisinterestedinazerbaijanandthedublinsummitprovedit",
   "oilslipsonsupplysurplusoutlookdespitegulftensions",
   "oilpricesdeclineamidexpectationsofglobalsupplysurplus",
-  "airbusboeingsupplychainshiftboostsindiaaerospacestocks",
-  "oilpricesfallonexpectationsofcomingsupplysurplusbyreuters"
+  "airbusboeingsupplychainshiftboostsindiaaerospacestocks"
  ]
 }
