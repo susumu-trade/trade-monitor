@@ -1176,7 +1176,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-19T15:57:27.615485+09:00",
+  "cache_at": "2026-11-19T16:09:31.228218+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1196,24 +1196,25 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "exclusivedroneattacksnearlyhalverussiasnovemberoilrefiningsourcessay",
   "oilpricessteadyasmiddleeastshippingattackscountersupplysurplusoutlook",
-  "fedpolicymakersfocusedoninflationrisksinoctoberwithsomeseeingneedforbiggerratehike",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "ukrainiandronesslashrussiasoilrefiningnearlyinhalfin20days",
-  "saudiarabiaovertakesuaeasindiasno2oilsupplierrussiaretainslead",
-  "goldandsilverweatheraperfectstormasdemandholdsfirm",
   "oilpricesinlimbobetweenhigheruscrudestocksandsupplyrisks",
+  "saudiarabiaovertakesuaeasindiasno2oilsupplierrussiaretainslead",
+  "ukrainiandronesslashrussiasoilrefiningnearlyinhalfin20days",
+  "goldandsilverweatheraperfectstormasdemandholdsfirm",
+  "oilpricessettlelowerastradersweighsurplussupplyoutlook",
   "ukrainesdronecampaignslashesrussianoilrefiningby45",
   "analysisthemakingofnewsocialmediadarlingalicehuang",
-  "oilpricesfallashigheruscrudestockstempersupplyrisks",
+  "usnaturalgassupplygrowthtooutpacedemandthiswinterngsasays",
+  "fedpolicymakersfocusedoninflationrisksinoctoberwithsomeseeingneedforbiggerratehike",
   "exclusiveorlenqatarenergyintalksonnewlngdealdaysaftercontractterminationsourcessay",
   "anthropicraisesrecord81billioninipoat15trillionvaluation",
-  "exclusivedroneattacksnearlyhalverussiasnovemberoilrefiningsourcessay",
+  "wallstreetendsmixedafternvidiaearningsfedminutes",
   "ubsseessampp500at8200byend2027onearningsstrengthresilienteconomy",
   "exclusiveunicreditandgermanyreachbroadagreementoncommerzbanktakeover",
-  "wallstreetendsmixedafternvidiaearningsfedminutes",
-  "nvidiaretreatsasstrongoutlookfailstodispeluncertainty",
   "italyleaningtowardsunconditionalapprovalofintesasmpsbidsourcessay",
+  "nvidiaretreatsasstrongoutlookfailstodispeluncertainty",
   "germancabinetapprovesproposalofbrunnermeierasecbchiefeconomistsourcesays",
   "oildown1expectationsofsupplysurplus",
   "oilpricesfallashigheruscrudestockstempersupplyrisksmoneynews",
@@ -1222,7 +1223,7 @@
   "asianstockssettofallaheadofanthropicdebutmarketswrap",
   "goldsteadiesnear14monthlowasfedsignalsmoreratehikes",
   "nvidiaturmoilspursvaluationrethinkofjapansaishares",
-  "anthropictheiposwillgetharderfromhere",
+  "theiposwillgetharderfromhere",
   "stocksfallasnvidiasearningsrallysputtersmarketswrap",
   "oilsteadiesasrenewedmideastfightingtestssupplyrecovery",
   "exgoogleengineermayfacenewchargesoverbetsongemini30",
@@ -1272,6 +1273,8 @@
   "moodyscutsnvidiaoutlooktostablesayinghuangsexitcloudsstrategyandpolicy",
   "bojtippedtohiketo150indecemberitsfirstthree",
   "anthropicpricesipoat83aboverangesettingupthursdaysnasdaqdebutasant",
+  "oilpricesfallashigheruscrudestockstempersupplyrisks",
+  "anthropictheiposwillgetharderfromhere",
   "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
   "nvidiasnumbersimpressbutinvestorsfretoverceosuccession",
   "germancabinetapprovesproposalofbrunnermeierasecbchiefeconomistsourcesayseuronextmarketsreal",
@@ -1288,7 +1291,6 @@
   "oilpricessteadyassupplysurplussoftenssentimentthoughgulfwarsupports",
   "uaesadnoclampssaysonecrewmembermissingafterattackonitsvesselinhormuz",
   "chartingtheyearaheadinvestmentideasfor2027",
-  "oilpricessettlelowerastradersweighsurplussupplyoutlook",
   "oilpricestumbleastradersweighsurplussupplyoutlook",
   "tencentssalesmissestimatesinsetbackforfoundersaipush",
   "anthropicclinchesbiggestipoeverwith81billionoffering",
@@ -1376,7 +1378,6 @@
   "wallstreetshakesagainasnvidiaandotherjitteryaistocksswinglower",
   "nvidiachairdismissesideaofrehiringhuangandvowsfastsearch",
   "anthropicapproachesfinalipohurdleaftertechstockschurn",
-  "usnaturalgassupplygrowthtooutpacedemandthiswinterngsasays",
   "fedswilliamssaysnoneedfordramaticratemove",
   "goldextendslossesasstrongusdollarandelevatedyieldshurtwhatcouldchangethetrend",
   "nvidiasharessetfor335billionswingafterearningsoptionsshow",
@@ -1694,7 +1695,6 @@
   "cryptoetflisteverybitcoinetherandaltcoinetf",
   "nvidiaearningscouldtestafragilemarketfivestocksarealreadyofferingclues",
   "globalbrokerelev8introducesaiaccesstohelpclientsseemoreoftheirtradingdata",
-  "investingliveasiapacificmarketnewschipmakershitaheadofnvidia",
-  "aidailyquotascometodeepseekavisiblesignofchinasaichipcrunch"
+  "investingliveasiapacificmarketnewschipmakershitaheadofnvidia"
  ]
 }
