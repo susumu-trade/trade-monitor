@@ -1176,7 +1176,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-19T12:20:05.794436+09:00",
+  "cache_at": "2026-11-19T12:36:10.348698+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1196,8 +1196,8 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
+  "exclusiveunicreditandgermanyreachbroadagreementoncommerzbanktakeover",
   "exclusiveorlenqatarenergyintalksonnewlngdealdaysaftercontractterminationsourcessay",
-  "anthropicclinchesbiggestipoeverwith81billionoffering",
   "ukrainiandronesslashrussiasoilrefiningnearlyinhalfin20days",
   "goldandsilverweatheraperfectstormasdemandholdsfirm",
   "oilpricesinlimbobetweenhigheruscrudestocksandsupplyrisks",
@@ -1205,6 +1205,7 @@
   "oilpricesfallashigheruscrudestockstempersupplyrisks",
   "analysisthemakingofnewsocialmediadarlingalicehuang",
   "ukrainesdronecampaignslashesrussianoilrefiningby45",
+  "anthropicclinchesbiggestipoeverwith81billionoffering",
   "chinagasdoublesvolumein20yrlngdealwithventureglobal",
   "ubsseessampp500at8200byend2027onearningsstrengthresilienteconomy",
   "wallstreetendsmixedafternvidiaearningsfedminutes",
@@ -1217,7 +1218,6 @@
   "oilpricesfallashigheruscrudestockstempersupplyrisksmoneynews",
   "germancabinetapprovesproposalofbrunnermeierasecbchiefeconomistsourcesayseuronextmarketsreal",
   "howindiabecamearicepowerhouseandwhyitsbecomingaproblem",
-  "canadaslacaisseintalksforstakeinbainsbridgedatacentresreuterssourcessay",
   "uaeoilfirmsaysonecrewmembermissingafterattackonitsvesselinhormuz",
   "pakistansaudiarabiasignmoutoexplore30billiongaspipelineprojecttogwadar",
   "nasdaqcompositeafternvidiabeatfedminutesnext",
@@ -1228,16 +1228,15 @@
   "exgoogleengineermayfacenewchargesoverbetsongemini30",
   "anthropicapproachesfinalipohurdleaftertechstocksdecline",
   "kalshiturnstocomputedeskinrenewedpushforgpufutures",
+  "whymarketsthinktheusiswinningtheblockade",
   "alaskasoilrenaissancedawnsafterdecadesofdecline",
   "oncetheregionallaggardinsustainabledebtmexiconowleads",
   "inlimbowarleavesgulfwithasenseofdread",
   "xiputinassailtradebarriersaheadofsummitwithtrump",
   "indiaweighstaxtweakstobooststocktradingcurbderivatives",
-  "afifthstraightdropforthesampp500dragswallstreettoitslongestlosingstreaksincejune",
-  "oilsteadiesassupplyusinventoriesoffsetmideasttensions",
   "anthropicapproachesfinalhurdleaftertechstockschurn",
-  "lngexportsthroughhormuzappeartoslowaftermoreattacks",
   "patchingtheaitrade",
+  "lngexportsthroughhormuzappeartoslowaftermoreattacks",
   "farmgroupsaysexceomisusedfundsforvacationhomeandplane",
   "vietnamtripleslngimportsaselniñosapshydropoweroutput",
   "cryptofuturespointtoabigpopforanthropicstock",
@@ -1245,6 +1244,7 @@
   "tencentssalesmissestimatesinsetbackforfoundersaipush",
   "trumpcallsvenezuelaanacquisitionhailsusenergysupply",
   "chartingtheyearaheadinvestmentideasfor2027",
+  "afifthstraightdropforthesampp500dragswallstreettoitslongestlosingstreaksincejune",
   "aistocksrallyasnvidiaoutlookcalmsdemandfears",
   "marketupdategoldfallsbelow3800silvernears45havepriceshitbottom",
   "dowsampp500nasdaqfuturesextendlossesforfourthsessionamidaiselloff",
@@ -1274,9 +1274,10 @@
   "dowcontinuesitsfallwithadeclineof561pointsnasdaqrebounds",
   "economicandeventcalendarinasiathursdaynovember192026australianjobsreportpreview",
   "australiajobspreviewemploymentexpectedtoreboundafterseptembersdropwhattechnicallevelsareinplay",
-  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "whymarketsthinktheusiswinningtheblockade",
+  "canadaslacaisseintalksforstakeinbainsbridgedatacentresreuterssourcessay",
   "whyevenindustryfriendlyalbertissettingnewlimitsondatacenters",
+  "oilsteadiesassupplyusinventoriesoffsetmideasttensions",
+  "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "appleshavenstatusmakesitoneofpricieststocksinmarket",
   "oilpricestumbleastradersweighsurplussupplyoutlook",
   "nzdusdsellersstayincontrolaspricenearsthe054808floor",
@@ -1694,7 +1695,6 @@
   "techstocksslideasnvidiaanthropictestsawaitmarketswrap",
   "aerospacestocksshineasantiaiflowspourintoindia",
   "weekendbitcoinfelltofourmonthlownear62000ascryptoliquidationstop2billion",
-  "goldslipstoward3876aheadofwarshasfedspeakerslineupbehindtighterpolicy",
-  "chinahousepricescontinuetheirdownwardspiral"
+  "goldslipstoward3876aheadofwarshasfedspeakerslineupbehindtighterpolicy"
  ]
 }
