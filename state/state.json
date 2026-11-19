@@ -1176,7 +1176,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-19T14:08:44.523758+09:00",
+  "cache_at": "2026-11-19T14:16:48.835830+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1196,7 +1196,7 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "exclusiveunicreditandgermanyreachbroadagreementoncommerzbanktakeover",
+  "oilpricessteadyassupplysurplussoftenssentimentthoughgulfwarsupports",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "exclusiveorlenqatarenergyintalksonnewlngdealdaysaftercontractterminationsourcessay",
   "ukrainiandronesslashrussiasoilrefiningnearlyinhalfin20days",
@@ -1207,23 +1207,23 @@
   "ukrainesdronecampaignslashesrussianoilrefiningby45",
   "oilpricesfallashigheruscrudestockstempersupplyrisks",
   "anthropicraisesrecord81billioninipoat15trillionvaluation",
-  "oildown1expectationsofsupplysurplus",
+  "exclusiveunicreditandgermanyreachbroadagreementoncommerzbanktakeover",
   "ubsseessampp500at8200byend2027onearningsstrengthresilienteconomy",
   "wallstreetendsmixedafternvidiaearningsfedminutes",
   "chinagasdoublesvolumein20yrlngdealwithventureglobal",
   "qatarenergyslngexpansionmayleaveitbiggerbutnotlessexposed",
   "germancabinetapprovesproposalofbrunnermeierasecbchiefeconomistsourcesays",
   "nvidiasnumbersimpressbutinvestorsfretoverceosuccession",
+  "oildown1expectationsofsupplysurplus",
   "uaesadnoclampssaysonecrewmembermissingafterattackonitsvesselinhormuz",
   "oilpricesfallashigheruscrudestockstempersupplyrisksmoneynews",
   "germancabinetapprovesproposalofbrunnermeierasecbchiefeconomistsourcesayseuronextmarketsreal",
-  "sagoldminingcompanysetsitssightsoncolombiancopper",
   "pakistansaudiarabiasignmoutoexplore30billiongaspipelineprojecttogwadar",
   "nasdaqcompositeafternvidiabeatfedminutesnext",
   "asianstockssettofallaheadofanthropicdebutmarketswrap",
   "anthropictheiposwillgetharderfromhere",
-  "goldsteadiesnear14monthlowasfedsignalsmoreratehikes",
   "stocksfallasnvidiasearningsrallysputtersmarketswrap",
+  "goldsteadiesnear14monthlowasfedsignalsmoreratehikes",
   "oilsteadiesasrenewedmideastfightingtestssupplyrecovery",
   "exgoogleengineermayfacenewchargesoverbetsongemini30",
   "anthropicapproachesfinalipohurdleaftertechstocksdecline",
@@ -1232,15 +1232,16 @@
   "oncetheregionallaggardinsustainabledebtmexiconowleads",
   "inlimbowarleavesgulfwithasenseofdread",
   "xiputinassailtradebarriersaheadofsummitwithtrump",
+  "indiastudiesinvestorstaxproposalstoboostequitytrading",
   "oilsteadiesassupplyusinventoriesoffsetmideasttensions",
   "patchingtheaitrade",
   "anthropicapproachesfinalhurdleaftertechstockschurn",
+  "koreainvestorsbuyrecordamountoftreasuriesinseptember",
   "lngexportsthroughhormuzappeartoslowaftermoreattacks",
-  "vietnamtripleslngimportsaselniñosapshydropoweroutput",
   "farmgroupsaysexceomisusedfundsforvacationhomeandplane",
+  "vietnamtripleslngimportsaselniñosapshydropoweroutput",
   "cryptofuturespointtoabigpopforanthropicstock",
   "kalshiturnstocomputedeskinrenewedpushforgpufutures",
-  "indiastudiesinvestorstaxproposalstoboostequitytrading",
   "chartingtheyearaheadinvestmentideasfor2027",
   "afifthstraightdropforthesampp500dragswallstreettoitslongestlosingstreaksincejune",
   "aistocksrallyasnvidiaoutlookcalmsdemandfears",
@@ -1272,6 +1273,7 @@
   "moodyscutsnvidiaoutlooktostablesayinghuangsexitcloudsstrategyandpolicy",
   "bojtippedtohiketo150indecemberitsfirstthree",
   "anthropicpricesipoat83aboverangesettingupthursdaysnasdaqdebutasant",
+  "sagoldminingcompanysetsitssightsoncolombiancopper",
   "ukrainiandroneattackshavecuttheamountofoilrussiarefinesby45sincelateoctoberreutersreports",
   "oilpricessettlelowerastradersweighsurplussupplyoutlook",
   "tencentssalesmissestimatesinsetbackforfoundersaipush",
@@ -1693,8 +1695,6 @@
   "schmidsaysfedhasmoreworktodotobringdowninflation",
   "europeangasdipsasrecordusflowscounterstorageconcerns",
   "retailcrowddumpvietnamstocksfornear10bankdepositrates",
-  "boescasetoraiseratesagainmaystrengthenonukpricedata",
-  "indonesiafacesuphillbattletostemrupiahslideanalystssay",
-  "bojstakatacallsfornimblehikesafter15bidsaysneutralratemaytopestimates"
+  "boescasetoraiseratesagainmaystrengthenonukpricedata"
  ]
 }
