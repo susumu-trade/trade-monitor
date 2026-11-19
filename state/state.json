@@ -9,7 +9,7 @@
   "天然ガス": "2026-06-27T03:18:22.376498+09:00"
  },
  "cal": {
-  "last_digest": "2026-11-19",
+  "last_digest": "2026-11-20",
   "sent": [
    "USD|President Trump Speaks|2026-06-17T09:30:00-04:00",
    "USD|Federal Funds Rate|2026-06-17T14:00:00-04:00",
@@ -1178,7 +1178,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-20T06:52:56.862861+09:00",
+  "cache_at": "2026-11-20T07:05:09.226757+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1201,23 +1201,22 @@
   "temuownerpddbeatsthirdquarterprofitestimatesasmarketingspendingfalls",
   "oilpricesriseasmiddleeastshippingattackscountersupplysurplusoutlook",
   "oilsettlesflatashormuzdisruptionsoffsetglobalsurplusfears",
+  "anthropicstartstradingintheusafterblockbusteripo",
   "oilpricesinchupastankerdisruptionsoffsetsurplussupplyoutlookbyreuters",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "oilpricessteadyasmiddleeastshippingattackscountersupplysurplusoutlook",
   "randslidestonovember2025levelsasdollarstrengthensandgoldretreats",
   "goldhits14monthlowasstrongdollarratebetsweigh",
-  "codelcolowerschinacopperpremiumfor2027inbidtoboostsalessourcessay",
+  "osakagasexpandsusindiabusinessamidglobalgeopoliticalrisks",
   "autosfinancialspowerindiamarketrallydefyingbroaderasiadecline",
+  "paloaltosraisedsalesforecastpowersrallyincybersecuritystocksbyreuters",
   "saudiarabiaovertakesuaeasindiasno2oilsupplierrussiaretainslead",
-  "stockslooktoblockbusteranthropicipotobreaklosingstreak",
   "wallstreetendssharplylowerasanthropicsdebutfailstoreviveaifervor",
+  "stockslooktoblockbusteranthropicipotobreaklosingstreak",
   "gtavitosuperchargesonybutnotsomuchinjapan",
-  "usshalecompaniessendoilwindfalltoshareholdersaspricesjump",
   "tsxfuturesgainasoilgoldedgeupanthropicdebutinfocus",
   "exclusivetrumpofficialfloatedcedingguyaneseterritorytovenezuelasourcessay",
-  "withoutiranianoilchinassmallrefinersfacepainbutnotcollapse",
   "trumpxiandputinreleasepeacedeclarationfromunprecedentedsummit",
-  "osakagasexpandsusindiabusinessamidglobalgeopoliticalrisks",
   "goldsteadiesnear14monthlowasfedsignalsmoreratehikes",
   "anthropicipohasstockbullsdreamingofayearendrally",
   "theiposwillgetharderfromhere",
@@ -1245,7 +1244,13 @@
   "thesampp500indexisnolongercalmbutitsstocksstillarentmovingtogether",
   "braceforafloodofoilassoonashormuzreopensenergynewstopheadlinescommentariesfeaturesampevents",
   "usstockstumble2towardtheirlongestlosingstreaksince2024despiteanthropicsstrongipo",
+  "goldat3625fiveforcesbehindtheselloffandfourreasonsbuyershaventquit",
+  "investingliveamericasfxnewswrap19novinflationworriessinkstocks",
+  "jpmorgannowseesthreestraightfedhikesdroppingitsdecemberanddonecall",
+  "stockindicesgetbeatupwiththedowspnasdaqandrussellindicesallfallingmorethan2",
+  "morefromfedsgoolsbeeaiboomapigthroughthepythonthatrisksoverheatinguseconomy",
   "fedsgoolsbeesaysheseesnoclearpathbackto2inflation",
+  "economicandeventcalendarinasiafridaynovember202026fedspaulsonjapancpiandchinaslpr",
   "audusdmovestoanewlowpriceactionispingpongingdownandupandbackdownagain",
   "noreliefforusstocksmajorindicestradetonewlows",
   "canadaseeksinterimustariffdealbyyear",
@@ -1264,6 +1269,9 @@
   "bitcoinbuyersmakeaplayoffswingareasupportwhatdobuyershavetodotoincreaseupsidepotential",
   "canadaoctoberproducerpriceindex126vs145yyprior",
   "usinitialjoblessclaims203kvs197kestimate",
+  "usshalecompaniessendoilwindfalltoshareholdersaspricesjump",
+  "codelcolowerschinacopperpremiumfor2027inbidtoboostsalessourcessay",
+  "withoutiranianoilchinassmallrefinersfacepainbutnotcollapse",
   "usnovemberphillyfed63vs200expected",
   "morningkickstartnasdaqfuturesrallyaheadofanthropicsdebutasyieldsclimb",
   "investingliveeuropeannewswrapusstocksrecoveramidanthropicenthusiasm",
@@ -1689,14 +1697,6 @@
   "usaivoicestartupelevenlabstobuyjapanesefocusedpeerkotoba",
   "europeanstocksfallasuschipcurbsignitefreshaiselloff",
   "ukdesignatesblackrockbloombergascriticalthirdparties",
-  "eusanctionstatyanakimfounderofrussianecommercegiantwildberriesoverallegedmilitarysupplyties",
-  "techstockslosefurthergroundaheadofnvidiamarketswrap",
-  "nasdaqopenshigherinchoppytradingnvidiaearningsinfocus",
-  "japanproposesasiaoilsecuritytaskforceataseansummitasianews",
-  "usfuturesdropasmarketlookstonvidiaresultsanthropicipo",
-  "mabingwawamefikahfmbringsthepremierleaguetrophytonairobi",
-  "couldtheinternetgodark",
-  "ukseptemberilounemploymentrate46vs47expected",
-  "goldholdsfirmasusindicesgaingroundinq3easymarketsreports"
+  "eusanctionstatyanakimfounderofrussianecommercegiantwildberriesoverallegedmilitarysupplyties"
  ]
 }
