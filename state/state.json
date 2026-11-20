@@ -174,7 +174,9 @@
    "USD|Prelim UoM Inflation Expectations|2026-11-06T10:00:00-05:00",
    "USD|FOMC Member Waller Speaks|2026-11-10T04:00:00-05:00",
    "USD|Philly Fed Manufacturing Index|2026-11-19T08:30:00-05:00",
-   "USD|Unemployment Claims|2026-11-19T08:30:00-05:00"
+   "USD|Unemployment Claims|2026-11-19T08:30:00-05:00",
+   "USD|Revised UoM Consumer Sentiment|2026-11-20T10:00:00-05:00",
+   "USD|Revised UoM Inflation Expectations|2026-11-20T10:00:00-05:00"
   ],
   "cache": [
    {
@@ -1186,7 +1188,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-20T23:44:23.622104+09:00",
+  "cache_at": "2026-11-20T23:52:28.796593+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1210,23 +1212,24 @@
   "anthropicspostdebutstumbledeliversrealitycheckforaitrade",
   "oilsettlesflatashormuzdisruptionsoffsetglobalsurplusfears",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
+  "alphabetraises419billionincanadianbondoffering",
   "taketwosettoshattersalesrecordsasgtavilaunchestomassivefanfareeuronextmarketsreal",
+  "oilpricesriseasmiddleeastshippingattackscountersupplysurplusoutlook",
   "usaichipcurbshitchinatechstocksspurselfsufficiencypush",
-  "riyadhstallestskyscraperhitinhouthistrikeonsaudiwealthfundhq",
   "usnaturalgassupplygrowthtooutpacedemandthiswinterngsasays",
-  "temuownerpddbeatsthirdquarterprofitestimatesasmarketingspendingfalls",
   "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
+  "temuownerpddbeatsthirdquarterprofitestimatesasmarketingspendingfalls",
   "canadaseeslittleusmovementontariffreliefsourcessay",
   "tsxpostslongestdailylosingstreaksince2024asgoldselloffdeepens",
   "skhynixtobecometopshareholderinrivalkioxiaafterbondconversion",
+  "indiansharesriseforfourthstraightweekasairoutdeepens",
   "commentaryanthropicssupersizeddebutnvidiachinacrisisandagtaheistthefinancialweekinfivecharts",
   "recordprofitsbutrecordoutflowssellkoreatradestalksseoulmarket",
   "uscourtrulingjeopardizessentinelmidstreamslicensefordeepwateroilexportproject",
   "novartistrimsmediumtermgrowthtargetsharesfall",
-  "walmartwarnsoffuelcostpressureliftsannualtargetsaheadofholidays",
   "brazilslulaclosinginonfinanceministerpicksourcessay",
-  "anthropiclistingextendsnasdaqsdominantrunagainstarchrivalnyse",
   "oilpricesedgehigherashouthiattacksonriyadhraisesupplyconcernsmoneynews",
+  "anthropiclistingextendsnasdaqsdominantrunagainstarchrivalnyse",
   "iranreadiesoiltankerconvoyatkhargislandtochallengeusnavalblockade",
   "asianstocksfaceworstweeksince2020asaiselloffdeepens",
   "goldpricetodayspotgoldslidesto3687asfedhikebetsfirm",
@@ -1284,7 +1287,8 @@
   "someanalystsnowseebojratesat25bymid2027despiteslowerunderlyinginflation",
   "usapprovednearly900000nvidiaandamdaichipsforchinaraisesmorequestionsthananswers",
   "chinaholdsloanprimeratesforan18thmonthastheovernightratetakesover",
-  "oilpricesriseasmiddleeastshippingattackscountersupplysurplusoutlook",
+  "riyadhstallestskyscraperhitinhouthistrikeonsaudiwealthfundhq",
+  "walmartwarnsoffuelcostpressureliftsannualtargetsaheadofholidays",
   "skepticismaboutaiiscrushingstockpricesaroundtheworld",
   "usgasexportersmorecomfortablesigningeuropeandealsaftereudelaysmethaneregulation",
   "fortunetofavorthebraveembracingfearfactorincredit",
@@ -1331,7 +1335,6 @@
   "oilpricesedgehigherashouthiattacksonriyadhraisesupplyconcerns",
   "stocksfallasanthropicdebutfailstoeaseaiconcernsdollarrisesmoneynews",
   "africacapitalmarketssurgeascitiseesbigger2027",
-  "indiansharesriseforfourthstraightweekasairoutdeepens",
   "exclusivecitiunderestimatedriskyassetsby35billionafterincorrectlyrecordingtradessourcessay",
   "musksspacexsideniesliabilityinuklawmakerslawsuitovergrokimages",
   "exclusivetrumpofficialfloatedcedingguyaneseterritorytovenezuelasourcessay",
@@ -1704,7 +1707,6 @@
   "morganstanleyseesusdjpyfairvalueabove170forecastsyenat162bylate2027",
   "anthropicnearsfinalipohurdleaftertechstockschurn",
   "goldsteadiesnear14monthlowasinflationpressurepersists",
-  "sweepinguschipcurbshitmarketschineseaistocks",
-  "dollarat19monthhighaspolicymakersdatacementdecemberratehikebets"
+  "sweepinguschipcurbshitmarketschineseaistocks"
  ]
 }
