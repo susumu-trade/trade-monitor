@@ -1178,7 +1178,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-20T15:06:06.735852+09:00",
+  "cache_at": "2026-11-20T15:18:10.996405+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1198,28 +1198,27 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "oilsettlesflatashormuzdisruptionsoffsetglobalsurplusfears",
   "temuownerpddbeatsthirdquarterprofitestimatesasmarketingspendingfalls",
+  "oilsettlesflatashormuzdisruptionsoffsetglobalsurplusfears",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
-  "taketwosettoshattersalesrecordsasgtavilaunchestomassivefanfareeuronextmarketsreal",
   "canadaseeslittleusmovementontariffreliefsourcessay",
-  "randslidestonovember2025levelsasdollarstrengthensandgoldretreats",
-  "saudiarabiareplacesuaeasindiasno2oilsupplierrussialeads",
+  "taketwosettoshattersalesrecordsasgtavilaunchestomassivefanfareeuronextmarketsreal",
   "equinorsayscyberattackstillongoingbutoutputunaffected",
+  "randslidestonovember2025levelsasdollarstrengthensandgoldretreats",
+  "osakagasexpandsusindiabusinessamidglobalgeopoliticalrisks",
+  "saudiarabiaovertakesuaeasindiasno2oilsupplierrussiaretainslead",
   "goldhits14monthlowasstrongdollarratebetsweigh",
+  "exclusivetrumpofficialfloatedcedingguyaneseterritorytovenezuelasourcessay",
   "paloaltosraisedsalesforecastpowersrallyincybersecuritystocksbyreuters",
   "oilpricessteadyasmiddleeastshippingattackscountersupplysurplusoutlook",
-  "exclusivetrumpofficialfloatedcedingguyaneseterritorytovenezuelasourcessay",
   "oilupasshippingattackscountersupplysurplusoutlook",
-  "saudiarabiaovertakesuaeasindiasno2oilsupplierrussiaretainslead",
   "anthropiclistingextendsnasdaqsdominantrunagainstarchrivalnyse",
   "tsxpostslongestdailylosingstreaksince2024asgoldselloffdeepens",
   "uscourtrulingjeopardizessentinelmidstreamslicensefordeepwateroilexportproject",
   "wallstreetendssharplylowerasanthropicsdebutfailstoreviveaifervor",
+  "anthropicsblockbusterdebuttestswallstreetsfaithinaiboom",
   "oilpricesedgehigherashouthiattacksonriyadhraisesupplyconcernsmoneynews",
-  "osakagasexpandsusindiabusinessamidglobalgeopoliticalrisks",
   "oilsetforthirdweeklydropasamplesupplyoutweighswarrisk",
-  "stocksfallasanthropicdebutnotanaiallclearmarketswrap",
   "goldsetforworstweeksincemarchonhawkishfedaiselloff",
   "asianstockssettofallasaienthusiasmfadesmarketswrap",
   "anthropicipohasstockbullsdreamingofayearendrally",
@@ -1235,9 +1234,10 @@
   "whyindonesiasrupiahkeepshittingrecordlows",
   "europeanstocksreboundasanthropiciporevivestheaitrade",
   "ussourcrudeswarpremiumvanishesassupplysurges",
-  "ninetyonescheveleyseescommoditiesreboundonsupplywoes",
   "frenchriskshavetradersbettingeurosslideisfarfromover",
+  "ninetyonescheveleyseescommoditiesreboundonsupplywoes",
   "xiseekstocementstabletiesintrumptalksdespitechipcurbs",
+  "chinasoildemandrebounddependsontwocrucialfactors",
   "bpsaidtoweighdivestingitskeywestafricalngplantgta",
   "amundinotseeingpanicsellinginfrenchdebtmortiersays",
   "canusdatacentersditchthegridandsupplytheirownpower",
@@ -1268,6 +1268,8 @@
   "goldat3625fiveforcesbehindtheselloffandfourreasonsbuyershaventquit",
   "investingliveamericasfxnewswrap19novinflationworriessinkstocks",
   "jpmorgannowseesthreestraightfedhikesdroppingitsdecemberanddonecall",
+  "stocksfallasanthropicdebutnotanaiallclearmarketswrap",
+  "saudiarabiareplacesuaeasindiasno2oilsupplierrussialeads",
   "oilpricesriseasmiddleeastshippingattackscountersupplysurplusoutlook",
   "asiangasolinemarginplungestoover3yearlowsonamplesuppliesmoneynews",
   "usshalecompaniessendoilwindfalltoshareholdersaspricesjump",
@@ -1291,7 +1293,6 @@
   "brentcrudeoilprice9212thursdayaftereiabuildandhormuzminereportsbull96bear88",
   "oilpricesinchupastankerdisruptionsoffsetsurplussupplyoutlook",
   "goldsteadiesnear14monthlowasfedsignalsmoreratehikes",
-  "chinasoildemandrebounddependsontwocrucialfactors",
   "siemensenergyceoseesdatacenterboomlastingonpowerneeds",
   "japanesesharesslideamiduncertaintyaroundtheaitrade",
   "mexicanpesohits17monthlowasfedoutlookrattlesmarkets",
@@ -1696,7 +1697,6 @@
   "oilpricesdeclineasrecoveringmiddleeastexportseasesupplyfears",
   "newzealandproducerpricesriseagaininq3thoughataslowerpace",
   "secreportedlyprobesnvidiadisclosuresasbessentdemandsanswerswithin10days",
-  "nvidiahandsthreedirectorsexportcontroloversightdaysafterhuangexit",
-  "nvidiapriceuptopsforecastsby7billionaskresssteersfirstreportsincehuangexit"
+  "nvidiahandsthreedirectorsexportcontroloversightdaysafterhuangexit"
  ]
 }
