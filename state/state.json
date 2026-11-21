@@ -1188,7 +1188,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-21T21:54:32.364075+09:00",
+  "cache_at": "2026-11-21T22:06:37.790022+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1208,10 +1208,15 @@
   "NASDAQ100:sell": "2026-06-25T22:31:49.189931+09:00"
  },
  "news_seen2": [
-  "mpssaysintesasbidfinanciallyfairbutdoesnotfullyreflectprospectivevalue",
   "wallstreetendssharplylowerasanthropicsdebutfailstoreviveaifervor",
   "anthropicsipobankclosedpositionmeanttostabilizestockremovingsourceofsupport",
+  "usnaturalgassupplygrowthtooutpacedemandthiswinterngsasays",
+  "aitechroutpromptsusinvestorstorushintovaluestocksbyreuters",
+  "harthapowerstationfirekills4",
   "anthropicretailtradersfacelossesassharesdive13thedayafterdebut",
+  "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
+  "mpssaysintesasbidfinanciallyfairbutdoesnotfullyreflectprospectivevalue",
+  "worldabsorbshistoriciranwaroilsupplylossbutdepletedstocksbringrisks",
   "alphabetraises419billionincanadianbondoffering",
   "europeansharespostworstweekinoverayearasaitradeunravels",
   "anthropicstombrownplanstodonatetotrumpsinvestmentaccountsforkidssourcesays",
@@ -1223,13 +1228,8 @@
   "teslaproposes31blntexaspolysiliconplantforsolarmanufacturing",
   "wallstreetbankssetforbanneryearasanthropicspacexiposgenerate1billioninfees",
   "apollogoldmanlead44billionspacexgpudebtfinancing",
-  "usnaturalgassupplygrowthtooutpacedemandthiswinterngsasays",
-  "aitechroutpromptsusinvestorstorushintovaluestocksbyreuters",
-  "usnaturalgasoutputdemandtohitrecordhighsin2026eiasays",
-  "worldabsorbshistoriciranwaroilsupplylossbutdepletedstocksbringrisks",
-  "harthapowerstationfirekills4",
-  "crowdstrikeintalkstoacquirezscalersourcessaybyreuters",
   "whataredefensivestockswhywalmartandotherstaplesrosefridayasthemarketfell",
+  "crowdstrikeintalkstoacquirezscalersourcessaybyreuters",
   "datacentersinspainmustcomplywithgreenregulations",
   "stockmarkettodaynov20nvidias25trillionroutdeepensassecaccountingprobeaddstowallstreetsaiselloff",
   "oilgainsoniranwarworriesandshortcoveringaheadofthanksgivingholidayworldnews",
@@ -1238,7 +1238,7 @@
   "ustreasurypressessingaporeandmalaysiaoniransanctionscomplianceworldnews",
   "indiasgdpgrowthexpectedtoreach76injulyseptember2026reuterspollshows",
   "lehonghiepvietnamseesnewopportunitiesinthesouthcaucasusinterview",
-  "marketsandanthropicplummetonaifear",
+  "aiselloffdragsnasdaqtoworstweeksince2020",
   "sampp500issetforlongestlosingrunsince2020marketswrap",
   "wallstreetnearsbreakingpointasfeargripsglobalmarkets",
   "bitcoinfallstomorethantwoyearlowasglobalmarketssink",
@@ -1252,8 +1252,8 @@
   "howchinasexportmachineshockedtheworld",
   "iranianoilmovedbetweentankersasuswidensblockade",
   "ukandeutightenrelationshipasglobalordershifts",
-  "aiselloffspurshavendemandforyenfrancasdollarslips",
   "skepticismaboutaiiscrushingstockpricesaroundtheworld",
+  "marketsandanthropicplummetonaifear",
   "tsxtumblesasinvestorsquestionaiinterestratesandmore",
   "treasurieseyelongestrallyinfivemonthsonhavendemand",
   "copperroutworsensasaiselloffwreakshavocinmetalsmarkets",
@@ -1293,6 +1293,7 @@
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "zcashsbearishtrendremainsintactasthepathtorecoverydependsontwomajormacrocatalysts",
   "isnvidiastockabuyorsellmyopinionandbuythediptradeplan",
+  "aiselloffspurshavendemandforyenfrancasdollarslips",
   "bankshikeoilpriceforecastsonprolongedgulfdisruptions",
   "fxweekly",
   "tatasonslargestshareholdermeetstodiscusslistingamidrift",
@@ -1706,7 +1707,6 @@
   "sagoldminingcompanysetsitssightsoncolombiancopper",
   "goldandsilverweatheraperfectstormasdemandholdsfirm",
   "kalshiturnstocomputedeskinrenewedpushforgpufutures",
-  "investingliveasiapacificmarketnewsoilholdsnear92asgulfattacksmount",
-  "gtaviliftssonysharesasplaystationtakesthree"
+  "investingliveasiapacificmarketnewsoilholdsnear92asgulfattacksmount"
  ]
 }
