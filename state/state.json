@@ -780,7 +780,7 @@
     "previous": "0.6%"
    }
   ],
-  "cache_at": "2026-11-22T20:37:25.223843+09:00",
+  "cache_at": "2026-11-22T20:49:28.715354+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -802,16 +802,13 @@
  "news_seen2": [
   "nasdaqhasitsworstweeksince2020dowsampp500incorrection",
   "omanoilmarketingreceivesawardtosupplyfueltogovernmentvehiclesfortwoyears",
+  "teslainctslaostockpriceamplatestnews",
   "overview87exitliquidity",
+  "reutersglobalstocksslideasanthropicsipofailstorestoreaiconfidence",
+  "cop31talksfaceuncertainfutureamiddivisions",
   "euleaderschairproposesnewcutstoeu20282034budgetdraftsuggestsdigitaltax",
-  "bangladeshgarmentfactoriesshutaheadofwagetalksasownerswarnofunpaidclosures",
-  "spacexispayingupto836on44billionofdebtfornvidiachips",
-  "yemenshouthisreachstrategicislandatmouthofvitalshippinglane",
   "qatardelegationholdstalksintehranpeaceeffortscontinue",
-  "howgrandtheftautovislaunchsurpassedexpectations",
-  "europeanbuyersholdtalkstoshipcanadianlngviapanamacanaltodiversifysupply",
   "goldpricetodaynovember22globalratesafterfridaysfall",
-  "usfinancialwatchdogprobingnvidiaaccountingreuters",
   "aiselloffdragsnasdaqtoworstweeksince2020",
   "2malaysiandatacenterstocksfellnearly20onchiprule",
   "usconsumersareholdingupagainstinflationgoingintoholidayseason",
@@ -832,8 +829,8 @@
   "swissinflationhasbeenacceleratingsnbvicepresidenttellslematindimanche",
   "watchpointedbloombergsweeklynewsquizforrisktakers",
   "consumerstaplesfirmsbetsqueezedshopperswillstilltradeup",
-  "russiahitsukrainianenergyfacilitiesstrainingpowersupply",
   "trumpxiandputinjustsentamessagetosmallerpowerslikesingapore",
+  "russiahitsukrainianenergyfacilitiesstrainingpowersupply",
   "thenewappletv4kisagreatstreamingboxatabadpricereview",
   "argumentosafavordelosactivosrealeshistóricamentebaratosfrentealasaccionesvaneckmexico",
   "a10dropforthestockmarketisunnervingbutitsnotthatunusual",
@@ -865,8 +862,13 @@
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "zcashsbearishtrendremainsintactasthepathtorecoverydependsontwomajormacrocatalysts",
   "isnvidiastockabuyorsellmyopinionandbuythediptradeplan",
-  "teslainctslaostockpriceamplatestnews",
-  "reutersglobalstocksslideasanthropicsipofailstorestoreaiconfidence",
+  "spacexispayingupto836on44billionofdebtfornvidiachips",
+  "yemenshouthisreachstrategicislandatmouthofvitalshippinglane",
+  "howgrandtheftautovislaunchsurpassedexpectations",
+  "bangladeshgarmentfactoriesshutaheadofwagetalksasownerswarnofunpaidclosures",
+  "europeanbuyersholdtalkstoshipcanadianlngviapanamacanaltodiversifysupply",
+  "usfinancialwatchdogprobingnvidiaaccountingreuters",
+  "saudipipelineshutdowncouldwipeout4ofworldoilsupply",
   "uscardealershipsarelowonevmodels",
   "newuschiprulesthreatenpainforsoutheastasia",
   "paschideemsintesasofferfairyetvaluenotfullyreflected",
@@ -875,7 +877,6 @@
   "goldmansachspanicindexhits910asstockandbitcoinmarketsplummet",
   "coinbasetargetsinhouseuspredictionmarketsinfirsthalfof2027bloombergreports",
   "nationsagreetoextendtalksonaikillerrobotsbutnofirmcommitmenttoreinthemin",
-  "saudipipelineshutdowncouldwipeout4ofworldoilsupply",
   "marketsandanthropicplummetonaifear",
   "bigoilisbracingforlowerpricesandrightlyso",
   "howthecostoflivingispushingthisnltoydrivetothebrink",
@@ -1298,7 +1299,6 @@
   "goldsdilemmastructuraldemandtestedbydollarstrengthandrisingfundingcosts",
   "worldsharesaremixedandusfuturesclimbaheadofanthropicsblockbusteripo",
   "indiarelaxesagelimitsonshipsasfreightmarketstighten",
-  "randslidestonovember2025levelsasdollarstrengthensandgoldretreats",
-  "osakagasexpandsusindiabusinessamidglobalgeopoliticalrisks"
+  "randslidestonovember2025levelsasdollarstrengthensandgoldretreats"
  ]
 }
