@@ -1188,7 +1188,7 @@
     "previous": ""
    }
   ],
-  "cache_at": "2026-11-22T11:14:57.421223+09:00",
+  "cache_at": "2026-11-22T11:27:01.485500+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -1210,13 +1210,14 @@
  "news_seen2": [
   "mpssaysintesasbidfinanciallyfairbutdoesnotfullyreflectprospectivevalue",
   "overview87exitliquidity",
+  "teslainctslaostockpriceamplatestnews",
   "bitcoinfallsbelow60000levelbyreuters",
-  "euleaderschairproposesnewcutstoeu20282034budgetdraftsuggestsdigitaltax",
   "harthapowerstationfireinbasrakillsatleastfourreutersreportslocalsourcetellsshafaqnewseightdied",
   "bitcoinplungestotwoyearlowamidtechstockselloff",
-  "whataredefensivestockswhywalmartandotherstaplesrosefridayasthemarketfell",
   "nasdaqslumpsmorethan5asfeargrippingaitradespreadsacrossmarkets",
+  "whataredefensivestockswhywalmartandotherstaplesrosefridayasthemarketfell",
   "vietnampasseslawtospeedlandexpropriationforpriorityprojectsreutersreports",
+  "euleaderschairproposesnewcutstoeu20282034budgetdraftsuggestsdigitaltax",
   "nvidiasaccountingisafocusofussecinvestigationsourcessaybyreuters",
   "tankerstruckbyunknownprojectileinstraitofhormuz",
   "anthropicstombrownplanstodonatetotrumpsinvestmentaccountsforkidssourcesays",
@@ -1239,16 +1240,15 @@
   "watchpointedbloombergsweeklynewsquizforrisktakers",
   "bitcoinfallstomorethantwoyearlowasglobalmarketssink",
   "consumerstaplesfirmsbetsqueezedshopperswillstilltradeup",
-  "snarledclimatetalksseekbreakthroughonfossilfuelsfinance",
   "australiasaysnegotiationscontinueongasreservationproposal",
   "goldmansachsmarketpanicindexhit9outof10whatdoesitmean",
   "thenewappletv4kisagreatstreamingboxatabadpricereview",
   "chinaplanstostrengthenaitokenstandardsincomputingpush",
   "australianenergyofficialswarnedofdatacenterriskagesays",
+  "priceshockisboonforoilstockscurseforrenewables",
   "dontmistakethetsxforarefugefromaiturmoil",
   "braceforafloodofoilassoonashormuzreopens",
   "weeklymarketwrapnovember202026",
-  "usoilsanctionspushbeijingtotestwashingtonslimits",
   "goldmansachspanicindexhits910asstockandbitcoinmarketsplummet",
   "a10dropforthestockmarketisunnervingbutitsnotthatunusual",
   "bloombergh1bdelaysandtrumpsrulechangespushtechworkerstoleavetheus",
@@ -1279,13 +1279,15 @@
   "howhaveinterestrateexpectationschangedafterthisweeksevents",
   "zcashsbearishtrendremainsintactasthepathtorecoverydependsontwomajormacrocatalysts",
   "isnvidiastockabuyorsellmyopinionandbuythediptradeplan",
+  "snarledclimatetalksseekbreakthroughonfossilfuelsfinance",
+  "howaiisreshapingchinasindustrialpolicy",
+  "decosawaitseuropescallasanemesistothebondvigilantes",
+  "usoilsanctionspushbeijingtotestwashingtonslimits",
   "pepsicopitchesforsugarlinkedtax",
   "russiasayscargoshipattackedbydronesingulfoffinland",
   "trumpxiandputinjustsentamessagetosmallerpowerslikesingapore",
   "europespowermarketisflashingawarningtoitseconomy",
   "uscardealershipsarelowonevmodels",
-  "howaiisreshapingchinasindustrialpolicy",
-  "decosawaitseuropescallasanemesistothebondvigilantes",
   "goldpricetodaypriceofgoldperounce24hourspotchart",
   "argumentosafavordelosactivosrealeshistóricamentebaratosfrentealasaccionesvaneckmexico",
   "switzerlandprolongsneutralitysoulsearchingwithweaponsvote",
@@ -1296,7 +1298,6 @@
   "chinasoffshoretaxclampdownpushesbudgetintoraresurplus",
   "vietnamamendslawtospeedlandclearancedeveloperprojects",
   "mufgfxweeklythedollarssafehavenrallyfacesanaireckoning",
-  "priceshockisboonforoilstockscurseforrenewables",
   "capricorgetssecondfdarejectionformusculardystrophydrug",
   "bloomberganalystwarnsofahistoricturningpointbetweencommoditiesandtreasurybonds",
   "taiwantobanshortsalesbelowpreviousclosingpricesbloombergreports",
@@ -1706,7 +1707,6 @@
   "southafricaseenholdingratesfornowasoileasesbutcouldhikein2027",
   "saudiarabiaovertakesuaeasindiasno2oilsupplierrussiaretainslead",
   "chinesechipdesignstockssinkonconcernsoverfoundryaccess",
-  "kazakhstansoiloutputplummetsafterdroneattacksforcedexportingterminalclosuresourcessay",
-  "riyadhskyscraperhousingsaudiwealthfunddamagedinhouthistrikesourcessay"
+  "kazakhstansoiloutputplummetsafterdroneattacksforcedexportingterminalclosuresourcessay"
  ]
 }
