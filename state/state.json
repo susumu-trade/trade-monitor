@@ -334,14 +334,6 @@
     "previous": "53.3"
    },
    {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-11-24T02:02:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-4.3%"
-   },
-   {
     "title": "German ifo Business Climate",
     "country": "EUR",
     "date": "2026-11-24T04:00:00-05:00",
@@ -492,6 +484,14 @@
     "impact": "Low",
     "forecast": "0.2%",
     "previous": "0.2%"
+   },
+   {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-11-25T02:02:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-4.3%"
    },
    {
     "title": "UBS Economic Expectations",
@@ -782,7 +782,7 @@
     "previous": "0.6%"
    }
   ],
-  "cache_at": "2026-11-24T00:39:06.650801+09:00",
+  "cache_at": "2026-11-24T00:51:12.341289+09:00",
   "sent_actual": []
  },
  "signal_cd": {
@@ -808,20 +808,20 @@
   "morningbidaicaramba",
   "oilpricessteadyamidgulftensionsandriskpremiumreuters",
   "petrobras20272031investmentplantoexceed120billionsourcessay",
-  "russianuralsoildiscountswidenatindianportssourcessay",
   "dollarretreatsfrom19monthhightradersscalebackfedratehikebets",
   "usfuturesbounceasasiascramblestoshoreupstocksafteraidrivenrout",
   "libyasshararaoilpipelinereopens",
-  "safehavenassetsinacrashgoldbondsfrancnov2026",
   "southkoreasfinanceministerseessolidgrowthnextyearflagschipvolatilityrisks",
   "iranwarupendsieasoilmarketoutlookasglobalsupplyanddemandtocontractin2026",
   "ahistoricallyoldussenateshavesayearoffitsmedianage",
   "dollaredgesoff19monthhighaftermarketroutyensoftens",
   "taiwanstockssufferworstweeksince1990asairoutdrainsemergingasia",
   "commentarythewindhasfinallyshownupingermanyandfossilfuelsfeelit",
+  "conocophillipsexitsnorwaywith44billionassetsaletovaarenergi",
   "indiancentralbankplanstotapbrokerappstoboostretailtradingingovernmentbondssourcessay",
   "fieldsofgraveshiddendeathsrevealscaleofeboladisaster",
   "commentaryaibusthurtschinesestocksfarmorethangdp",
+  "safehavenassetsinacrashgoldbondsfrancnov2026",
   "180mforasliceofangloamericansdebeersstake",
   "goldrisesfrom14monthlowasmarketsawaitkeyusinflationdata",
   "foreigninflowssupportindianrupeeandbondmarket",
@@ -879,6 +879,8 @@
   "ocbcairoutbecomesagrowthshockasemcurrenciestakethedollarsstrength",
   "jpmorganskellytechcorrectionoverduestockstobouncefedtohikeoncethenpause",
   "commentaryaibubbleburstcouldputfedratecutsonthetable",
+  "usfuturesrallyasaiselloffpausesasianauthoritiessupportstocks",
+  "russianuralsoildiscountswidenatindianportssourcessay",
   "indiasgdpgrowthexpectedtoreach76injulyseptember2026reuterspollshows",
   "wallstreetseesbuyingopportunitiesforthebrave",
   "treasuryfuturesfallasrisingstockfuturesdamphavendemand",
@@ -944,7 +946,6 @@
   "goldmanseeseuropeangashalvingto45in2027butacoldwintercouldpushitto150",
   "investorsbravestockmarketfragilityasaitradefalters",
   "oilfallsonincreasedmiddleeasternsupplies",
-  "conocophillipsexitsnorwaywith44billionassetsaletovaarenergi",
   "chinesebrokersseeabottomandabroader2027rallyafterbeijingssupportpush",
   "pbocisexpectedtosettheusdcnyreferencerateat66775reutersestimate",
   "theaiwinnersmaynotexistyetjpmorganwarnsasmega",
@@ -1300,7 +1301,6 @@
   "isthemusicabouttostopforaustraliaseconomy",
   "bessentadvocateslowerfedratehikecitesenergyshock",
   "tatasonslargestshareholdermeetstodiscusslistingamidrift",
-  "tetherinsidersseektoturngoldintoa4yieldmachine",
-  "thesnowballingselloffinglobalmarkets"
+  "tetherinsidersseektoturngoldintoa4yieldmachine"
  ]
 }
